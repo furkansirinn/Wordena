@@ -1,0 +1,1605 @@
+[
+  {
+    "id": "food_drink_1",
+    "word": "food",
+    "correct": "yiyecek",
+    "wrong": "içecek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_2",
+    "word": "drink",
+    "correct": "içecek",
+    "wrong": "yiyecek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_3",
+    "word": "meal",
+    "correct": "öğün",
+    "wrong": "atıştırmalık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_4",
+    "word": "breakfast",
+    "correct": "kahvaltı",
+    "wrong": "öğle yemeği",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_5",
+    "word": "lunch",
+    "correct": "öğle yemeği",
+    "wrong": "akşam yemeği",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_6",
+    "word": "dinner",
+    "correct": "akşam yemeği",
+    "wrong": "kahvaltı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_7",
+    "word": "snack",
+    "correct": "atıştırmalık",
+    "wrong": "ana yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_8",
+    "word": "appetizer",
+    "correct": "mezze",
+    "wrong": "tatlı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_9",
+    "word": "main course",
+    "correct": "ana yemek",
+    "wrong": "mezze",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_10",
+    "word": "dessert",
+    "correct": "tatlı",
+    "wrong": "ana yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_11",
+    "word": "salad",
+    "correct": "salata",
+    "wrong": "çorba",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_12",
+    "word": "soup",
+    "correct": "çorba",
+    "wrong": "salata",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_13",
+    "word": "bread",
+    "correct": "ekmek",
+    "wrong": "unlu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_14",
+    "word": "rice",
+    "correct": "pirinç",
+    "wrong": "makarna",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_15",
+    "word": "pasta",
+    "correct": "makarna",
+    "wrong": "pirinç",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_16",
+    "word": "noodles",
+    "correct": "erişte",
+    "wrong": "makarna",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_17",
+    "word": "potato",
+    "correct": "patates",
+    "wrong": "fasulye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_18",
+    "word": "beans",
+    "correct": "fasulye",
+    "wrong": "mercimek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_19",
+    "word": "lentils",
+    "correct": "mercimek",
+    "wrong": "fasulye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_20",
+    "word": "chickpeas",
+    "correct": "nohut",
+    "wrong": "mercimek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_21",
+    "word": "corn",
+    "correct": "mısır",
+    "wrong": "pirinç",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_22",
+    "word": "carrot",
+    "correct": "havuç",
+    "wrong": "soğan",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_23",
+    "word": "onion",
+    "correct": "soğan",
+    "wrong": "havuç",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_24",
+    "word": "garlic",
+    "correct": "sarımsak",
+    "wrong": "soğan",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_25",
+    "word": "tomato",
+    "correct": "domates",
+    "wrong": "biber",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_26",
+    "word": "cucumber",
+    "correct": "salatalık",
+    "wrong": "domates",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_27",
+    "word": "pepper",
+    "correct": "biber",
+    "wrong": "salatalık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_28",
+    "word": "lettuce",
+    "correct": "marul",
+    "wrong": "kıvırcık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_29",
+    "word": "spinach",
+    "correct": "ıspanak",
+    "wrong": "marul",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_30",
+    "word": "broccoli",
+    "correct": "brokoli",
+    "wrong": "lahana",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_31",
+    "word": "cabbage",
+    "correct": "lahana",
+    "wrong": "brokoli",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_32",
+    "word": "cauliflower",
+    "correct": "karnabahar",
+    "wrong": "lahana",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_33",
+    "word": "peas",
+    "correct": "bezelye",
+    "wrong": "fasulye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_34",
+    "word": "green beans",
+    "correct": "yeşil fasulye",
+    "wrong": "kuru fasulye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_35",
+    "word": "zucchini",
+    "correct": "kabak",
+    "wrong": "patlıcan",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_36",
+    "word": "eggplant",
+    "correct": "patlıcan",
+    "wrong": "kabak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_37",
+    "word": "mushroom",
+    "correct": "mantar",
+    "wrong": "domates",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_38",
+    "word": "apple",
+    "correct": "elma",
+    "wrong": "armut",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_39",
+    "word": "banana",
+    "correct": "muz",
+    "wrong": "elma",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_40",
+    "word": "orange",
+    "correct": "portakal",
+    "wrong": "limon",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_41",
+    "word": "lemon",
+    "correct": "limon",
+    "wrong": "portakal",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_42",
+    "word": "lime",
+    "correct": "misket limonu",
+    "wrong": "limon",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_43",
+    "word": "strawberry",
+    "correct": "çilek",
+    "wrong": "böğürtlen",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_44",
+    "word": "blueberry",
+    "correct": "mirtil",
+    "wrong": "çilek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_45",
+    "word": "raspberry",
+    "correct": "ahududu",
+    "wrong": "mirtil",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_46",
+    "word": "blackberry",
+    "correct": "böğürtlen",
+    "wrong": "ahududu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_47",
+    "word": "grape",
+    "correct": "üzüm",
+    "wrong": "elma",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_48",
+    "word": "melon",
+    "correct": "kavun",
+    "wrong": "karpuz",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_49",
+    "word": "watermelon",
+    "correct": "karpuz",
+    "wrong": "kavun",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_50",
+    "word": "pineapple",
+    "correct": "ananas",
+    "wrong": "mango",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_51",
+    "word": "mango",
+    "correct": "mango",
+    "wrong": "ananas",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_52",
+    "word": "papaya",
+    "correct": "papaya",
+    "wrong": "mango",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_53",
+    "word": "coconut",
+    "correct": "hindistan cevizi",
+    "wrong": "fındık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_54",
+    "word": "kiwi",
+    "correct": "kiwi",
+    "wrong": "elma",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_55",
+    "word": "peach",
+    "correct": "şeftali",
+    "wrong": "armut",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_56",
+    "word": "apricot",
+    "correct": "kayısı",
+    "wrong": "şeftali",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_57",
+    "word": "plum",
+    "correct": "erik",
+    "wrong": "kayısı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_58",
+    "word": "cherry",
+    "correct": "kiraz",
+    "wrong": "erik",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_59",
+    "word": "pear",
+    "correct": "armut",
+    "wrong": "elma",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_60",
+    "word": "avocado",
+    "correct": "avokado",
+    "wrong": "armut",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_61",
+    "word": "nut",
+    "correct": "fındık",
+    "wrong": "tohum",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_62",
+    "word": "almond",
+    "correct": "badem",
+    "wrong": "fındık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_63",
+    "word": "walnut",
+    "correct": "ceviz",
+    "wrong": "badem",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_64",
+    "word": "cashew",
+    "correct": "antep fıstığı",
+    "wrong": "ceviz",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_65",
+    "word": "peanut",
+    "correct": "yer fıstığı",
+    "wrong": "antep fıstığı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_66",
+    "word": "pistachio",
+    "correct": "pistacio",
+    "wrong": "yer fıstığı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_67",
+    "word": "meat",
+    "correct": "et",
+    "wrong": "balık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_68",
+    "word": "beef",
+    "correct": "sığır eti",
+    "wrong": "dana",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_69",
+    "word": "pork",
+    "correct": "domuz eti",
+    "wrong": "dana",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_70",
+    "word": "lamb",
+    "correct": "kuzu eti",
+    "wrong": "sığır eti",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_71",
+    "word": "chicken",
+    "correct": "tavuk",
+    "wrong": "ördeği",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_72",
+    "word": "duck",
+    "correct": "ördeği",
+    "wrong": "tavuk",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_73",
+    "word": "turkey",
+    "correct": "hindi",
+    "wrong": "tavuk",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_74",
+    "word": "fish",
+    "correct": "balık",
+    "wrong": "et",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_75",
+    "word": "salmon",
+    "correct": "somon",
+    "wrong": "levrek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_76",
+    "word": "tuna",
+    "correct": "ton balığı",
+    "wrong": "somon",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_77",
+    "word": "trout",
+    "correct": "alabalık",
+    "wrong": "ton balığı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_78",
+    "word": "cod",
+    "correct": "morina",
+    "wrong": "alabalık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_79",
+    "word": "shrimp",
+    "correct": "karides",
+    "wrong": "caydı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_80",
+    "word": "prawn",
+    "correct": "büyük karides",
+    "wrong": "karides",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_81",
+    "word": "crab",
+    "correct": "yengeç",
+    "wrong": "ıstakoz",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_82",
+    "word": "lobster",
+    "correct": "ıstakoz",
+    "wrong": "yengeç",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_83",
+    "word": "oyster",
+    "correct": "istiridye",
+    "wrong": "midye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_84",
+    "word": "mussel",
+    "correct": "midye",
+    "wrong": "istiridye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_85",
+    "word": "clam",
+    "correct": "midye",
+    "wrong": "istiridye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_86",
+    "word": "squid",
+    "correct": "mürekkep balığı",
+    "wrong": "ahtapot",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_87",
+    "word": "octopus",
+    "correct": "ahtapot",
+    "wrong": "mürekkep balığı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_88",
+    "word": "milk",
+    "correct": "süt",
+    "wrong": "su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_89",
+    "word": "cheese",
+    "correct": "peynir",
+    "wrong": "tereyağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_90",
+    "word": "yogurt",
+    "correct": "yoğurt",
+    "wrong": "tereyağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_91",
+    "word": "butter",
+    "correct": "tereyağ",
+    "wrong": "yağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_92",
+    "word": "cream",
+    "correct": "krem",
+    "wrong": "tereyağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_93",
+    "word": "ice cream",
+    "correct": "dondurma",
+    "wrong": "çokolata",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_94",
+    "word": "eggs",
+    "correct": "yumurta",
+    "wrong": "tavuk",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_95",
+    "word": "fried eggs",
+    "correct": "kızartılmış yumurta",
+    "wrong": "haşlanmış yumurta",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_96",
+    "word": "boiled eggs",
+    "correct": "haşlanmış yumurta",
+    "wrong": "kızartılmış yumurta",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_97",
+    "word": "scrambled eggs",
+    "correct": "karıştırılmış yumurta",
+    "wrong": "kızartılmış yumurta",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_98",
+    "word": "omelette",
+    "correct": "omlet",
+    "wrong": "waffle",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_99",
+    "word": "pancake",
+    "correct": "krep",
+    "wrong": "waffle",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_100",
+    "word": "waffle",
+    "correct": "waffle",
+    "wrong": "krep",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_101",
+    "word": "cereal",
+    "correct": "tahıl",
+    "wrong": "muesli",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_102",
+    "word": "granola",
+    "correct": "granola",
+    "wrong": "tahıl",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_103",
+    "word": "honey",
+    "correct": "bal",
+    "wrong": "şeker",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_104",
+    "word": "jam",
+    "correct": "reçel",
+    "wrong": "bal",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_105",
+    "word": "marmalade",
+    "correct": "marmelat",
+    "wrong": "reçel",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_106",
+    "word": "jelly",
+    "correct": "jöle",
+    "wrong": "reçel",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_107",
+    "word": "peanut butter",
+    "correct": "yer fıstığı ezmesi",
+    "wrong": "tereyağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_108",
+    "word": "chocolate",
+    "correct": "çokolata",
+    "wrong": "tatlı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_109",
+    "word": "candy",
+    "correct": "şeker",
+    "wrong": "çokolata",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_110",
+    "word": "cookie",
+    "correct": "kurabiye",
+    "wrong": "kek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_111",
+    "word": "cake",
+    "correct": "kek",
+    "wrong": "kurabiye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_112",
+    "word": "pie",
+    "correct": "pasta",
+    "wrong": "kek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_113",
+    "word": "tart",
+    "correct": "tart",
+    "wrong": "pasta",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_114",
+    "word": "donut",
+    "correct": "donut",
+    "wrong": "kurabiye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_115",
+    "word": "croissant",
+    "correct": "kruvasan",
+    "wrong": "ekmek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_116",
+    "word": "bagel",
+    "correct": "bagel",
+    "wrong": "tost",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_117",
+    "word": "toast",
+    "correct": "tost",
+    "wrong": "ekmek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_118",
+    "word": "sandwich",
+    "correct": "sandviç",
+    "wrong": "ekmek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_119",
+    "word": "burger",
+    "correct": "hamburger",
+    "wrong": "sandviç",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_120",
+    "word": "hot dog",
+    "correct": "sosisli",
+    "wrong": "hamburger",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_121",
+    "word": "pizza",
+    "correct": "pizza",
+    "wrong": "pasta",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_122",
+    "word": "pasta dish",
+    "correct": "makarna yemeği",
+    "wrong": "pirinç yemeği",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_123",
+    "word": "curry",
+    "correct": "köri",
+    "wrong": "çorba",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_124",
+    "word": "stew",
+    "correct": "haslama",
+    "wrong": "çorba",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_125",
+    "word": "roast",
+    "correct": "kızartma",
+    "wrong": "haslama",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_126",
+    "word": "grilled",
+    "correct": "ızgarada pişmiş",
+    "wrong": "haslama",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_127",
+    "word": "fried",
+    "correct": "kızartılmış",
+    "wrong": "haslama",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_128",
+    "word": "baked",
+    "correct": "fırında pişmiş",
+    "wrong": "haslama",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_129",
+    "word": "boiled",
+    "correct": "haşlanmış",
+    "wrong": "kızartılmış",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_130",
+    "word": "steamed",
+    "correct": "buharında pişmiş",
+    "wrong": "kızartılmış",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_131",
+    "word": "salt",
+    "correct": "tuz",
+    "wrong": "şeker",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_132",
+    "word": "sugar",
+    "correct": "şeker",
+    "wrong": "tuz",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_133",
+    "word": "pepper",
+    "correct": "karabiber",
+    "wrong": "tuz",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_134",
+    "word": "spice",
+    "correct": "baharat",
+    "wrong": "tuz",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_135",
+    "word": "herb",
+    "correct": "ot",
+    "wrong": "baharat",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_136",
+    "word": "soy sauce",
+    "correct": "soya sosu",
+    "wrong": "balsamik",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_137",
+    "word": "vinegar",
+    "correct": "sirke",
+    "wrong": "yağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_138",
+    "word": "oil",
+    "correct": "yağ",
+    "wrong": "sirke",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_139",
+    "word": "olive oil",
+    "correct": "zeytinyağ",
+    "wrong": "ayçiçeği yağı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_140",
+    "word": "vegetable oil",
+    "correct": "bitkisel yağ",
+    "wrong": "zeytinyağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_141",
+    "word": "butter",
+    "correct": "tereyağ",
+    "wrong": "yağ",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_142",
+    "word": "sauce",
+    "correct": "sos",
+    "wrong": "çorba",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_143",
+    "word": "gravy",
+    "correct": "suyu",
+    "wrong": "sos",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_144",
+    "word": "dressing",
+    "correct": "soslanma",
+    "wrong": "sos",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_145",
+    "word": "mayonnaise",
+    "correct": "mayonez",
+    "wrong": "sos",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_146",
+    "word": "mustard",
+    "correct": "hardal",
+    "wrong": "ketçap",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_147",
+    "word": "ketchup",
+    "correct": "ketçap",
+    "wrong": "hardal",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_148",
+    "word": "hot sauce",
+    "correct": "acı sos",
+    "wrong": "sos",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_149",
+    "word": "wine",
+    "correct": "şarap",
+    "wrong": "bira",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_150",
+    "word": "beer",
+    "correct": "bira",
+    "wrong": "şarap",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_151",
+    "word": "vodka",
+    "correct": "vodka",
+    "wrong": "viski",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_152",
+    "word": "whiskey",
+    "correct": "viski",
+    "wrong": "vodka",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_153",
+    "word": "rum",
+    "correct": "rom",
+    "wrong": "viski",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_154",
+    "word": "tequila",
+    "correct": "tequila",
+    "wrong": "rom",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_155",
+    "word": "gin",
+    "correct": "cin",
+    "wrong": "vodka",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_156",
+    "word": "brandy",
+    "correct": "konyak",
+    "wrong": "viski",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_157",
+    "word": "champagne",
+    "correct": "şampanya",
+    "wrong": "şarap",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_158",
+    "word": "liqueur",
+    "correct": "likör",
+    "wrong": "viski",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_159",
+    "word": "coffee",
+    "correct": "kahve",
+    "wrong": "çay",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_160",
+    "word": "espresso",
+    "correct": "espresso",
+    "wrong": "kahve",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_161",
+    "word": "cappuccino",
+    "correct": "kapuçino",
+    "wrong": "kahve",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_162",
+    "word": "latte",
+    "correct": "latte",
+    "wrong": "cappuccino",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_163",
+    "word": "americano",
+    "correct": "amerikan kahvesi",
+    "wrong": "espresso",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_164",
+    "word": "tea",
+    "correct": "çay",
+    "wrong": "kahve",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_165",
+    "word": "green tea",
+    "correct": "yeşil çay",
+    "wrong": "siyah çay",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_166",
+    "word": "black tea",
+    "correct": "siyah çay",
+    "wrong": "yeşil çay",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_167",
+    "word": "herbal tea",
+    "correct": "bitki çayı",
+    "wrong": "siyah çay",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_168",
+    "word": "oolong tea",
+    "correct": "oolong çayı",
+    "wrong": "yeşil çay",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_169",
+    "word": "hot chocolate",
+    "correct": "sıcak çikolata",
+    "wrong": "soğuk içecek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_170",
+    "word": "milk shake",
+    "correct": "milkshake",
+    "wrong": "meyve suyu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_171",
+    "word": "smoothie",
+    "correct": "smoothie",
+    "wrong": "meyve suyu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_172",
+    "word": "juice",
+    "correct": "meyve suyu",
+    "wrong": "su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_173",
+    "word": "orange juice",
+    "correct": "portakal suyu",
+    "wrong": "elma suyu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_174",
+    "word": "apple juice",
+    "correct": "elma suyu",
+    "wrong": "portakal suyu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_175",
+    "word": "lemon juice",
+    "correct": "limon suyu",
+    "wrong": "su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_176",
+    "word": "water",
+    "correct": "su",
+    "wrong": "hiçbir içecek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_177",
+    "word": "mineral water",
+    "correct": "mineral su",
+    "wrong": "musluk suyu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_178",
+    "word": "sparkling water",
+    "correct": "gazlı su",
+    "wrong": "düz su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_179",
+    "word": "soda",
+    "correct": "gazlı içecek",
+    "wrong": "su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_180",
+    "word": "cola",
+    "correct": "kola",
+    "wrong": "gazlı içecek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_181",
+    "word": "lemonade",
+    "correct": "limonata",
+    "wrong": "su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_182",
+    "word": "iced tea",
+    "correct": "buzlu çay",
+    "wrong": "sıcak çay",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_183",
+    "word": "cocktail",
+    "correct": "kokteyl",
+    "wrong": "bira",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_184",
+    "word": "soft drink",
+    "correct": "meşrubat",
+    "wrong": "alkollü içecek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_185",
+    "word": "energy drink",
+    "correct": "enerji içeceği",
+    "wrong": "su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_186",
+    "word": "sports drink",
+    "correct": "spor içeceği",
+    "wrong": "su",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_187",
+    "word": "plate",
+    "correct": "tabak",
+    "wrong": "bardak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_188",
+    "word": "bowl",
+    "correct": "kase",
+    "wrong": "tabak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_189",
+    "word": "cup",
+    "correct": "fincan",
+    "wrong": "bardak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_190",
+    "word": "glass",
+    "correct": "bardak",
+    "wrong": "fincan",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_191",
+    "word": "mug",
+    "correct": "kupa",
+    "wrong": "bardak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_192",
+    "word": "fork",
+    "correct": "çatal",
+    "wrong": "kaşık",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_193",
+    "word": "spoon",
+    "correct": "kaşık",
+    "wrong": "çatal",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_194",
+    "word": "knife",
+    "correct": "bıçak",
+    "wrong": "çatal",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_195",
+    "word": "napkin",
+    "correct": "peçete",
+    "wrong": "havlu",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_196",
+    "word": "tablecloth",
+    "correct": "masa örtüsü",
+    "wrong": "peçete",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_197",
+    "word": "utensil",
+    "correct": "mutfak aleti",
+    "wrong": "yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_198",
+    "word": "recipe",
+    "correct": "tarif",
+    "wrong": "hikaye",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_199",
+    "word": "ingredient",
+    "correct": "malzeme",
+    "wrong": "yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_200",
+    "word": "portion",
+    "correct": "porsiyon",
+    "wrong": "yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_201",
+    "word": "serving",
+    "correct": "porsiyon",
+    "wrong": "yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_202",
+    "word": "leftover",
+    "correct": "artık yemek",
+    "wrong": "taze yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_203",
+    "word": "restaurant",
+    "correct": "restoran",
+    "wrong": "ev",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_204",
+    "word": "cafe",
+    "correct": "kafe",
+    "wrong": "otel",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_205",
+    "word": "bar",
+    "correct": "bar",
+    "wrong": "kafe",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_206",
+    "word": "fast food",
+    "correct": "hızlı yemek",
+    "wrong": "yapma yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_207",
+    "word": "menu",
+    "correct": "menü",
+    "wrong": "yemek",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_208",
+    "word": "waiter",
+    "correct": "garson",
+    "wrong": "aşçı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_209",
+    "word": "chef",
+    "correct": "aşçıbaşı",
+    "wrong": "garson",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_210",
+    "word": "cook",
+    "correct": "aşçı",
+    "wrong": "garson",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_211",
+    "word": "kitchen",
+    "correct": "mutfak",
+    "wrong": "yemek odası",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_212",
+    "word": "stove",
+    "correct": "ocak",
+    "wrong": "tencere",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_213",
+    "word": "oven",
+    "correct": "fırın",
+    "wrong": "ocak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_214",
+    "word": "refrigerator",
+    "correct": "buzdolabı",
+    "wrong": "ocak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_215",
+    "word": "freezer",
+    "correct": "dondurucusu",
+    "wrong": "buzdolabı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_216",
+    "word": "microwave",
+    "correct": "mikrodalga fırın",
+    "wrong": "tost makinesi",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_217",
+    "word": "blender",
+    "correct": "blender",
+    "wrong": "mikser",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_218",
+    "word": "mixer",
+    "correct": "mikser",
+    "wrong": "blender",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_219",
+    "word": "food processor",
+    "correct": "yemek makinesi",
+    "wrong": "mikser",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_220",
+    "word": "cutting board",
+    "correct": "kesme tahtası",
+    "wrong": "tabak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_221",
+    "word": "pot",
+    "correct": "tencere",
+    "wrong": "tavası",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_222",
+    "word": "pan",
+    "correct": "tavası",
+    "wrong": "tencere",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_223",
+    "word": "skillet",
+    "correct": "tava",
+    "wrong": "tavası",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_224",
+    "word": "baking pan",
+    "correct": "fırın tepsisi",
+    "wrong": "tencere",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_225",
+    "word": "colander",
+    "correct": "süzgeç",
+    "wrong": "tavası",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_226",
+    "word": "measuring cup",
+    "correct": "ölçü bardağı",
+    "wrong": "bardak",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_227",
+    "word": "measuring spoon",
+    "correct": "ölçü kaşığı",
+    "wrong": "çay kaşığı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_228",
+    "word": "mixer",
+    "correct": "mikser",
+    "wrong": "çırpıcı",
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": "food_drink_229",
+    "word": "whisk",
+    "correct": "çırpıcı",
+    "wrong": "kaşık",
+    "category": "Yiyecek & İçecek"
+  }
+]

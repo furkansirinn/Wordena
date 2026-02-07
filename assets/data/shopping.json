@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "shopping_1",
+    "word": "shopping",
+    "correct": "alışveriş",
+    "wrong": "satış",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_2",
+    "word": "shop",
+    "correct": "mağaza",
+    "wrong": "ev",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_3",
+    "word": "store",
+    "correct": "mağaza",
+    "wrong": "ev",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_4",
+    "word": "supermarket",
+    "correct": "süpermarket",
+    "wrong": "market",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_5",
+    "word": "mall",
+    "correct": "alışveriş merkezi",
+    "wrong": "sokak",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_6",
+    "word": "boutique",
+    "correct": "butik",
+    "wrong": "mağaza",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_7",
+    "word": "department store",
+    "correct": "büyük mağaza",
+    "wrong": "küçük mağaza",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_8",
+    "word": "market",
+    "correct": "pazarı",
+    "wrong": "mağaza",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_9",
+    "word": "bazaar",
+    "correct": "çarşı",
+    "wrong": "sokak",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_10",
+    "word": "cart",
+    "correct": "alışveriş arabası",
+    "wrong": "sepet",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_11",
+    "word": "basket",
+    "correct": "alışveriş sepeti",
+    "wrong": "arabası",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_12",
+    "word": "shelf",
+    "correct": "raf",
+    "wrong": "masa",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_13",
+    "word": "price tag",
+    "correct": "fiyat etiketi",
+    "wrong": "barcode",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_14",
+    "word": "receipt",
+    "correct": "makbuz",
+    "wrong": "fatura",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_15",
+    "word": "bill",
+    "correct": "fatura",
+    "wrong": "makbuz",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_16",
+    "word": "cash register",
+    "correct": "kasa",
+    "wrong": "hesap",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_17",
+    "word": "checkout",
+    "correct": "kasa",
+    "wrong": "gişe",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_18",
+    "word": "customer",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_19",
+    "word": "cashier",
+    "correct": "kasiyer",
+    "wrong": "müdür",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_20",
+    "word": "sales person",
+    "correct": "satıcı",
+    "wrong": "müşteri",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_21",
+    "word": "assistant",
+    "correct": "satış görevlisi",
+    "wrong": "müdür",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_22",
+    "word": "discount",
+    "correct": "indirim",
+    "wrong": "artış",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_23",
+    "word": "sale",
+    "correct": "satış",
+    "wrong": "satın alma",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_24",
+    "word": "special offer",
+    "correct": "özel teklif",
+    "wrong": "normal fiyat",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_25",
+    "word": "bargain",
+    "correct": "pazarlık",
+    "wrong": "fiyat",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_26",
+    "word": "deal",
+    "correct": "anlaşma",
+    "wrong": "uyuşmazlık",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_27",
+    "word": "brand",
+    "correct": "marka",
+    "wrong": "tanımlanmamış",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_28",
+    "word": "product",
+    "correct": "ürün",
+    "wrong": "hizmet",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_29",
+    "word": "item",
+    "correct": "ürün",
+    "wrong": "hiçbir şey",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_30",
+    "word": "goods",
+    "correct": "malı",
+    "wrong": "hizmet",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_31",
+    "word": "quality",
+    "correct": "kalite",
+    "wrong": "hata",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_32",
+    "word": "size",
+    "correct": "beden",
+    "wrong": "ölçüsüz",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_33",
+    "word": "color",
+    "correct": "renk",
+    "wrong": "renksiz",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_34",
+    "word": "fit",
+    "correct": "uyum",
+    "wrong": "uyumsuzluk",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_35",
+    "word": "payment",
+    "correct": "ödeme",
+    "wrong": "borç",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_36",
+    "word": "cash",
+    "correct": "nakit",
+    "wrong": "çek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_37",
+    "word": "credit card",
+    "correct": "kredi kartı",
+    "wrong": "nakit",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_38",
+    "word": "debit card",
+    "correct": "banka kartı",
+    "wrong": "nakit",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_39",
+    "word": "check",
+    "correct": "çek",
+    "wrong": "kredi kartı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_40",
+    "word": "warranty",
+    "correct": "garanti",
+    "wrong": "hiçbir şey",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_41",
+    "word": "return",
+    "correct": "iade",
+    "wrong": "satın alma",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_42",
+    "word": "exchange",
+    "correct": "değiştirme",
+    "wrong": "tutma",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_43",
+    "word": "refund",
+    "correct": "geri ödeme",
+    "wrong": "ödeme",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_44",
+    "word": "delivery",
+    "correct": "teslimat",
+    "wrong": "teslim almayan",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_45",
+    "word": "shipping",
+    "correct": "kargo",
+    "wrong": "alan",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_46",
+    "word": "online shopping",
+    "correct": "çevrimiçi alışveriş",
+    "wrong": "mağazada",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_47",
+    "word": "e-commerce",
+    "correct": "elektronik ticaret",
+    "wrong": "satış dışı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_48",
+    "word": "website",
+    "correct": "web sitesi",
+    "wrong": "web olmayan",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_49",
+    "word": "catalog",
+    "correct": "katalog",
+    "wrong": "listesiz",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_50",
+    "word": "order",
+    "correct": "sipariş",
+    "wrong": "iptal",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_51",
+    "word": "purchase",
+    "correct": "satın alma",
+    "wrong": "satış",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_52",
+    "word": "transaction",
+    "correct": "işlem",
+    "wrong": "inişi",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_53",
+    "word": "bag",
+    "correct": "çanta",
+    "wrong": "kutu",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_54",
+    "word": "plastic bag",
+    "correct": "plastik çanta",
+    "wrong": "kağıt çanta",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_55",
+    "word": "paper bag",
+    "correct": "kağıt çanta",
+    "wrong": "plastik çanta",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_56",
+    "word": "shopping bag",
+    "correct": "alışveriş çantası",
+    "wrong": "ev çantası",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_57",
+    "word": "box",
+    "correct": "kutu",
+    "wrong": "çanta",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_58",
+    "word": "packaging",
+    "correct": "paket",
+    "wrong": "açılmış",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_59",
+    "word": "label",
+    "correct": "etiket",
+    "wrong": "sırları",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_60",
+    "word": "barcode",
+    "correct": "barkod",
+    "wrong": "etiket",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_61",
+    "word": "inventory",
+    "correct": "envanter",
+    "wrong": "boşluk",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_62",
+    "word": "stock",
+    "correct": "stok",
+    "wrong": "tükenmek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_63",
+    "word": "out of stock",
+    "correct": "stokta yok",
+    "wrong": "mevcut",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_64",
+    "word": "in stock",
+    "correct": "stokta var",
+    "wrong": "yok",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_65",
+    "word": "restock",
+    "correct": "yeniden stoklama",
+    "wrong": "boşaltma",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_66",
+    "word": "window display",
+    "correct": "vitrin",
+    "wrong": "depo",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_67",
+    "word": "fitting room",
+    "correct": "soyunma odası",
+    "wrong": "dış",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_68",
+    "word": "mirror",
+    "correct": "ayna",
+    "wrong": "ışık",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_69",
+    "word": "changing area",
+    "correct": "soyunma alanı",
+    "wrong": "satış",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_70",
+    "word": "clothes",
+    "correct": "giyim",
+    "wrong": "ayakkabı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_71",
+    "word": "dress",
+    "correct": "elbise",
+    "wrong": "pantalon",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_72",
+    "word": "shirt",
+    "correct": "gömlek",
+    "wrong": "şort",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_73",
+    "word": "pants",
+    "correct": "pantalon",
+    "wrong": "elbise",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_74",
+    "word": "shorts",
+    "correct": "şort",
+    "wrong": "pantalon",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_75",
+    "word": "jacket",
+    "correct": "ceket",
+    "wrong": "gömlek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_76",
+    "word": "coat",
+    "correct": "palto",
+    "wrong": "ceket",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_77",
+    "word": "sweater",
+    "correct": "kazak",
+    "wrong": "gömlek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_78",
+    "word": "t-shirt",
+    "correct": "tişört",
+    "wrong": "gömlek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_79",
+    "word": "jeans",
+    "correct": "kot pantalon",
+    "wrong": "pantalon",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_80",
+    "word": "skirt",
+    "correct": "etek",
+    "wrong": "pantalon",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_81",
+    "word": "blouse",
+    "correct": "bluz",
+    "wrong": "gömlek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_82",
+    "word": "suit",
+    "correct": "takım",
+    "wrong": "elbise",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_83",
+    "word": "tie",
+    "correct": "kravat",
+    "wrong": "gömlek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_84",
+    "word": "scarf",
+    "correct": "eşarp",
+    "wrong": "şapka",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_85",
+    "word": "hat",
+    "correct": "şapka",
+    "wrong": "ayakkabı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_86",
+    "word": "cap",
+    "correct": "kasket",
+    "wrong": "şapkasız",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_87",
+    "word": "gloves",
+    "correct": "eldiveni",
+    "wrong": "çıplak el",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_88",
+    "word": "socks",
+    "correct": "çorap",
+    "wrong": "ayakkabı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_89",
+    "word": "shoes",
+    "correct": "ayakkabı",
+    "wrong": "çorap",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_90",
+    "word": "boots",
+    "correct": "çizme",
+    "wrong": "ayakkabı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_91",
+    "word": "sandals",
+    "correct": "sandalet",
+    "wrong": "ayakkabı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_92",
+    "word": "sneakers",
+    "correct": "spor ayakkabı",
+    "wrong": "resmi ayakkabı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_93",
+    "word": "heels",
+    "correct": "topuklu ayakkabı",
+    "wrong": "düz ayakkabı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_94",
+    "word": "belt",
+    "correct": "kemer",
+    "wrong": "gömlek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_95",
+    "word": "wallet",
+    "correct": "cüzdan",
+    "wrong": "çanta",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_96",
+    "word": "purse",
+    "correct": "çanta",
+    "wrong": "cüzdan",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_97",
+    "word": "handbag",
+    "correct": "el çantası",
+    "wrong": "sırt çantası",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_98",
+    "word": "backpack",
+    "correct": "sırt çantası",
+    "wrong": "el çantası",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_99",
+    "word": "umbrella",
+    "correct": "şemsiye",
+    "wrong": "yağmur",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_100",
+    "word": "sunglasses",
+    "correct": "güneş gözlüğü",
+    "wrong": "gözlük",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_101",
+    "word": "watch",
+    "correct": "saat",
+    "wrong": "zaman",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_102",
+    "word": "jewelry",
+    "correct": "mücevher",
+    "wrong": "plastik",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_103",
+    "word": "necklace",
+    "correct": "kolye",
+    "wrong": "halka",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_104",
+    "word": "bracelet",
+    "correct": "bilezik",
+    "wrong": "yüzük",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_105",
+    "word": "ring",
+    "correct": "yüzük",
+    "wrong": "bilezik",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_106",
+    "word": "earrings",
+    "correct": "küpe",
+    "wrong": "kolye",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_107",
+    "word": "perfume",
+    "correct": "parfüm",
+    "wrong": "koku yok",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_108",
+    "word": "makeup",
+    "correct": "makyaj",
+    "wrong": "cilt",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_109",
+    "word": "cosmetics",
+    "correct": "kozmetik",
+    "wrong": "doğal",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_110",
+    "word": "skincare",
+    "correct": "cilt bakımı",
+    "wrong": "görmezden",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_111",
+    "word": "lotion",
+    "correct": "losyon",
+    "wrong": "kuru",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_112",
+    "word": "cream",
+    "correct": "krem",
+    "wrong": "suyu",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_113",
+    "word": "shampoo",
+    "correct": "şampuan",
+    "wrong": "temizlemez",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_114",
+    "word": "conditioner",
+    "correct": "saç kremi",
+    "wrong": "saçı kurutur",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_115",
+    "word": "soap",
+    "correct": "sabun",
+    "wrong": "kiri",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_116",
+    "word": "toothpaste",
+    "correct": "diş macunu",
+    "wrong": "diş fırçası",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_117",
+    "word": "deodorant",
+    "correct": "deodorant",
+    "wrong": "ter",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_118",
+    "word": "towel",
+    "correct": "havlu",
+    "wrong": "kuru",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_119",
+    "word": "tissue",
+    "correct": "mendil",
+    "wrong": "bez",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_120",
+    "word": "napkin",
+    "correct": "peçete",
+    "wrong": "bez",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_121",
+    "word": "toilet paper",
+    "correct": "tuvalet kağıdı",
+    "wrong": "bez",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_122",
+    "word": "book",
+    "correct": "kitap",
+    "wrong": "yazı yok",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_123",
+    "word": "magazine",
+    "correct": "dergi",
+    "wrong": "kitap",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_124",
+    "word": "newspaper",
+    "correct": "gazete",
+    "wrong": "dergi",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_125",
+    "word": "toy",
+    "correct": "oyuncak",
+    "wrong": "ciddi",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_126",
+    "word": "doll",
+    "correct": "boneka",
+    "wrong": "aksiyon",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_127",
+    "word": "game",
+    "correct": "oyun",
+    "wrong": "ciddi",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_128",
+    "word": "puzzle",
+    "correct": "yapboz",
+    "wrong": "tam resim",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_129",
+    "word": "electronics",
+    "correct": "elektronik",
+    "wrong": "mekanik",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_130",
+    "word": "phone",
+    "correct": "telefon",
+    "wrong": "masaüstü",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_131",
+    "word": "tablet",
+    "correct": "tablet",
+    "wrong": "sabit",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_132",
+    "word": "laptop",
+    "correct": "laptop",
+    "wrong": "sabit",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_133",
+    "word": "camera",
+    "correct": "kamera",
+    "wrong": "fotografı",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_134",
+    "word": "headphones",
+    "correct": "kulaklık",
+    "wrong": "ses yok",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_135",
+    "word": "speaker",
+    "correct": "hoparlör",
+    "wrong": "sessiz",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_136",
+    "word": "kitchen utensils",
+    "correct": "mutfak eşyaları",
+    "wrong": "yatak",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_137",
+    "word": "pot",
+    "correct": "tencere",
+    "wrong": "tavası",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_138",
+    "word": "pan",
+    "correct": "tavası",
+    "wrong": "tencere",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_139",
+    "word": "plate",
+    "correct": "tabak",
+    "wrong": "bardak",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_140",
+    "word": "cup",
+    "correct": "fincan",
+    "wrong": "bardak",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_141",
+    "word": "glass",
+    "correct": "bardak",
+    "wrong": "fincan",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_142",
+    "word": "cutlery",
+    "correct": "çatal bıçak",
+    "wrong": "kaşık",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_143",
+    "word": "fork",
+    "correct": "çatal",
+    "wrong": "bıçak",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_144",
+    "word": "spoon",
+    "correct": "kaşık",
+    "wrong": "çatal",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_145",
+    "word": "knife",
+    "correct": "bıçak",
+    "wrong": "kaşık",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_146",
+    "word": "bottle",
+    "correct": "şişe",
+    "wrong": "bardak",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_147",
+    "word": "food",
+    "correct": "yiyecek",
+    "wrong": "içecek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_148",
+    "word": "fruit",
+    "correct": "meyve",
+    "wrong": "sebze",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_149",
+    "word": "vegetable",
+    "correct": "sebze",
+    "wrong": "meyve",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_150",
+    "word": "bread",
+    "correct": "ekmek",
+    "wrong": "unlu",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_151",
+    "word": "milk",
+    "correct": "süt",
+    "wrong": "su",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_152",
+    "word": "cheese",
+    "correct": "peynir",
+    "wrong": "süt",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_153",
+    "word": "yogurt",
+    "correct": "yoğurt",
+    "wrong": "süt",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_154",
+    "word": "butter",
+    "correct": "tereyağ",
+    "wrong": "yağ",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_155",
+    "word": "eggs",
+    "correct": "yumurta",
+    "wrong": "tavuk",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_156",
+    "word": "meat",
+    "correct": "et",
+    "wrong": "balık",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_157",
+    "word": "fish",
+    "correct": "balık",
+    "wrong": "et",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_158",
+    "word": "chicken",
+    "correct": "tavuk",
+    "wrong": "ördek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_159",
+    "word": "beef",
+    "correct": "sığır eti",
+    "wrong": "dana",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_160",
+    "word": "pork",
+    "correct": "domuz eti",
+    "wrong": "dana",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_161",
+    "word": "pasta",
+    "correct": "makarna",
+    "wrong": "pirinç",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_162",
+    "word": "rice",
+    "correct": "pirinç",
+    "wrong": "makarna",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_163",
+    "word": "beans",
+    "correct": "fasulye",
+    "wrong": "mercimek",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_164",
+    "word": "coffee",
+    "correct": "kahve",
+    "wrong": "çay",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_165",
+    "word": "tea",
+    "correct": "çay",
+    "wrong": "kahve",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_166",
+    "word": "juice",
+    "correct": "meyve suyu",
+    "wrong": "su",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_167",
+    "word": "water",
+    "correct": "su",
+    "wrong": "meyve suyu",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_168",
+    "word": "wine",
+    "correct": "şarap",
+    "wrong": "bira",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_169",
+    "word": "beer",
+    "correct": "bira",
+    "wrong": "şarap",
+    "category": "Alışveriş"
+  },
+  {
+    "id": "shopping_170",
+    "word": "soda",
+    "correct": "gazlı içecek",
+    "wrong": "su",
+    "category": "Alışveriş"
+  }
+]

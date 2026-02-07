@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "travel_1",
+    "word": "travel",
+    "correct": "seyahat",
+    "wrong": "kalma",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_2",
+    "word": "trip",
+    "correct": "gezi",
+    "wrong": "yolculuk",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_3",
+    "word": "journey",
+    "correct": "yolculuk",
+    "wrong": "gezi",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_4",
+    "word": "vacation",
+    "correct": "tatil",
+    "wrong": "iş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_5",
+    "word": "holiday",
+    "correct": "tatil",
+    "wrong": "çalışma",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_6",
+    "word": "tour",
+    "correct": "tur",
+    "wrong": "gezinti",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_7",
+    "word": "destination",
+    "correct": "varış noktası",
+    "wrong": "başlangıç",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_8",
+    "word": "passport",
+    "correct": "pasaport",
+    "wrong": "kimlik",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_9",
+    "word": "visa",
+    "correct": "vize",
+    "wrong": "pasaport",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_10",
+    "word": "luggage",
+    "correct": "bagaj",
+    "wrong": "eşya yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_11",
+    "word": "suitcase",
+    "correct": "bavul",
+    "wrong": "çanta",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_12",
+    "word": "backpack",
+    "correct": "sırt çantası",
+    "wrong": "el çantası",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_13",
+    "word": "travel bag",
+    "correct": "seyahat çantası",
+    "wrong": "ev çantası",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_14",
+    "word": "airport",
+    "correct": "havaalanı",
+    "wrong": "istasyon",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_15",
+    "word": "terminal",
+    "correct": "terminal",
+    "wrong": "gişe",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_16",
+    "word": "gate",
+    "correct": "kapı",
+    "wrong": "duvar",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_17",
+    "word": "check-in",
+    "correct": "giriş kontrol",
+    "wrong": "çıkış",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_18",
+    "word": "boarding pass",
+    "correct": "biniş kartı",
+    "wrong": "bilet",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_19",
+    "word": "ticket",
+    "correct": "bilet",
+    "wrong": "kart",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_20",
+    "word": "flight",
+    "correct": "uçuş",
+    "wrong": "yürüyüş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_21",
+    "word": "airplane",
+    "correct": "uçak",
+    "wrong": "gemi",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_22",
+    "word": "seat",
+    "correct": "koltuk",
+    "wrong": "ayakkabı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_23",
+    "word": "window seat",
+    "correct": "pencere koltuğu",
+    "wrong": "orta koltuk",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_24",
+    "word": "aisle seat",
+    "correct": "koridor koltuğu",
+    "wrong": "pencere koltuğu",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_25",
+    "word": "cabin",
+    "correct": "kabin",
+    "wrong": "depo",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_26",
+    "word": "cockpit",
+    "correct": "kokpit",
+    "wrong": "kabin",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_27",
+    "word": "pilot",
+    "correct": "pilot",
+    "wrong": "yolcu",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_28",
+    "word": "flight attendant",
+    "correct": "hostes",
+    "wrong": "pilot",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_29",
+    "word": "landing",
+    "correct": "iniş",
+    "wrong": "kalkış",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_30",
+    "word": "take-off",
+    "correct": "kalkış",
+    "wrong": "iniş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_31",
+    "word": "turbulence",
+    "correct": "türbülans",
+    "wrong": "sakinlik",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_32",
+    "word": "baggage claim",
+    "correct": "bagaj teslim",
+    "wrong": "giriş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_33",
+    "word": "customs",
+    "correct": "gümrük",
+    "wrong": "serbest",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_34",
+    "word": "immigration",
+    "correct": "göçmenlik",
+    "wrong": "yurtiçi",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_35",
+    "word": "train",
+    "correct": "tren",
+    "wrong": "otobüs",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_36",
+    "word": "train station",
+    "correct": "tren istasyonu",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_37",
+    "word": "platform",
+    "correct": "peron",
+    "wrong": "duvar",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_38",
+    "word": "railway",
+    "correct": "demiryolu",
+    "wrong": "karayolu",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_39",
+    "word": "ticket office",
+    "correct": "bilet gişesi",
+    "wrong": "mağaza",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_40",
+    "word": "bus",
+    "correct": "otobüs",
+    "wrong": "tren",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_41",
+    "word": "bus station",
+    "correct": "otobüs terminali",
+    "wrong": "tren istasyonu",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_42",
+    "word": "bus stop",
+    "correct": "otobüs durağı",
+    "wrong": "otobüs yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_43",
+    "word": "taxi",
+    "correct": "taksi",
+    "wrong": "otobüs",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_44",
+    "word": "car rental",
+    "correct": "araba kiralama",
+    "wrong": "araba almak",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_45",
+    "word": "driver",
+    "correct": "şoför",
+    "wrong": "yolcu",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_46",
+    "word": "license",
+    "correct": "lisans",
+    "wrong": "bulunmayan",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_47",
+    "word": "toll",
+    "correct": "gümrük",
+    "wrong": "ücretsiz",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_48",
+    "word": "petrol station",
+    "correct": "benzin istasyonu",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_49",
+    "word": "gas station",
+    "correct": "benzin istasyonu",
+    "wrong": "depo",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_50",
+    "word": "highway",
+    "correct": "otoyol",
+    "wrong": "yol",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_51",
+    "word": "road",
+    "correct": "yol",
+    "wrong": "doğru",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_52",
+    "word": "bridge",
+    "correct": "köprü",
+    "wrong": "duvar",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_53",
+    "word": "tunnel",
+    "correct": "tünel",
+    "wrong": "açık",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_54",
+    "word": "map",
+    "correct": "harita",
+    "wrong": "yazı yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_55",
+    "word": "GPS",
+    "correct": "GPS",
+    "wrong": "harita yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_56",
+    "word": "accommodation",
+    "correct": "konaklama",
+    "wrong": "sokak",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_57",
+    "word": "hotel",
+    "correct": "otel",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_58",
+    "word": "motel",
+    "correct": "motel",
+    "wrong": "otel",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_59",
+    "word": "hostel",
+    "correct": "pansiyon",
+    "wrong": "otel",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_60",
+    "word": "resort",
+    "correct": "tatil merkezi",
+    "wrong": "şehir",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_61",
+    "word": "bed and breakfast",
+    "correct": "kahvaltılı otel",
+    "wrong": "yalnız oda",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_62",
+    "word": "campground",
+    "correct": "kamp alanı",
+    "wrong": "otel",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_63",
+    "word": "tent",
+    "correct": "çadır",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_64",
+    "word": "cabin",
+    "correct": "kabin",
+    "wrong": "otel",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_65",
+    "word": "apartment",
+    "correct": "daire",
+    "wrong": "otel",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_66",
+    "word": "room",
+    "correct": "oda",
+    "wrong": "korridor",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_67",
+    "word": "bedroom",
+    "correct": "yatak odası",
+    "wrong": "oturma odası",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_68",
+    "word": "bathroom",
+    "correct": "banyo",
+    "wrong": "mutfak",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_69",
+    "word": "shower",
+    "correct": "duş",
+    "wrong": "bornoz",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_70",
+    "word": "bathtub",
+    "correct": "banyo küveti",
+    "wrong": "duş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_71",
+    "word": "bed",
+    "correct": "yatak",
+    "wrong": "koltuk",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_72",
+    "word": "pillow",
+    "correct": "yastık",
+    "wrong": "yatak",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_73",
+    "word": "blanket",
+    "correct": "battaniye",
+    "wrong": "yastık",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_74",
+    "word": "towel",
+    "correct": "havlu",
+    "wrong": "banyo",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_75",
+    "word": "key",
+    "correct": "anahtar",
+    "wrong": "kilit yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_76",
+    "word": "reception",
+    "correct": "resepsiyon",
+    "wrong": "kapı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_77",
+    "word": "receptionist",
+    "correct": "resepsiyonist",
+    "wrong": "güvenlik",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_78",
+    "word": "concierge",
+    "correct": "turizm görevlisi",
+    "wrong": "kapıcı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_79",
+    "word": "luggage storage",
+    "correct": "bagaj deposu",
+    "wrong": "bagaj yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_80",
+    "word": "restaurant",
+    "correct": "restoran",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_81",
+    "word": "cafe",
+    "correct": "kafe",
+    "wrong": "otel",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_82",
+    "word": "bar",
+    "correct": "bar",
+    "wrong": "kafe",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_83",
+    "word": "breakfast",
+    "correct": "kahvaltı",
+    "wrong": "akşam yemeği",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_84",
+    "word": "lunch",
+    "correct": "öğle yemeği",
+    "wrong": "akşam yemeği",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_85",
+    "word": "dinner",
+    "correct": "akşam yemeği",
+    "wrong": "kahvaltı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_86",
+    "word": "menu",
+    "correct": "menü",
+    "wrong": "yemek yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_87",
+    "word": "waiter",
+    "correct": "garson",
+    "wrong": "aşçı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_88",
+    "word": "waitress",
+    "correct": "garson",
+    "wrong": "aşçı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_89",
+    "word": "chef",
+    "correct": "aşçıbaşı",
+    "wrong": "garson",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_90",
+    "word": "check",
+    "correct": "hesap",
+    "wrong": "para",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_91",
+    "word": "tip",
+    "correct": "bahşiş",
+    "wrong": "ücret",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_92",
+    "word": "tourist",
+    "correct": "turist",
+    "wrong": "yerli",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_93",
+    "word": "local",
+    "correct": "yerli",
+    "wrong": "turist",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_94",
+    "word": "guide",
+    "correct": "rehber",
+    "wrong": "turist",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_95",
+    "word": "guidebook",
+    "correct": "rehber kitabı",
+    "wrong": "roman",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_96",
+    "word": "brochure",
+    "correct": "broşür",
+    "wrong": "kitap",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_97",
+    "word": "itinerary",
+    "correct": "gezi planı",
+    "wrong": "plansız",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_98",
+    "word": "sightseeing",
+    "correct": "turist alanı gezme",
+    "wrong": "gezinti yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_99",
+    "word": "attraction",
+    "correct": "çekici yer",
+    "wrong": "hiçbir şey",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_100",
+    "word": "landmark",
+    "correct": "ünlü yapı",
+    "wrong": "tanımlanmayan",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_101",
+    "word": "monument",
+    "correct": "anıt",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_102",
+    "word": "museum",
+    "correct": "müze",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_103",
+    "word": "gallery",
+    "correct": "galeri",
+    "wrong": "depo",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_104",
+    "word": "temple",
+    "correct": "tapınak",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_105",
+    "word": "church",
+    "correct": "kilise",
+    "wrong": "depo",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_106",
+    "word": "mosque",
+    "correct": "cami",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_107",
+    "word": "cathedral",
+    "correct": "katedral",
+    "wrong": "kapı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_108",
+    "word": "palace",
+    "correct": "saray",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_109",
+    "word": "castle",
+    "correct": "kale",
+    "wrong": "depo",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_110",
+    "word": "fortress",
+    "correct": "kale",
+    "wrong": "kasaba",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_111",
+    "word": "ancient ruin",
+    "correct": "antik harabeler",
+    "wrong": "yeni bina",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_112",
+    "word": "beach",
+    "correct": "plaj",
+    "wrong": "dağ",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_113",
+    "word": "mountain",
+    "correct": "dağ",
+    "wrong": "göl",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_114",
+    "word": "forest",
+    "correct": "orman",
+    "wrong": "çöl",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_115",
+    "word": "desert",
+    "correct": "çöl",
+    "wrong": "orman",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_116",
+    "word": "lake",
+    "correct": "göl",
+    "wrong": "deniz",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_117",
+    "word": "river",
+    "correct": "nehir",
+    "wrong": "göl",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_118",
+    "word": "waterfall",
+    "correct": "şelale",
+    "wrong": "deresi",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_119",
+    "word": "island",
+    "correct": "ada",
+    "wrong": "kara",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_120",
+    "word": "sea",
+    "correct": "deniz",
+    "wrong": "kuru toprak",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_121",
+    "word": "ocean",
+    "correct": "okyanus",
+    "wrong": "göl",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_122",
+    "word": "cruise",
+    "correct": "gemi turu",
+    "wrong": "yürüyüş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_123",
+    "word": "boat",
+    "correct": "tekne",
+    "wrong": "araba",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_124",
+    "word": "ferry",
+    "correct": "feribot",
+    "wrong": "tekne",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_125",
+    "word": "yacht",
+    "correct": "yat",
+    "wrong": "tekne",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_126",
+    "word": "snorkeling",
+    "correct": "su altı gözetleme",
+    "wrong": "yüzme",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_127",
+    "word": "diving",
+    "correct": "dalış",
+    "wrong": "yüzme",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_128",
+    "word": "swimming",
+    "correct": "yüzme",
+    "wrong": "yürüyüş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_129",
+    "word": "hiking",
+    "correct": "dağ yürüyüşü",
+    "wrong": "yürüyüş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_130",
+    "word": "biking",
+    "correct": "bisiklet",
+    "wrong": "yürüyüş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_131",
+    "word": "skiing",
+    "correct": "kayak",
+    "wrong": "yürüyüş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_132",
+    "word": "surfing",
+    "correct": "sörf",
+    "wrong": "yüzme",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_133",
+    "word": "paragliding",
+    "correct": "yamaç paraşütü",
+    "wrong": "yürüyüş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_134",
+    "word": "adventure",
+    "correct": "macera",
+    "wrong": "güvenlik",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_135",
+    "word": "adventure sports",
+    "correct": "macera sporları",
+    "wrong": "sosyal",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_136",
+    "word": "extreme sports",
+    "correct": "ekstrem sporlar",
+    "wrong": "hafif sporlar",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_137",
+    "word": "amusement park",
+    "correct": "eğlence parkı",
+    "wrong": "mezarlık",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_138",
+    "word": "theme park",
+    "correct": "tema parkı",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_139",
+    "word": "zoo",
+    "correct": "hayvanat bahçesi",
+    "wrong": "çöl",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_140",
+    "word": "national park",
+    "correct": "milli park",
+    "wrong": "şehir",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_141",
+    "word": "botanical garden",
+    "correct": "botanik bahçesi",
+    "wrong": "çöl",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_142",
+    "word": "camera",
+    "correct": "kamera",
+    "wrong": "gözlük",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_143",
+    "word": "photograph",
+    "correct": "fotoğraf",
+    "wrong": "metin",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_144",
+    "word": "selfie",
+    "correct": "özçekim",
+    "wrong": "başkası çeken",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_145",
+    "word": "souvenir",
+    "correct": "hatıra",
+    "wrong": "hiçbir şey",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_146",
+    "word": "gift shop",
+    "correct": "hediyelik eşya dükkanı",
+    "wrong": "giyim mağazası",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_147",
+    "word": "currency",
+    "correct": "para birimi",
+    "wrong": "mal",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_148",
+    "word": "exchange rate",
+    "correct": "döviz kuru",
+    "wrong": "sabit fiyat",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_149",
+    "word": "ATM",
+    "correct": "ATM",
+    "wrong": "banka yok",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_150",
+    "word": "money changer",
+    "correct": "döviz bürosu",
+    "wrong": "banka",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_151",
+    "word": "traveler's check",
+    "correct": "seyahat çeki",
+    "wrong": "nakit",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_152",
+    "word": "travel insurance",
+    "correct": "seyahat sigortası",
+    "wrong": "hiçbir şey",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_153",
+    "word": "vaccination",
+    "correct": "aşılama",
+    "wrong": "hastalık",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_154",
+    "word": "medical kit",
+    "correct": "tıbbi kit",
+    "wrong": "hiçbir şey",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_155",
+    "word": "pharmacy",
+    "correct": "eczane",
+    "wrong": "doktor",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_156",
+    "word": "doctor",
+    "correct": "doktor",
+    "wrong": "hastası",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_157",
+    "word": "hospital",
+    "correct": "hastane",
+    "wrong": "ev",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_158",
+    "word": "weather",
+    "correct": "hava",
+    "wrong": "zaman",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_159",
+    "word": "temperature",
+    "correct": "sıcaklık",
+    "wrong": "derece",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_160",
+    "word": "rain",
+    "correct": "yağmur",
+    "wrong": "güneş",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_161",
+    "word": "sun",
+    "correct": "güneş",
+    "wrong": "ay",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_162",
+    "word": "snow",
+    "correct": "kar",
+    "wrong": "yağmur",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_163",
+    "word": "windy",
+    "correct": "rüzgarlı",
+    "wrong": "sakin",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_164",
+    "word": "humid",
+    "correct": "nemli",
+    "wrong": "kuru",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_165",
+    "word": "season",
+    "correct": "mevsim",
+    "wrong": "gün",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_166",
+    "word": "spring",
+    "correct": "ilkbahar",
+    "wrong": "kış",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_167",
+    "word": "summer",
+    "correct": "yaz",
+    "wrong": "kış",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_168",
+    "word": "autumn",
+    "correct": "sonbahar",
+    "wrong": "ilkbahar",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_169",
+    "word": "winter",
+    "correct": "kış",
+    "wrong": "yaz",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_170",
+    "word": "sunset",
+    "correct": "gün batımı",
+    "wrong": "gündoğumu",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_171",
+    "word": "sunrise",
+    "correct": "gündoğumu",
+    "wrong": "gün batımı",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_172",
+    "word": "night",
+    "correct": "gece",
+    "wrong": "gündüz",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_173",
+    "word": "day",
+    "correct": "gün",
+    "wrong": "gece",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_174",
+    "word": "week",
+    "correct": "hafta",
+    "wrong": "gün",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_175",
+    "word": "month",
+    "correct": "ay",
+    "wrong": "hafta",
+    "category": "Seyahat"
+  },
+  {
+    "id": "travel_176",
+    "word": "year",
+    "correct": "yıl",
+    "wrong": "ay",
+    "category": "Seyahat"
+  }
+]

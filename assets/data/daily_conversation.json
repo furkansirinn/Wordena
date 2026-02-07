@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "daily_conversation_1",
+    "word": "hello",
+    "correct": "merhaba",
+    "wrong": "hoşça kalın",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_2",
+    "word": "hi",
+    "correct": "selam",
+    "wrong": "hoşça kalın",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_3",
+    "word": "good morning",
+    "correct": "günaydın",
+    "wrong": "iyi akşamlar",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_4",
+    "word": "good afternoon",
+    "correct": "iyi öğleden sonralar",
+    "wrong": "iyi sabahlar",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_5",
+    "word": "good evening",
+    "correct": "iyi akşamlar",
+    "wrong": "günaydın",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_6",
+    "word": "good night",
+    "correct": "iyi geceler",
+    "wrong": "günaydın",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_7",
+    "word": "how are you",
+    "correct": "nasılsın",
+    "wrong": "kim varsın",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_8",
+    "word": "how are you doing",
+    "correct": "nasıl gidiyor",
+    "wrong": "ne yapıyorsun",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_9",
+    "word": "what's up",
+    "correct": "n'aber",
+    "wrong": "hoşça kalın",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_10",
+    "word": "what's going on",
+    "correct": "ne oluyor",
+    "wrong": "neredesin",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_11",
+    "word": "how's it going",
+    "correct": "nasıl gidiyor",
+    "wrong": "neredesin",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_12",
+    "word": "fine",
+    "correct": "iyiyim",
+    "wrong": "kötüyüm",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_13",
+    "word": "great",
+    "correct": "harika",
+    "wrong": "kötü",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_14",
+    "word": "good",
+    "correct": "iyi",
+    "wrong": "kötü",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_15",
+    "word": "not bad",
+    "correct": "fena değil",
+    "wrong": "çok kötü",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_16",
+    "word": "pretty good",
+    "correct": "oldukça iyi",
+    "wrong": "kötü",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_17",
+    "word": "i'm okay",
+    "correct": "idare ediyorum",
+    "wrong": "çok kötüyüm",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_18",
+    "word": "so-so",
+    "correct": "fena değil",
+    "wrong": "çok kötü",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_19",
+    "word": "could be better",
+    "correct": "daha iyi olabilir",
+    "wrong": "çok iyi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_20",
+    "word": "not so good",
+    "correct": "pek iyi değil",
+    "wrong": "çok iyi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_21",
+    "word": "terrible",
+    "correct": "korkunç",
+    "wrong": "harika",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_22",
+    "word": "awful",
+    "correct": "berbat",
+    "wrong": "harika",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_23",
+    "word": "how about you",
+    "correct": "peki sen",
+    "wrong": "ben ne",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_24",
+    "word": "the same here",
+    "correct": "benimde öyle",
+    "wrong": "farklı",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_25",
+    "word": "thanks for asking",
+    "correct": "sormadığın için",
+    "wrong": "sordum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_26",
+    "word": "thanks",
+    "correct": "teşekkür ederim",
+    "wrong": "sorun değil",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_27",
+    "word": "thank you",
+    "correct": "teşekkür ederim",
+    "wrong": "sorun değil",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_28",
+    "word": "thank you very much",
+    "correct": "çok teşekkür ederim",
+    "wrong": "sorun değil",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_29",
+    "word": "thanks a lot",
+    "correct": "çok teşekkür ederim",
+    "wrong": "sorun değil",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_30",
+    "word": "much appreciated",
+    "correct": "çok takdir ettim",
+    "wrong": "sorun değil",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_31",
+    "word": "you're welcome",
+    "correct": "hoş geldin",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_32",
+    "word": "no problem",
+    "correct": "sorun değil",
+    "wrong": "sorun",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_33",
+    "word": "not at all",
+    "correct": "hiç bir şey değil",
+    "wrong": "problem",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_34",
+    "word": "don't mention it",
+    "correct": "söyleme",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_35",
+    "word": "anytime",
+    "correct": "istediğin zaman",
+    "wrong": "hiçbir zaman",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_36",
+    "word": "my pleasure",
+    "correct": "hoş geldin",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_37",
+    "word": "please",
+    "correct": "lütfen",
+    "wrong": "hayır",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_38",
+    "word": "excuse me",
+    "correct": "affedersiniz",
+    "wrong": "selamla",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_39",
+    "word": "pardon me",
+    "correct": "affedersiniz",
+    "wrong": "selamla",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_40",
+    "word": "sorry",
+    "correct": "özür dilerim",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_41",
+    "word": "i'm sorry",
+    "correct": "özür dilerim",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_42",
+    "word": "i apologize",
+    "correct": "özür dilerim",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_43",
+    "word": "forgive me",
+    "correct": "beni affet",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_44",
+    "word": "my apologies",
+    "correct": "özürlerim",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_45",
+    "word": "i beg your pardon",
+    "correct": "affedersiniz",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_46",
+    "word": "that's okay",
+    "correct": "sorun değil",
+    "wrong": "sorun",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_47",
+    "word": "it's alright",
+    "correct": "sorun değil",
+    "wrong": "sorun",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_48",
+    "word": "no harm done",
+    "correct": "zarar yok",
+    "wrong": "zarar var",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_49",
+    "word": "never mind",
+    "correct": "bırak",
+    "wrong": "hatırla",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_50",
+    "word": "forget about it",
+    "correct": "unut",
+    "wrong": "hatırla",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_51",
+    "word": "don't worry about it",
+    "correct": "endişelenme",
+    "wrong": "kaygılan",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_52",
+    "word": "see you",
+    "correct": "görüşürüz",
+    "wrong": "hiç görüşmeyiz",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_53",
+    "word": "see you later",
+    "correct": "sonra görüşürüz",
+    "wrong": "hiç görüşmeyiz",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_54",
+    "word": "see you soon",
+    "correct": "yakında görüşürüz",
+    "wrong": "hiç görüşmeyiz",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_55",
+    "word": "see you tomorrow",
+    "correct": "yarın görüşürüz",
+    "wrong": "hiç görüşmeyiz",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_56",
+    "word": "goodbye",
+    "correct": "hoşça kalın",
+    "wrong": "merhaba",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_57",
+    "word": "bye",
+    "correct": "hoşça kalın",
+    "wrong": "selam",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_58",
+    "word": "bye bye",
+    "correct": "hoşça kalın",
+    "wrong": "selam",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_59",
+    "word": "take care",
+    "correct": "kendine iyi bak",
+    "wrong": "ihmal et",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_60",
+    "word": "take it easy",
+    "correct": "rahat ol",
+    "wrong": "gergin ol",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_61",
+    "word": "see you around",
+    "correct": "etrafta görüşürüz",
+    "wrong": "hiç görüşmeyiz",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_62",
+    "word": "catch you later",
+    "correct": "sonra görüşürüz",
+    "wrong": "hiç görüşmeyiz",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_63",
+    "word": "until next time",
+    "correct": "sonraki defe kadar",
+    "wrong": "hiç görüşmeyiz",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_64",
+    "word": "have a nice day",
+    "correct": "güzel bir gün geçir",
+    "wrong": "kötü gün geçir",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_65",
+    "word": "have a good day",
+    "correct": "güzel bir gün geçir",
+    "wrong": "kötü gün geçir",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_66",
+    "word": "have fun",
+    "correct": "eğlen",
+    "wrong": "ağla",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_67",
+    "word": "enjoy yourself",
+    "correct": "kendin eğlendir",
+    "wrong": "hazırlık yap",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_68",
+    "word": "it was nice talking to you",
+    "correct": "seninle konuşması hoştu",
+    "wrong": "berbat",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_69",
+    "word": "it was nice meeting you",
+    "correct": "seninle tanışması hoştu",
+    "wrong": "berbat",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_70",
+    "word": "pleased to meet you",
+    "correct": "tanıştığımızdan mutluyum",
+    "wrong": "mutsuzum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_71",
+    "word": "nice to meet you",
+    "correct": "seninle tanışmaktan hoşlanıyorum",
+    "wrong": "nefret ediyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_72",
+    "word": "lovely to see you",
+    "correct": "seni görmek güzeldi",
+    "wrong": "seni görmek kötüydü",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_73",
+    "word": "great to see you",
+    "correct": "seni görmek harikasıydı",
+    "wrong": "seni görmek berbat",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_74",
+    "word": "it's been a while",
+    "correct": "uzun zaman olmuş",
+    "wrong": "daha yeni",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_75",
+    "word": "long time no see",
+    "correct": "uzun zaman olmuş",
+    "wrong": "daha yeni",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_76",
+    "word": "what's new",
+    "correct": "neler var neler",
+    "wrong": "eski haberler",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_77",
+    "word": "anything new",
+    "correct": "yeni bir şey var mı",
+    "wrong": "eski şeyler",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_78",
+    "word": "how have you been",
+    "correct": "nasıl oldun",
+    "wrong": "ne yaptın",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_79",
+    "word": "what have you been up to",
+    "correct": "ne yaptığın",
+    "wrong": "yapılı",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_80",
+    "word": "tell me about yourself",
+    "correct": "kendin hakkında anlat",
+    "wrong": "sessiz kal",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_81",
+    "word": "tell me more",
+    "correct": "daha anlat",
+    "wrong": "dur",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_82",
+    "word": "i'd like to know more",
+    "correct": "daha fazla bilmek istiyorum",
+    "wrong": "bilmek istemiyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_83",
+    "word": "can you explain",
+    "correct": "açıklayabilir misin",
+    "wrong": "gizle",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_84",
+    "word": "could you repeat that",
+    "correct": "tekrar edebilir misin",
+    "wrong": "söyleme",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_85",
+    "word": "sorry, what did you say",
+    "correct": "pardon, ne dedin",
+    "wrong": "duydum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_86",
+    "word": "i didn't catch that",
+    "correct": "anlamadım",
+    "wrong": "anladım",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_87",
+    "word": "i beg your pardon",
+    "correct": "pardon",
+    "wrong": "teşekkür ederim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_88",
+    "word": "what do you mean",
+    "correct": "ne demek istiyorsun",
+    "wrong": "anlıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_89",
+    "word": "can you clarify",
+    "correct": "açıklayabilir misin",
+    "wrong": "gizle",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_90",
+    "word": "i don't understand",
+    "correct": "anlamıyorum",
+    "wrong": "anlıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_91",
+    "word": "i don't get it",
+    "correct": "anlamıyorum",
+    "wrong": "anlıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_92",
+    "word": "explain it to me",
+    "correct": "bana açıkla",
+    "wrong": "gizle",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_93",
+    "word": "speak more slowly",
+    "correct": "daha yavaş konuş",
+    "wrong": "daha hızlı konuş",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_94",
+    "word": "speak more clearly",
+    "correct": "daha net konuş",
+    "wrong": "murmulda",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_95",
+    "word": "what's that called",
+    "correct": "buna ne denir",
+    "wrong": "tanısı",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_96",
+    "word": "how do you spell that",
+    "correct": "bunu nasıl yazarsın",
+    "wrong": "oku",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_97",
+    "word": "how do you pronounce that",
+    "correct": "bunu nasıl telaffuz edersin",
+    "wrong": "dinle",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_98",
+    "word": "how do you say that in english",
+    "correct": "bunu ingilizce nasıl dersin",
+    "wrong": "türkçe",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_99",
+    "word": "what does that word mean",
+    "correct": "o kelime ne anlama geliyor",
+    "wrong": "anlam",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_100",
+    "word": "what does that expression mean",
+    "correct": "o ifade ne anlama geliyor",
+    "wrong": "anlam",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_101",
+    "word": "do you know what i mean",
+    "correct": "ne demek istediğimi anlıyor musun",
+    "wrong": "anlamıyor",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_102",
+    "word": "i know what you mean",
+    "correct": "ne demek istediğini anlıyorum",
+    "wrong": "anlamıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_103",
+    "word": "that's what i thought",
+    "correct": "ben de öyle düşündüm",
+    "wrong": "ben farklı düşündüm",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_104",
+    "word": "exactly",
+    "correct": "tam olarak",
+    "wrong": "aksine",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_105",
+    "word": "precisely",
+    "correct": "tam olarak",
+    "wrong": "yaklaşık",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_106",
+    "word": "right",
+    "correct": "doğru",
+    "wrong": "yanlış",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_107",
+    "word": "correct",
+    "correct": "doğru",
+    "wrong": "yanlış",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_108",
+    "word": "that's correct",
+    "correct": "doğru",
+    "wrong": "yanlış",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_109",
+    "word": "that's right",
+    "correct": "doğru",
+    "wrong": "yanlış",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_110",
+    "word": "absolutely",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_111",
+    "word": "definitely",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_112",
+    "word": "for sure",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_113",
+    "word": "sure thing",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_114",
+    "word": "you bet",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_115",
+    "word": "i agree",
+    "correct": "katılıyorum",
+    "wrong": "katılmıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_116",
+    "word": "i agree with you",
+    "correct": "seninle katılıyorum",
+    "wrong": "katılmıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_117",
+    "word": "i think so too",
+    "correct": "ben de öyle düşünüyorum",
+    "wrong": "farklı düşünüyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_118",
+    "word": "me too",
+    "correct": "ben de",
+    "wrong": "ben değil",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_119",
+    "word": "me neither",
+    "correct": "ben de değil",
+    "wrong": "ben evet",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_120",
+    "word": "i feel the same way",
+    "correct": "ben de öyle hissediyorum",
+    "wrong": "farklı hissediyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_121",
+    "word": "i couldn't agree more",
+    "correct": "daha fazla katılamam",
+    "wrong": "katılmıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_122",
+    "word": "i disagree",
+    "correct": "katılmıyorum",
+    "wrong": "katılıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_123",
+    "word": "i don't agree",
+    "correct": "katılmıyorum",
+    "wrong": "katılıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_124",
+    "word": "i don't think so",
+    "correct": "öyle düşünmüyorum",
+    "wrong": "öyle düşünüyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_125",
+    "word": "on the contrary",
+    "correct": "aksine",
+    "wrong": "gibi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_126",
+    "word": "quite the opposite",
+    "correct": "tam tersi",
+    "wrong": "gibi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_127",
+    "word": "i beg to differ",
+    "correct": "katılmıyorum",
+    "wrong": "katılıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_128",
+    "word": "i'm not sure about that",
+    "correct": "buna emin değilim",
+    "wrong": "eminiyim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_129",
+    "word": "i'm not convinced",
+    "correct": "ikna olmadım",
+    "wrong": "ikna oldum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_130",
+    "word": "that's debatable",
+    "correct": "tartışılır",
+    "wrong": "kesin",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_131",
+    "word": "that's open to interpretation",
+    "correct": "farklı şekilde yorumlanabilir",
+    "wrong": "kesin",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_132",
+    "word": "i see your point",
+    "correct": "bakış açını anlıyorum",
+    "wrong": "anlamıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_133",
+    "word": "you have a point",
+    "correct": "haklısın",
+    "wrong": "haksızsin",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_134",
+    "word": "that's a good point",
+    "correct": "iyi bir nokta",
+    "wrong": "kötü nokta",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_135",
+    "word": "that's true",
+    "correct": "doğru",
+    "wrong": "yanlış",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_136",
+    "word": "that's a fact",
+    "correct": "bu bir gerçek",
+    "wrong": "bu bir fikir",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_137",
+    "word": "no doubt about it",
+    "correct": "şüphesiz",
+    "wrong": "tartışılır",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_138",
+    "word": "without a doubt",
+    "correct": "şüphesiz",
+    "wrong": "tartışılır",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_139",
+    "word": "undoubtedly",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_140",
+    "word": "i guarantee it",
+    "correct": "garanti ediyorum",
+    "wrong": "garanti etmiyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_141",
+    "word": "mark my words",
+    "correct": "sözüme kulak ver",
+    "wrong": "söyleme",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_142",
+    "word": "trust me",
+    "correct": "bana güven",
+    "wrong": "bana güvenme",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_143",
+    "word": "believe me",
+    "correct": "bana inan",
+    "wrong": "bana inanma",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_144",
+    "word": "honestly",
+    "correct": "dürüst olmak gerekirse",
+    "wrong": "yalan",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_145",
+    "word": "frankly",
+    "correct": "açık söylemek gerekirse",
+    "wrong": "gizli",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_146",
+    "word": "to be honest",
+    "correct": "dürüst olmak gerekirse",
+    "wrong": "yalan",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_147",
+    "word": "to tell the truth",
+    "correct": "gerçeği söylemek gerekirse",
+    "wrong": "yalan",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_148",
+    "word": "in all honesty",
+    "correct": "tüm dürüstlüğüyle",
+    "wrong": "gizli",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_149",
+    "word": "to be frank",
+    "correct": "açık söylemek gerekirse",
+    "wrong": "gizli",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_150",
+    "word": "in all seriousness",
+    "correct": "tüm ciddiyetle",
+    "wrong": "şaka",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_151",
+    "word": "i'm just kidding",
+    "correct": "sadece şaka yapıyorum",
+    "wrong": "ciddiyim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_152",
+    "word": "i'm joking",
+    "correct": "şaka yapıyorum",
+    "wrong": "ciddiyim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_153",
+    "word": "i was just joking",
+    "correct": "sadece şaka yapıyordum",
+    "wrong": "ciddi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_154",
+    "word": "just joking",
+    "correct": "sadece şaka",
+    "wrong": "ciddi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_155",
+    "word": "only kidding",
+    "correct": "sadece şaka",
+    "wrong": "ciddi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_156",
+    "word": "i'm being serious",
+    "correct": "ciddiyim",
+    "wrong": "şaka yapıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_157",
+    "word": "i'm not joking",
+    "correct": "şaka yapmıyorum",
+    "wrong": "şaka yapıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_158",
+    "word": "seriously though",
+    "correct": "şaka bir yana ciddiyim",
+    "wrong": "şaka yapıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_159",
+    "word": "on a serious note",
+    "correct": "ciddi bir not",
+    "wrong": "şaka",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_160",
+    "word": "all jokes aside",
+    "correct": "şakalar bir yana",
+    "wrong": "şaka devam",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_161",
+    "word": "no fooling",
+    "correct": "şaka değil",
+    "wrong": "şaka",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_162",
+    "word": "you're pulling my leg",
+    "correct": "benimle şaka mı yapıyorsun",
+    "wrong": "ciddiyim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_163",
+    "word": "you're joking",
+    "correct": "şaka mı yapıyorsun",
+    "wrong": "ciddiyim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_164",
+    "word": "you can't be serious",
+    "correct": "ciddi olamaz",
+    "wrong": "ciddi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_165",
+    "word": "you can't mean that",
+    "correct": "bunu kastetmiyor musun",
+    "wrong": "kastediyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_166",
+    "word": "surely you're joking",
+    "correct": "kesin şaka yapıyorsun",
+    "wrong": "ciddiyim",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_167",
+    "word": "i'm being sarcastic",
+    "correct": "alaycı konuşuyorum",
+    "wrong": "samimi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_168",
+    "word": "i'm not being sarcastic",
+    "correct": "alaycı konuşmuyorum",
+    "wrong": "alaycı",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_169",
+    "word": "that's sarcasm",
+    "correct": "bu ironi",
+    "wrong": "ciddi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_170",
+    "word": "i can tell you're sarcastic",
+    "correct": "alaycı olduğunu anlayabiliyorum",
+    "wrong": "ciddi",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_171",
+    "word": "what's your opinion",
+    "correct": "senin fikrin ne",
+    "wrong": "fikir yok",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_172",
+    "word": "what do you think",
+    "correct": "ne düşünüyorsun",
+    "wrong": "düşünme",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_173",
+    "word": "what's your take on this",
+    "correct": "bunun hakkında ne düşünüyorsun",
+    "wrong": "düşünme",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_174",
+    "word": "in your opinion",
+    "correct": "senin fikrine göre",
+    "wrong": "fikir yok",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_175",
+    "word": "if you ask me",
+    "correct": "bana sorsan",
+    "wrong": "sormuyor",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_176",
+    "word": "my opinion is",
+    "correct": "benim fikrim",
+    "wrong": "fikrim yok",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_177",
+    "word": "i think",
+    "correct": "sanıyorum",
+    "wrong": "sanmıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_178",
+    "word": "i believe",
+    "correct": "inanıyorum",
+    "wrong": "inanmıyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_179",
+    "word": "i feel",
+    "correct": "hissediyorum",
+    "wrong": "hissetmiyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_180",
+    "word": "in my view",
+    "correct": "benim görüşüme göre",
+    "wrong": "görüş yok",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_181",
+    "word": "from my perspective",
+    "correct": "benim perspektifimden",
+    "wrong": "perspektif yok",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_182",
+    "word": "as far as i'm concerned",
+    "correct": "benim açımdan",
+    "wrong": "açı yok",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_183",
+    "word": "the way i see it",
+    "correct": "benim gördüğüm kadarıyla",
+    "wrong": "görmüyorum",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_184",
+    "word": "if you ask me",
+    "correct": "bana sorsan",
+    "wrong": "sormuyor",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_185",
+    "word": "to my mind",
+    "correct": "benim aklıma göre",
+    "wrong": "akıl yok",
+    "category": "Günlük Konuşma"
+  },
+  {
+    "id": "daily_conversation_186",
+    "word": "speaking from experience",
+    "correct": "deneyimden konuşmak gerekirse",
+    "wrong": "tecrübe yok",
+    "category": "Günlük Konuşma"
+  }
+]

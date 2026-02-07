@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "emotions_1",
+    "word": "emotion",
+    "correct": "duygu",
+    "wrong": "düşünce",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_2",
+    "word": "feeling",
+    "correct": "hissetme",
+    "wrong": "bilme",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_3",
+    "word": "happy",
+    "correct": "mutlu",
+    "wrong": "üzgün",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_4",
+    "word": "happiness",
+    "correct": "mutluluk",
+    "wrong": "üzüntü",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_5",
+    "word": "joy",
+    "correct": "sevinç",
+    "wrong": "hüzün",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_6",
+    "word": "cheerful",
+    "correct": "neşeli",
+    "wrong": "karamsar",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_7",
+    "word": "delighted",
+    "correct": "sevinmiş",
+    "wrong": "hayal kırıklığı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_8",
+    "word": "thrilled",
+    "correct": "heyecanlandırılan",
+    "wrong": "hayal kırıklığı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_9",
+    "word": "excited",
+    "correct": "heyecanlı",
+    "wrong": "sıkılan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_10",
+    "word": "enthusiasm",
+    "correct": "hevesi",
+    "wrong": "ilgisizlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_11",
+    "word": "enthusiastic",
+    "correct": "hevesli",
+    "wrong": "ilgisiz",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_12",
+    "word": "glad",
+    "correct": "sevinmiş",
+    "wrong": "üzgün",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_13",
+    "word": "pleased",
+    "correct": "memnun",
+    "wrong": "hoşnut olmayan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_14",
+    "word": "satisfied",
+    "correct": "tatmin",
+    "wrong": "tatminsiz",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_15",
+    "word": "content",
+    "correct": "memnun",
+    "wrong": "hoşnut olmayan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_16",
+    "word": "peaceful",
+    "correct": "barışçı",
+    "wrong": "huzursuz",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_17",
+    "word": "calm",
+    "correct": "sakin",
+    "wrong": "gergin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_18",
+    "word": "relaxed",
+    "correct": "rahat",
+    "wrong": "gergin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_19",
+    "word": "comfortable",
+    "correct": "rahat",
+    "wrong": "rahatsız",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_20",
+    "word": "proud",
+    "correct": "gururlu",
+    "wrong": "utanmış",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_21",
+    "word": "confidence",
+    "correct": "özgüven",
+    "wrong": "şüphe",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_22",
+    "word": "confident",
+    "correct": "emin",
+    "wrong": "şüpheci",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_23",
+    "word": "brave",
+    "correct": "cesur",
+    "wrong": "korkmuş",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_24",
+    "word": "courageous",
+    "correct": "kahraman",
+    "wrong": "korkaklık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_25",
+    "word": "determined",
+    "correct": "kararlı",
+    "wrong": "kararsız",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_26",
+    "word": "hopeful",
+    "correct": "umutlu",
+    "wrong": "umutsuz",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_27",
+    "word": "optimistic",
+    "correct": "iyimser",
+    "wrong": "kötümser",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_28",
+    "word": "sad",
+    "correct": "üzgün",
+    "wrong": "mutlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_29",
+    "word": "sadness",
+    "correct": "üzüntü",
+    "wrong": "mutluluk",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_30",
+    "word": "sorrow",
+    "correct": "hüzün",
+    "wrong": "sevinç",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_31",
+    "word": "grief",
+    "correct": "derin üzüntü",
+    "wrong": "sevinç",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_32",
+    "word": "misery",
+    "correct": "mutsuzluk",
+    "wrong": "mutluluk",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_33",
+    "word": "depressed",
+    "correct": "deprimli",
+    "wrong": "mutlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_34",
+    "word": "depression",
+    "correct": "depresyon",
+    "wrong": "mutluluk",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_35",
+    "word": "unhappy",
+    "correct": "mutsuz",
+    "wrong": "mutlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_36",
+    "word": "gloomy",
+    "correct": "kasvetli",
+    "wrong": "aydınlık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_37",
+    "word": "dismal",
+    "correct": "kötümserlik",
+    "wrong": "iyi",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_38",
+    "word": "desperate",
+    "correct": "çaresiz",
+    "wrong": "umutlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_39",
+    "word": "despair",
+    "correct": "umutsuzluk",
+    "wrong": "umut",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_40",
+    "word": "hopeless",
+    "correct": "umutsuz",
+    "wrong": "umutlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_41",
+    "word": "pessimistic",
+    "correct": "kötümser",
+    "wrong": "iyimser",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_42",
+    "word": "lonely",
+    "correct": "yalnız",
+    "wrong": "beraber",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_43",
+    "word": "loneliness",
+    "correct": "yalnızlık",
+    "wrong": "şirket",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_44",
+    "word": "isolated",
+    "correct": "izole",
+    "wrong": "bağlı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_45",
+    "word": "homesick",
+    "correct": "hasret çekmek",
+    "wrong": "mutlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_46",
+    "word": "nostalgic",
+    "correct": "nostaljik",
+    "wrong": "güncel",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_47",
+    "word": "melancholy",
+    "correct": "melankolik",
+    "wrong": "neşeli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_48",
+    "word": "wistful",
+    "correct": "arzusu",
+    "wrong": "tatmin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_49",
+    "word": "bittersweet",
+    "correct": "acı tatlı",
+    "wrong": "saf",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_50",
+    "word": "angry",
+    "correct": "kızgın",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_51",
+    "word": "anger",
+    "correct": "kızgınlık",
+    "wrong": "sakinlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_52",
+    "word": "furious",
+    "correct": "hiddetli",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_53",
+    "word": "rage",
+    "correct": "öfke",
+    "wrong": "sakinlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_54",
+    "word": "irritated",
+    "correct": "sinirlenmiş",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_55",
+    "word": "annoyed",
+    "correct": "rahatsız",
+    "wrong": "memnun",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_56",
+    "word": "frustrated",
+    "correct": "hayal kırıklığına uğramış",
+    "wrong": "tatmin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_57",
+    "word": "resentful",
+    "correct": "kızgın",
+    "wrong": "minnet duyan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_58",
+    "word": "bitter",
+    "correct": "acı",
+    "wrong": "tatlı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_59",
+    "word": "hostile",
+    "correct": "düşmanca",
+    "wrong": "dostça",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_60",
+    "word": "aggressive",
+    "correct": "saldırgan",
+    "wrong": "barışçı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_61",
+    "word": "violent",
+    "correct": "şiddetli",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_62",
+    "word": "hateful",
+    "correct": "nefret edilen",
+    "wrong": "sevilen",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_63",
+    "word": "spite",
+    "correct": "nefret",
+    "wrong": "sevgi",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_64",
+    "word": "malicious",
+    "correct": "kötü niyetli",
+    "wrong": "iyi niyetli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_65",
+    "word": "vengeful",
+    "correct": "intikam arzusu",
+    "wrong": "affedici",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_66",
+    "word": "afraid",
+    "correct": "korkmuş",
+    "wrong": "cesur",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_67",
+    "word": "fear",
+    "correct": "korku",
+    "wrong": "cesaret",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_68",
+    "word": "scared",
+    "correct": "korkmuş",
+    "wrong": "cesur",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_69",
+    "word": "terror",
+    "correct": "terör",
+    "wrong": "güvenlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_70",
+    "word": "frightened",
+    "correct": "korkmuş",
+    "wrong": "cesur",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_71",
+    "word": "panic",
+    "correct": "panik",
+    "wrong": "sakinlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_72",
+    "word": "anxious",
+    "correct": "endişeli",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_73",
+    "word": "anxiety",
+    "correct": "kaygı",
+    "wrong": "sakinlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_74",
+    "word": "nervous",
+    "correct": "gergin",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_75",
+    "word": "worried",
+    "correct": "endişeli",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_76",
+    "word": "concern",
+    "correct": "kaygı",
+    "wrong": "ilgisizlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_77",
+    "word": "stress",
+    "correct": "stres",
+    "wrong": "rahatlama",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_78",
+    "word": "tense",
+    "correct": "gergin",
+    "wrong": "rahat",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_79",
+    "word": "uneasy",
+    "correct": "rahatsız",
+    "wrong": "rahat",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_80",
+    "word": "apprehensive",
+    "correct": "endişeli",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_81",
+    "word": "dread",
+    "correct": "korku",
+    "wrong": "sabırsızlık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_82",
+    "word": "phobia",
+    "correct": "fobia",
+    "wrong": "sevgi",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_83",
+    "word": "paranoia",
+    "correct": "paranoia",
+    "wrong": "güven",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_84",
+    "word": "insecure",
+    "correct": "güvensiz",
+    "wrong": "güvenli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_85",
+    "word": "uncertainty",
+    "correct": "belirsizlik",
+    "wrong": "kesinlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_86",
+    "word": "doubt",
+    "correct": "şüphe",
+    "wrong": "kesinlik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_87",
+    "word": "suspicious",
+    "correct": "şüpheci",
+    "wrong": "güvenli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_88",
+    "word": "skeptical",
+    "correct": "şüpheci",
+    "wrong": "inanan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_89",
+    "word": "confused",
+    "correct": "şaşkın",
+    "wrong": "anlayan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_90",
+    "word": "confusion",
+    "correct": "kafa karışıklığı",
+    "wrong": "anlaşılma",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_91",
+    "word": "bewildered",
+    "correct": "şaşırılan",
+    "wrong": "anlayan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_92",
+    "word": "perplexed",
+    "correct": "kafası karışık",
+    "wrong": "anlayan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_93",
+    "word": "embarrassed",
+    "correct": "utanmış",
+    "wrong": "özgüvenli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_94",
+    "word": "shame",
+    "correct": "utanç",
+    "wrong": "onur",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_95",
+    "word": "ashamed",
+    "correct": "utanmış",
+    "wrong": "gururlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_96",
+    "word": "humiliated",
+    "correct": "aşağılanmış",
+    "wrong": "onurlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_97",
+    "word": "mortified",
+    "correct": "yüzü kızarmış",
+    "wrong": "onurlu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_98",
+    "word": "self-conscious",
+    "correct": "kendine özgü",
+    "wrong": "doğal",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_99",
+    "word": "awkward",
+    "correct": "garip",
+    "wrong": "doğal",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_100",
+    "word": "uncomfortable",
+    "correct": "rahatsız",
+    "wrong": "rahat",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_101",
+    "word": "guilty",
+    "correct": "suçlu",
+    "wrong": "masum",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_102",
+    "word": "guilt",
+    "correct": "suç",
+    "wrong": "masumiyet",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_103",
+    "word": "regret",
+    "correct": "pişmanlık",
+    "wrong": "hoşnutluk",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_104",
+    "word": "remorse",
+    "correct": "vicdani rahatsızlık",
+    "wrong": "kayıtsızlık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_105",
+    "word": "sorry",
+    "correct": "üzgün",
+    "wrong": "hoşnut",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_106",
+    "word": "apologetic",
+    "correct": "özür dileyen",
+    "wrong": "özür dileyen değil",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_107",
+    "word": "forgiveness",
+    "correct": "affetme",
+    "wrong": "kindar",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_108",
+    "word": "forgave",
+    "correct": "affetti",
+    "wrong": "intikam aldı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_109",
+    "word": "love",
+    "correct": "sevgi",
+    "wrong": "nefret",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_110",
+    "word": "loving",
+    "correct": "sevgi dolu",
+    "wrong": "nefret dolu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_111",
+    "word": "affectionate",
+    "correct": "sevgiyle dolu",
+    "wrong": "soğuk",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_112",
+    "word": "tender",
+    "correct": "hassas",
+    "wrong": "sert",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_113",
+    "word": "romantic",
+    "correct": "romantik",
+    "wrong": "pratik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_114",
+    "word": "compassion",
+    "correct": "acı",
+    "wrong": "kayıtsızlık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_115",
+    "word": "compassionate",
+    "correct": "acı hisseden",
+    "wrong": "kayıtsız",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_116",
+    "word": "empathy",
+    "correct": "empati",
+    "wrong": "kayıtsızlık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_117",
+    "word": "sympathy",
+    "correct": "sempati",
+    "wrong": "kayıtsızlık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_118",
+    "word": "kind",
+    "correct": "nazik",
+    "wrong": "kaba",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_119",
+    "word": "kindness",
+    "correct": "nezaket",
+    "wrong": "kabulü",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_120",
+    "word": "generous",
+    "correct": "cömert",
+    "wrong": "cimri",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_121",
+    "word": "selfless",
+    "correct": "özverili",
+    "wrong": "benmerkezci",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_122",
+    "word": "altruistic",
+    "correct": "özverili",
+    "wrong": "benmerkezci",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_123",
+    "word": "caring",
+    "correct": "seven",
+    "wrong": "kayıtsız",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_124",
+    "word": "protective",
+    "correct": "koruyucu",
+    "wrong": "kayıtsız",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_125",
+    "word": "supportive",
+    "correct": "destekleyici",
+    "wrong": "karşı çıkan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_126",
+    "word": "loyal",
+    "correct": "bağlı",
+    "wrong": "sadık olmayan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_127",
+    "word": "faithful",
+    "correct": "sadık",
+    "wrong": "sahte",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_128",
+    "word": "trust",
+    "correct": "güven",
+    "wrong": "şüphe",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_129",
+    "word": "trusted",
+    "correct": "güvenilen",
+    "wrong": "güvenilmeyen",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_130",
+    "word": "trustworthy",
+    "correct": "güvenilir",
+    "wrong": "güvenilmez",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_131",
+    "word": "reliable",
+    "correct": "güvenilir",
+    "wrong": "güvenilmez",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_132",
+    "word": "dependable",
+    "correct": "bağlı",
+    "wrong": "belirsiz",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_133",
+    "word": "hate",
+    "correct": "nefret",
+    "wrong": "sevgi",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_134",
+    "word": "hatred",
+    "correct": "nefret",
+    "wrong": "sevgi",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_135",
+    "word": "despise",
+    "correct": "hor görmek",
+    "wrong": "saygı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_136",
+    "word": "detest",
+    "correct": "nefret etmek",
+    "wrong": "sevmek",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_137",
+    "word": "dislike",
+    "correct": "sevmemek",
+    "wrong": "sevmek",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_138",
+    "word": "aversion",
+    "correct": "itici",
+    "wrong": "çekici",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_139",
+    "word": "revulsion",
+    "correct": "iğrenme",
+    "wrong": "çekici",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_140",
+    "word": "contempt",
+    "correct": "hor görme",
+    "wrong": "saygı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_141",
+    "word": "scorn",
+    "correct": "hor görme",
+    "wrong": "saygı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_142",
+    "word": "disdain",
+    "correct": "küçümseme",
+    "wrong": "saygı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_143",
+    "word": "jealous",
+    "correct": "kıskançlık",
+    "wrong": "paylaşma",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_144",
+    "word": "jealousy",
+    "correct": "kıskançlık",
+    "wrong": "paylaşma",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_145",
+    "word": "envy",
+    "correct": "kıskançlık",
+    "wrong": "hoşnutluk",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_146",
+    "word": "envious",
+    "correct": "kıskançlık",
+    "wrong": "hoşnut",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_147",
+    "word": "resentment",
+    "correct": "kızgınlık",
+    "wrong": "minnet",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_148",
+    "word": "grudge",
+    "correct": "kin",
+    "wrong": "affetme",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_149",
+    "word": "vindictive",
+    "correct": "intikamcı",
+    "wrong": "affedici",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_150",
+    "word": "arrogant",
+    "correct": "kibirli",
+    "wrong": "alçakgönüllü",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_151",
+    "word": "arrogance",
+    "correct": "kibir",
+    "wrong": "alçakgönüllülük",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_152",
+    "word": "haughty",
+    "correct": "kibirli",
+    "wrong": "alçakgönüllü",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_153",
+    "word": "conceited",
+    "correct": "kendini beğenmiş",
+    "wrong": "alçakgönüllü",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_154",
+    "word": "vain",
+    "correct": "boş",
+    "wrong": "alçakgönüllü",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_155",
+    "word": "vanity",
+    "correct": "haytası",
+    "wrong": "alçakgönüllülük",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_156",
+    "word": "egotistical",
+    "correct": "bencil",
+    "wrong": "özverili",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_157",
+    "word": "selfish",
+    "correct": "bencil",
+    "wrong": "özverili",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_158",
+    "word": "narcissistic",
+    "correct": "narsisistik",
+    "wrong": "alçakgönüllü",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_159",
+    "word": "humble",
+    "correct": "alçakgönüllü",
+    "wrong": "kibirli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_160",
+    "word": "humility",
+    "correct": "alçakgönüllülük",
+    "wrong": "kibir",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_161",
+    "word": "modest",
+    "correct": "mütevazı",
+    "wrong": "kibirli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_162",
+    "word": "modesty",
+    "correct": "mütevazılık",
+    "wrong": "kibir",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_163",
+    "word": "meek",
+    "correct": "uysal",
+    "wrong": "kaba",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_164",
+    "word": "submissive",
+    "correct": "itaatkar",
+    "wrong": "başkaldıran",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_165",
+    "word": "obedient",
+    "correct": "itaatkar",
+    "wrong": "asi",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_166",
+    "word": "defiant",
+    "correct": "başkaldıran",
+    "wrong": "itaatkar",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_167",
+    "word": "rebellious",
+    "correct": "asi",
+    "wrong": "itaatkar",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_168",
+    "word": "independent",
+    "correct": "bağımsız",
+    "wrong": "bağımlı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_169",
+    "word": "freedom",
+    "correct": "özgürlük",
+    "wrong": "esaret",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_170",
+    "word": "liberation",
+    "correct": "kurtulma",
+    "wrong": "tutsaklık",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_171",
+    "word": "free",
+    "correct": "özgür",
+    "wrong": "esir",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_172",
+    "word": "liberated",
+    "correct": "kurtulmuş",
+    "wrong": "tutuklu",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_173",
+    "word": "constraint",
+    "correct": "kısıtlama",
+    "wrong": "özgürlük",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_174",
+    "word": "restriction",
+    "correct": "kısıtlama",
+    "wrong": "özgürlük",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_175",
+    "word": "burden",
+    "correct": "yük",
+    "wrong": "hafiflik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_176",
+    "word": "relief",
+    "correct": "rahatlama",
+    "wrong": "gerilim",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_177",
+    "word": "relieved",
+    "correct": "rahatlamış",
+    "wrong": "gergin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_178",
+    "word": "lightened",
+    "correct": "hafifletilmiş",
+    "wrong": "ağırlaştırılmış",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_179",
+    "word": "weight",
+    "correct": "ağırlık",
+    "wrong": "hafiflik",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_180",
+    "word": "heavy",
+    "correct": "ağır",
+    "wrong": "hafif",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_181",
+    "word": "light",
+    "correct": "hafif",
+    "wrong": "ağır",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_182",
+    "word": "carefree",
+    "correct": "kaygısız",
+    "wrong": "kaygılı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_183",
+    "word": "worry-free",
+    "correct": "endişesiz",
+    "wrong": "endişeli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_184",
+    "word": "lighthearted",
+    "correct": "neşeli",
+    "wrong": "ağır",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_185",
+    "word": "playful",
+    "correct": "oyuncu",
+    "wrong": "ciddi",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_186",
+    "word": "fun",
+    "correct": "eğlenç",
+    "wrong": "sıkıcı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_187",
+    "word": "amusing",
+    "correct": "eğlenceli",
+    "wrong": "sıkıcı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_188",
+    "word": "hilarious",
+    "correct": "çok komik",
+    "wrong": "sıkıcı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_189",
+    "word": "funny",
+    "correct": "komik",
+    "wrong": "sıkıcı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_190",
+    "word": "laughter",
+    "correct": "kahkaha",
+    "wrong": "ağlama",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_191",
+    "word": "laugh",
+    "correct": "gülme",
+    "wrong": "ağlama",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_192",
+    "word": "smile",
+    "correct": "gülümseme",
+    "wrong": "kaş çatma",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_193",
+    "word": "grin",
+    "correct": "ışıl ışıl gülümseme",
+    "wrong": "somurtma",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_194",
+    "word": "smirk",
+    "correct": "kötü niyetli gülümseme",
+    "wrong": "gülümseme",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_195",
+    "word": "smug",
+    "correct": "kendinden emin",
+    "wrong": "mütevazı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_196",
+    "word": "sullen",
+    "correct": "somurtkun",
+    "wrong": "neşeli",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_197",
+    "word": "moody",
+    "correct": "ruh hali",
+    "wrong": "sabit",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_198",
+    "word": "temperamental",
+    "correct": "kızmaya eğilimli",
+    "wrong": "sakin",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_199",
+    "word": "volatile",
+    "correct": "değişken",
+    "wrong": "istikrarlı",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_200",
+    "word": "unpredictable",
+    "correct": "öngörülmeyen",
+    "wrong": "öngörülebilir",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_201",
+    "word": "eccentric",
+    "correct": "tuhaflık",
+    "wrong": "sıradan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_202",
+    "word": "quirky",
+    "correct": "tuhaf",
+    "wrong": "sıradan",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_203",
+    "word": "peculiar",
+    "correct": "garip",
+    "wrong": "normal",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_204",
+    "word": "strange",
+    "correct": "tuhaf",
+    "wrong": "normal",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_205",
+    "word": "weird",
+    "correct": "garip",
+    "wrong": "normal",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_206",
+    "word": "odd",
+    "correct": "garip",
+    "wrong": "normal",
+    "category": "Duygular"
+  },
+  {
+    "id": "emotions_207",
+    "word": "bizarre",
+    "correct": "tuhaf",
+    "wrong": "normal",
+    "category": "Duygular"
+  }
+]

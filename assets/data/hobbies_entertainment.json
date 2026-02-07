@@ -1,0 +1,1773 @@
+[
+  {
+    "id": "hobbies_entertainment_1",
+    "word": "hobby",
+    "correct": "hobi",
+    "wrong": "iş",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_2",
+    "word": "pastime",
+    "correct": "zaman geçirme",
+    "wrong": "iş",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_3",
+    "word": "leisure",
+    "correct": "boş zaman",
+    "wrong": "çalışma",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_4",
+    "word": "recreation",
+    "correct": "rekreasyon",
+    "wrong": "iş",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_5",
+    "word": "entertainment",
+    "correct": "eğlence",
+    "wrong": "sıkıntı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_6",
+    "word": "amusement",
+    "correct": "eğlence",
+    "wrong": "sıkıntı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_7",
+    "word": "fun",
+    "correct": "eğlenç",
+    "wrong": "sıkıcı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_8",
+    "word": "game",
+    "correct": "oyun",
+    "wrong": "ciddi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_9",
+    "word": "playing",
+    "correct": "oynama",
+    "wrong": "izleme",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_10",
+    "word": "reading",
+    "correct": "okuma",
+    "wrong": "yazma",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_11",
+    "word": "book",
+    "correct": "kitap",
+    "wrong": "yazı yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_12",
+    "word": "novel",
+    "correct": "roman",
+    "wrong": "kitap",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_13",
+    "word": "fiction",
+    "correct": "kurgu",
+    "wrong": "gerçek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_14",
+    "word": "non-fiction",
+    "correct": "gerçek",
+    "wrong": "kurgu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_15",
+    "word": "mystery",
+    "correct": "gizem",
+    "wrong": "açık",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_16",
+    "word": "thriller",
+    "correct": "gerilim",
+    "wrong": "sakinlik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_17",
+    "word": "romance",
+    "correct": "romantik",
+    "wrong": "dramatik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_18",
+    "word": "science fiction",
+    "correct": "bilim kurgu",
+    "wrong": "gerçek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_19",
+    "word": "fantasy",
+    "correct": "fantezi",
+    "wrong": "gerçek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_20",
+    "word": "adventure",
+    "correct": "macera",
+    "wrong": "güvenlik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_21",
+    "word": "biography",
+    "correct": "biyografi",
+    "wrong": "kurgu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_22",
+    "word": "autobiography",
+    "correct": "otobiyografi",
+    "wrong": "biyografi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_23",
+    "word": "memoir",
+    "correct": "anı defteri",
+    "wrong": "otobiyografi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_24",
+    "word": "poetry",
+    "correct": "şiir",
+    "wrong": "öz",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_25",
+    "word": "short story",
+    "correct": "kısa hikaye",
+    "wrong": "roman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_26",
+    "word": "comic",
+    "correct": "komik kitap",
+    "wrong": "ciddi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_27",
+    "word": "magazine",
+    "correct": "dergi",
+    "wrong": "kitap",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_28",
+    "word": "newspaper",
+    "correct": "gazete",
+    "wrong": "dergi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_29",
+    "word": "journal",
+    "correct": "dergi",
+    "wrong": "gazete",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_30",
+    "word": "blog",
+    "correct": "blog",
+    "wrong": "yazı yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_31",
+    "word": "e-book",
+    "correct": "e-kitap",
+    "wrong": "kitap",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_32",
+    "word": "audiobook",
+    "correct": "sesli kitap",
+    "wrong": "yazılı kitap",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_33",
+    "word": "literature",
+    "correct": "edebiyat",
+    "wrong": "yazı yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_34",
+    "word": "author",
+    "correct": "yazar",
+    "wrong": "okuyucu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_35",
+    "word": "writer",
+    "correct": "yazar",
+    "wrong": "okuyucu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_36",
+    "word": "poet",
+    "correct": "şair",
+    "wrong": "okuyucu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_37",
+    "word": "novelist",
+    "correct": "roman yazarı",
+    "wrong": "okuyucu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_38",
+    "word": "journalist",
+    "correct": "gazeteci",
+    "wrong": "okuyucu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_39",
+    "word": "editor",
+    "correct": "editör",
+    "wrong": "yazar",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_40",
+    "word": "publisher",
+    "correct": "yayımcı",
+    "wrong": "yazar",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_41",
+    "word": "bookstore",
+    "correct": "kitabevi",
+    "wrong": "ev",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_42",
+    "word": "library",
+    "correct": "kütüphane",
+    "wrong": "okul",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_43",
+    "word": "movie",
+    "correct": "film",
+    "wrong": "tiyatro",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_44",
+    "word": "film",
+    "correct": "film",
+    "wrong": "movie",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_45",
+    "word": "cinema",
+    "correct": "sinema",
+    "wrong": "tiyatro",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_46",
+    "word": "theater",
+    "correct": "tiyatro",
+    "wrong": "sinema",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_47",
+    "word": "drama",
+    "correct": "dram",
+    "wrong": "komedi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_48",
+    "word": "comedy",
+    "correct": "komedi",
+    "wrong": "dram",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_49",
+    "word": "tragedy",
+    "correct": "trajedi",
+    "wrong": "komedi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_50",
+    "word": "musical",
+    "correct": "müzikal",
+    "wrong": "dram",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_51",
+    "word": "opera",
+    "correct": "opera",
+    "wrong": "konser",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_52",
+    "word": "ballet",
+    "correct": "bale",
+    "wrong": "dans",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_53",
+    "word": "performance",
+    "correct": "performans",
+    "wrong": "seyirci",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_54",
+    "word": "show",
+    "correct": "gösteri",
+    "wrong": "seyirci",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_55",
+    "word": "concert",
+    "correct": "konser",
+    "wrong": "müzik yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_56",
+    "word": "live music",
+    "correct": "canlı müzik",
+    "wrong": "kayıtlı müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_57",
+    "word": "DJ",
+    "correct": "DJ",
+    "wrong": "müzik yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_58",
+    "word": "band",
+    "correct": "grup",
+    "wrong": "orkestra",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_59",
+    "word": "orchestra",
+    "correct": "orkestra",
+    "wrong": "grup",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_60",
+    "word": "actor",
+    "correct": "oyuncu",
+    "wrong": "seyirci",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_61",
+    "word": "actress",
+    "correct": "oyuncu",
+    "wrong": "seyirci",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_62",
+    "word": "director",
+    "correct": "yönetmen",
+    "wrong": "oyuncu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_63",
+    "word": "producer",
+    "correct": "yapımcı",
+    "wrong": "yönetmen",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_64",
+    "word": "screenwriter",
+    "correct": "senaryo yazarı",
+    "wrong": "yapımcı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_65",
+    "word": "cinematographer",
+    "correct": "sinematografi",
+    "wrong": "oyuncu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_66",
+    "word": "animator",
+    "correct": "animatör",
+    "wrong": "animasyon yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_67",
+    "word": "cartoonist",
+    "correct": "karikatürist",
+    "wrong": "karakter",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_68",
+    "word": "illustrator",
+    "correct": "çizer",
+    "wrong": "karakter",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_69",
+    "word": "graphics designer",
+    "correct": "grafik tasarımcı",
+    "wrong": "tasarım yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_70",
+    "word": "video game",
+    "correct": "video oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_71",
+    "word": "board game",
+    "correct": "masa oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_72",
+    "word": "card game",
+    "correct": "kart oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_73",
+    "word": "puzzle",
+    "correct": "yapboz",
+    "wrong": "parça",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_74",
+    "word": "jigsaw puzzle",
+    "correct": "jigsaw yapboz",
+    "wrong": "yapboz",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_75",
+    "word": "crossword puzzle",
+    "correct": "çapraz bulmaca",
+    "wrong": "yapboz",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_76",
+    "word": "word search",
+    "correct": "kelime bulma",
+    "wrong": "bulmaca",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_77",
+    "word": "sudoku",
+    "correct": "sudoku",
+    "wrong": "bulmaca",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_78",
+    "word": "chess",
+    "correct": "satranç",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_79",
+    "word": "checkers",
+    "correct": "dama",
+    "wrong": "satranç",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_80",
+    "word": "dice",
+    "correct": "zar",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_81",
+    "word": "playing cards",
+    "correct": "oyun kartları",
+    "wrong": "kart",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_82",
+    "word": "poker",
+    "correct": "poker",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_83",
+    "word": "bridge",
+    "correct": "briç",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_84",
+    "word": "video gaming",
+    "correct": "video oyunu oynama",
+    "wrong": "oyun yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_85",
+    "word": "console",
+    "correct": "konsol",
+    "wrong": "bilgisayar",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_86",
+    "word": "controller",
+    "correct": "kumanda",
+    "wrong": "kontrol yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_87",
+    "word": "gaming PC",
+    "correct": "oyun bilgisayarı",
+    "wrong": "bilgisayar",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_88",
+    "word": "racing game",
+    "correct": "yarış oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_89",
+    "word": "fighting game",
+    "correct": "dövüş oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_90",
+    "word": "sports game",
+    "correct": "spor oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_91",
+    "word": "adventure game",
+    "correct": "macera oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_92",
+    "word": "puzzle game",
+    "correct": "bulmaca oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_93",
+    "word": "strategy game",
+    "correct": "strateji oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_94",
+    "word": "role-playing game",
+    "correct": "rol yapma oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_95",
+    "word": "first-person shooter",
+    "correct": "birinci şahıs atıcı",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_96",
+    "word": "multiplayer",
+    "correct": "çok oyuncu",
+    "wrong": "tek oyuncu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_97",
+    "word": "online gaming",
+    "correct": "çevrimiçi oyun",
+    "wrong": "yerel oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_98",
+    "word": "streaming",
+    "correct": "canlı yayın",
+    "wrong": "kayıt",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_99",
+    "word": "twitch",
+    "correct": "twitch",
+    "wrong": "yayın yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_100",
+    "word": "youtube",
+    "correct": "youtube",
+    "wrong": "internet",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_101",
+    "word": "social media",
+    "correct": "sosyal medya",
+    "wrong": "gerçek hayat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_102",
+    "word": "instagram",
+    "correct": "instagram",
+    "wrong": "sosyal medya yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_103",
+    "word": "tiktok",
+    "correct": "tiktok",
+    "wrong": "sosyal medya",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_104",
+    "word": "facebook",
+    "correct": "facebook",
+    "wrong": "sosyal medya",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_105",
+    "word": "twitter",
+    "correct": "twitter",
+    "wrong": "sosyal medya",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_106",
+    "word": "snapchat",
+    "correct": "snapchat",
+    "wrong": "sosyal medya",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_107",
+    "word": "photography",
+    "correct": "fotoğrafçılık",
+    "wrong": "fotoğraf yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_108",
+    "word": "photographer",
+    "correct": "fotoğrafçı",
+    "wrong": "model",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_109",
+    "word": "camera",
+    "correct": "kamera",
+    "wrong": "resim yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_110",
+    "word": "photo editing",
+    "correct": "fotoğraf düzenleme",
+    "wrong": "fotoğraf",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_111",
+    "word": "videography",
+    "correct": "video çekme",
+    "wrong": "video yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_112",
+    "word": "cinematography",
+    "correct": "sinematografi",
+    "wrong": "video",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_113",
+    "word": "painting",
+    "correct": "resim",
+    "wrong": "sanat yok",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_114",
+    "word": "drawing",
+    "correct": "çizim",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_115",
+    "word": "sculpture",
+    "correct": "heykelcilik",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_116",
+    "word": "pottery",
+    "correct": "seramik",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_117",
+    "word": "woodworking",
+    "correct": "ağaç işçiliği",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_118",
+    "word": "jewelry making",
+    "correct": "mücevher yapma",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_119",
+    "word": "knitting",
+    "correct": "örgü",
+    "wrong": "desen",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_120",
+    "word": "crochet",
+    "correct": "tığ işi",
+    "wrong": "örgü",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_121",
+    "word": "sewing",
+    "correct": "dikiş",
+    "wrong": "kumaş",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_122",
+    "word": "embroidery",
+    "correct": "işlemeci",
+    "wrong": "dikiş",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_123",
+    "word": "quilting",
+    "correct": "yorgan dikişi",
+    "wrong": "dikiş",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_124",
+    "word": "leatherworking",
+    "correct": "deri işçiliği",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_125",
+    "word": "glassblowing",
+    "correct": "cam üfleme",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_126",
+    "word": "metalworking",
+    "correct": "metal işçiliği",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_127",
+    "word": "calligraphy",
+    "correct": "hat sanatı",
+    "wrong": "yazı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_128",
+    "word": "origami",
+    "correct": "kağıt katlama",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_129",
+    "word": "papercrafts",
+    "correct": "kağıt sanatları",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_130",
+    "word": "model building",
+    "correct": "model yapma",
+    "wrong": "oyuncak",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_131",
+    "word": "collecting",
+    "correct": "koleksiyonculuk",
+    "wrong": "satma",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_132",
+    "word": "stamp collecting",
+    "correct": "pul koleksiyonu",
+    "wrong": "koleksiyon",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_133",
+    "word": "coin collecting",
+    "correct": "madeni para koleksiyonu",
+    "wrong": "koleksiyon",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_134",
+    "word": "antique collecting",
+    "correct": "antika koleksiyonu",
+    "wrong": "koleksiyon",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_135",
+    "word": "hiking",
+    "correct": "dağ yürüyüşü",
+    "wrong": "yürüyüş",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_136",
+    "word": "camping",
+    "correct": "kamp",
+    "wrong": "ev",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_137",
+    "word": "backpacking",
+    "correct": "sırt çanta ile seyahat",
+    "wrong": "seyahat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_138",
+    "word": "rock climbing",
+    "correct": "kaya tırmanışı",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_139",
+    "word": "mountaineering",
+    "correct": "dağcılık",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_140",
+    "word": "skiing",
+    "correct": "kayak",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_141",
+    "word": "snowboarding",
+    "correct": "kar kayağı",
+    "wrong": "kayak",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_142",
+    "word": "ice skating",
+    "correct": "buz pateni",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_143",
+    "word": "roller skating",
+    "correct": "patin",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_144",
+    "word": "skateboarding",
+    "correct": "kaykay",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_145",
+    "word": "surfing",
+    "correct": "sörf",
+    "wrong": "su",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_146",
+    "word": "windsurfing",
+    "correct": "rüzgar sörf",
+    "wrong": "sörf",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_147",
+    "word": "wakeboarding",
+    "correct": "su kayağı",
+    "wrong": "sörf",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_148",
+    "word": "swimming",
+    "correct": "yüzme",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_149",
+    "word": "diving",
+    "correct": "dalış",
+    "wrong": "yüzme",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_150",
+    "word": "snorkeling",
+    "correct": "su altı gözetleme",
+    "wrong": "dalış",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_151",
+    "word": "scuba diving",
+    "correct": "akuba dalış",
+    "wrong": "dalış",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_152",
+    "word": "kayaking",
+    "correct": "kano",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_153",
+    "word": "canoeing",
+    "correct": "kano sportu",
+    "wrong": "kayaking",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_154",
+    "word": "rafting",
+    "correct": "sal sportu",
+    "wrong": "kayaking",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_155",
+    "word": "fishing",
+    "correct": "balıkçılık",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_156",
+    "word": "hunting",
+    "correct": "avlanma",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_157",
+    "word": "archery",
+    "correct": "okçuluk",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_158",
+    "word": "horseback riding",
+    "correct": "at binme",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_159",
+    "word": "cycling",
+    "correct": "bisiklet",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_160",
+    "word": "mountain biking",
+    "correct": "dağ bisikleti",
+    "wrong": "bisiklet",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_161",
+    "word": "running",
+    "correct": "koşu",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_162",
+    "word": "jogging",
+    "correct": "hafif koşu",
+    "wrong": "koşu",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_163",
+    "word": "walking",
+    "correct": "yürüyüş",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_164",
+    "word": "dancing",
+    "correct": "dans",
+    "wrong": "eğlence",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_165",
+    "word": "salsa",
+    "correct": "salsa dansı",
+    "wrong": "dans",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_166",
+    "word": "ballet",
+    "correct": "bale",
+    "wrong": "dans",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_167",
+    "word": "hip-hop",
+    "correct": "hip-hop dans",
+    "wrong": "dans",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_168",
+    "word": "jazz",
+    "correct": "caz dans",
+    "wrong": "dans",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_169",
+    "word": "yoga",
+    "correct": "yoga",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_170",
+    "word": "pilates",
+    "correct": "pilates",
+    "wrong": "yoga",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_171",
+    "word": "meditation",
+    "correct": "meditasyon",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_172",
+    "word": "gardening",
+    "correct": "bahçıcılık",
+    "wrong": "hobi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_173",
+    "word": "indoor plants",
+    "correct": "iç mekan bitkileri",
+    "wrong": "bitki",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_174",
+    "word": "flower arrangement",
+    "correct": "çiçek düzenleme",
+    "wrong": "çiçek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_175",
+    "word": "bonsai",
+    "correct": "bonsai",
+    "wrong": "bitki",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_176",
+    "word": "cooking",
+    "correct": "yemek yapma",
+    "wrong": "hobi",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_177",
+    "word": "baking",
+    "correct": "fırında pişirme",
+    "wrong": "yemek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_178",
+    "word": "recipe",
+    "correct": "tarif",
+    "wrong": "yemek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_179",
+    "word": "culinary",
+    "correct": "mutfak sanatı",
+    "wrong": "yemek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_180",
+    "word": "wine tasting",
+    "correct": "şarap tadılması",
+    "wrong": "içecek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_181",
+    "word": "coffee tasting",
+    "correct": "kahve tadılması",
+    "wrong": "kahve",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_182",
+    "word": "chocolate making",
+    "correct": "çokolata yapma",
+    "wrong": "tatlı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_183",
+    "word": "candy making",
+    "correct": "şeker yapma",
+    "wrong": "tatlı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_184",
+    "word": "fermentation",
+    "correct": "fermantasyon",
+    "wrong": "yemek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_185",
+    "word": "canning",
+    "correct": "konserveleme",
+    "wrong": "yemek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_186",
+    "word": "preserving",
+    "correct": "muhafaza etme",
+    "wrong": "yemek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_187",
+    "word": "pickling",
+    "correct": "turşulama",
+    "wrong": "yemek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_188",
+    "word": "smoking",
+    "correct": "tütsülemek",
+    "wrong": "pişirme",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_189",
+    "word": "grilling",
+    "correct": "ızgarada pişirme",
+    "wrong": "pişirme",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_190",
+    "word": "barbecuing",
+    "correct": "barbekü",
+    "wrong": "pişirme",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_191",
+    "word": "tea ceremony",
+    "correct": "çay töreni",
+    "wrong": "çay",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_192",
+    "word": "mixology",
+    "correct": "kokteyl yapma",
+    "wrong": "içecek",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_193",
+    "word": "music lessons",
+    "correct": "müzik dersi",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_194",
+    "word": "instrument",
+    "correct": "enstrüman",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_195",
+    "word": "piano",
+    "correct": "piyano",
+    "wrong": "enstrüman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_196",
+    "word": "guitar",
+    "correct": "gitar",
+    "wrong": "enstrüman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_197",
+    "word": "violin",
+    "correct": "keman",
+    "wrong": "enstrüman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_198",
+    "word": "drums",
+    "correct": "davullar",
+    "wrong": "enstrüman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_199",
+    "word": "flute",
+    "correct": "ney",
+    "wrong": "enstrüman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_200",
+    "word": "trumpet",
+    "correct": "trompet",
+    "wrong": "enstrüman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_201",
+    "word": "singing",
+    "correct": "şarkı söyleme",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_202",
+    "word": "karaoke",
+    "correct": "karaoke",
+    "wrong": "şarkı söyleme",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_203",
+    "word": "music production",
+    "correct": "müzik üretimi",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_204",
+    "word": "DJing",
+    "correct": "DJ olma",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_205",
+    "word": "music theory",
+    "correct": "müzik teorisi",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_206",
+    "word": "composition",
+    "correct": "besteci",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_207",
+    "word": "arranging",
+    "correct": "aranjör",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_208",
+    "word": "recording",
+    "correct": "kaydolma",
+    "wrong": "müzik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_209",
+    "word": "podcast",
+    "correct": "podcast",
+    "wrong": "radyo",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_210",
+    "word": "radio",
+    "correct": "radyo",
+    "wrong": "podcast",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_211",
+    "word": "audiovisual",
+    "correct": "ses ve görüntü",
+    "wrong": "ses",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_212",
+    "word": "documentary",
+    "correct": "belgesel",
+    "wrong": "film",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_213",
+    "word": "animation",
+    "correct": "animasyon",
+    "wrong": "film",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_214",
+    "word": "graphic novel",
+    "correct": "grafik roman",
+    "wrong": "roman",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_215",
+    "word": "manga",
+    "correct": "manga",
+    "wrong": "komik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_216",
+    "word": "anime",
+    "correct": "anime",
+    "wrong": "film",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_217",
+    "word": "cartoon",
+    "correct": "çizgi film",
+    "wrong": "film",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_218",
+    "word": "superhero",
+    "correct": "süper kahraman",
+    "wrong": "karakter",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_219",
+    "word": "action figure",
+    "correct": "aksiyon figürü",
+    "wrong": "oyuncak",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_220",
+    "word": "collectible",
+    "correct": "koleksiyon parçası",
+    "wrong": "koleksiyon",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_221",
+    "word": "memorabilia",
+    "correct": "hatıra eşyası",
+    "wrong": "eşya",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_222",
+    "word": "convention",
+    "correct": "konvention",
+    "wrong": "etkinlik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_223",
+    "word": "cosplay",
+    "correct": "kostüm oyunu",
+    "wrong": "giyim",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_224",
+    "word": "fan club",
+    "correct": "fan kulübü",
+    "wrong": "kulüp",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_225",
+    "word": "merchandise",
+    "correct": "ürün",
+    "wrong": "satın alma",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_226",
+    "word": "poster",
+    "correct": "poster",
+    "wrong": "resim",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_227",
+    "word": "figurine",
+    "correct": "heykelcik",
+    "wrong": "oyuncak",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_228",
+    "word": "trading card",
+    "correct": "takas kartı",
+    "wrong": "kart",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_229",
+    "word": "sports memorabilia",
+    "correct": "spor hatırası",
+    "wrong": "hatıra",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_230",
+    "word": "autograph",
+    "correct": "otograf",
+    "wrong": "imza",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_231",
+    "word": "signed merchandise",
+    "correct": "imzalı ürün",
+    "wrong": "ürün",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_232",
+    "word": "limited edition",
+    "correct": "sınırlı baskı",
+    "wrong": "baskı",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_233",
+    "word": "artwork",
+    "correct": "sanat eseri",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_234",
+    "word": "NFT",
+    "correct": "NFT",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_235",
+    "word": "cryptocurrency art",
+    "correct": "kripto para sanatı",
+    "wrong": "sanat",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_236",
+    "word": "virtual worlds",
+    "correct": "sanal dünyalar",
+    "wrong": "dünya",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_237",
+    "word": "metaverse",
+    "correct": "metaverse",
+    "wrong": "sanal",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_238",
+    "word": "gaming tournament",
+    "correct": "oyun turnuvası",
+    "wrong": "turnuva",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_239",
+    "word": "esports",
+    "correct": "e-sporlar",
+    "wrong": "spor",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_240",
+    "word": "competitive gaming",
+    "correct": "rekabetçi oyun",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_241",
+    "word": "speedrunning",
+    "correct": "hızlı oynama",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_242",
+    "word": "modding",
+    "correct": "mod yapma",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_243",
+    "word": "game development",
+    "correct": "oyun geliştirme",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_244",
+    "word": "game design",
+    "correct": "oyun tasarımı",
+    "wrong": "tasarım",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_245",
+    "word": "level design",
+    "correct": "seviye tasarımı",
+    "wrong": "tasarım",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_246",
+    "word": "storytelling",
+    "correct": "hikaye anlatma",
+    "wrong": "hikaye",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_247",
+    "word": "world-building",
+    "correct": "dünya kurma",
+    "wrong": "kurma",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_248",
+    "word": "character development",
+    "correct": "karakter geliştirme",
+    "wrong": "geliştirme",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_249",
+    "word": "game modding",
+    "correct": "oyun modlaması",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_250",
+    "word": "machinima",
+    "correct": "oyun filmi",
+    "wrong": "film",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_251",
+    "word": "virtual reality gaming",
+    "correct": "sanal gerçeklik oyunu",
+    "wrong": "oyun",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_252",
+    "word": "augmented reality",
+    "correct": "artırılmış gerçeklik",
+    "wrong": "gerçeklik",
+    "category": "Hobiler & Eğlence"
+  },
+  {
+    "id": "hobbies_entertainment_253",
+    "word": "mixed reality",
+    "correct": "karışık gerçeklik",
+    "wrong": "gerçeklik",
+    "category": "Hobiler & Eğlence"
+  }
+]

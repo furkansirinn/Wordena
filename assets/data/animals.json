@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "animals_1",
+    "word": "animal",
+    "correct": "hayvan",
+    "wrong": "bitki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_2",
+    "word": "mammal",
+    "correct": "memeli",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_3",
+    "word": "bird",
+    "correct": "kuş",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_4",
+    "word": "reptile",
+    "correct": "sürüngen",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_5",
+    "word": "amphibian",
+    "correct": "amfibi",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_6",
+    "word": "fish",
+    "correct": "balık",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_7",
+    "word": "insect",
+    "correct": "böcek",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_8",
+    "word": "arachnid",
+    "correct": "arakhnid",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_9",
+    "word": "crustacean",
+    "correct": "kabuklu",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_10",
+    "word": "mollusk",
+    "correct": "yumuşakça",
+    "wrong": "kabuklu",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_11",
+    "word": "worm",
+    "correct": "solucan",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_12",
+    "word": "predator",
+    "correct": "avcı",
+    "wrong": "av",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_13",
+    "word": "prey",
+    "correct": "av",
+    "wrong": "avcı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_14",
+    "word": "herbivore",
+    "correct": "otçul",
+    "wrong": "etçil",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_15",
+    "word": "carnivore",
+    "correct": "etçil",
+    "wrong": "otçul",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_16",
+    "word": "omnivore",
+    "correct": "hepçil",
+    "wrong": "otçul",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_17",
+    "word": "scavenger",
+    "correct": "çöpçü",
+    "wrong": "avcı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_18",
+    "word": "domestic",
+    "correct": "evcil",
+    "wrong": "yaban",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_19",
+    "word": "wild",
+    "correct": "yaban",
+    "wrong": "evcil",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_20",
+    "word": "tame",
+    "correct": "ehlileştirilmiş",
+    "wrong": "vahşi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_21",
+    "word": "feral",
+    "correct": "vahşi",
+    "wrong": "evcil",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_22",
+    "word": "endangered",
+    "correct": "tehlike altında",
+    "wrong": "yaygın",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_23",
+    "word": "extinct",
+    "correct": "soyu tükenmiş",
+    "wrong": "yaşayan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_24",
+    "word": "dog",
+    "correct": "köpek",
+    "wrong": "kedi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_25",
+    "word": "puppy",
+    "correct": "yavru köpek",
+    "wrong": "köpek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_26",
+    "word": "cat",
+    "correct": "kedi",
+    "wrong": "köpek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_27",
+    "word": "kitten",
+    "correct": "yavru kedi",
+    "wrong": "kedi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_28",
+    "word": "horse",
+    "correct": "at",
+    "wrong": "ördek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_29",
+    "word": "pony",
+    "correct": "midilli",
+    "wrong": "at",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_30",
+    "word": "donkey",
+    "correct": "eşek",
+    "wrong": "at",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_31",
+    "word": "mule",
+    "correct": "katır",
+    "wrong": "eşek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_32",
+    "word": "cow",
+    "correct": "inek",
+    "wrong": "boğa",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_33",
+    "word": "bull",
+    "correct": "boğa",
+    "wrong": "inek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_34",
+    "word": "calf",
+    "correct": "buzağı",
+    "wrong": "sığır",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_35",
+    "word": "sheep",
+    "correct": "koyun",
+    "wrong": "keçi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_36",
+    "word": "lamb",
+    "correct": "kuzu",
+    "wrong": "koyun",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_37",
+    "word": "goat",
+    "correct": "keçi",
+    "wrong": "koyun",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_38",
+    "word": "kid",
+    "correct": "oğlak",
+    "wrong": "keçi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_39",
+    "word": "pig",
+    "correct": "domuz",
+    "wrong": "dana",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_40",
+    "word": "piglet",
+    "correct": "yavru domuz",
+    "wrong": "domuz",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_41",
+    "word": "chicken",
+    "correct": "tavuk",
+    "wrong": "ördeği",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_42",
+    "word": "rooster",
+    "correct": "horoz",
+    "wrong": "tavuk",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_43",
+    "word": "hen",
+    "correct": "tavuk",
+    "wrong": "horoz",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_44",
+    "word": "chick",
+    "correct": "civciv",
+    "wrong": "tavuk",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_45",
+    "word": "duck",
+    "correct": "ördeği",
+    "wrong": "tavuk",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_46",
+    "word": "duckling",
+    "correct": "yavru ördeği",
+    "wrong": "ördeği",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_47",
+    "word": "goose",
+    "correct": "kazı",
+    "wrong": "ördeği",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_48",
+    "word": "gosling",
+    "correct": "yavru kazı",
+    "wrong": "kazı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_49",
+    "word": "turkey",
+    "correct": "hindi",
+    "wrong": "tavuk",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_50",
+    "word": "quail",
+    "correct": "bıldırcın",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_51",
+    "word": "pheasant",
+    "correct": "sülün",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_52",
+    "word": "eagle",
+    "correct": "kartal",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_53",
+    "word": "hawk",
+    "correct": "şahin",
+    "wrong": "kartal",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_54",
+    "word": "falcon",
+    "correct": "doğan",
+    "wrong": "şahin",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_55",
+    "word": "owl",
+    "correct": "baykuş",
+    "wrong": "kartal",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_56",
+    "word": "crow",
+    "correct": "karga",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_57",
+    "word": "raven",
+    "correct": "kuzgun",
+    "wrong": "karga",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_58",
+    "word": "sparrow",
+    "correct": "serçe",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_59",
+    "word": "pigeon",
+    "correct": "güvercin",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_60",
+    "word": "dove",
+    "correct": "kumru",
+    "wrong": "güvercin",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_61",
+    "word": "peacock",
+    "correct": "tavus kuşu",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_62",
+    "word": "parrot",
+    "correct": "papağan",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_63",
+    "word": "penguin",
+    "correct": "penguen",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_64",
+    "word": "swan",
+    "correct": "kuğu",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_65",
+    "word": "flamingo",
+    "correct": "flamingo",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_66",
+    "word": "ostrich",
+    "correct": "deve kuşu",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_67",
+    "word": "emu",
+    "correct": "emu",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_68",
+    "word": "hummingbird",
+    "correct": "sinek kuşu",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_69",
+    "word": "kingfisher",
+    "correct": "balık avlayan kuş",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_70",
+    "word": "woodpecker",
+    "correct": "ağaçkakan",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_71",
+    "word": "stork",
+    "correct": "leylek",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_72",
+    "word": "crane",
+    "correct": "turna",
+    "wrong": "leylek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_73",
+    "word": "heron",
+    "correct": "balık avlayan kuş",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_74",
+    "word": "pelican",
+    "correct": "pelikan",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_75",
+    "word": "albatross",
+    "correct": "albatros",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_76",
+    "word": "seagull",
+    "correct": "martı",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_77",
+    "word": "chicken",
+    "correct": "tavuk",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_78",
+    "word": "cat",
+    "correct": "kedi",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_79",
+    "word": "lion",
+    "correct": "aslan",
+    "wrong": "kaplan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_80",
+    "word": "tiger",
+    "correct": "kaplan",
+    "wrong": "aslan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_81",
+    "word": "leopard",
+    "correct": "leopar",
+    "wrong": "kaplan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_82",
+    "word": "jaguar",
+    "correct": "jaguar",
+    "wrong": "leopar",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_83",
+    "word": "cheetah",
+    "correct": "çita",
+    "wrong": "kaplan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_84",
+    "word": "cougar",
+    "correct": "puma",
+    "wrong": "aslan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_85",
+    "word": "puma",
+    "correct": "puma",
+    "wrong": "aslan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_86",
+    "word": "lynx",
+    "correct": "vaşak",
+    "wrong": "kaplan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_87",
+    "word": "bear",
+    "correct": "ayı",
+    "wrong": "kurt",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_88",
+    "word": "grizzly bear",
+    "correct": "grizli ayı",
+    "wrong": "ayı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_89",
+    "word": "polar bear",
+    "correct": "kutup ayısı",
+    "wrong": "ayı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_90",
+    "word": "panda",
+    "correct": "panda",
+    "wrong": "ayı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_91",
+    "word": "koala",
+    "correct": "koala",
+    "wrong": "ayı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_92",
+    "word": "wolf",
+    "correct": "kurt",
+    "wrong": "köpek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_93",
+    "word": "coyote",
+    "correct": "coyote",
+    "wrong": "kurt",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_94",
+    "word": "fox",
+    "correct": "tilki",
+    "wrong": "kurt",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_95",
+    "word": "jackal",
+    "correct": "çakal",
+    "wrong": "kurt",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_96",
+    "word": "hyena",
+    "correct": "hiena",
+    "wrong": "kurt",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_97",
+    "word": "wild dog",
+    "correct": "yaban köpeği",
+    "wrong": "köpek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_98",
+    "word": "raccoon",
+    "correct": "harita",
+    "wrong": "tilki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_99",
+    "word": "badger",
+    "correct": "kunduz",
+    "wrong": "tilki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_100",
+    "word": "otter",
+    "correct": "su samuru",
+    "wrong": "sürüngen",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_101",
+    "word": "weasel",
+    "correct": "gelincik",
+    "wrong": "tilki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_102",
+    "word": "stoat",
+    "correct": "hermesil",
+    "wrong": "gelincik",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_103",
+    "word": "ferret",
+    "correct": "şinşilla",
+    "wrong": "tilki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_104",
+    "word": "skunk",
+    "correct": "kokarca",
+    "wrong": "harita",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_105",
+    "word": "porcupine",
+    "correct": "kirpi",
+    "wrong": "tilki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_106",
+    "word": "hedgehog",
+    "correct": "kısa kirpi",
+    "wrong": "kirpi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_107",
+    "word": "mole",
+    "correct": "körmüş",
+    "wrong": "tilki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_108",
+    "word": "shrew",
+    "correct": "çekirdekçi",
+    "wrong": "tilki",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_109",
+    "word": "bat",
+    "correct": "yarasa",
+    "wrong": "kuş",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_110",
+    "word": "monkey",
+    "correct": "maymun",
+    "wrong": "insan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_111",
+    "word": "ape",
+    "correct": "büyük maymun",
+    "wrong": "maymun",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_112",
+    "word": "gorilla",
+    "correct": "goril",
+    "wrong": "şempanze",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_113",
+    "word": "chimpanzee",
+    "correct": "şempanze",
+    "wrong": "goril",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_114",
+    "word": "orangutan",
+    "correct": "orangutan",
+    "wrong": "şempanze",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_115",
+    "word": "gibbon",
+    "correct": "gibbon",
+    "wrong": "şempanze",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_116",
+    "word": "baboon",
+    "correct": "paviyan",
+    "wrong": "maymun",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_117",
+    "word": "lemur",
+    "correct": "lemur",
+    "wrong": "maymun",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_118",
+    "word": "elephant",
+    "correct": "fil",
+    "wrong": "gergedan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_119",
+    "word": "rhinoceros",
+    "correct": "gergedan",
+    "wrong": "fil",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_120",
+    "word": "hippopotamus",
+    "correct": "su aygırı",
+    "wrong": "fil",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_121",
+    "word": "giraffe",
+    "correct": "zürafa",
+    "wrong": "fil",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_122",
+    "word": "zebra",
+    "correct": "zebra",
+    "wrong": "at",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_123",
+    "word": "wildebeest",
+    "correct": "gnu",
+    "wrong": "zebra",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_124",
+    "word": "antelope",
+    "correct": "antilop",
+    "wrong": "geyik",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_125",
+    "word": "deer",
+    "correct": "geyik",
+    "wrong": "antilop",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_126",
+    "word": "moose",
+    "correct": "alce",
+    "wrong": "geyik",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_127",
+    "word": "elk",
+    "correct": "ren geyiği",
+    "wrong": "geyik",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_128",
+    "word": "reindeer",
+    "correct": "ren geyiği",
+    "wrong": "geyik",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_129",
+    "word": "camel",
+    "correct": "deve",
+    "wrong": "gemi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_130",
+    "word": "dromedary",
+    "correct": "tek hörgüçlü deve",
+    "wrong": "deve",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_131",
+    "word": "bactrian camel",
+    "correct": "iki hörgüçlü deve",
+    "wrong": "deve",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_132",
+    "word": "llama",
+    "correct": "lama",
+    "wrong": "deve",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_133",
+    "word": "alpaca",
+    "correct": "alpaka",
+    "wrong": "lama",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_134",
+    "word": "kangaroo",
+    "correct": "kanguru",
+    "wrong": "at",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_135",
+    "word": "wallaby",
+    "correct": "küçük kanguru",
+    "wrong": "kanguru",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_136",
+    "word": "koala",
+    "correct": "koala",
+    "wrong": "kanguru",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_137",
+    "word": "wombat",
+    "correct": "wombat",
+    "wrong": "kanguru",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_138",
+    "word": "platypus",
+    "correct": "ördek gagalı hayvan",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_139",
+    "word": "echidna",
+    "correct": "porsupiyen",
+    "wrong": "platypus",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_140",
+    "word": "sloth",
+    "correct": "tembel hayvan",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_141",
+    "word": "anteater",
+    "correct": "karınca yiyici",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_142",
+    "word": "armadillo",
+    "correct": "zırhlı hayvan",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_143",
+    "word": "meerkat",
+    "correct": "surikate",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_144",
+    "word": "capybara",
+    "correct": "kapibara",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_145",
+    "word": "guinea pig",
+    "correct": "kobay",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_146",
+    "word": "hamster",
+    "correct": "hamster",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_147",
+    "word": "gerbil",
+    "correct": "jerboa",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_148",
+    "word": "mouse",
+    "correct": "fare",
+    "wrong": "sıçan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_149",
+    "word": "rat",
+    "correct": "sıçan",
+    "wrong": "fare",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_150",
+    "word": "rabbit",
+    "correct": "tavşan",
+    "wrong": "fare",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_151",
+    "word": "hare",
+    "correct": "hızlı tavşan",
+    "wrong": "tavşan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_152",
+    "word": "squirrel",
+    "correct": "sincap",
+    "wrong": "tavşan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_153",
+    "word": "chipmunk",
+    "correct": "sincap türü",
+    "wrong": "sincap",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_154",
+    "word": "beaver",
+    "correct": "kunduz",
+    "wrong": "sıçan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_155",
+    "word": "porcupine",
+    "correct": "kirpi",
+    "wrong": "kunduz",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_156",
+    "word": "hedgehog",
+    "correct": "kısa kirpi",
+    "wrong": "kirpi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_157",
+    "word": "turtle",
+    "correct": "kaplumbağa",
+    "wrong": "sürüngen",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_158",
+    "word": "tortoise",
+    "correct": "kara kaplumbağası",
+    "wrong": "kaplumbağa",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_159",
+    "word": "lizard",
+    "correct": "kertenkele",
+    "wrong": "sürüngen",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_160",
+    "word": "snake",
+    "correct": "yılan",
+    "wrong": "kertenkele",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_161",
+    "word": "python",
+    "correct": "python",
+    "wrong": "yılan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_162",
+    "word": "cobra",
+    "correct": "kobra",
+    "wrong": "python",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_163",
+    "word": "viper",
+    "correct": "viper",
+    "wrong": "kobra",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_164",
+    "word": "anaconda",
+    "correct": "boa",
+    "wrong": "python",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_165",
+    "word": "boa",
+    "correct": "boa yılanı",
+    "wrong": "python",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_166",
+    "word": "crocodile",
+    "correct": "timsah",
+    "wrong": "sürüngen",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_167",
+    "word": "alligator",
+    "correct": "timsah türü",
+    "wrong": "timsah",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_168",
+    "word": "salamander",
+    "correct": "semender",
+    "wrong": "sürüngen",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_169",
+    "word": "newt",
+    "correct": "semender türü",
+    "wrong": "salamander",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_170",
+    "word": "frog",
+    "correct": "kurbağa",
+    "wrong": "amfibi",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_171",
+    "word": "toad",
+    "correct": "ağızlı kurbağa",
+    "wrong": "kurbağa",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_172",
+    "word": "tadpole",
+    "correct": "ıvır zıvır",
+    "wrong": "kurbağa",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_173",
+    "word": "salmon",
+    "correct": "somon",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_174",
+    "word": "trout",
+    "correct": "alabalık",
+    "wrong": "somon",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_175",
+    "word": "tuna",
+    "correct": "ton balığı",
+    "wrong": "salmon",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_176",
+    "word": "cod",
+    "correct": "morina",
+    "wrong": "alabalık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_177",
+    "word": "halibut",
+    "correct": "palamudu",
+    "wrong": "ton balığı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_178",
+    "word": "flounder",
+    "correct": "pisi balığı",
+    "wrong": "halibut",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_179",
+    "word": "sole",
+    "correct": "dil balığı",
+    "wrong": "palamudu",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_180",
+    "word": "bass",
+    "correct": "levrek",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_181",
+    "word": "perch",
+    "correct": "turna",
+    "wrong": "levrek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_182",
+    "word": "pike",
+    "correct": "çom",
+    "wrong": "levrek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_183",
+    "word": "carp",
+    "correct": "sazan",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_184",
+    "word": "catfish",
+    "correct": "kedi balığı",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_185",
+    "word": "goldfish",
+    "correct": "goldfish",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_186",
+    "word": "angelfish",
+    "correct": "melek balığı",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_187",
+    "word": "tetra",
+    "correct": "tetrad balığı",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_188",
+    "word": "betta",
+    "correct": "dövüş balığı",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_189",
+    "word": "shark",
+    "correct": "köpekbalığı",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_190",
+    "word": "ray",
+    "correct": "sting balığı",
+    "wrong": "köpekbalığı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_191",
+    "word": "eel",
+    "correct": "yılan balığı",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_192",
+    "word": "octopus",
+    "correct": "ahtapot",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_193",
+    "word": "squid",
+    "correct": "mürekkep balığı",
+    "wrong": "ahtapot",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_194",
+    "word": "jellyfish",
+    "correct": "denizanası",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_195",
+    "word": "sea star",
+    "correct": "deniz yıldızı",
+    "wrong": "denizanası",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_196",
+    "word": "starfish",
+    "correct": "deniz yıldızı",
+    "wrong": "denizanası",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_197",
+    "word": "sea urchin",
+    "correct": "deniz kestanesi",
+    "wrong": "deniz yıldızı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_198",
+    "word": "crab",
+    "correct": "yengeç",
+    "wrong": "balık",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_199",
+    "word": "lobster",
+    "correct": "ıstakoz",
+    "wrong": "yengeç",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_200",
+    "word": "shrimp",
+    "correct": "karides",
+    "wrong": "yengeç",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_201",
+    "word": "prawn",
+    "correct": "büyük karides",
+    "wrong": "karides",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_202",
+    "word": "clam",
+    "correct": "midye",
+    "wrong": "karides",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_203",
+    "word": "oyster",
+    "correct": "istiridye",
+    "wrong": "midye",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_204",
+    "word": "mussel",
+    "correct": "midye türü",
+    "wrong": "istiridye",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_205",
+    "word": "scallop",
+    "correct": "tarif",
+    "wrong": "midye",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_206",
+    "word": "snail",
+    "correct": "salyangoz",
+    "wrong": "solucan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_207",
+    "word": "slug",
+    "correct": "yaprakbiti",
+    "wrong": "salyangoz",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_208",
+    "word": "butterfly",
+    "correct": "kelebek",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_209",
+    "word": "moth",
+    "correct": "güve",
+    "wrong": "kelebek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_210",
+    "word": "bee",
+    "correct": "arı",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_211",
+    "word": "wasp",
+    "correct": "eşek arısı",
+    "wrong": "arı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_212",
+    "word": "hornet",
+    "correct": "sultan arısı",
+    "wrong": "eşek arısı",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_213",
+    "word": "ant",
+    "correct": "karınca",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_214",
+    "word": "fly",
+    "correct": "sinek",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_215",
+    "word": "mosquito",
+    "correct": "sivrisinek",
+    "wrong": "sinek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_216",
+    "word": "gnat",
+    "correct": "kara sinek",
+    "wrong": "sinek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_217",
+    "word": "dragonfly",
+    "correct": "yusufçuk",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_218",
+    "word": "damselfly",
+    "correct": "kız yusufçuk",
+    "wrong": "yusufçuk",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_219",
+    "word": "grasshopper",
+    "correct": "çekirge",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_220",
+    "word": "cricket",
+    "correct": "cıvıl",
+    "wrong": "çekirge",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_221",
+    "word": "locust",
+    "correct": "çekirge türü",
+    "wrong": "çekirge",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_222",
+    "word": "mantis",
+    "correct": "dua böceği",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_223",
+    "word": "cockroach",
+    "correct": "hamamböceği",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_224",
+    "word": "beetle",
+    "correct": "böceği",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_225",
+    "word": "ladybug",
+    "correct": "uğur böceği",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_226",
+    "word": "firefly",
+    "correct": "ateşbocağı",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_227",
+    "word": "termite",
+    "correct": "termit",
+    "wrong": "karınca",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_228",
+    "word": "louse",
+    "correct": "bit",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_229",
+    "word": "flea",
+    "correct": "pire",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_230",
+    "word": "tick",
+    "correct": "kene",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_231",
+    "word": "spider",
+    "correct": "örümcek",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_232",
+    "word": "tarantula",
+    "correct": "bale örümcek",
+    "wrong": "örümcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_233",
+    "word": "scorpion",
+    "correct": "akrep",
+    "wrong": "örümcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_234",
+    "word": "worm",
+    "correct": "solucan",
+    "wrong": "böcek",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_235",
+    "word": "earthworm",
+    "correct": "toprak solucanı",
+    "wrong": "solucan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_236",
+    "word": "leech",
+    "correct": "sülük",
+    "wrong": "solucan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_237",
+    "word": "centipede",
+    "correct": "kırkayak",
+    "wrong": "solucan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_238",
+    "word": "millipede",
+    "correct": "kırtkuyruk",
+    "wrong": "kırkayak",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_239",
+    "word": "pet",
+    "correct": "evcil hayvan",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_240",
+    "word": "livestock",
+    "correct": "çiftlik hayvanları",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_241",
+    "word": "herd",
+    "correct": "hayvan sürüsü",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_242",
+    "word": "flock",
+    "correct": "kuş sürüsü",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_243",
+    "word": "pack",
+    "correct": "kurt sürüsü",
+    "wrong": "hayvan",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_244",
+    "word": "colony",
+    "correct": "koloni",
+    "wrong": "sürü",
+    "category": "Hayvanlar"
+  },
+  {
+    "id": "animals_245",
+    "word": "swarm",
+    "correct": "isim sürüsü",
+    "wrong": "colony",
+    "category": "Hayvanlar"
+  }
+]

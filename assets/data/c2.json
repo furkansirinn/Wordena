@@ -1,0 +1,1969 @@
+[
+  {
+    "id": "c2_1",
+    "word": "epistemological",
+    "correct": "epistemolojik",
+    "wrong": "bilgi kuramsal",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_2",
+    "word": "ontological",
+    "correct": "ontolojik",
+    "wrong": "varlık kuramsal",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_3",
+    "word": "metaphysical",
+    "correct": "metafiziksel",
+    "wrong": "varlık ötesi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_4",
+    "word": "phenomenological",
+    "correct": "fenomenolojik",
+    "wrong": "görünüş",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_5",
+    "word": "hermeneutical",
+    "correct": "yorumsal",
+    "wrong": "anlama",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_6",
+    "word": "semiotic",
+    "correct": "göstergebilim",
+    "wrong": "sembol",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_7",
+    "word": "linguistic",
+    "correct": "dilsel",
+    "wrong": "dil",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_8",
+    "word": "morphosyntactic",
+    "correct": "biçim söz dizimi",
+    "wrong": "yapı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_9",
+    "word": "phonological",
+    "correct": "ses bilim",
+    "wrong": "ses sistemi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_10",
+    "word": "prosodic",
+    "correct": "melodik",
+    "wrong": "ses deseni",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_11",
+    "word": "suprasegmental",
+    "correct": "ses üstü",
+    "wrong": "vurgu",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_12",
+    "word": "allophonic",
+    "correct": "alofon",
+    "wrong": "ses varyasyonu",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_13",
+    "word": "phonemic",
+    "correct": "fonemik",
+    "wrong": "ses birimi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_14",
+    "word": "graphemic",
+    "correct": "grafemik",
+    "wrong": "yazı birimi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_15",
+    "word": "orthographic",
+    "correct": "yazım",
+    "wrong": "yazı sistemi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_16",
+    "word": "lexical",
+    "correct": "sözcük",
+    "wrong": "sözcük bilgisi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_17",
+    "word": "semantic",
+    "correct": "anlam bilim",
+    "wrong": "anlam",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_18",
+    "word": "pragmatic",
+    "correct": "edim bilim",
+    "wrong": "kullanım",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_19",
+    "word": "discourse",
+    "correct": "söylem",
+    "wrong": "uzun konuşma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_20",
+    "word": "register",
+    "correct": "dil kullanım türü",
+    "wrong": "tarz",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_21",
+    "word": "dialect",
+    "correct": "ağız",
+    "wrong": "yerel dil",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_22",
+    "word": "idiolect",
+    "correct": "kişi dili",
+    "wrong": "bireyin dili",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_23",
+    "word": "sociolect",
+    "correct": "sosyal ağız",
+    "wrong": "toplum dili",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_24",
+    "word": "vernacular",
+    "correct": "yerel dil",
+    "wrong": "konuşma dili",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_25",
+    "word": "colloquial",
+    "correct": "gündelik",
+    "wrong": "konuşma dili",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_26",
+    "word": "idiomatic",
+    "correct": "deyimsel",
+    "wrong": "ifade",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_27",
+    "word": "metaphorical",
+    "correct": "metaforik",
+    "wrong": "benzetme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_28",
+    "word": "metonymical",
+    "correct": "metonimik",
+    "wrong": "değiştirme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_29",
+    "word": "synecdochic",
+    "correct": "senektokik",
+    "wrong": "kısımdan bütüne",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_30",
+    "word": "allegorical",
+    "correct": "alegorik",
+    "wrong": "sembolik anlatı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_31",
+    "word": "ironic",
+    "correct": "ironik",
+    "wrong": "alaycı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_32",
+    "word": "satirical",
+    "correct": "satirik",
+    "wrong": "alay eden",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_33",
+    "word": "sarcastic",
+    "correct": "kinayeli",
+    "wrong": "alaycı söz",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_34",
+    "word": "hyperbolic",
+    "correct": "abartmalı",
+    "wrong": "mübalağalı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_35",
+    "word": "litotic",
+    "correct": "hafifletme",
+    "wrong": "tam tersi söyleme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_36",
+    "word": "paradoxical",
+    "correct": "paradoksal",
+    "wrong": "çelişkili",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_37",
+    "word": "antithetical",
+    "correct": "zıtsal",
+    "wrong": "karşıt",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_38",
+    "word": "oxymoronic",
+    "correct": "çelişkili söz",
+    "wrong": "zıt kombinasyon",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_39",
+    "word": "tautological",
+    "correct": "tautolojik",
+    "wrong": "tekrarlı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_40",
+    "word": "redundant",
+    "correct": "gereksiz tekrarlı",
+    "wrong": "fazla",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_41",
+    "word": "elliptical",
+    "correct": "eliptik",
+    "wrong": "eksik yapı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_42",
+    "word": "fragmentary",
+    "correct": "parçalı",
+    "wrong": "eksik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_43",
+    "word": "stream of consciousness",
+    "correct": "bilinç akışı",
+    "wrong": "yazı tekniği",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_44",
+    "word": "interior monologue",
+    "correct": "iç monolog",
+    "wrong": "düşünce",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_45",
+    "word": "free indirect discourse",
+    "correct": "serbest dolaylı anlatı",
+    "wrong": "anlatı tekniği",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_46",
+    "word": "focalization",
+    "correct": "odaklanma",
+    "wrong": "bakış açısı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_47",
+    "word": "narrative voice",
+    "correct": "anlatıcı sesi",
+    "wrong": "anlatıcı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_48",
+    "word": "unreliable narrator",
+    "correct": "güvenilmez anlatıcı",
+    "wrong": "anlatıcı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_49",
+    "word": "metanarrative",
+    "correct": "meta anlatı",
+    "wrong": "anlatı hakkında anlatı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_50",
+    "word": "intertextuality",
+    "correct": "metin arası ilişki",
+    "wrong": "ilişki",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_51",
+    "word": "palimpsest",
+    "correct": "üzerine yazılmış sayfa",
+    "wrong": "katmanlı metin",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_52",
+    "word": "allusion",
+    "correct": "ima",
+    "wrong": "gönderme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_53",
+    "word": "echo",
+    "correct": "yankı",
+    "wrong": "tekrarlama",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_54",
+    "word": "quotation",
+    "correct": "alıntı",
+    "wrong": "doğrudan aktarma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_55",
+    "word": "pastiche",
+    "correct": "karışık stil",
+    "wrong": "taklit",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_56",
+    "word": "parody",
+    "correct": "parodi",
+    "wrong": "alay",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_57",
+    "word": "homage",
+    "correct": "saygı göstermek",
+    "wrong": "övünç",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_58",
+    "word": "travesty",
+    "correct": "çarpıtma",
+    "wrong": "yanlış gösterme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_59",
+    "word": "deconstruction",
+    "correct": "yapıyı çözme",
+    "wrong": "analiz",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_60",
+    "word": "structuralism",
+    "correct": "yapısalcılık",
+    "wrong": "sistem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_61",
+    "word": "post-structuralism",
+    "correct": "yapısalcılık sonrası",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_62",
+    "word": "phenomenalism",
+    "correct": "görünüşçülük",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_63",
+    "word": "nominalism",
+    "correct": "ad sahipliği",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_64",
+    "word": "realism",
+    "correct": "gerçekçilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_65",
+    "word": "idealism",
+    "correct": "idealizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_66",
+    "word": "materialism",
+    "correct": "materyalizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_67",
+    "word": "dualism",
+    "correct": "ikilemcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_68",
+    "word": "monism",
+    "correct": "tekbilim",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_69",
+    "word": "pluralism",
+    "correct": "çoğulculuk",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_70",
+    "word": "relativism",
+    "correct": "görecelilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_71",
+    "word": "absolutism",
+    "correct": "mutlakçılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_72",
+    "word": "empiricism",
+    "correct": "deneycilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_73",
+    "word": "rationalism",
+    "correct": "akılcılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_74",
+    "word": "pragmatism",
+    "correct": "pragmatizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_75",
+    "word": "utilitarianism",
+    "correct": "faydacılık",
+    "wrong": "etik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_76",
+    "word": "hedonism",
+    "correct": "hedonizm",
+    "wrong": "haz arayışı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_77",
+    "word": "stoicism",
+    "correct": "stoacılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_78",
+    "word": "cynicism",
+    "correct": "kynizmizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_79",
+    "word": "epicureanism",
+    "correct": "epikür felsefesi",
+    "wrong": "haz",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_80",
+    "word": "existentialism",
+    "correct": "varoluşçuluk",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_81",
+    "word": "phenomenology",
+    "correct": "fenomenoloji",
+    "wrong": "bilim",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_82",
+    "word": "hermeneutics",
+    "correct": "yorum bilimi",
+    "wrong": "anlama",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_83",
+    "word": "deconstruction",
+    "correct": "yapı çözümlemesi",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_84",
+    "word": "psychoanalysis",
+    "correct": "psikiyatrik analiz",
+    "wrong": "psikoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_85",
+    "word": "Freudianism",
+    "correct": "Freud öğretisi",
+    "wrong": "psikoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_86",
+    "word": "Jungianism",
+    "correct": "Jung öğretisi",
+    "wrong": "psikoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_87",
+    "word": "Lacanian",
+    "correct": "Lacan okulundan",
+    "wrong": "psikoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_88",
+    "word": "behaviorism",
+    "correct": "davranışçılık",
+    "wrong": "psikoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_89",
+    "word": "cognitivism",
+    "correct": "bilişselcilik",
+    "wrong": "psikoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_90",
+    "word": "connectivism",
+    "correct": "bağlantıcılık",
+    "wrong": "öğrenme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_91",
+    "word": "constructivism",
+    "correct": "inşacılık",
+    "wrong": "öğrenme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_92",
+    "word": "sociocultural",
+    "correct": "toplumsal kültürel",
+    "wrong": "sosyal",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_93",
+    "word": "Marxism",
+    "correct": "Marxizm",
+    "wrong": "ideoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_94",
+    "word": "feminism",
+    "correct": "feminizm",
+    "wrong": "hareket",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_95",
+    "word": "postcolonialism",
+    "correct": "koloniyalizm sonrası",
+    "wrong": "teori",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_96",
+    "word": "postmodernism",
+    "correct": "modernizm sonrası",
+    "wrong": "hareket",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_97",
+    "word": "dadaism",
+    "correct": "dadaizm",
+    "wrong": "sanat hareketi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_98",
+    "word": "surrealism",
+    "correct": "sürrealisme",
+    "wrong": "sanat",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_99",
+    "word": "cubism",
+    "correct": "kübizm",
+    "wrong": "sanat hareketi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_100",
+    "word": "futurism",
+    "correct": "gelecekçilik",
+    "wrong": "sanat",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_101",
+    "word": "expressionism",
+    "correct": "ekspresyonizm",
+    "wrong": "sanat",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_102",
+    "word": "impressionism",
+    "correct": "izlenimcilik",
+    "wrong": "sanat",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_103",
+    "word": "romanticism",
+    "correct": "romantizm",
+    "wrong": "akım",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_104",
+    "word": "realism",
+    "correct": "gerçekçilik",
+    "wrong": "akım",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_105",
+    "word": "naturalism",
+    "correct": "doğalcılık",
+    "wrong": "akım",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_106",
+    "word": "symbolism",
+    "correct": "sembolizm",
+    "wrong": "akım",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_107",
+    "word": "aestheticism",
+    "correct": "estetikçilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_108",
+    "word": "formalism",
+    "correct": "formalizmcilik",
+    "wrong": "sanat",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_109",
+    "word": "functionalism",
+    "correct": "işlevselcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_110",
+    "word": "teleology",
+    "correct": "son amaç bilimi",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_111",
+    "word": "determinism",
+    "correct": "belirlenimcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_112",
+    "word": "indeterminism",
+    "correct": "belirlenimcilik karşıtı",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_113",
+    "word": "fatalism",
+    "correct": "kadercilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_114",
+    "word": "compatibilism",
+    "correct": "uyumluluk",
+    "wrong": "özgür irade",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_115",
+    "word": "libertarianism",
+    "correct": "liberteryenizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_116",
+    "word": "subjectivism",
+    "correct": "öznel bir tutuş",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_117",
+    "word": "objectivism",
+    "correct": "nesnel tutum",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_118",
+    "word": "perspectivism",
+    "correct": "perspektifçilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_119",
+    "word": "phenomenalism",
+    "correct": "görünüş ilkesi",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_120",
+    "word": "instrumentalism",
+    "correct": "araç kullanımı",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_121",
+    "word": "internalism",
+    "correct": "içselcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_122",
+    "word": "externalism",
+    "correct": "dışsalcılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_123",
+    "word": "constitutivism",
+    "correct": "anayasal yapı",
+    "wrong": "sistem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_124",
+    "word": "contextualism",
+    "correct": "bağlamcılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_125",
+    "word": "holism",
+    "correct": "bütüncülük",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_126",
+    "word": "atomism",
+    "correct": "atomculuk",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_127",
+    "word": "essentialism",
+    "correct": "özselcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_128",
+    "word": "nominalism",
+    "correct": "adcılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_129",
+    "word": "universalism",
+    "correct": "evrenselcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_130",
+    "word": "particularism",
+    "correct": "özelcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_131",
+    "word": "universalizability",
+    "correct": "evrenselleştirilebilirlik",
+    "wrong": "nitelik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_132",
+    "word": "generalizability",
+    "correct": "genelleştirilebilirlik",
+    "wrong": "nitelik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_133",
+    "word": "extensionality",
+    "correct": "kapsamlılık",
+    "wrong": "mantık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_134",
+    "word": "intensionality",
+    "correct": "yoğunluk",
+    "wrong": "mantık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_135",
+    "word": "analyticity",
+    "correct": "analitiklik",
+    "wrong": "mantık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_136",
+    "word": "syntheticity",
+    "correct": "sentetiklik",
+    "wrong": "mantık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_137",
+    "word": "necessity",
+    "correct": "gereklililik",
+    "wrong": "zorunluluk",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_138",
+    "word": "contingency",
+    "correct": "olabilirlik",
+    "wrong": "mümkünlük",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_139",
+    "word": "possibility",
+    "correct": "mümkünlük",
+    "wrong": "olabilirlik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_140",
+    "word": "actuality",
+    "correct": "gerçeklik",
+    "wrong": "hakikat",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_141",
+    "word": "potentiality",
+    "correct": "potansiyel",
+    "wrong": "mümkün olma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_142",
+    "word": "actuality",
+    "correct": "aktüellik",
+    "wrong": "gerçeklik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_143",
+    "word": "modality",
+    "correct": "kiplilik",
+    "wrong": "kip",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_144",
+    "word": "deontic",
+    "correct": "zorunluluğa ilişkin",
+    "wrong": "kip",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_145",
+    "word": "alethic",
+    "correct": "doğruluğa ilişkin",
+    "wrong": "mantık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_146",
+    "word": "epistemic",
+    "correct": "bilgiye ilişkin",
+    "wrong": "bilim",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_147",
+    "word": "temporal",
+    "correct": "zamansallaştırma",
+    "wrong": "zaman",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_148",
+    "word": "spatial",
+    "correct": "mekansal",
+    "wrong": "uzay",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_149",
+    "word": "causal",
+    "correct": "nedensel",
+    "wrong": "neden",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_150",
+    "word": "probabilistic",
+    "correct": "olasılıksal",
+    "wrong": "ihtimal",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_151",
+    "word": "stochastic",
+    "correct": "rastgele",
+    "wrong": "tesadüfi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_152",
+    "word": "deterministic",
+    "correct": "belirlenimci",
+    "wrong": "kaosa",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_153",
+    "word": "chaotic",
+    "correct": "kaotik",
+    "wrong": "düzensiz",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_154",
+    "word": "fractal",
+    "correct": "fraktal",
+    "wrong": "kendine benzer",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_155",
+    "word": "recursive",
+    "correct": "yinelemeli",
+    "wrong": "tekrarlayan",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_156",
+    "word": "iterative",
+    "correct": "yinelemeli",
+    "wrong": "tekrarlayan",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_157",
+    "word": "algorithmic",
+    "correct": "algoritmasal",
+    "wrong": "adım adım",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_158",
+    "word": "computational",
+    "correct": "hesaplamalı",
+    "wrong": "bilgisayarsal",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_159",
+    "word": "algorithmic complexity",
+    "correct": "algoritma karmaşıklığı",
+    "wrong": "karmaşıklık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_160",
+    "word": "computational tractability",
+    "correct": "hesaplamalı çözülebilirlik",
+    "wrong": "çözülebilirlik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_161",
+    "word": "NP-completeness",
+    "correct": "NP-tamlık",
+    "wrong": "karmaşıklık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_162",
+    "word": "decidability",
+    "correct": "karar verilebilirlik",
+    "wrong": "matematiksel",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_163",
+    "word": "computability",
+    "correct": "hesaplanabilirlik",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_164",
+    "word": "Church-Turing thesis",
+    "correct": "Church-Turing tezi",
+    "wrong": "tesis",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_165",
+    "word": "phenomenology",
+    "correct": "fenomenoloji",
+    "wrong": "görünüş bilimi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_166",
+    "word": "transcendentalism",
+    "correct": "aşkıncılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_167",
+    "word": "empiricism",
+    "correct": "deneycilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_168",
+    "word": "rationalism",
+    "correct": "rasyonalizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_169",
+    "word": "skepticism",
+    "correct": "şüphecilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_170",
+    "word": "dogmatism",
+    "correct": "dogmatizm",
+    "wrong": "katı tutum",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_171",
+    "word": "scientism",
+    "correct": "bilimselcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_172",
+    "word": "reductionism",
+    "correct": "indirgeyicilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_173",
+    "word": "holism",
+    "correct": "bütüncülük",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_174",
+    "word": "dualism",
+    "correct": "ikicilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_175",
+    "word": "monism",
+    "correct": "teklilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_176",
+    "word": "pluralism",
+    "correct": "çoğulculuk",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_177",
+    "word": "relativism",
+    "correct": "görecelilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_178",
+    "word": "absolutism",
+    "correct": "mutlakçılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_179",
+    "word": "conventionalism",
+    "correct": "uzlaşımsalcılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_180",
+    "word": "constructionism",
+    "correct": "inşacılık",
+    "wrong": "sosyal",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_181",
+    "word": "essentialism",
+    "correct": "özselcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_182",
+    "word": "existentialism",
+    "correct": "varoluşçuluk",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_183",
+    "word": "phenomenalism",
+    "correct": "görünüşçülük",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_184",
+    "word": "idealism",
+    "correct": "idealizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_185",
+    "word": "materialism",
+    "correct": "materyalizm",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_186",
+    "word": "functionalism",
+    "correct": "işlevselcilik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_187",
+    "word": "emergentism",
+    "correct": "ortaya çıkışçılık",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_188",
+    "word": "supervenience",
+    "correct": "üst belirlenmişlik",
+    "wrong": "felsefe",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_189",
+    "word": "mereology",
+    "correct": "parça-bütün bilimi",
+    "wrong": "mantık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_190",
+    "word": "topology",
+    "correct": "topoloji",
+    "wrong": "matematiksel yapı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_191",
+    "word": "category theory",
+    "correct": "kategori teorisi",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_192",
+    "word": "homology",
+    "correct": "homolojilik",
+    "wrong": "benzerlik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_193",
+    "word": "cohomology",
+    "correct": "kohomoloji",
+    "wrong": "cebirsel yapı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_194",
+    "word": "homotopy",
+    "correct": "homotopi",
+    "wrong": "topoloji",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_195",
+    "word": "manifold",
+    "correct": "manifold",
+    "wrong": "matematiksel yapı",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_196",
+    "word": "tensor",
+    "correct": "tensör",
+    "wrong": "matematiksel nesne",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_197",
+    "word": "spinor",
+    "correct": "spinör",
+    "wrong": "fizik nesnesi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_198",
+    "word": "vector space",
+    "correct": "vektör uzayı",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_199",
+    "word": "Hilbert space",
+    "correct": "Hilbert uzayı",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_200",
+    "word": "Banach space",
+    "correct": "Banach uzayı",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_201",
+    "word": "topological space",
+    "correct": "topolojik uzay",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_202",
+    "word": "metric space",
+    "correct": "metrik uzay",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_203",
+    "word": "measure theory",
+    "correct": "ölçü teorisi",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_204",
+    "word": "Lebesgue integral",
+    "correct": "Lebesgue integrali",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_205",
+    "word": "Riemann integral",
+    "correct": "Riemann integrali",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_206",
+    "word": "functional analysis",
+    "correct": "fonksiyonel analiz",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_207",
+    "word": "harmonic analysis",
+    "correct": "harmonik analiz",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_208",
+    "word": "Fourier analysis",
+    "correct": "Fourier analizi",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_209",
+    "word": "complex analysis",
+    "correct": "karmaşık analiz",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_210",
+    "word": "real analysis",
+    "correct": "reel analiz",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_211",
+    "word": "numerical analysis",
+    "correct": "sayısal analiz",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_212",
+    "word": "approximation theory",
+    "correct": "yaklaşım teorisi",
+    "wrong": "matematik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_213",
+    "word": "interpolation",
+    "correct": "enterpolasyon",
+    "wrong": "yaklaşım",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_214",
+    "word": "extrapolation",
+    "correct": "ekstrapolasyon",
+    "wrong": "tahmin",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_215",
+    "word": "regression analysis",
+    "correct": "regresyon analizi",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_216",
+    "word": "correlation",
+    "correct": "korelasyon",
+    "wrong": "ilişki",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_217",
+    "word": "covariance",
+    "correct": "kovaryans",
+    "wrong": "değişim birliği",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_218",
+    "word": "variance",
+    "correct": "varyans",
+    "wrong": "dağılma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_219",
+    "word": "standard deviation",
+    "correct": "standart sapma",
+    "wrong": "ölçüm",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_220",
+    "word": "skewness",
+    "correct": "çarpıklık",
+    "wrong": "dağılım şekli",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_221",
+    "word": "kurtosis",
+    "correct": "basıklık",
+    "wrong": "dağılım şekli",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_222",
+    "word": "distribution",
+    "correct": "dağılım",
+    "wrong": "olasılık",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_223",
+    "word": "probability density function",
+    "correct": "olasılık yoğunluk fonksiyonu",
+    "wrong": "fonksiyon",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_224",
+    "word": "cumulative distribution function",
+    "correct": "kümülatif dağılım fonksiyonu",
+    "wrong": "fonksiyon",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_225",
+    "word": "moment generating function",
+    "correct": "moment üreten fonksiyon",
+    "wrong": "fonksiyon",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_226",
+    "word": "characteristic function",
+    "correct": "karakteristik fonksiyon",
+    "wrong": "fonksiyon",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_227",
+    "word": "likelihood",
+    "correct": "olabilirlik",
+    "wrong": "ihtimal",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_228",
+    "word": "maximum likelihood",
+    "correct": "maksimum olabilirlik",
+    "wrong": "yöntem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_229",
+    "word": "Bayesian inference",
+    "correct": "Bayes çıkarımı",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_230",
+    "word": "frequentist inference",
+    "correct": "frekansçı çıkarım",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_231",
+    "word": "hypothesis testing",
+    "correct": "hipotez testi",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_232",
+    "word": "significance test",
+    "correct": "anlamlılık testi",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_233",
+    "word": "p-value",
+    "correct": "p-değeri",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_234",
+    "word": "confidence interval",
+    "correct": "güven aralığı",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_235",
+    "word": "credible interval",
+    "correct": "güvenilir aralık",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_236",
+    "word": "effect size",
+    "correct": "etki büyüklüğü",
+    "wrong": "ölçü",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_237",
+    "word": "power analysis",
+    "correct": "güç analizi",
+    "wrong": "istatistik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_238",
+    "word": "type I error",
+    "correct": "tip I hata",
+    "wrong": "hata",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_239",
+    "word": "type II error",
+    "correct": "tip II hata",
+    "wrong": "hata",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_240",
+    "word": "false positive",
+    "correct": "yanlış pozitif",
+    "wrong": "hata",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_241",
+    "word": "false negative",
+    "correct": "yanlış negatif",
+    "wrong": "hata",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_242",
+    "word": "sensitivity",
+    "correct": "duyarlılık",
+    "wrong": "özellik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_243",
+    "word": "specificity",
+    "correct": "spesifiklik",
+    "wrong": "özellik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_244",
+    "word": "precision",
+    "correct": "kesinlik",
+    "wrong": "doğruluk",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_245",
+    "word": "recall",
+    "correct": "geri çağırma",
+    "wrong": "tarama",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_246",
+    "word": "F-score",
+    "correct": "F-skoru",
+    "wrong": "ölçü",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_247",
+    "word": "ROC curve",
+    "correct": "ROC eğrisi",
+    "wrong": "grafik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_248",
+    "word": "AUC",
+    "correct": "eğri altı alan",
+    "wrong": "ölçü",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_249",
+    "word": "cross-validation",
+    "correct": "çapraz doğrulama",
+    "wrong": "yöntem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_250",
+    "word": "overfitting",
+    "correct": "aşırı uyum",
+    "wrong": "problem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_251",
+    "word": "underfitting",
+    "correct": "yetersiz uyum",
+    "wrong": "problem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_252",
+    "word": "regularization",
+    "correct": "düzenleştirme",
+    "wrong": "yöntem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_253",
+    "word": "bias-variance tradeoff",
+    "correct": "ön yargı-varyans dengesi",
+    "wrong": "ilişki",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_254",
+    "word": "kernel method",
+    "correct": "kernel yöntemi",
+    "wrong": "makine öğrenmesi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_255",
+    "word": "support vector machine",
+    "correct": "destek vektör makinesi",
+    "wrong": "algoritma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_256",
+    "word": "neural network",
+    "correct": "sinir ağı",
+    "wrong": "makine öğrenmesi",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_257",
+    "word": "deep learning",
+    "correct": "derin öğrenme",
+    "wrong": "yapay zeka",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_258",
+    "word": "backpropagation",
+    "correct": "geriye yayılım",
+    "wrong": "algoritma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_259",
+    "word": "gradient descent",
+    "correct": "gradyan iniş",
+    "wrong": "optimizasyon",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_260",
+    "word": "stochastic gradient descent",
+    "correct": "rastgele gradyan iniş",
+    "wrong": "algoritma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_261",
+    "word": "Adam optimizer",
+    "correct": "Adam optimizeri",
+    "wrong": "algoritma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_262",
+    "word": "momentum",
+    "correct": "momentum",
+    "wrong": "optimizasyon",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_263",
+    "word": "batch normalization",
+    "correct": "toplu normalizasyon",
+    "wrong": "teknik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_264",
+    "word": "dropout",
+    "correct": "bırakma",
+    "wrong": "düzenleştirme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_265",
+    "word": "weight decay",
+    "correct": "ağırlık azalması",
+    "wrong": "düzenleştirme",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_266",
+    "word": "early stopping",
+    "correct": "erken durdurma",
+    "wrong": "teknik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_267",
+    "word": "feature extraction",
+    "correct": "özellik çıkarma",
+    "wrong": "işlem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_268",
+    "word": "feature selection",
+    "correct": "özellik seçimi",
+    "wrong": "işlem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_269",
+    "word": "dimensionality reduction",
+    "correct": "boyut indirgeme",
+    "wrong": "teknik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_270",
+    "word": "principal component analysis",
+    "correct": "temel bileşen analizi",
+    "wrong": "yöntem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_271",
+    "word": "clustering",
+    "correct": "kümeleme",
+    "wrong": "sınıflandırma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_272",
+    "word": "k-means",
+    "correct": "k-ortalaması",
+    "wrong": "algoritma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_273",
+    "word": "hierarchical clustering",
+    "correct": "hiyerarşik kümeleme",
+    "wrong": "yöntem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_274",
+    "word": "DBSCAN",
+    "correct": "DBSCAN",
+    "wrong": "algoritma",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_275",
+    "word": "classification",
+    "correct": "sınıflandırma",
+    "wrong": "görev",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_276",
+    "word": "regression",
+    "correct": "regresyon",
+    "wrong": "görev",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_277",
+    "word": "decision tree",
+    "correct": "karar ağacı",
+    "wrong": "model",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_278",
+    "word": "random forest",
+    "correct": "rastgele orman",
+    "wrong": "model",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_279",
+    "word": "gradient boosting",
+    "correct": "gradyan güçlendirme",
+    "wrong": "yöntem",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_280",
+    "word": "ensemble method",
+    "correct": "birleşik yöntem",
+    "wrong": "teknik",
+    "category": "C2 Seviye Kelimeler"
+  },
+  {
+    "id": "c2_281",
+    "word": "ensemble learning",
+    "correct": "birleşik öğrenme",
+    "wrong": "makine öğrenmesi",
+    "category": "C2 Seviye Kelimeler"
+  }
+]

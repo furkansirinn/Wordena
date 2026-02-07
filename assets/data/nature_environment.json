@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "nature_environment_1",
+    "word": "nature",
+    "correct": "doğa",
+    "wrong": "şehir",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_2",
+    "word": "environment",
+    "correct": "çevre",
+    "wrong": "kapalı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_3",
+    "word": "earth",
+    "correct": "dünya",
+    "wrong": "uzay",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_4",
+    "word": "planet",
+    "correct": "gezegen",
+    "wrong": "ay",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_5",
+    "word": "climate",
+    "correct": "iklim",
+    "wrong": "hava",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_6",
+    "word": "weather",
+    "correct": "hava",
+    "wrong": "iklim",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_7",
+    "word": "temperature",
+    "correct": "sıcaklık",
+    "wrong": "derece",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_8",
+    "word": "rain",
+    "correct": "yağmur",
+    "wrong": "güneş",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_9",
+    "word": "snow",
+    "correct": "kar",
+    "wrong": "yağmur",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_10",
+    "word": "hail",
+    "correct": "dolu",
+    "wrong": "yağmur",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_11",
+    "word": "sleet",
+    "correct": "karla karışık yağmur",
+    "wrong": "kar",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_12",
+    "word": "frost",
+    "correct": "kırcı",
+    "wrong": "sıcaklık",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_13",
+    "word": "ice",
+    "correct": "buz",
+    "wrong": "su",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_14",
+    "word": "dew",
+    "correct": "çiğ",
+    "wrong": "su",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_15",
+    "word": "fog",
+    "correct": "sis",
+    "wrong": "hava",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_16",
+    "word": "mist",
+    "correct": "hafif sis",
+    "wrong": "sisli",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_17",
+    "word": "cloud",
+    "correct": "bulut",
+    "wrong": "gökyüzü",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_18",
+    "word": "storm",
+    "correct": "fırtına",
+    "wrong": "hava",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_19",
+    "word": "thunderstorm",
+    "correct": "gökgürültülü fırtına",
+    "wrong": "fırtına",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_20",
+    "word": "lightning",
+    "correct": "şimşek",
+    "wrong": "rüzgar",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_21",
+    "word": "thunder",
+    "correct": "gökgürültüsü",
+    "wrong": "ses",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_22",
+    "word": "wind",
+    "correct": "rüzgar",
+    "wrong": "hava",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_23",
+    "word": "breeze",
+    "correct": "hafif rüzgar",
+    "wrong": "rüzgar",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_24",
+    "word": "gust",
+    "correct": "hava akımı",
+    "wrong": "rüzgar",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_25",
+    "word": "tornado",
+    "correct": "tornado",
+    "wrong": "fırtına",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_26",
+    "word": "hurricane",
+    "correct": "hürrikan",
+    "wrong": "fırtına",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_27",
+    "word": "cyclone",
+    "correct": "kasırga",
+    "wrong": "fırtına",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_28",
+    "word": "monsoon",
+    "correct": "musim yağması",
+    "wrong": "mevsim",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_29",
+    "word": "season",
+    "correct": "mevsim",
+    "wrong": "ay",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_30",
+    "word": "spring",
+    "correct": "ilkbahar",
+    "wrong": "yaz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_31",
+    "word": "summer",
+    "correct": "yaz",
+    "wrong": "kış",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_32",
+    "word": "autumn",
+    "correct": "sonbahar",
+    "wrong": "ilkbahar",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_33",
+    "word": "fall",
+    "correct": "sonbahar",
+    "wrong": "ilkbahar",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_34",
+    "word": "winter",
+    "correct": "kış",
+    "wrong": "yaz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_35",
+    "word": "sunrise",
+    "correct": "gündoğumu",
+    "wrong": "gün batımı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_36",
+    "word": "sunset",
+    "correct": "gün batımı",
+    "wrong": "gündoğumu",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_37",
+    "word": "daytime",
+    "correct": "gün ışığında",
+    "wrong": "gece",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_38",
+    "word": "night",
+    "correct": "gece",
+    "wrong": "gün",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_39",
+    "word": "daylight",
+    "correct": "gün ışığı",
+    "wrong": "karanlık",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_40",
+    "word": "darkness",
+    "correct": "karanlık",
+    "wrong": "ışık",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_41",
+    "word": "twilight",
+    "correct": "alacakaranlık",
+    "wrong": "gece",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_42",
+    "word": "dusk",
+    "correct": "akşam alacakaranlığı",
+    "wrong": "şafak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_43",
+    "word": "dawn",
+    "correct": "şafak",
+    "wrong": "gece",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_44",
+    "word": "moon",
+    "correct": "ay",
+    "wrong": "güneş",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_45",
+    "word": "star",
+    "correct": "yıldız",
+    "wrong": "ay",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_46",
+    "word": "constellation",
+    "correct": "takımyıldız",
+    "wrong": "yıldız",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_47",
+    "word": "sun",
+    "correct": "güneş",
+    "wrong": "ay",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_48",
+    "word": "solar system",
+    "correct": "güneş sistemi",
+    "wrong": "sistem",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_49",
+    "word": "galaxy",
+    "correct": "galaksi",
+    "wrong": "sistem",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_50",
+    "word": "universe",
+    "correct": "evren",
+    "wrong": "gezegen",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_51",
+    "word": "space",
+    "correct": "uzay",
+    "wrong": "dünya",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_52",
+    "word": "atmosphere",
+    "correct": "atmosfer",
+    "wrong": "uzay",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_53",
+    "word": "oxygen",
+    "correct": "oksijen",
+    "wrong": "hava",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_54",
+    "word": "carbon dioxide",
+    "correct": "karbondioksit",
+    "wrong": "oksijen",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_55",
+    "word": "ozone layer",
+    "correct": "ozon tabakası",
+    "wrong": "tabaka",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_56",
+    "word": "greenhouse effect",
+    "correct": "sera etkisi",
+    "wrong": "soğuma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_57",
+    "word": "global warming",
+    "correct": "küresel ısınma",
+    "wrong": "soğuma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_58",
+    "word": "climate change",
+    "correct": "iklim değişikliği",
+    "wrong": "iklim",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_59",
+    "word": "pollution",
+    "correct": "kirlilik",
+    "wrong": "temizlik",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_60",
+    "word": "air pollution",
+    "correct": "hava kirliliği",
+    "wrong": "temiz hava",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_61",
+    "word": "water pollution",
+    "correct": "su kirliliği",
+    "wrong": "temiz su",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_62",
+    "word": "soil pollution",
+    "correct": "toprak kirliliği",
+    "wrong": "temiz toprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_63",
+    "word": "waste",
+    "correct": "atık",
+    "wrong": "temiz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_64",
+    "word": "garbage",
+    "correct": "çöp",
+    "wrong": "temiz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_65",
+    "word": "landfill",
+    "correct": "çöpdepo",
+    "wrong": "bahçe",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_66",
+    "word": "recycling",
+    "correct": "geri dönüşüm",
+    "wrong": "atma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_67",
+    "word": "compost",
+    "correct": "kompost",
+    "wrong": "atık",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_68",
+    "word": "renewable energy",
+    "correct": "yenilenebilir enerji",
+    "wrong": "fosil yakıtı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_69",
+    "word": "fossil fuel",
+    "correct": "fosil yakıtı",
+    "wrong": "yenilenebilir",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_70",
+    "word": "coal",
+    "correct": "kömür",
+    "wrong": "benzin",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_71",
+    "word": "oil",
+    "correct": "petrol",
+    "wrong": "kömür",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_72",
+    "word": "natural gas",
+    "correct": "doğal gaz",
+    "wrong": "petrol",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_73",
+    "word": "solar energy",
+    "correct": "güneş enerjisi",
+    "wrong": "enerji",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_74",
+    "word": "wind energy",
+    "correct": "rüzgar enerjisi",
+    "wrong": "enerji",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_75",
+    "word": "hydroelectric power",
+    "correct": "hidroelektrik gücü",
+    "wrong": "elektrik",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_76",
+    "word": "nuclear energy",
+    "correct": "nükleer enerji",
+    "wrong": "enerji",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_77",
+    "word": "geothermal energy",
+    "correct": "jeotermal enerji",
+    "wrong": "enerji",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_78",
+    "word": "biomass",
+    "correct": "biyokütle",
+    "wrong": "yakıt",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_79",
+    "word": "carbon footprint",
+    "correct": "karbon ayakizi",
+    "wrong": "ayakizi",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_80",
+    "word": "carbon offset",
+    "correct": "karbon dengesi",
+    "wrong": "denge",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_81",
+    "word": "sustainability",
+    "correct": "sürdürülebilirlik",
+    "wrong": "tükenme",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_82",
+    "word": "sustainable",
+    "correct": "sürdürülebilir",
+    "wrong": "tükenebilir",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_83",
+    "word": "conservation",
+    "correct": "koruma",
+    "wrong": "tüketim",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_84",
+    "word": "preservation",
+    "correct": "koruma",
+    "wrong": "bozulma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_85",
+    "word": "ecosystem",
+    "correct": "ekosistem",
+    "wrong": "sistem",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_86",
+    "word": "habitat",
+    "correct": "yaşam alanı",
+    "wrong": "yerleşim",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_87",
+    "word": "biodiversity",
+    "correct": "biyolojik çeşitlilik",
+    "wrong": "tek tür",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_88",
+    "word": "species",
+    "correct": "tür",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_89",
+    "word": "endangered species",
+    "correct": "tehlike altındaki türler",
+    "wrong": "yaygın tür",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_90",
+    "word": "extinct",
+    "correct": "soyu tükenmiş",
+    "wrong": "yaşayan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_91",
+    "word": "extinction",
+    "correct": "yok olma",
+    "wrong": "yaşam",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_92",
+    "word": "wildlife",
+    "correct": "yaban hayatı",
+    "wrong": "evcil",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_93",
+    "word": "animal",
+    "correct": "hayvan",
+    "wrong": "bitki",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_94",
+    "word": "mammal",
+    "correct": "memeli",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_95",
+    "word": "bird",
+    "correct": "kuş",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_96",
+    "word": "reptile",
+    "correct": "sürüngen",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_97",
+    "word": "amphibian",
+    "correct": "amfibi",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_98",
+    "word": "fish",
+    "correct": "balık",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_99",
+    "word": "insect",
+    "correct": "böcek",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_100",
+    "word": "predator",
+    "correct": "avcı",
+    "wrong": "av",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_101",
+    "word": "prey",
+    "correct": "av",
+    "wrong": "avcı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_102",
+    "word": "herbivore",
+    "correct": "otçul",
+    "wrong": "etçil",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_103",
+    "word": "carnivore",
+    "correct": "etçil",
+    "wrong": "otçul",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_104",
+    "word": "omnivore",
+    "correct": "hepçil",
+    "wrong": "otçul",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_105",
+    "word": "plant",
+    "correct": "bitki",
+    "wrong": "hayvan",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_106",
+    "word": "flower",
+    "correct": "çiçek",
+    "wrong": "ot",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_107",
+    "word": "tree",
+    "correct": "ağaç",
+    "wrong": "bitki",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_108",
+    "word": "shrub",
+    "correct": "çalı",
+    "wrong": "ağaç",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_109",
+    "word": "grass",
+    "correct": "çimen",
+    "wrong": "ot",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_110",
+    "word": "weed",
+    "correct": "yabani ot",
+    "wrong": "çiçek",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_111",
+    "word": "herb",
+    "correct": "baharat otu",
+    "wrong": "ot",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_112",
+    "word": "moss",
+    "correct": "yosun",
+    "wrong": "bitki",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_113",
+    "word": "fungi",
+    "correct": "mantar",
+    "wrong": "bitki",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_114",
+    "word": "mushroom",
+    "correct": "mantar",
+    "wrong": "fungus",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_115",
+    "word": "root",
+    "correct": "kök",
+    "wrong": "gövde",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_116",
+    "word": "stem",
+    "correct": "sap",
+    "wrong": "yaprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_117",
+    "word": "leaf",
+    "correct": "yaprak",
+    "wrong": "çiçek",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_118",
+    "word": "petal",
+    "correct": "taç yaprağı",
+    "wrong": "yaprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_119",
+    "word": "sepal",
+    "correct": "sepal",
+    "wrong": "taç yaprağı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_120",
+    "word": "seed",
+    "correct": "tohum",
+    "wrong": "bitki",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_121",
+    "word": "fruit",
+    "correct": "meyve",
+    "wrong": "tohum",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_122",
+    "word": "berry",
+    "correct": "böğürtlen",
+    "wrong": "meyve",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_123",
+    "word": "nut",
+    "correct": "kurulmuş meyve",
+    "wrong": "tohum",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_124",
+    "word": "land",
+    "correct": "toprak",
+    "wrong": "su",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_125",
+    "word": "soil",
+    "correct": "toprak",
+    "wrong": "kum",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_126",
+    "word": "rock",
+    "correct": "kaya",
+    "wrong": "toprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_127",
+    "word": "stone",
+    "correct": "taş",
+    "wrong": "kaya",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_128",
+    "word": "mineral",
+    "correct": "mineral",
+    "wrong": "maden",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_129",
+    "word": "sand",
+    "correct": "kum",
+    "wrong": "toprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_130",
+    "word": "clay",
+    "correct": "kil",
+    "wrong": "kum",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_131",
+    "word": "mountain",
+    "correct": "dağ",
+    "wrong": "vadi",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_132",
+    "word": "hill",
+    "correct": "tepesi",
+    "wrong": "dağ",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_133",
+    "word": "valley",
+    "correct": "vadi",
+    "wrong": "dağ",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_134",
+    "word": "canyon",
+    "correct": "kanyon",
+    "wrong": "vadi",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_135",
+    "word": "cave",
+    "correct": "mağara",
+    "wrong": "açık",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_136",
+    "word": "plateau",
+    "correct": "plato",
+    "wrong": "dağ",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_137",
+    "word": "plain",
+    "correct": "düzlük",
+    "wrong": "dağ",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_138",
+    "word": "desert",
+    "correct": "çöl",
+    "wrong": "orman",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_139",
+    "word": "meadow",
+    "correct": "çayır",
+    "wrong": "orman",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_140",
+    "word": "forest",
+    "correct": "orman",
+    "wrong": "çöl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_141",
+    "word": "jungle",
+    "correct": "orman",
+    "wrong": "çöl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_142",
+    "word": "rainforest",
+    "correct": "yağmur ormanı",
+    "wrong": "kuru orman",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_143",
+    "word": "woodland",
+    "correct": "ağaçlık alan",
+    "wrong": "orman",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_144",
+    "word": "thicket",
+    "correct": "çalılık",
+    "wrong": "açık",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_145",
+    "word": "undergrowth",
+    "correct": "alt katman",
+    "wrong": "yaprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_146",
+    "word": "canopy",
+    "correct": "ağaç tavanı",
+    "wrong": "alt katman",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_147",
+    "word": "water",
+    "correct": "su",
+    "wrong": "toprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_148",
+    "word": "ocean",
+    "correct": "okyanus",
+    "wrong": "deniz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_149",
+    "word": "sea",
+    "correct": "deniz",
+    "wrong": "göl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_150",
+    "word": "lake",
+    "correct": "göl",
+    "wrong": "deniz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_151",
+    "word": "river",
+    "correct": "nehir",
+    "wrong": "göl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_152",
+    "word": "stream",
+    "correct": "akış",
+    "wrong": "nehir",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_153",
+    "word": "creek",
+    "correct": "ufak ırmak",
+    "wrong": "akış",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_154",
+    "word": "brook",
+    "correct": "dere",
+    "wrong": "nehir",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_155",
+    "word": "spring",
+    "correct": "kaynak",
+    "wrong": "göl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_156",
+    "word": "well",
+    "correct": "kuyu",
+    "wrong": "kaynak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_157",
+    "word": "waterfall",
+    "correct": "şelale",
+    "wrong": "akış",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_158",
+    "word": "rapids",
+    "correct": "hızlı akış",
+    "wrong": "akış",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_159",
+    "word": "delta",
+    "correct": "delta",
+    "wrong": "ırmak ağzı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_160",
+    "word": "estuary",
+    "correct": "ırmak ağzı",
+    "wrong": "delta",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_161",
+    "word": "glacier",
+    "correct": "buzul",
+    "wrong": "buz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_162",
+    "word": "iceberg",
+    "correct": "buz dağı",
+    "wrong": "buz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_163",
+    "word": "permafrost",
+    "correct": "kalıcı donmuş toprak",
+    "wrong": "toprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_164",
+    "word": "tundra",
+    "correct": "tundra",
+    "wrong": "biome",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_165",
+    "word": "steppe",
+    "correct": "step",
+    "wrong": "çöl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_166",
+    "word": "savanna",
+    "correct": "savana",
+    "wrong": "çöl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_167",
+    "word": "coral reef",
+    "correct": "mercan resifi",
+    "wrong": "resif",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_168",
+    "word": "beach",
+    "correct": "plaj",
+    "wrong": "sahil",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_169",
+    "word": "shore",
+    "correct": "sahil",
+    "wrong": "deniz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_170",
+    "word": "coast",
+    "correct": "kıyı",
+    "wrong": "karasal",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_171",
+    "word": "bay",
+    "correct": "körfez",
+    "wrong": "deniz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_172",
+    "word": "gulf",
+    "correct": "körfez",
+    "wrong": "deniz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_173",
+    "word": "strait",
+    "correct": "boğaz",
+    "wrong": "körfez",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_174",
+    "word": "lagoon",
+    "correct": "lagün",
+    "wrong": "göl",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_175",
+    "word": "atoll",
+    "correct": "mercan adası",
+    "wrong": "ada",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_176",
+    "word": "island",
+    "correct": "ada",
+    "wrong": "kara",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_177",
+    "word": "peninsula",
+    "correct": "yarımada",
+    "wrong": "ada",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_178",
+    "word": "arch",
+    "correct": "kemer",
+    "wrong": "oluşum",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_179",
+    "word": "natural selection",
+    "correct": "doğal seçilim",
+    "wrong": "seçim",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_180",
+    "word": "evolution",
+    "correct": "evrim",
+    "wrong": "yaratılış",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_181",
+    "word": "adaptation",
+    "correct": "uyum",
+    "wrong": "başarısızlık",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_182",
+    "word": "mutation",
+    "correct": "mutasyon",
+    "wrong": "kalıtım",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_183",
+    "word": "genetics",
+    "correct": "genetik",
+    "wrong": "biyoloji",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_184",
+    "word": "gene",
+    "correct": "gen",
+    "wrong": "kromosom",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_185",
+    "word": "DNA",
+    "correct": "DNA",
+    "wrong": "RNA",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_186",
+    "word": "RNA",
+    "correct": "RNA",
+    "wrong": "DNA",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_187",
+    "word": "photosynthesis",
+    "correct": "fotosentez",
+    "wrong": "beslenme",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_188",
+    "word": "respiration",
+    "correct": "solunum",
+    "wrong": "asimilasyon",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_189",
+    "word": "decomposition",
+    "correct": "bozunma",
+    "wrong": "oluşum",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_190",
+    "word": "fermentation",
+    "correct": "fermantasyon",
+    "wrong": "bozunma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_191",
+    "word": "nitrogen cycle",
+    "correct": "azot döngüsü",
+    "wrong": "döngü",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_192",
+    "word": "carbon cycle",
+    "correct": "karbon döngüsü",
+    "wrong": "döngü",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_193",
+    "word": "water cycle",
+    "correct": "su döngüsü",
+    "wrong": "döngü",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_194",
+    "word": "food chain",
+    "correct": "besin zinciri",
+    "wrong": "zincir",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_195",
+    "word": "food web",
+    "correct": "besin ağı",
+    "wrong": "ağ",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_196",
+    "word": "predation",
+    "correct": "avlanma",
+    "wrong": "kaçış",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_197",
+    "word": "symbiosis",
+    "correct": "simbiyoz",
+    "wrong": "ilişki",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_198",
+    "word": "parasitism",
+    "correct": "parazitizm",
+    "wrong": "simbiyoz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_199",
+    "word": "mutualism",
+    "correct": "karşılıklı yardım",
+    "wrong": "simbiyoz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_200",
+    "word": "commensalism",
+    "correct": "komensalizm",
+    "wrong": "simbiyoz",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_201",
+    "word": "poaching",
+    "correct": "kaçak avlanma",
+    "wrong": "avlanma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_202",
+    "word": "deforestation",
+    "correct": "ormansızlaştırma",
+    "wrong": "ağaçlandırma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_203",
+    "word": "desertification",
+    "correct": "çölleşme",
+    "wrong": "yeşillenme",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_204",
+    "word": "erosion",
+    "correct": "erozyon",
+    "wrong": "yapı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_205",
+    "word": "landslide",
+    "correct": "heyelan",
+    "wrong": "toprak",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_206",
+    "word": "earthquake",
+    "correct": "deprem",
+    "wrong": "hareket",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_207",
+    "word": "tsunami",
+    "correct": "tsunami",
+    "wrong": "dalga",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_208",
+    "word": "volcanic eruption",
+    "correct": "volkenik patlama",
+    "wrong": "patlamış",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_209",
+    "word": "lava",
+    "correct": "lav",
+    "wrong": "magma",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_210",
+    "word": "magma",
+    "correct": "magma",
+    "wrong": "lav",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_211",
+    "word": "geyser",
+    "correct": "geyzer",
+    "wrong": "kaynağı",
+    "category": "Doğa & Çevre"
+  },
+  {
+    "id": "nature_environment_212",
+    "word": "hot spring",
+    "correct": "sıcak kaynak",
+    "wrong": "kaynak",
+    "category": "Doğa & Çevre"
+  }
+]

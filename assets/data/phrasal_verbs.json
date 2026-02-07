@@ -1,0 +1,1493 @@
+[
+  {
+    "id": "phrasal_verbs_1",
+    "word": "break down",
+    "correct": "bozulmak",
+    "wrong": "tamir olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_2",
+    "word": "break up",
+    "correct": "ayrılmak",
+    "wrong": "birleşmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_3",
+    "word": "break out",
+    "correct": "kaçmak",
+    "wrong": "tutuklanmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_4",
+    "word": "break in",
+    "correct": "zorla girmek",
+    "wrong": "çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_5",
+    "word": "break through",
+    "correct": "ilerlemek",
+    "wrong": "geri gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_6",
+    "word": "break off",
+    "correct": "kesmek",
+    "wrong": "devam etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_7",
+    "word": "bring up",
+    "correct": "büyütmek",
+    "wrong": "ölmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_8",
+    "word": "bring back",
+    "correct": "geri getirmek",
+    "wrong": "götürmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_9",
+    "word": "bring out",
+    "correct": "ortaya çıkarmak",
+    "wrong": "gizlemek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_10",
+    "word": "bring down",
+    "correct": "aşağı indirmek",
+    "wrong": "kaldırmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_11",
+    "word": "bring about",
+    "correct": "neden olmak",
+    "wrong": "engel olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_12",
+    "word": "bring forward",
+    "correct": "ileri sürmek",
+    "wrong": "geri almak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_13",
+    "word": "call up",
+    "correct": "aramak",
+    "wrong": "suskunluk",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_14",
+    "word": "call off",
+    "correct": "iptal etmek",
+    "wrong": "başlamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_15",
+    "word": "call out",
+    "correct": "sesle çağırmak",
+    "wrong": "suskunluk",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_16",
+    "word": "call for",
+    "correct": "talep etmek",
+    "wrong": "sunmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_17",
+    "word": "call back",
+    "correct": "geri aramak",
+    "wrong": "sessiz",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_18",
+    "word": "call in",
+    "correct": "içeri çağırmak",
+    "wrong": "dışarı çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_19",
+    "word": "carry on",
+    "correct": "devam etmek",
+    "wrong": "durmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_20",
+    "word": "carry out",
+    "correct": "yerine getirmek",
+    "wrong": "başarısız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_21",
+    "word": "carry off",
+    "correct": "başarıyla tamamlamak",
+    "wrong": "başarısız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_22",
+    "word": "carry over",
+    "correct": "devretmek",
+    "wrong": "sonlandırmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_23",
+    "word": "carry away",
+    "correct": "heyecanlandırmak",
+    "wrong": "sakinleştirmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_24",
+    "word": "catch up",
+    "correct": "yetişmek",
+    "wrong": "geride kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_25",
+    "word": "catch on",
+    "correct": "anlamak",
+    "wrong": "anlamıyor",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_26",
+    "word": "catch out",
+    "correct": "yakalamak",
+    "wrong": "kurtulmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_27",
+    "word": "check up",
+    "correct": "kontrol etmek",
+    "wrong": "ihmal etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_28",
+    "word": "check out",
+    "correct": "kontrol etmek",
+    "wrong": "kabul etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_29",
+    "word": "check in",
+    "correct": "gelmek",
+    "wrong": "ayrılmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_30",
+    "word": "check off",
+    "correct": "işaretlemek",
+    "wrong": "işaretini kaldırmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_31",
+    "word": "come about",
+    "correct": "olmak",
+    "wrong": "oluşmamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_32",
+    "word": "come across",
+    "correct": "rastlamak",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_33",
+    "word": "come along",
+    "correct": "ilerlemek",
+    "wrong": "gecikme",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_34",
+    "word": "come back",
+    "correct": "geri gelmek",
+    "wrong": "gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_35",
+    "word": "come down",
+    "correct": "inerek",
+    "wrong": "yükselmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_36",
+    "word": "come down to",
+    "correct": "kaynağında",
+    "wrong": "başında",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_37",
+    "word": "come forward",
+    "correct": "gönüllü olmak",
+    "wrong": "geri çekilmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_38",
+    "word": "come off",
+    "correct": "gerçekleşmek",
+    "wrong": "başarısız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_39",
+    "word": "come on",
+    "correct": "hadi",
+    "wrong": "dur",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_40",
+    "word": "come out",
+    "correct": "çıkmak",
+    "wrong": "saklı olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_41",
+    "word": "come over",
+    "correct": "ziyaret etmek",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_42",
+    "word": "come round",
+    "correct": "başlamak",
+    "wrong": "bitirme",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_43",
+    "word": "come through",
+    "correct": "başarıyla tamamlamak",
+    "wrong": "başarısız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_44",
+    "word": "come to",
+    "correct": "bilinç",
+    "wrong": "baygın",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_45",
+    "word": "come together",
+    "correct": "bir araya gelmek",
+    "wrong": "dağılma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_46",
+    "word": "come up",
+    "correct": "ortaya çıkmak",
+    "wrong": "inme",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_47",
+    "word": "come up with",
+    "correct": "bulmak",
+    "wrong": "kaybetmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_48",
+    "word": "cut across",
+    "correct": "kesip geçmek",
+    "wrong": "etrafında gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_49",
+    "word": "cut back",
+    "correct": "azaltmak",
+    "wrong": "artırmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_50",
+    "word": "cut down",
+    "correct": "azaltmak",
+    "wrong": "artırmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_51",
+    "word": "cut in",
+    "correct": "araya girmek",
+    "wrong": "dışarıda kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_52",
+    "word": "cut off",
+    "correct": "kesmek",
+    "wrong": "bağlanmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_53",
+    "word": "cut out",
+    "correct": "kesip almak",
+    "wrong": "eklemek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_54",
+    "word": "cut up",
+    "correct": "kesmek parça",
+    "wrong": "birleştirmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_55",
+    "word": "cut through",
+    "correct": "kısaltmak",
+    "wrong": "dolaşmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_56",
+    "word": "deal with",
+    "correct": "uğraşmak",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_57",
+    "word": "deal out",
+    "correct": "dağıtmak",
+    "wrong": "toplamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_58",
+    "word": "deal in",
+    "correct": "ticareti yapmak",
+    "wrong": "almıyor",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_59",
+    "word": "do up",
+    "correct": "tamir etmek",
+    "wrong": "bozmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_60",
+    "word": "do without",
+    "correct": "olmadan yaşamak",
+    "wrong": "ihtiyaç",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_61",
+    "word": "do over",
+    "correct": "yeniden yapmak",
+    "wrong": "yapmamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_62",
+    "word": "do in",
+    "correct": "bitirmek",
+    "wrong": "kurtarmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_63",
+    "word": "do away with",
+    "correct": "kaldırmak",
+    "wrong": "tutmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_64",
+    "word": "draw up",
+    "correct": "hazırlamak",
+    "wrong": "başarısız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_65",
+    "word": "draw out",
+    "correct": "çıkarmak",
+    "wrong": "sokulmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_66",
+    "word": "draw back",
+    "correct": "geri çekilmek",
+    "wrong": "ileri gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_67",
+    "word": "draw in",
+    "correct": "içine çekmek",
+    "wrong": "dışarı atmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_68",
+    "word": "draw on",
+    "correct": "yararlanmak",
+    "wrong": "reddetmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_69",
+    "word": "draw off",
+    "correct": "ayrılmak",
+    "wrong": "birleşmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_70",
+    "word": "drop by",
+    "correct": "uğramak",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_71",
+    "word": "drop in",
+    "correct": "girip çıkmak",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_72",
+    "word": "drop off",
+    "correct": "bırakmak",
+    "wrong": "almak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_73",
+    "word": "drop out",
+    "correct": "bırakmak",
+    "wrong": "devam etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_74",
+    "word": "fall back",
+    "correct": "geri çekilmek",
+    "wrong": "ileri gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_75",
+    "word": "fall behind",
+    "correct": "geride kalmak",
+    "wrong": "öncü olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_76",
+    "word": "fall down",
+    "correct": "yıkılmak",
+    "wrong": "ayakta durmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_77",
+    "word": "fall for",
+    "correct": "düşkün olmak",
+    "wrong": "reddetmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_78",
+    "word": "fall in",
+    "correct": "çökmek",
+    "wrong": "ayakta durmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_79",
+    "word": "fall into",
+    "correct": "düşmek",
+    "wrong": "çıkarmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_80",
+    "word": "fall off",
+    "correct": "düşmek",
+    "wrong": "yapışmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_81",
+    "word": "fall on",
+    "correct": "saldırmak",
+    "wrong": "savunmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_82",
+    "word": "fall out",
+    "correct": "çıkılmak",
+    "wrong": "barışmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_83",
+    "word": "fall over",
+    "correct": "yıkılmak",
+    "wrong": "düzeltmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_84",
+    "word": "fall through",
+    "correct": "başarısız olmak",
+    "wrong": "başarılı olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_85",
+    "word": "fall upon",
+    "correct": "saldırmak",
+    "wrong": "savunmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_86",
+    "word": "feel for",
+    "correct": "acısını çekmek",
+    "wrong": "kayıtsız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_87",
+    "word": "feel up to",
+    "correct": "hazır olmak",
+    "wrong": "hazır olmamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_88",
+    "word": "figure out",
+    "correct": "anlamak",
+    "wrong": "kafa karışıklığı",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_89",
+    "word": "figure on",
+    "correct": "planlamak",
+    "wrong": "plansız",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_90",
+    "word": "fill in",
+    "correct": "doldurmak",
+    "wrong": "boşaltmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_91",
+    "word": "fill up",
+    "correct": "doldurmak",
+    "wrong": "boşaltmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_92",
+    "word": "fill out",
+    "correct": "doldurmak",
+    "wrong": "boşaltmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_93",
+    "word": "find out",
+    "correct": "öğrenmek",
+    "wrong": "bilmemeyen",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_94",
+    "word": "find fault",
+    "correct": "suçlamak",
+    "wrong": "desteklemek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_95",
+    "word": "finish off",
+    "correct": "bitirmek",
+    "wrong": "başlamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_96",
+    "word": "finish up",
+    "correct": "bitirmek",
+    "wrong": "başlamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_97",
+    "word": "fit in",
+    "correct": "uyacak",
+    "wrong": "uyumsuz",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_98",
+    "word": "fit out",
+    "correct": "donatmak",
+    "wrong": "çıkarmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_99",
+    "word": "fix up",
+    "correct": "tamir etmek",
+    "wrong": "bozmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_100",
+    "word": "flare up",
+    "correct": "patlamak",
+    "wrong": "sakinleşmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_101",
+    "word": "flash back",
+    "correct": "anılara dönmek",
+    "wrong": "şimdiki",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_102",
+    "word": "flip over",
+    "correct": "ters çevirmek",
+    "wrong": "düzeltmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_103",
+    "word": "flock to",
+    "correct": "akın etmek",
+    "wrong": "kaçmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_104",
+    "word": "flood in",
+    "correct": "dolma",
+    "wrong": "boşalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_105",
+    "word": "flood out",
+    "correct": "taşmak",
+    "wrong": "boşalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_106",
+    "word": "follow up",
+    "correct": "takip etmek",
+    "wrong": "bırakmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_107",
+    "word": "follow through",
+    "correct": "devam etmek",
+    "wrong": "yarıda kesmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_108",
+    "word": "follow on",
+    "correct": "takip etmek",
+    "wrong": "bırakmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_109",
+    "word": "force down",
+    "correct": "zorla yutturmak",
+    "wrong": "reddetmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_110",
+    "word": "force out",
+    "correct": "çıkarmak",
+    "wrong": "saklı olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_111",
+    "word": "forge ahead",
+    "correct": "ileri gitmek",
+    "wrong": "geride kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_112",
+    "word": "fork out",
+    "correct": "ödemek",
+    "wrong": "tutmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_113",
+    "word": "fork over",
+    "correct": "ödemek",
+    "wrong": "tutmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_114",
+    "word": "form up",
+    "correct": "sıralanmak",
+    "wrong": "dağılma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_115",
+    "word": "freshen up",
+    "correct": "tazelemek",
+    "wrong": "yorulmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_116",
+    "word": "fritter away",
+    "correct": "boşa harcamak",
+    "wrong": "biriktirmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_117",
+    "word": "frown on",
+    "correct": "onaylamaz",
+    "wrong": "onaylamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_118",
+    "word": "fuel up",
+    "correct": "yakıt almak",
+    "wrong": "yakıt bitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_119",
+    "word": "fume away",
+    "correct": "dumanı çıkmak",
+    "wrong": "sakinleşmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_120",
+    "word": "function as",
+    "correct": "görev yapmak",
+    "wrong": "başarısız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_121",
+    "word": "furnish with",
+    "correct": "sağlamak",
+    "wrong": "almıyor",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_122",
+    "word": "get about",
+    "correct": "gezinmek",
+    "wrong": "sabit durmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_123",
+    "word": "get above",
+    "correct": "yükselmek",
+    "wrong": "alçalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_124",
+    "word": "get across",
+    "correct": "anlatmak",
+    "wrong": "anlamlandırmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_125",
+    "word": "get along",
+    "correct": "geçinmek",
+    "wrong": "anlaşmamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_126",
+    "word": "get at",
+    "correct": "ulaşmak",
+    "wrong": "erişemez",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_127",
+    "word": "get away",
+    "correct": "kaçmak",
+    "wrong": "yakalanmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_128",
+    "word": "get back",
+    "correct": "geri gelmek",
+    "wrong": "gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_129",
+    "word": "get back at",
+    "correct": "intikam almak",
+    "wrong": "affetmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_130",
+    "word": "get behind",
+    "correct": "desteklemek",
+    "wrong": "karşı çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_131",
+    "word": "get by",
+    "correct": "kurtulmak",
+    "wrong": "başarısız olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_132",
+    "word": "get down",
+    "correct": "aşağı inmek",
+    "wrong": "yukarı çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_133",
+    "word": "get down to",
+    "correct": "başlamak",
+    "wrong": "terk etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_134",
+    "word": "get going",
+    "correct": "harekete geçmek",
+    "wrong": "durmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_135",
+    "word": "get in",
+    "correct": "girmek",
+    "wrong": "çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_136",
+    "word": "get in with",
+    "correct": "kabulü",
+    "wrong": "dışarıda kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_137",
+    "word": "get into",
+    "correct": "girmek",
+    "wrong": "çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_138",
+    "word": "get off",
+    "correct": "inmek",
+    "wrong": "binmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_139",
+    "word": "get off with",
+    "correct": "kurtulmak",
+    "wrong": "cezalandırılmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_140",
+    "word": "get on",
+    "correct": "ilerlemek",
+    "wrong": "geriye gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_141",
+    "word": "get on to",
+    "correct": "anlamak",
+    "wrong": "kafa karışıklığı",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_142",
+    "word": "get out",
+    "correct": "çıkmak",
+    "wrong": "girmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_143",
+    "word": "get out of",
+    "correct": "kurtulmak",
+    "wrong": "girmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_144",
+    "word": "get over",
+    "correct": "iyileşmek",
+    "wrong": "hasta olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_145",
+    "word": "get round",
+    "correct": "etrafında gitmek",
+    "wrong": "doğruca gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_146",
+    "word": "get round to",
+    "correct": "başlamak",
+    "wrong": "terk etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_147",
+    "word": "get through",
+    "correct": "geçmek",
+    "wrong": "sıkışmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_148",
+    "word": "get through to",
+    "correct": "anlaşmak",
+    "wrong": "anlaşmamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_149",
+    "word": "get to",
+    "correct": "ulaşmak",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_150",
+    "word": "get together",
+    "correct": "bir araya gelmek",
+    "wrong": "ayrılma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_151",
+    "word": "get up",
+    "correct": "kalkacak",
+    "wrong": "yatmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_152",
+    "word": "get up to",
+    "correct": "kaçamak yapmak",
+    "wrong": "iyi davranmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_153",
+    "word": "get wind of",
+    "correct": "duyumunu",
+    "wrong": "gizli tutmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_154",
+    "word": "get wise to",
+    "correct": "anlamak",
+    "wrong": "aldanmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_155",
+    "word": "get with",
+    "correct": "anlaşmak",
+    "wrong": "anlaşmamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_156",
+    "word": "get your own back",
+    "correct": "intikam almak",
+    "wrong": "affetmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_157",
+    "word": "give away",
+    "correct": "vermek",
+    "wrong": "saklamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_158",
+    "word": "give back",
+    "correct": "geri vermek",
+    "wrong": "tutmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_159",
+    "word": "give in",
+    "correct": "teslim olmak",
+    "wrong": "direnmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_160",
+    "word": "give off",
+    "correct": "yaymak",
+    "wrong": "soğurmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_161",
+    "word": "give on to",
+    "correct": "açılmak",
+    "wrong": "kapalı olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_162",
+    "word": "give out",
+    "correct": "dağıtmak",
+    "wrong": "toplamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_163",
+    "word": "give over",
+    "correct": "terk etmek",
+    "wrong": "devam etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_164",
+    "word": "give up",
+    "correct": "bırakmak",
+    "wrong": "devam etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_165",
+    "word": "give way",
+    "correct": "yol vermek",
+    "wrong": "engel olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_166",
+    "word": "glance over",
+    "correct": "göz atmak",
+    "wrong": "derinlemesine okumak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_167",
+    "word": "glance at",
+    "correct": "göz atmak",
+    "wrong": "bakışmamak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_168",
+    "word": "glaze over",
+    "correct": "cam kaplamak",
+    "wrong": "açık olmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_169",
+    "word": "glide over",
+    "correct": "kayarak geçmek",
+    "wrong": "durma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_170",
+    "word": "gloss over",
+    "correct": "göz ardı etmek",
+    "wrong": "vurgulu",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_171",
+    "word": "glow with",
+    "correct": "ışıl ışıl",
+    "wrong": "karanlık",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_172",
+    "word": "glue to",
+    "correct": "yapıştırmak",
+    "wrong": "ayırmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_173",
+    "word": "go about",
+    "correct": "başlamak",
+    "wrong": "terk etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_174",
+    "word": "go after",
+    "correct": "peşinden gitmek",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_175",
+    "word": "go against",
+    "correct": "karşı gelmek",
+    "wrong": "desteklemek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_176",
+    "word": "go ahead",
+    "correct": "ileri gitmek",
+    "wrong": "durma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_177",
+    "word": "go along",
+    "correct": "katılmak",
+    "wrong": "ayrılma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_178",
+    "word": "go along with",
+    "correct": "katılmak",
+    "wrong": "muhalefet",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_179",
+    "word": "go around",
+    "correct": "dolaşmak",
+    "wrong": "doğruca gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_180",
+    "word": "go at",
+    "correct": "saldırmak",
+    "wrong": "sakinleşmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_181",
+    "word": "go away",
+    "correct": "gitmek",
+    "wrong": "gelmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_182",
+    "word": "go back",
+    "correct": "geri gelmek",
+    "wrong": "devam etmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_183",
+    "word": "go back on",
+    "correct": "vaatten vazgeçmek",
+    "wrong": "tutmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_184",
+    "word": "go before",
+    "correct": "öncesinde gitmek",
+    "wrong": "arkasından gelmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_185",
+    "word": "go behind",
+    "correct": "arkasında gitmek",
+    "wrong": "ön tarafından",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_186",
+    "word": "go between",
+    "correct": "aracı olmak",
+    "wrong": "taraf tutmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_187",
+    "word": "go beyond",
+    "correct": "aşmak",
+    "wrong": "içinde kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_188",
+    "word": "go by",
+    "correct": "geçmek",
+    "wrong": "durmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_189",
+    "word": "go down",
+    "correct": "aşağı gitmek",
+    "wrong": "yukarı gelmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_190",
+    "word": "go for",
+    "correct": "tercih etmek",
+    "wrong": "reddetmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_191",
+    "word": "go from",
+    "correct": "ayrılmak",
+    "wrong": "kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_192",
+    "word": "go in for",
+    "correct": "meraklı olmak",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_193",
+    "word": "go in",
+    "correct": "girmek",
+    "wrong": "çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_194",
+    "word": "go into",
+    "correct": "girmek",
+    "wrong": "çıkmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_195",
+    "word": "go off",
+    "correct": "gitmek",
+    "wrong": "kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_196",
+    "word": "go on",
+    "correct": "devam etmek",
+    "wrong": "durma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_197",
+    "word": "go on about",
+    "correct": "söyleme",
+    "wrong": "sessizlik",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_198",
+    "word": "go on with",
+    "correct": "devam etmek",
+    "wrong": "bırakmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_199",
+    "word": "go out",
+    "correct": "dışarı çıkmak",
+    "wrong": "girmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_200",
+    "word": "go out of",
+    "correct": "ayrılmak",
+    "wrong": "gelmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_201",
+    "word": "go over",
+    "correct": "göz atmak",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_202",
+    "word": "go past",
+    "correct": "geçmek",
+    "wrong": "durma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_203",
+    "word": "go round",
+    "correct": "dolaşmak",
+    "wrong": "doğruca gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_204",
+    "word": "go slow",
+    "correct": "yavaş gitmek",
+    "wrong": "hızlı gitmek",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_205",
+    "word": "go through",
+    "correct": "geçmek",
+    "wrong": "kaçınmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_206",
+    "word": "go to",
+    "correct": "gitmek",
+    "wrong": "kalmak",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_207",
+    "word": "go together",
+    "correct": "birlikte gitmek",
+    "wrong": "ayrılma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_208",
+    "word": "go too far",
+    "correct": "çok ileri gitmek",
+    "wrong": "ölçü",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_209",
+    "word": "go under",
+    "correct": "bizmek",
+    "wrong": "yüzeyde kalma",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_210",
+    "word": "go up",
+    "correct": "yukarı gitmek",
+    "wrong": "aşağı inme",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_211",
+    "word": "go with",
+    "correct": "eşleşmek",
+    "wrong": "uyumsuz",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_212",
+    "word": "go without",
+    "correct": "olmadan yaşamak",
+    "wrong": "ihtiyaç",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  },
+  {
+    "id": "phrasal_verbs_213",
+    "word": "going on",
+    "correct": "yaklaşık",
+    "wrong": "kesin",
+    "category": "Fiil Öbekleri (Phrasal Verbs)"
+  }
+]

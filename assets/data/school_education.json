@@ -1,0 +1,1675 @@
+[
+  {
+    "id": "school_education_1",
+    "word": "school",
+    "correct": "okul",
+    "wrong": "ev",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_2",
+    "word": "elementary school",
+    "correct": "ilkokul",
+    "wrong": "lise",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_3",
+    "word": "primary school",
+    "correct": "ilkokul",
+    "wrong": "ortaokul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_4",
+    "word": "middle school",
+    "correct": "ortaokul",
+    "wrong": "ilkokul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_5",
+    "word": "secondary school",
+    "correct": "lise",
+    "wrong": "ortaokul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_6",
+    "word": "high school",
+    "correct": "lise",
+    "wrong": "ilkokul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_7",
+    "word": "college",
+    "correct": "üniversite",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_8",
+    "word": "university",
+    "correct": "üniversite",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_9",
+    "word": "academy",
+    "correct": "akademi",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_10",
+    "word": "institute",
+    "correct": "enstitü",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_11",
+    "word": "kindergarten",
+    "correct": "anaokulu",
+    "wrong": "ilkokul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_12",
+    "word": "preschool",
+    "correct": "okul öncesi",
+    "wrong": "ilkokul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_13",
+    "word": "daycare",
+    "correct": "çocuk bakıcısı",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_14",
+    "word": "vocational school",
+    "correct": "meslek okulu",
+    "wrong": "üniversite",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_15",
+    "word": "technical school",
+    "correct": "teknik okul",
+    "wrong": "üniversite",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_16",
+    "word": "private school",
+    "correct": "özel okul",
+    "wrong": "devlet okulu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_17",
+    "word": "public school",
+    "correct": "devlet okulu",
+    "wrong": "özel okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_18",
+    "word": "boarding school",
+    "correct": "yatılı okul",
+    "wrong": "günlük okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_19",
+    "word": "distance learning",
+    "correct": "uzaktan öğrenme",
+    "wrong": "yüz yüze",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_20",
+    "word": "online learning",
+    "correct": "çevrimiçi öğrenme",
+    "wrong": "yüz yüze",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_21",
+    "word": "classroom",
+    "correct": "sınıf",
+    "wrong": "koridor",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_22",
+    "word": "classroom",
+    "correct": "sınıf odası",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_23",
+    "word": "lecture hall",
+    "correct": "ders salonu",
+    "wrong": "sınıf",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_24",
+    "word": "laboratory",
+    "correct": "laboratuvar",
+    "wrong": "sınıf",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_25",
+    "word": "library",
+    "correct": "kütüphane",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_26",
+    "word": "study room",
+    "correct": "çalışma odası",
+    "wrong": "sınıf",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_27",
+    "word": "gymnasium",
+    "correct": "spor salonu",
+    "wrong": "sınıf",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_28",
+    "word": "auditorium",
+    "correct": "konferans salonu",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_29",
+    "word": "cafeteria",
+    "correct": "kafeterya",
+    "wrong": "yemek odası",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_30",
+    "word": "playground",
+    "correct": "oyun alanı",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_31",
+    "word": "schoolyard",
+    "correct": "okul bahçesi",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_32",
+    "word": "dormitory",
+    "correct": "yurt",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_33",
+    "word": "student",
+    "correct": "öğrenci",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_34",
+    "word": "pupil",
+    "correct": "öğrenci",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_35",
+    "word": "learner",
+    "correct": "öğrenen",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_36",
+    "word": "teacher",
+    "correct": "öğretmen",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_37",
+    "word": "educator",
+    "correct": "eğitimci",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_38",
+    "word": "instructor",
+    "correct": "eğitmeni",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_39",
+    "word": "professor",
+    "correct": "profesör",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_40",
+    "word": "lecturer",
+    "correct": "öğretim görevlisi",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_41",
+    "word": "tutor",
+    "correct": "özel öğretmen",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_42",
+    "word": "mentor",
+    "correct": "rehber",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_43",
+    "word": "coach",
+    "correct": "antrenör",
+    "wrong": "oyuncu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_44",
+    "word": "principal",
+    "correct": "müdür",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_45",
+    "word": "headmaster",
+    "correct": "müdür",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_46",
+    "word": "headmistress",
+    "correct": "müdüresi",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_47",
+    "word": "dean",
+    "correct": "dekan",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_48",
+    "word": "administrator",
+    "correct": "yönetici",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_49",
+    "word": "counselor",
+    "correct": "rehber öğretmen",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_50",
+    "word": "school board",
+    "correct": "okul kurulu",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_51",
+    "word": "parent",
+    "correct": "ebeveyn",
+    "wrong": "çocuk",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_52",
+    "word": "guardian",
+    "correct": "vasi",
+    "wrong": "çocuk",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_53",
+    "word": "alumnus",
+    "correct": "mezun",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_54",
+    "word": "graduate",
+    "correct": "mezun",
+    "wrong": "öğrenci",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_55",
+    "word": "enrollment",
+    "correct": "kayıt",
+    "wrong": "çıkış",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_56",
+    "word": "admission",
+    "correct": "kabul",
+    "wrong": "reddedilme",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_57",
+    "word": "tuition",
+    "correct": "harç",
+    "wrong": "bağış",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_58",
+    "word": "scholarship",
+    "correct": "burs",
+    "wrong": "ücret",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_59",
+    "word": "grant",
+    "correct": "hibe",
+    "wrong": "ücret",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_60",
+    "word": "financial aid",
+    "correct": "mali yardım",
+    "wrong": "ücret",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_61",
+    "word": "curriculum",
+    "correct": "müfredat",
+    "wrong": "plansız",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_62",
+    "word": "syllabus",
+    "correct": "ders planı",
+    "wrong": "plansız",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_63",
+    "word": "subject",
+    "correct": "konu",
+    "wrong": "dersin dışı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_64",
+    "word": "course",
+    "correct": "kurs",
+    "wrong": "konu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_65",
+    "word": "lesson",
+    "correct": "ders",
+    "wrong": "öğretim",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_66",
+    "word": "lecture",
+    "correct": "ders",
+    "wrong": "konuşma",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_67",
+    "word": "class",
+    "correct": "sınıf",
+    "wrong": "grup",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_68",
+    "word": "session",
+    "correct": "oturum",
+    "wrong": "zaman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_69",
+    "word": "period",
+    "correct": "ders saati",
+    "wrong": "zaman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_70",
+    "word": "recess",
+    "correct": "teneffüs",
+    "wrong": "ders",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_71",
+    "word": "break",
+    "correct": "ara",
+    "wrong": "ders",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_72",
+    "word": "lunch break",
+    "correct": "öğle arası",
+    "wrong": "ara",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_73",
+    "word": "schedule",
+    "correct": "ders çizelgesi",
+    "wrong": "zaman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_74",
+    "word": "timetable",
+    "correct": "saat çizelgesi",
+    "wrong": "zaman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_75",
+    "word": "term",
+    "correct": "akademik dönem",
+    "wrong": "zaman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_76",
+    "word": "semester",
+    "correct": "yarıyıl",
+    "wrong": "dönem",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_77",
+    "word": "quarter",
+    "correct": "çeyrek",
+    "wrong": "yarıyıl",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_78",
+    "word": "trimester",
+    "correct": "üçer aylık",
+    "wrong": "yarıyıl",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_79",
+    "word": "academic year",
+    "correct": "akademik yıl",
+    "wrong": "takvim yılı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_80",
+    "word": "school year",
+    "correct": "okul yılı",
+    "wrong": "takvim yılı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_81",
+    "word": "grading period",
+    "correct": "not dönemi",
+    "wrong": "dönem",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_82",
+    "word": "assignment",
+    "correct": "ödev",
+    "wrong": "serbest",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_83",
+    "word": "homework",
+    "correct": "ev ödevi",
+    "wrong": "okul ödevi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_84",
+    "word": "project",
+    "correct": "proje",
+    "wrong": "hiçbir şey",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_85",
+    "word": "essay",
+    "correct": "deneme",
+    "wrong": "hikaye",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_86",
+    "word": "report",
+    "correct": "rapor",
+    "wrong": "yazı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_87",
+    "word": "presentation",
+    "correct": "sunum",
+    "wrong": "yazı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_88",
+    "word": "exam",
+    "correct": "sınav",
+    "wrong": "pratik",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_89",
+    "word": "test",
+    "correct": "test",
+    "wrong": "sınav",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_90",
+    "word": "quiz",
+    "correct": "kısa sınav",
+    "wrong": "uzun sınav",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_91",
+    "word": "midterm",
+    "correct": "ara sınav",
+    "wrong": "final",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_92",
+    "word": "final exam",
+    "correct": "final sınav",
+    "wrong": "ara sınav",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_93",
+    "word": "oral exam",
+    "correct": "sözlü sınav",
+    "wrong": "yazılı sınav",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_94",
+    "word": "written exam",
+    "correct": "yazılı sınav",
+    "wrong": "sözlü sınav",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_95",
+    "word": "multiple choice",
+    "correct": "çoktan seçmeli",
+    "wrong": "açık uçlu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_96",
+    "word": "essay question",
+    "correct": "deneme sorusu",
+    "wrong": "çoktan seçmeli",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_97",
+    "word": "short answer",
+    "correct": "kısa cevap",
+    "wrong": "uzun cevap",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_98",
+    "word": "true or false",
+    "correct": "doğru yanlış",
+    "wrong": "çoktan seçmeli",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_99",
+    "word": "grade",
+    "correct": "not",
+    "wrong": "sayı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_100",
+    "word": "mark",
+    "correct": "puan",
+    "wrong": "işaret",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_101",
+    "word": "score",
+    "correct": "puan",
+    "wrong": "sayı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_102",
+    "word": "GPA",
+    "correct": "not ortalaması",
+    "wrong": "puan",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_103",
+    "word": "pass",
+    "correct": "geçmek",
+    "wrong": "başarısız olmak",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_104",
+    "word": "fail",
+    "correct": "başarısız olmak",
+    "wrong": "geçmek",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_105",
+    "word": "pass mark",
+    "correct": "geçme notu",
+    "wrong": "başarısızlık",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_106",
+    "word": "failing grade",
+    "correct": "başarısız notu",
+    "wrong": "başarı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_107",
+    "word": "excellent",
+    "correct": "mükemmel",
+    "wrong": "zayıf",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_108",
+    "word": "good",
+    "correct": "iyi",
+    "wrong": "zayıf",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_109",
+    "word": "satisfactory",
+    "correct": "yeterli",
+    "wrong": "yetersiz",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_110",
+    "word": "poor",
+    "correct": "zayıf",
+    "wrong": "iyi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_111",
+    "word": "credit",
+    "correct": "kredi",
+    "wrong": "borç",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_112",
+    "word": "credits",
+    "correct": "krediler",
+    "wrong": "borç",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_113",
+    "word": "elective",
+    "correct": "seçmeli",
+    "wrong": "zorunlu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_114",
+    "word": "required",
+    "correct": "zorunlu",
+    "wrong": "seçmeli",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_115",
+    "word": "major",
+    "correct": "ana dal",
+    "wrong": "yan dal",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_116",
+    "word": "minor",
+    "correct": "yan dal",
+    "wrong": "ana dal",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_117",
+    "word": "concentration",
+    "correct": "yoğunlaştırma",
+    "wrong": "dağılma",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_118",
+    "word": "specialization",
+    "correct": "uzmanlaşma",
+    "wrong": "genel",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_119",
+    "word": "degree",
+    "correct": "derece",
+    "wrong": "sertifika",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_120",
+    "word": "bachelor's degree",
+    "correct": "lisans derecesi",
+    "wrong": "yüksek lisans",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_121",
+    "word": "master's degree",
+    "correct": "yüksek lisans",
+    "wrong": "doktora",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_122",
+    "word": "PhD",
+    "correct": "doktora",
+    "wrong": "lisans",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_123",
+    "word": "diploma",
+    "correct": "diploma",
+    "wrong": "sertifika",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_124",
+    "word": "certificate",
+    "correct": "sertifika",
+    "wrong": "diploma",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_125",
+    "word": "transcript",
+    "correct": "transkript",
+    "wrong": "belge",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_126",
+    "word": "record",
+    "correct": "kayıt",
+    "wrong": "belge",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_127",
+    "word": "attendance",
+    "correct": "devam",
+    "wrong": "devamsızlık",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_128",
+    "word": "attendance record",
+    "correct": "devam kaydı",
+    "wrong": "kayıt",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_129",
+    "word": "absence",
+    "correct": "devamsızlık",
+    "wrong": "devam",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_130",
+    "word": "tardy",
+    "correct": "geç kalış",
+    "wrong": "zamanında",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_131",
+    "word": "truancy",
+    "correct": "okuldan kaçma",
+    "wrong": "devam",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_132",
+    "word": "discipline",
+    "correct": "disiplin",
+    "wrong": "kaos",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_133",
+    "word": "detention",
+    "correct": "keyfi oturum",
+    "wrong": "serbest",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_134",
+    "word": "suspension",
+    "correct": "fesih",
+    "wrong": "devam",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_135",
+    "word": "expulsion",
+    "correct": "ihraç",
+    "wrong": "kabul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_136",
+    "word": "conduct",
+    "correct": "davranış",
+    "wrong": "hareket",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_137",
+    "word": "behavior",
+    "correct": "davranış",
+    "wrong": "hareket",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_138",
+    "word": "misbehavior",
+    "correct": "kötü davranış",
+    "wrong": "iyi davranış",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_139",
+    "word": "bullying",
+    "correct": "zorbalık",
+    "wrong": "arkadaşlık",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_140",
+    "word": "cheating",
+    "correct": "kopya çekme",
+    "wrong": "dürüstlük",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_141",
+    "word": "plagiarism",
+    "correct": "intihal",
+    "wrong": "orijinal",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_142",
+    "word": "integrity",
+    "correct": "dürüstlük",
+    "wrong": "hilekârlık",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_143",
+    "word": "academic integrity",
+    "correct": "akademik dürüstlük",
+    "wrong": "hile",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_144",
+    "word": "textbook",
+    "correct": "ders kitabı",
+    "wrong": "roman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_145",
+    "word": "reference book",
+    "correct": "referans kitabı",
+    "wrong": "roman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_146",
+    "word": "dictionary",
+    "correct": "sözlük",
+    "wrong": "roman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_147",
+    "word": "encyclopedia",
+    "correct": "ansiklopedi",
+    "wrong": "roman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_148",
+    "word": "notebook",
+    "correct": "defter",
+    "wrong": "kitap",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_149",
+    "word": "workbook",
+    "correct": "çalışma kitabı",
+    "wrong": "roman",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_150",
+    "word": "pen",
+    "correct": "kalem",
+    "wrong": "kağıt",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_151",
+    "word": "pencil",
+    "correct": "kurşun kalem",
+    "wrong": "kalem",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_152",
+    "word": "eraser",
+    "correct": "silgi",
+    "wrong": "kalem",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_153",
+    "word": "ruler",
+    "correct": "cetvel",
+    "wrong": "kağıt",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_154",
+    "word": "compass",
+    "correct": "pergel",
+    "wrong": "cetvel",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_155",
+    "word": "protractor",
+    "correct": "iletki",
+    "wrong": "pergel",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_156",
+    "word": "calculator",
+    "correct": "hesap makinesi",
+    "wrong": "saymak",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_157",
+    "word": "computer",
+    "correct": "bilgisayar",
+    "wrong": "yazı makinesi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_158",
+    "word": "whiteboard",
+    "correct": "beyaz tahta",
+    "wrong": "karatahta",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_159",
+    "word": "blackboard",
+    "correct": "karatahta",
+    "wrong": "beyaz tahta",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_160",
+    "word": "marker",
+    "correct": "işaretçi",
+    "wrong": "kalem",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_161",
+    "word": "chalk",
+    "correct": "tebeşir",
+    "wrong": "işaretçi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_162",
+    "word": "desk",
+    "correct": "masa",
+    "wrong": "sandalye",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_163",
+    "word": "chair",
+    "correct": "sandalye",
+    "wrong": "masa",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_164",
+    "word": "locker",
+    "correct": "dolap",
+    "wrong": "masası",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_165",
+    "word": "backpack",
+    "correct": "sırt çantası",
+    "wrong": "çanta",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_166",
+    "word": "school bag",
+    "correct": "okul çantası",
+    "wrong": "çanta",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_167",
+    "word": "lunch box",
+    "correct": "beslenme kutusu",
+    "wrong": "kutu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_168",
+    "word": "water bottle",
+    "correct": "su şişesi",
+    "wrong": "şişe",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_169",
+    "word": "lunch pail",
+    "correct": "yemek kutusu",
+    "wrong": "kutu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_170",
+    "word": "bus stop",
+    "correct": "otobüs durağı",
+    "wrong": "otobüs",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_171",
+    "word": "bus route",
+    "correct": "otobüs rotası",
+    "wrong": "rota",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_172",
+    "word": "transportation",
+    "correct": "ulaşım",
+    "wrong": "polis",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_173",
+    "word": "carpool",
+    "correct": "paylaşımlı araba",
+    "wrong": "özel araba",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_174",
+    "word": "walking school bus",
+    "correct": "yürüyüş okul otobüsü",
+    "wrong": "otobüs",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_175",
+    "word": "field trip",
+    "correct": "saha gezisi",
+    "wrong": "gezi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_176",
+    "word": "excursion",
+    "correct": "tur",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_177",
+    "word": "assembly",
+    "correct": "toplantı",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_178",
+    "word": "pep rally",
+    "correct": "motivasyon mitingi",
+    "wrong": "miting",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_179",
+    "word": "club",
+    "correct": "kulüp",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_180",
+    "word": "student organization",
+    "correct": "öğrenci örgütü",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_181",
+    "word": "sports team",
+    "correct": "spor takımı",
+    "wrong": "takım",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_182",
+    "word": "debate team",
+    "correct": "tartışma takımı",
+    "wrong": "takım",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_183",
+    "word": "drama club",
+    "correct": "tiyatro kulübü",
+    "wrong": "kulüp",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_184",
+    "word": "art club",
+    "correct": "sanat kulübü",
+    "wrong": "kulüp",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_185",
+    "word": "music club",
+    "correct": "müzik kulübü",
+    "wrong": "kulüp",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_186",
+    "word": "science club",
+    "correct": "bilim kulübü",
+    "wrong": "kulüp",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_187",
+    "word": "talent show",
+    "correct": "yetenek gösterisi",
+    "wrong": "gösterisi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_188",
+    "word": "school play",
+    "correct": "okul oyunu",
+    "wrong": "oyun",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_189",
+    "word": "concert",
+    "correct": "konser",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_190",
+    "word": "talent competition",
+    "correct": "yetenek yarışması",
+    "wrong": "yarışması",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_191",
+    "word": "sports day",
+    "correct": "spor günü",
+    "wrong": "gün",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_192",
+    "word": "graduation",
+    "correct": "mezuniyet",
+    "wrong": "okul",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_193",
+    "word": "commencement",
+    "correct": "mezuniyet törenin",
+    "wrong": "tören",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_194",
+    "word": "prom",
+    "correct": "dans partisi",
+    "wrong": "parti",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_195",
+    "word": "yearbook",
+    "correct": "yıllık",
+    "wrong": "kitap",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_196",
+    "word": "school newspaper",
+    "correct": "okul gazetesi",
+    "wrong": "gazete",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_197",
+    "word": "school magazine",
+    "correct": "okul dergisi",
+    "wrong": "dergi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_198",
+    "word": "tutoring",
+    "correct": "özel ders",
+    "wrong": "grup ders",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_199",
+    "word": "tutoring session",
+    "correct": "özel ders saati",
+    "wrong": "saati",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_200",
+    "word": "study group",
+    "correct": "çalışma grubu",
+    "wrong": "grup",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_201",
+    "word": "peer tutoring",
+    "correct": "akran öğretimi",
+    "wrong": "öğretmen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_202",
+    "word": "after-school program",
+    "correct": "okul sonrası program",
+    "wrong": "program",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_203",
+    "word": "enrichment program",
+    "correct": "zenginleştirme programı",
+    "wrong": "program",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_204",
+    "word": "remedial class",
+    "correct": "telafi dersi",
+    "wrong": "ders",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_205",
+    "word": "gifted program",
+    "correct": "üstün yetenekli programı",
+    "wrong": "program",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_206",
+    "word": "special education",
+    "correct": "özel eğitim",
+    "wrong": "eğitim",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_207",
+    "word": "inclusive education",
+    "correct": "kapsayıcı eğitim",
+    "wrong": "eğitim",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_208",
+    "word": "assessment",
+    "correct": "değerlendirme",
+    "wrong": "test",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_209",
+    "word": "evaluation",
+    "correct": "değerlendirme",
+    "wrong": "test",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_210",
+    "word": "feedback",
+    "correct": "geri bildirim",
+    "wrong": "sessizlik",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_211",
+    "word": "parent-teacher conference",
+    "correct": "veli-öğretmen görüşmesi",
+    "wrong": "görüşme",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_212",
+    "word": "report card",
+    "correct": "rapor kartı",
+    "wrong": "kart",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_213",
+    "word": "progress report",
+    "correct": "ilerleme raporu",
+    "wrong": "raporu",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_214",
+    "word": "achievement",
+    "correct": "başarı",
+    "wrong": "başarısızlık",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_215",
+    "word": "accomplishment",
+    "correct": "başarı",
+    "wrong": "başarısızlık",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_216",
+    "word": "competency",
+    "correct": "yetkinlik",
+    "wrong": "yetersizlik",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_217",
+    "word": "learning objective",
+    "correct": "öğrenme amacı",
+    "wrong": "amaç",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_218",
+    "word": "learning outcome",
+    "correct": "öğrenme çıktısı",
+    "wrong": "sonuç",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_219",
+    "word": "pedagogical",
+    "correct": "eğitimsel",
+    "wrong": "öğretilmeyen",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_220",
+    "word": "pedagogy",
+    "correct": "eğitim bilimi",
+    "wrong": "eğitim",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_221",
+    "word": "methodology",
+    "correct": "yöntembilim",
+    "wrong": "yöntemi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_222",
+    "word": "teaching method",
+    "correct": "öğretim yöntemi",
+    "wrong": "yöntemi",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_223",
+    "word": "learning style",
+    "correct": "öğrenme stili",
+    "wrong": "stili",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_224",
+    "word": "critical thinking",
+    "correct": "eleştirel düşünme",
+    "wrong": "kabul etme",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_225",
+    "word": "problem solving",
+    "correct": "problem çözme",
+    "wrong": "kaçınma",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_226",
+    "word": "collaboration",
+    "correct": "işbirliği",
+    "wrong": "rekabet",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_227",
+    "word": "communication skills",
+    "correct": "iletişim becerisi",
+    "wrong": "sessizlik",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_228",
+    "word": "teamwork",
+    "correct": "takım çalışması",
+    "wrong": "bireysel",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_229",
+    "word": "leadership",
+    "correct": "liderlik",
+    "wrong": "takipçilik",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_230",
+    "word": "time management",
+    "correct": "zaman yönetimi",
+    "wrong": "zaman kaybı",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_231",
+    "word": "study skills",
+    "correct": "çalışma becerisi",
+    "wrong": "çalışmama",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_232",
+    "word": "research",
+    "correct": "araştırma",
+    "wrong": "görmezden",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_233",
+    "word": "citation",
+    "correct": "alıntı",
+    "wrong": "orijinal",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_234",
+    "word": "bibliography",
+    "correct": "kaynakça",
+    "wrong": "hiçbir şey",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_235",
+    "word": "footnote",
+    "correct": "dipnot",
+    "wrong": "not",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_236",
+    "word": "annotation",
+    "correct": "ek not",
+    "wrong": "not",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_237",
+    "word": "glossary",
+    "correct": "sözlük",
+    "wrong": "kelime",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_238",
+    "word": "index",
+    "correct": "indeks",
+    "wrong": "sayfa",
+    "category": "Okul & Eğitim"
+  },
+  {
+    "id": "school_education_239",
+    "word": "appendix",
+    "correct": "ek",
+    "wrong": "metin",
+    "category": "Okul & Eğitim"
+  }
+]

@@ -1,0 +1,2298 @@
+[
+  {
+    "id": "b1_1",
+    "word": "business",
+    "correct": "işletme",
+    "wrong": "ticaret",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_2",
+    "word": "commerce",
+    "correct": "ticaret",
+    "wrong": "işletme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_3",
+    "word": "enterprise",
+    "correct": "girişim",
+    "wrong": "şirket",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_4",
+    "word": "corporation",
+    "correct": "şirket",
+    "wrong": "kurumsal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_5",
+    "word": "company",
+    "correct": "şirket",
+    "wrong": "işletme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_6",
+    "word": "organization",
+    "correct": "kuruluş",
+    "wrong": "şirket",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_7",
+    "word": "institution",
+    "correct": "kurum",
+    "wrong": "kuruluş",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_8",
+    "word": "association",
+    "correct": "dernek",
+    "wrong": "birlik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_9",
+    "word": "union",
+    "correct": "sendika",
+    "wrong": "birlik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_10",
+    "word": "society",
+    "correct": "toplum",
+    "wrong": "dernek",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_11",
+    "word": "community",
+    "correct": "topluluk",
+    "wrong": "toplum",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_12",
+    "word": "government",
+    "correct": "hükümet",
+    "wrong": "devlet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_13",
+    "word": "state",
+    "correct": "devlet",
+    "wrong": "hükümet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_14",
+    "word": "nation",
+    "correct": "ulus",
+    "wrong": "devlet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_15",
+    "word": "country",
+    "correct": "ülke",
+    "wrong": "millet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_16",
+    "word": "territory",
+    "correct": "bölge",
+    "wrong": "ülke",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_17",
+    "word": "region",
+    "correct": "bölge",
+    "wrong": "alan",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_18",
+    "word": "province",
+    "correct": "il",
+    "wrong": "bölge",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_19",
+    "word": "district",
+    "correct": "ilçe",
+    "wrong": "mahalle",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_20",
+    "word": "municipality",
+    "correct": "belediye",
+    "wrong": "idari",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_21",
+    "word": "administration",
+    "correct": "yönetim",
+    "wrong": "idari",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_22",
+    "word": "politics",
+    "correct": "siyaset",
+    "wrong": "hükümet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_23",
+    "word": "political",
+    "correct": "siyasi",
+    "wrong": "politics",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_24",
+    "word": "parliament",
+    "correct": "parlamento",
+    "wrong": "meclisi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_25",
+    "word": "congress",
+    "correct": "kongre",
+    "wrong": "parlamento",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_26",
+    "word": "senate",
+    "correct": "senato",
+    "wrong": "meclisi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_27",
+    "word": "minister",
+    "correct": "bakan",
+    "wrong": "bakanlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_28",
+    "word": "ministry",
+    "correct": "bakanlık",
+    "wrong": "bakan",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_29",
+    "word": "department",
+    "correct": "departman",
+    "wrong": "daire",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_30",
+    "word": "agency",
+    "correct": "kurum",
+    "wrong": "daire",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_31",
+    "word": "bureau",
+    "correct": "büro",
+    "wrong": "kurum",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_32",
+    "word": "office",
+    "correct": "ofis",
+    "wrong": "büro",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_33",
+    "word": "courthouse",
+    "correct": "adliye",
+    "wrong": "mahkeme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_34",
+    "word": "court",
+    "correct": "mahkeme",
+    "wrong": "adliye",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_35",
+    "word": "judge",
+    "correct": "hakim",
+    "wrong": "mahkeme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_36",
+    "word": "lawyer",
+    "correct": "avukat",
+    "wrong": "hukuk",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_37",
+    "word": "attorney",
+    "correct": "avukat",
+    "wrong": "hukuk",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_38",
+    "word": "law",
+    "correct": "hukuk",
+    "wrong": "yasa",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_39",
+    "word": "legislation",
+    "correct": "yasama",
+    "wrong": "yasa",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_40",
+    "word": "bill",
+    "correct": "tasarı",
+    "wrong": "yasama",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_41",
+    "word": "law",
+    "correct": "kanun",
+    "wrong": "yasa",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_42",
+    "word": "statute",
+    "correct": "yasa",
+    "wrong": "kanun",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_43",
+    "word": "regulation",
+    "correct": "yönetmelik",
+    "wrong": "kural",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_44",
+    "word": "policy",
+    "correct": "politika",
+    "wrong": "kural",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_45",
+    "word": "procedure",
+    "correct": "prosedür",
+    "wrong": "yöntem",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_46",
+    "word": "method",
+    "correct": "yöntem",
+    "wrong": "prosedür",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_47",
+    "word": "system",
+    "correct": "sistem",
+    "wrong": "yapı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_48",
+    "word": "structure",
+    "correct": "yapı",
+    "wrong": "sistem",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_49",
+    "word": "hierarchy",
+    "correct": "hiyerarşi",
+    "wrong": "yapı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_50",
+    "word": "authority",
+    "correct": "otorite",
+    "wrong": "yetkili",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_51",
+    "word": "power",
+    "correct": "güç",
+    "wrong": "otorite",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_52",
+    "word": "jurisdiction",
+    "correct": "yargı alanı",
+    "wrong": "otorité",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_53",
+    "word": "right",
+    "correct": "hak",
+    "wrong": "özgürlük",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_54",
+    "word": "freedom",
+    "correct": "özgürlük",
+    "wrong": "hak",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_55",
+    "word": "liberty",
+    "correct": "özgürlük",
+    "wrong": "hak",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_56",
+    "word": "justice",
+    "correct": "adalet",
+    "wrong": "hukuk",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_57",
+    "word": "equality",
+    "correct": "eşitlik",
+    "wrong": "adalet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_58",
+    "word": "discrimination",
+    "correct": "ayrımcılık",
+    "wrong": "eşitlik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_59",
+    "word": "prejudice",
+    "correct": "önyargı",
+    "wrong": "ayrımcılık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_60",
+    "word": "bias",
+    "correct": "ön yargı",
+    "wrong": "önyargı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_61",
+    "word": "tolerance",
+    "correct": "hoşgörü",
+    "wrong": "ön yargı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_62",
+    "word": "diversity",
+    "correct": "çeşitlilik",
+    "wrong": "hoşgörü",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_63",
+    "word": "inclusion",
+    "correct": "kapsayıcılık",
+    "wrong": "çeşitlilik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_64",
+    "word": "minority",
+    "correct": "azınlık",
+    "wrong": "çoğunluk",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_65",
+    "word": "majority",
+    "correct": "çoğunluk",
+    "wrong": "azınlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_66",
+    "word": "election",
+    "correct": "seçim",
+    "wrong": "oy",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_67",
+    "word": "vote",
+    "correct": "oy",
+    "wrong": "seçim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_68",
+    "word": "candidate",
+    "correct": "aday",
+    "wrong": "seçmen",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_69",
+    "word": "voter",
+    "correct": "seçmen",
+    "wrong": "aday",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_70",
+    "word": "campaign",
+    "correct": "kampanya",
+    "wrong": "seçim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_71",
+    "word": "campaign",
+    "correct": "seçim kampanyası",
+    "wrong": "reklam",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_72",
+    "word": "democracy",
+    "correct": "demokrasi",
+    "wrong": "hükümet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_73",
+    "word": "dictatorship",
+    "correct": "diktatörlük",
+    "wrong": "otorite",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_74",
+    "word": "monarchy",
+    "correct": "krallık",
+    "wrong": "hükümet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_75",
+    "word": "republic",
+    "correct": "cumhuriyet",
+    "wrong": "devlet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_76",
+    "word": "empire",
+    "correct": "imparatorluk",
+    "wrong": "krallık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_77",
+    "word": "treaty",
+    "correct": "antlaşma",
+    "wrong": "anlaşma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_78",
+    "word": "agreement",
+    "correct": "anlaşma",
+    "wrong": "sözleşme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_79",
+    "word": "contract",
+    "correct": "sözleşme",
+    "wrong": "anlaşma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_80",
+    "word": "dispute",
+    "correct": "uyuşmazlık",
+    "wrong": "çekişme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_81",
+    "word": "conflict",
+    "correct": "çatışma",
+    "wrong": "uyuşmazlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_82",
+    "word": "war",
+    "correct": "savaş",
+    "wrong": "çatışma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_83",
+    "word": "peace",
+    "correct": "barış",
+    "wrong": "sulh",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_84",
+    "word": "alliance",
+    "correct": "ittifak",
+    "wrong": "koalisyon",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_85",
+    "word": "coalition",
+    "correct": "koalisyon",
+    "wrong": "ittifak",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_86",
+    "word": "economy",
+    "correct": "ekonomi",
+    "wrong": "ticaret",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_87",
+    "word": "economic",
+    "correct": "ekonomik",
+    "wrong": "ticari",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_88",
+    "word": "industry",
+    "correct": "sanayi",
+    "wrong": "endüstri",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_89",
+    "word": "industrial",
+    "correct": "sanayi",
+    "wrong": "işletme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_90",
+    "word": "manufacture",
+    "correct": "üretim",
+    "wrong": "imalat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_91",
+    "word": "production",
+    "correct": "üretim",
+    "wrong": "işletme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_92",
+    "word": "product",
+    "correct": "ürün",
+    "wrong": "mal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_93",
+    "word": "commodity",
+    "correct": "emtia",
+    "wrong": "mal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_94",
+    "word": "goods",
+    "correct": "mal",
+    "wrong": "emtia",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_95",
+    "word": "merchandise",
+    "correct": "ticari mal",
+    "wrong": "mal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_96",
+    "word": "service",
+    "correct": "hizmet",
+    "wrong": "ürün",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_97",
+    "word": "utility",
+    "correct": "faydalı",
+    "wrong": "hizmet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_98",
+    "word": "supply",
+    "correct": "tedarik",
+    "wrong": "arz",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_99",
+    "word": "demand",
+    "correct": "talep",
+    "wrong": "ihtiyaç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_100",
+    "word": "consumer",
+    "correct": "tüketici",
+    "wrong": "müşteri",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_101",
+    "word": "customer",
+    "correct": "müşteri",
+    "wrong": "alıcı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_102",
+    "word": "client",
+    "correct": "müşteri",
+    "wrong": "danışman",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_103",
+    "word": "vendor",
+    "correct": "satıcı",
+    "wrong": "tedarikçi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_104",
+    "word": "supplier",
+    "correct": "tedarikçi",
+    "wrong": "satıcı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_105",
+    "word": "distributor",
+    "correct": "dağıtıcı",
+    "wrong": "tüccar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_106",
+    "word": "retailer",
+    "correct": "perakendeci",
+    "wrong": "dağıtıcı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_107",
+    "word": "wholesaler",
+    "correct": "toptancı",
+    "wrong": "perakendeci",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_108",
+    "word": "merchant",
+    "correct": "tüccar",
+    "wrong": "ticari",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_109",
+    "word": "trader",
+    "correct": "tüccar",
+    "wrong": "tüccar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_110",
+    "word": "export",
+    "correct": "ihracat",
+    "wrong": "dış ticaret",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_111",
+    "word": "import",
+    "correct": "ithalatı",
+    "wrong": "dış ticaret",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_112",
+    "word": "tariff",
+    "correct": "gümrük vergisi",
+    "wrong": "vergi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_113",
+    "word": "duty",
+    "correct": "vergi",
+    "wrong": "gümrük",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_114",
+    "word": "tax",
+    "correct": "vergi",
+    "wrong": "mali",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_115",
+    "word": "income tax",
+    "correct": "gelir vergisi",
+    "wrong": "vergi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_116",
+    "word": "sales tax",
+    "correct": "satış vergisi",
+    "wrong": "vergi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_117",
+    "word": "property tax",
+    "correct": "emlak vergisi",
+    "wrong": "vergi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_118",
+    "word": "corporation tax",
+    "correct": "kurumlar vergisi",
+    "wrong": "vergi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_119",
+    "word": "deduction",
+    "correct": "kesinti",
+    "wrong": "indirim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_120",
+    "word": "exemption",
+    "correct": "muafiyet",
+    "wrong": "istisna",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_121",
+    "word": "allowance",
+    "correct": "tahsis",
+    "wrong": "indirim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_122",
+    "word": "pension",
+    "correct": "emeklilik",
+    "wrong": "tazminat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_123",
+    "word": "welfare",
+    "correct": "sosyal yardım",
+    "wrong": "emeklilik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_124",
+    "word": "insurance",
+    "correct": "sigorta",
+    "wrong": "teminat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_125",
+    "word": "premium",
+    "correct": "sigorta primi",
+    "wrong": "ödeme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_126",
+    "word": "claim",
+    "correct": "sigorta talepis",
+    "wrong": "talep",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_127",
+    "word": "coverage",
+    "correct": "teminat",
+    "wrong": "koruma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_128",
+    "word": "deductible",
+    "correct": "muafiyet",
+    "wrong": "kesinti",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_129",
+    "word": "premium",
+    "correct": "sigorta ücreti",
+    "wrong": "fiyat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_130",
+    "word": "liability",
+    "correct": "sorumluluk",
+    "wrong": "yükümlülük",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_131",
+    "word": "responsibility",
+    "correct": "sorumluluk",
+    "wrong": "görev",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_132",
+    "word": "obligation",
+    "correct": "yükümlülük",
+    "wrong": "sorumluluk",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_133",
+    "word": "duty",
+    "correct": "görev",
+    "wrong": "yükümlülük",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_134",
+    "word": "function",
+    "correct": "işlev",
+    "wrong": "görev",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_135",
+    "word": "role",
+    "correct": "rol",
+    "wrong": "görev",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_136",
+    "word": "capacity",
+    "correct": "kapasite",
+    "wrong": "statü",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_137",
+    "word": "position",
+    "correct": "konum",
+    "wrong": "statü",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_138",
+    "word": "status",
+    "correct": "statü",
+    "wrong": "konum",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_139",
+    "word": "title",
+    "correct": "unvan",
+    "wrong": "başlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_140",
+    "word": "rank",
+    "correct": "rütbe",
+    "wrong": "statü",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_141",
+    "word": "grade",
+    "correct": "derece",
+    "wrong": "statü",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_142",
+    "word": "level",
+    "correct": "seviye",
+    "wrong": "derece",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_143",
+    "word": "hierarchy",
+    "correct": "hiyerarşi",
+    "wrong": "sıralama",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_144",
+    "word": "scale",
+    "correct": "ölçek",
+    "wrong": "sıralama",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_145",
+    "word": "standard",
+    "correct": "standart",
+    "wrong": "kural",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_146",
+    "word": "criterion",
+    "correct": "kriter",
+    "wrong": "standart",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_147",
+    "word": "criteria",
+    "correct": "kriterler",
+    "wrong": "standart",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_148",
+    "word": "benchmark",
+    "correct": "kıyaslama",
+    "wrong": "standart",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_149",
+    "word": "performance",
+    "correct": "performans",
+    "wrong": "başarı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_150",
+    "word": "achievement",
+    "correct": "başarı",
+    "wrong": "performans",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_151",
+    "word": "accomplishment",
+    "correct": "başarı",
+    "wrong": "gerçekleşme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_152",
+    "word": "success",
+    "correct": "başarı",
+    "wrong": "gelişim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_153",
+    "word": "failure",
+    "correct": "başarısızlık",
+    "wrong": "hata",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_154",
+    "word": "mistake",
+    "correct": "hata",
+    "wrong": "yanlışlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_155",
+    "word": "error",
+    "correct": "hata",
+    "wrong": "yanlışlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_156",
+    "word": "fault",
+    "correct": "hata",
+    "wrong": "kusur",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_157",
+    "word": "defect",
+    "correct": "kusur",
+    "wrong": "eksiklik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_158",
+    "word": "flaw",
+    "correct": "kusur",
+    "wrong": "olumsuzluk",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_159",
+    "word": "issue",
+    "correct": "sorun",
+    "wrong": "konu",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_160",
+    "word": "problem",
+    "correct": "sorun",
+    "wrong": "hata",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_161",
+    "word": "difficulty",
+    "correct": "zorluk",
+    "wrong": "sorun",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_162",
+    "word": "challenge",
+    "correct": "zorluk",
+    "wrong": "meydan okuma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_163",
+    "word": "obstacle",
+    "correct": "engel",
+    "wrong": "manevrası",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_164",
+    "word": "barrier",
+    "correct": "engel",
+    "wrong": "duvar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_165",
+    "word": "impediment",
+    "correct": "engel",
+    "wrong": "manevrası",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_166",
+    "word": "advantage",
+    "correct": "avantaj",
+    "wrong": "yararı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_167",
+    "word": "benefit",
+    "correct": "yararı",
+    "wrong": "fayda",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_168",
+    "word": "profit",
+    "correct": "kar",
+    "wrong": "gelir",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_169",
+    "word": "gain",
+    "correct": "kazanç",
+    "wrong": "kar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_170",
+    "word": "loss",
+    "correct": "kayıp",
+    "wrong": "zarar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_171",
+    "word": "damage",
+    "correct": "hasır",
+    "wrong": "zarar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_172",
+    "word": "harm",
+    "correct": "zarar",
+    "wrong": "hasır",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_173",
+    "word": "injury",
+    "correct": "yaralama",
+    "wrong": "zarar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_174",
+    "word": "accident",
+    "correct": "kaza",
+    "wrong": "talihsizlik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_175",
+    "word": "incident",
+    "correct": "olay",
+    "wrong": "kaza",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_176",
+    "word": "event",
+    "correct": "olay",
+    "wrong": "etkinlik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_177",
+    "word": "occurrence",
+    "correct": "olay",
+    "wrong": "meydana gelme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_178",
+    "word": "phenomenon",
+    "correct": "olgu",
+    "wrong": "olay",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_179",
+    "word": "phenomenon",
+    "correct": "fenomen",
+    "wrong": "olgu",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_180",
+    "word": "cause",
+    "correct": "neden",
+    "wrong": "sebep",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_181",
+    "word": "reason",
+    "correct": "sebep",
+    "wrong": "neden",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_182",
+    "word": "motive",
+    "correct": "saik",
+    "wrong": "neden",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_183",
+    "word": "purpose",
+    "correct": "amaç",
+    "wrong": "niyet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_184",
+    "word": "intention",
+    "correct": "niyet",
+    "wrong": "amaç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_185",
+    "word": "goal",
+    "correct": "hedef",
+    "wrong": "amaç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_186",
+    "word": "objective",
+    "correct": "hedef",
+    "wrong": "amaç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_187",
+    "word": "aim",
+    "correct": "amaç",
+    "wrong": "hedef",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_188",
+    "word": "target",
+    "correct": "hedef",
+    "wrong": "amaç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_189",
+    "word": "outcome",
+    "correct": "sonuç",
+    "wrong": "çıkmazlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_190",
+    "word": "result",
+    "correct": "sonuç",
+    "wrong": "çıkmazlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_191",
+    "word": "consequence",
+    "correct": "sonuç",
+    "wrong": "etki",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_192",
+    "word": "effect",
+    "correct": "etki",
+    "wrong": "sonuç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_193",
+    "word": "impact",
+    "correct": "etki",
+    "wrong": "tesir",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_194",
+    "word": "influence",
+    "correct": "etki",
+    "wrong": "nüfuz",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_195",
+    "word": "effect",
+    "correct": "tesir",
+    "wrong": "etki",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_196",
+    "word": "environment",
+    "correct": "çevre",
+    "wrong": "doğa",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_197",
+    "word": "environmental",
+    "correct": "çevresel",
+    "wrong": "doğa",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_198",
+    "word": "ecology",
+    "correct": "ekoloji",
+    "wrong": "çevre",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_199",
+    "word": "ecosystem",
+    "correct": "ekosistem",
+    "wrong": "ekoloji",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_200",
+    "word": "climate",
+    "correct": "iklim",
+    "wrong": "hava",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_201",
+    "word": "weather",
+    "correct": "hava",
+    "wrong": "iklim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_202",
+    "word": "temperature",
+    "correct": "sıcaklık",
+    "wrong": "derece",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_203",
+    "word": "degree",
+    "correct": "derece",
+    "wrong": "sıcaklık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_204",
+    "word": "humidity",
+    "correct": "nem",
+    "wrong": "lolitelik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_205",
+    "word": "pressure",
+    "correct": "basınç",
+    "wrong": "kuvvet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_206",
+    "word": "wind",
+    "correct": "rüzgar",
+    "wrong": "hava",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_207",
+    "word": "storm",
+    "correct": "fırtına",
+    "wrong": "rüzgar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_208",
+    "word": "thunderstorm",
+    "correct": "yıldırım fırtınası",
+    "wrong": "fırtına",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_209",
+    "word": "lightning",
+    "correct": "şimşek",
+    "wrong": "yıldırım",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_210",
+    "word": "thunder",
+    "correct": "gök gürültüsü",
+    "wrong": "şimşek",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_211",
+    "word": "flood",
+    "correct": "taşkın",
+    "wrong": "sel",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_212",
+    "word": "drought",
+    "correct": "kuraklık",
+    "wrong": "taşkın",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_213",
+    "word": "earthquake",
+    "correct": "deprem",
+    "wrong": "sarsıntı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_214",
+    "word": "tsunami",
+    "correct": "tsunami",
+    "wrong": "dalga",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_215",
+    "word": "volcano",
+    "correct": "volkan",
+    "wrong": "dağ",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_216",
+    "word": "lava",
+    "correct": "lav",
+    "wrong": "magma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_217",
+    "word": "magma",
+    "correct": "magma",
+    "wrong": "lav",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_218",
+    "word": "fossil",
+    "correct": "fosil",
+    "wrong": "kalıntı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_219",
+    "word": "mineral",
+    "correct": "mineral",
+    "wrong": "cevher",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_220",
+    "word": "ore",
+    "correct": "cevher",
+    "wrong": "taş",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_221",
+    "word": "coal",
+    "correct": "kömür",
+    "wrong": "taş",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_222",
+    "word": "oil",
+    "correct": "petrol",
+    "wrong": "gaz",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_223",
+    "word": "natural gas",
+    "correct": "doğal gaz",
+    "wrong": "gaz",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_224",
+    "word": "energy",
+    "correct": "enerji",
+    "wrong": "güç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_225",
+    "word": "power",
+    "correct": "güç",
+    "wrong": "enerji",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_226",
+    "word": "electricity",
+    "correct": "elektrik",
+    "wrong": "akım",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_227",
+    "word": "solar",
+    "correct": "güneş",
+    "wrong": "güneş enerjisi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_228",
+    "word": "wind power",
+    "correct": "rüzgar enerjisi",
+    "wrong": "elektrik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_229",
+    "word": "hydroelectric",
+    "correct": "hidroelektrik",
+    "wrong": "enerji",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_230",
+    "word": "nuclear",
+    "correct": "nükleer",
+    "wrong": "enerji",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_231",
+    "word": "renewable",
+    "correct": "yenilenebilir",
+    "wrong": "enerji",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_232",
+    "word": "fossil fuel",
+    "correct": "fosil yakıt",
+    "wrong": "yakıt",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_233",
+    "word": "carbon",
+    "correct": "karbon",
+    "wrong": "element",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_234",
+    "word": "emission",
+    "correct": "emisyon",
+    "wrong": "çıkış",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_235",
+    "word": "pollution",
+    "correct": "kirlilik",
+    "wrong": "olumsuzluk",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_236",
+    "word": "contamination",
+    "correct": "kontaminasyon",
+    "wrong": "kirlilik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_237",
+    "word": "waste",
+    "correct": "atık",
+    "wrong": "çöp",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_238",
+    "word": "garbage",
+    "correct": "çöp",
+    "wrong": "atık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_239",
+    "word": "recycling",
+    "correct": "geri dönüşüm",
+    "wrong": "atık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_240",
+    "word": "biodegradable",
+    "correct": "biyolojik olarak parçalanabilir",
+    "wrong": "doğal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_241",
+    "word": "organic",
+    "correct": "organik",
+    "wrong": "doğal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_242",
+    "word": "chemical",
+    "correct": "kimyasal",
+    "wrong": "element",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_243",
+    "word": "pesticide",
+    "correct": "böcek ilacı",
+    "wrong": "kimyasal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_244",
+    "word": "fertilizer",
+    "correct": "gübre",
+    "wrong": "kimyasal",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_245",
+    "word": "ecosystem",
+    "correct": "ekoloji sistemi",
+    "wrong": "ekoloji",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_246",
+    "word": "habitat",
+    "correct": "yaşam ortamı",
+    "wrong": "ortam",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_247",
+    "word": "species",
+    "correct": "tür",
+    "wrong": "canlı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_248",
+    "word": "biodiversity",
+    "correct": "biyolojik çeşitlilik",
+    "wrong": "çeşitlilik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_249",
+    "word": "endangered",
+    "correct": "tehlike altında",
+    "wrong": "türetilmiş",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_250",
+    "word": "extinction",
+    "correct": "soyu tükenme",
+    "wrong": "kaybolma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_251",
+    "word": "conservation",
+    "correct": "koruma",
+    "wrong": "isabet",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_252",
+    "word": "preservation",
+    "correct": "koruma",
+    "wrong": "tasarrufu",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_253",
+    "word": "wildlife",
+    "correct": "yaban hayatı",
+    "wrong": "hayvnlat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_254",
+    "word": "nature",
+    "correct": "doğa",
+    "wrong": "tabiiyat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_255",
+    "word": "natural",
+    "correct": "doğal",
+    "wrong": "tabiiyat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_256",
+    "word": "artificial",
+    "correct": "yapay",
+    "wrong": "insan yapısı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_257",
+    "word": "synthetic",
+    "correct": "sentetik",
+    "wrong": "yapay",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_258",
+    "word": "genetic",
+    "correct": "genetik",
+    "wrong": "geni",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_259",
+    "word": "gene",
+    "correct": "gen",
+    "wrong": "genetik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_260",
+    "word": "mutation",
+    "correct": "mutasyon",
+    "wrong": "değişim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_261",
+    "word": "evolution",
+    "correct": "evrim",
+    "wrong": "gelişim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_262",
+    "word": "adaptation",
+    "correct": "uyum",
+    "wrong": "değişim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_263",
+    "word": "natural selection",
+    "correct": "doğal seçilim",
+    "wrong": "seçim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_264",
+    "word": "survival",
+    "correct": "hayatta kalma",
+    "wrong": "kurtuluş",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_265",
+    "word": "instinct",
+    "correct": "içgüdü",
+    "wrong": "davranış",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_266",
+    "word": "behavior",
+    "correct": "davranış",
+    "wrong": "huyu",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_267",
+    "word": "conduct",
+    "correct": "tutum",
+    "wrong": "davranış",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_268",
+    "word": "habit",
+    "correct": "alışkanlık",
+    "wrong": "davranış",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_269",
+    "word": "custom",
+    "correct": "gelenek",
+    "wrong": "alışkanlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_270",
+    "word": "tradition",
+    "correct": "gelenek",
+    "wrong": "örf",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_271",
+    "word": "culture",
+    "correct": "kültür",
+    "wrong": "uygarlık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_272",
+    "word": "civilization",
+    "correct": "medeniyet",
+    "wrong": "kültür",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_273",
+    "word": "art",
+    "correct": "sanat",
+    "wrong": "tasarım",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_274",
+    "word": "literature",
+    "correct": "edebiyat",
+    "wrong": "yazın",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_275",
+    "word": "poetry",
+    "correct": "şiir",
+    "wrong": "edebiyat",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_276",
+    "word": "prose",
+    "correct": "düzyazı",
+    "wrong": "anlatı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_277",
+    "word": "drama",
+    "correct": "dram",
+    "wrong": "oyun",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_278",
+    "word": "comedy",
+    "correct": "komedi",
+    "wrong": "güldürü",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_279",
+    "word": "tragedy",
+    "correct": "trajedi",
+    "wrong": "dram",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_280",
+    "word": "novel",
+    "correct": "roman",
+    "wrong": "öykü",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_281",
+    "word": "fiction",
+    "correct": "kurgu",
+    "wrong": "hikaye",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_282",
+    "word": "nonfiction",
+    "correct": "fakta",
+    "wrong": "gerçeklik",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_283",
+    "word": "biography",
+    "correct": "biyografi",
+    "wrong": "hayat hikayesi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_284",
+    "word": "memoir",
+    "correct": "anı",
+    "wrong": "biyografi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_285",
+    "word": "autobiography",
+    "correct": "otobiyografi",
+    "wrong": "hayat hikayesi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_286",
+    "word": "author",
+    "correct": "yazar",
+    "wrong": "müellif",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_287",
+    "word": "writer",
+    "correct": "yazar",
+    "wrong": "yazıcı",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_288",
+    "word": "poet",
+    "correct": "şair",
+    "wrong": "şiirci",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_289",
+    "word": "playwright",
+    "correct": "oyun yazarı",
+    "wrong": "yazar",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_290",
+    "word": "director",
+    "correct": "yönetmen",
+    "wrong": "direktör",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_291",
+    "word": "actor",
+    "correct": "oyuncu",
+    "wrong": "aktör",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_292",
+    "word": "actress",
+    "correct": "aktrist",
+    "wrong": "oyuncu kadın",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_293",
+    "word": "musician",
+    "correct": "müzisyen",
+    "wrong": "besteci",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_294",
+    "word": "composer",
+    "correct": "besteci",
+    "wrong": "müzisyen",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_295",
+    "word": "conductor",
+    "correct": "şef",
+    "wrong": "yönetmen",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_296",
+    "word": "orchestra",
+    "correct": "orkestra",
+    "wrong": "bando",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_297",
+    "word": "band",
+    "correct": "bando",
+    "wrong": "orkestra",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_298",
+    "word": "choir",
+    "correct": "koro",
+    "wrong": "ses",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_299",
+    "word": "concert",
+    "correct": "konser",
+    "wrong": "müzik etkinliği",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_300",
+    "word": "performance",
+    "correct": "performans",
+    "wrong": "gösteri",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_301",
+    "word": "exhibition",
+    "correct": "sergi",
+    "wrong": "gösterim",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_302",
+    "word": "gallery",
+    "correct": "galeri",
+    "wrong": "sanat galerisi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_303",
+    "word": "museum",
+    "correct": "müze",
+    "wrong": "galeri",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_304",
+    "word": "theater",
+    "correct": "tiyatro",
+    "wrong": "sahne",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_305",
+    "word": "cinema",
+    "correct": "sinema",
+    "wrong": "film",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_306",
+    "word": "film",
+    "correct": "film",
+    "wrong": "bant",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_307",
+    "word": "movie",
+    "correct": "film",
+    "wrong": "sinema filmi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_308",
+    "word": "documentary",
+    "correct": "belgesel",
+    "wrong": "film",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_309",
+    "word": "animation",
+    "correct": "animasyon",
+    "wrong": "uydu",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_310",
+    "word": "cartoon",
+    "correct": "çizgi film",
+    "wrong": "karikatür",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_311",
+    "word": "script",
+    "correct": "senaryo",
+    "wrong": "metne",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_312",
+    "word": "plot",
+    "correct": "konusu",
+    "wrong": "senaryo",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_313",
+    "word": "character",
+    "correct": "karakter",
+    "wrong": "kişi",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_314",
+    "word": "protagonist",
+    "correct": "ana karakter",
+    "wrong": "karakterse",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_315",
+    "word": "antagonist",
+    "correct": "olumsuz karakter",
+    "wrong": "olumsuz",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_316",
+    "word": "dialogue",
+    "correct": "diyalog",
+    "wrong": "konuşma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_317",
+    "word": "monologue",
+    "correct": "monolog",
+    "wrong": "tekil konuşma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_318",
+    "word": "scene",
+    "correct": "sahne",
+    "wrong": "manzara",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_319",
+    "word": "act",
+    "correct": "eylem",
+    "wrong": "sahne",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_320",
+    "word": "climax",
+    "correct": "doruk noktası",
+    "wrong": "zirve",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_321",
+    "word": "conflict",
+    "correct": "çatışma",
+    "wrong": "ihtilaf",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_322",
+    "word": "resolution",
+    "correct": "çözüm",
+    "wrong": "sonuç",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_323",
+    "word": "theme",
+    "correct": "tema",
+    "wrong": "konu",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_324",
+    "word": "symbol",
+    "correct": "sembol",
+    "wrong": "işaret",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_325",
+    "word": "metaphor",
+    "correct": "metafor",
+    "wrong": "benzetme",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_326",
+    "word": "simile",
+    "correct": "benzetme",
+    "wrong": "karşılaştırma",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_327",
+    "word": "irony",
+    "correct": "ironi",
+    "wrong": "aykırılık",
+    "category": "B1 Seviye Kelimeler"
+  },
+  {
+    "id": "b1_328",
+    "word": "sarcasm",
+    "correct": "sarkazm",
+    "wrong": "kinaye",
+    "category": "B1 Seviye Kelimeler"
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "b2_1",
+    "word": "philosophy",
+    "correct": "felsefe",
+    "wrong": "düşünce",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_2",
+    "word": "philosophical",
+    "correct": "felsefi",
+    "wrong": "düşünce",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_3",
+    "word": "ontology",
+    "correct": "varlık bilimi",
+    "wrong": "felsefe",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_4",
+    "word": "epistemology",
+    "correct": "bilgi kuramı",
+    "wrong": "felsefe",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_5",
+    "word": "ethics",
+    "correct": "etik",
+    "wrong": "ahlak",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_6",
+    "word": "morality",
+    "correct": "ahlak",
+    "wrong": "etik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_7",
+    "word": "virtue",
+    "correct": "erdem",
+    "wrong": "iyi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_8",
+    "word": "vice",
+    "correct": "hata",
+    "wrong": "kötü",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_9",
+    "word": "good",
+    "correct": "iyi",
+    "wrong": "erdem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_10",
+    "word": "evil",
+    "correct": "kötü",
+    "wrong": "hata",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_11",
+    "word": "justice",
+    "correct": "adalet",
+    "wrong": "hak",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_12",
+    "word": "fairness",
+    "correct": "adillik",
+    "wrong": "adalet",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_13",
+    "word": "equality",
+    "correct": "eşitlik",
+    "wrong": "adalet",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_14",
+    "word": "liberty",
+    "correct": "özgürlük",
+    "wrong": "hak",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_15",
+    "word": "freedom",
+    "correct": "özgürlük",
+    "wrong": "hak",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_16",
+    "word": "autonomy",
+    "correct": "özerklik",
+    "wrong": "özgürlük",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_17",
+    "word": "duty",
+    "correct": "görev",
+    "wrong": "yükümlülük",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_18",
+    "word": "obligation",
+    "correct": "yükümlülük",
+    "wrong": "görev",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_19",
+    "word": "responsibility",
+    "correct": "sorumluluk",
+    "wrong": "görev",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_20",
+    "word": "consequence",
+    "correct": "sonuç",
+    "wrong": "sonuçlar",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_21",
+    "word": "utilitarian",
+    "correct": "fayda arayıcı",
+    "wrong": "pratik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_22",
+    "word": "deontological",
+    "correct": "deontolojik",
+    "wrong": "görev",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_23",
+    "word": "virtue ethics",
+    "correct": "erdem ahlakı",
+    "wrong": "etik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_24",
+    "word": "existentialism",
+    "correct": "varoluşçuluk",
+    "wrong": "felsefe",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_25",
+    "word": "phenomenology",
+    "correct": "fenomenoloji",
+    "wrong": "felsefe",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_26",
+    "word": "dialectic",
+    "correct": "diyalektik",
+    "wrong": "tartışma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_27",
+    "word": "synthesis",
+    "correct": "sentez",
+    "wrong": "birleşme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_28",
+    "word": "thesis",
+    "correct": "tez",
+    "wrong": "argüman",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_29",
+    "word": "antithesis",
+    "correct": "antitez",
+    "wrong": "ters argüman",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_30",
+    "word": "logic",
+    "correct": "mantık",
+    "wrong": "düşünce",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_31",
+    "word": "reasoning",
+    "correct": "akılcılık",
+    "wrong": "mantık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_32",
+    "word": "inference",
+    "correct": "sonuç çıkarma",
+    "wrong": "mantık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_33",
+    "word": "deduction",
+    "correct": "tümdengelim",
+    "wrong": "çıkarım",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_34",
+    "word": "induction",
+    "correct": "tümevarım",
+    "wrong": "çıkarım",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_35",
+    "word": "fallacy",
+    "correct": "yanlış mantık",
+    "wrong": "hata",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_36",
+    "word": "paradox",
+    "correct": "paradoks",
+    "wrong": "çelişki",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_37",
+    "word": "contradiction",
+    "correct": "çelişki",
+    "wrong": "uyumsuzluk",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_38",
+    "word": "coherence",
+    "correct": "uyum",
+    "wrong": "uyumlu",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_39",
+    "word": "consistency",
+    "correct": "tutarlılık",
+    "wrong": "uyum",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_40",
+    "word": "metaphysics",
+    "correct": "metafizik",
+    "wrong": "varlık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_41",
+    "word": "transcendental",
+    "correct": "aşkın",
+    "wrong": "metafizik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_42",
+    "word": "abstract",
+    "correct": "soyut",
+    "wrong": "genel",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_43",
+    "word": "concrete",
+    "correct": "somut",
+    "wrong": "belirli",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_44",
+    "word": "universal",
+    "correct": "evrensel",
+    "wrong": "genel",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_45",
+    "word": "particular",
+    "correct": "özel",
+    "wrong": "belirli",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_46",
+    "word": "essence",
+    "correct": "öz",
+    "wrong": "doğa",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_47",
+    "word": "substance",
+    "correct": "madde",
+    "wrong": "öz",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_48",
+    "word": "form",
+    "correct": "şekil",
+    "wrong": "biçim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_49",
+    "word": "matter",
+    "correct": "madde",
+    "wrong": "fizik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_50",
+    "word": "quality",
+    "correct": "nitelik",
+    "wrong": "özellik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_51",
+    "word": "quantity",
+    "correct": "nicelik",
+    "wrong": "miktar",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_52",
+    "word": "attribute",
+    "correct": "nitelik",
+    "wrong": "özellik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_53",
+    "word": "property",
+    "correct": "özellik",
+    "wrong": "nitelik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_54",
+    "word": "characteristic",
+    "correct": "karakteristik",
+    "wrong": "özellik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_55",
+    "word": "feature",
+    "correct": "özellik",
+    "wrong": "karakteristik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_56",
+    "word": "aspect",
+    "correct": "yönü",
+    "wrong": "özellik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_57",
+    "word": "dimension",
+    "correct": "boyut",
+    "wrong": "yön",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_58",
+    "word": "perspective",
+    "correct": "bakış açısı",
+    "wrong": "görüş",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_59",
+    "word": "viewpoint",
+    "correct": "görüş noktası",
+    "wrong": "bakış açısı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_60",
+    "word": "ideology",
+    "correct": "ideoloji",
+    "wrong": "düşünce sistemi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_61",
+    "word": "doctrine",
+    "correct": "doktrin",
+    "wrong": "öğreti",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_62",
+    "word": "dogma",
+    "correct": "dogma",
+    "wrong": "ilke",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_63",
+    "word": "principle",
+    "correct": "ilke",
+    "wrong": "prinsip",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_64",
+    "word": "axiom",
+    "correct": "aksiyom",
+    "wrong": "ilke",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_65",
+    "word": "theorem",
+    "correct": "teorem",
+    "wrong": "matematiksel kanun",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_66",
+    "word": "proof",
+    "correct": "kanıt",
+    "wrong": "ispat",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_67",
+    "word": "evidence",
+    "correct": "kanıt",
+    "wrong": "delil",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_68",
+    "word": "argument",
+    "correct": "argüman",
+    "wrong": "tartışma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_69",
+    "word": "debate",
+    "correct": "tartışma",
+    "wrong": "müzakere",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_70",
+    "word": "discussion",
+    "correct": "tartışma",
+    "wrong": "müzakere",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_71",
+    "word": "consensus",
+    "correct": "fikir birliği",
+    "wrong": "anlaşma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_72",
+    "word": "dissent",
+    "correct": "anlaşmazlık",
+    "wrong": "karşı çıkma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_73",
+    "word": "controversy",
+    "correct": "tartışmalı konu",
+    "wrong": "uyuşmazlık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_74",
+    "word": "dispute",
+    "correct": "uyuşmazlık",
+    "wrong": "çekişme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_75",
+    "word": "controversy",
+    "correct": "tartışma konusu",
+    "wrong": "uyuşmazlık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_76",
+    "word": "critique",
+    "correct": "eleştiri",
+    "wrong": "inceleme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_77",
+    "word": "criticism",
+    "correct": "eleştiri",
+    "wrong": "kınama",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_78",
+    "word": "analysis",
+    "correct": "analiz",
+    "wrong": "inceleme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_79",
+    "word": "examination",
+    "correct": "inceleme",
+    "wrong": "muayene",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_80",
+    "word": "assessment",
+    "correct": "değerlendirme",
+    "wrong": "gözlem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_81",
+    "word": "evaluation",
+    "correct": "değerlendirme",
+    "wrong": "tahlil",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_82",
+    "word": "interpretation",
+    "correct": "yorum",
+    "wrong": "anlama",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_83",
+    "word": "understanding",
+    "correct": "anlama",
+    "wrong": "kavrama",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_84",
+    "word": "comprehension",
+    "correct": "anlama",
+    "wrong": "kavrayış",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_85",
+    "word": "perception",
+    "correct": "algı",
+    "wrong": "sezgi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_86",
+    "word": "intuition",
+    "correct": "sezgi",
+    "wrong": "hissiyat",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_87",
+    "word": "consciousness",
+    "correct": "bilinç",
+    "wrong": "şuur",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_88",
+    "word": "awareness",
+    "correct": "farkındalık",
+    "wrong": "bilinç",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_89",
+    "word": "subconscious",
+    "correct": "bilinçaltı",
+    "wrong": "bilincin altı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_90",
+    "word": "unconscious",
+    "correct": "bilinçsiz",
+    "wrong": "şuursuz",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_91",
+    "word": "cognitive",
+    "correct": "bilişsel",
+    "wrong": "düşünce",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_92",
+    "word": "mental",
+    "correct": "zihinsel",
+    "wrong": "psikolojik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_93",
+    "word": "psychological",
+    "correct": "psikolojik",
+    "wrong": "ruh",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_94",
+    "word": "emotional",
+    "correct": "duygusal",
+    "wrong": "hissiyat",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_95",
+    "word": "rational",
+    "correct": "akılcı",
+    "wrong": "mantıksal",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_96",
+    "word": "irrational",
+    "correct": "akılsız",
+    "wrong": "mantıksız",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_97",
+    "word": "logical",
+    "correct": "mantıksal",
+    "wrong": "düşünme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_98",
+    "word": "illogical",
+    "correct": "mantıksız",
+    "wrong": "hata",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_99",
+    "word": "empirical",
+    "correct": "deneysel",
+    "wrong": "gerçek",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_100",
+    "word": "theoretical",
+    "correct": "teorik",
+    "wrong": "kuramsal",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_101",
+    "word": "practical",
+    "correct": "pratik",
+    "wrong": "uygulamalı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_102",
+    "word": "pragmatic",
+    "correct": "pragmatik",
+    "wrong": "pratik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_103",
+    "word": "ideology",
+    "correct": "ideoloji",
+    "wrong": "siyasi düşünce",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_104",
+    "word": "capitalism",
+    "correct": "kapitalizm",
+    "wrong": "ekonomik sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_105",
+    "word": "socialism",
+    "correct": "sosyalizm",
+    "wrong": "ekonomik sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_106",
+    "word": "communism",
+    "correct": "komünizm",
+    "wrong": "ideoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_107",
+    "word": "fascism",
+    "correct": "faşizm",
+    "wrong": "ideoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_108",
+    "word": "liberalism",
+    "correct": "liberalizm",
+    "wrong": "ideoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_109",
+    "word": "conservatism",
+    "correct": "muhafazakarlık",
+    "wrong": "ideoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_110",
+    "word": "nationalism",
+    "correct": "milliyetçilik",
+    "wrong": "ideoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_111",
+    "word": "imperialism",
+    "correct": "emperyalizm",
+    "wrong": "şimdiki sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_112",
+    "word": "colonialism",
+    "correct": "sömürgeci sistem",
+    "wrong": "emperyalizm",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_113",
+    "word": "feminism",
+    "correct": "feminizm",
+    "wrong": "hareket",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_114",
+    "word": "environmentalism",
+    "correct": "çevreci hareket",
+    "wrong": "hareketi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_115",
+    "word": "pacifism",
+    "correct": "barışçılık",
+    "wrong": "felsefe",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_116",
+    "word": "anarchy",
+    "correct": "anarşi",
+    "wrong": "kaosu",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_117",
+    "word": "hierarchy",
+    "correct": "hiyerarşi",
+    "wrong": "düzen",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_118",
+    "word": "bureaucracy",
+    "correct": "bürokrasi",
+    "wrong": "idari sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_119",
+    "word": "meritocracy",
+    "correct": "liyakat esaslı sistem",
+    "wrong": "sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_120",
+    "word": "oligarchy",
+    "correct": "oligarşi",
+    "wrong": "birkaç kişinin yönetimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_121",
+    "word": "democracy",
+    "correct": "demokrasi",
+    "wrong": "halk yönetimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_122",
+    "word": "autocracy",
+    "correct": "otokrasi",
+    "wrong": "mutlak yönetim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_123",
+    "word": "theocracy",
+    "correct": "teokrasi",
+    "wrong": "din devleti",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_124",
+    "word": "plutocracy",
+    "correct": "plütokrasi",
+    "wrong": "zengininlerin yönetimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_125",
+    "word": "aristocracy",
+    "correct": "aristokrasi",
+    "wrong": "asil yönetimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_126",
+    "word": "republic",
+    "correct": "cumhuriyet",
+    "wrong": "devlet formu",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_127",
+    "word": "monarchy",
+    "correct": "krallık",
+    "wrong": "kraliçe yönetimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_128",
+    "word": "federation",
+    "correct": "federasyon",
+    "wrong": "birleşik sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_129",
+    "word": "confederation",
+    "correct": "konfederasyon",
+    "wrong": "birleştirme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_130",
+    "word": "union",
+    "correct": "birlik",
+    "wrong": "sendika",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_131",
+    "word": "alliance",
+    "correct": "ittifak",
+    "wrong": "anlaşma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_132",
+    "word": "coalition",
+    "correct": "koalisyon",
+    "wrong": "işbirliği",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_133",
+    "word": "bloc",
+    "correct": "blok",
+    "wrong": "grup",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_134",
+    "word": "faction",
+    "correct": "fraksiyon",
+    "wrong": "kol",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_135",
+    "word": "party",
+    "correct": "parti",
+    "wrong": "siyasi parti",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_136",
+    "word": "movement",
+    "correct": "hareket",
+    "wrong": "kültürel hareket",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_137",
+    "word": "organization",
+    "correct": "kuruluş",
+    "wrong": "örgütlenme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_138",
+    "word": "institution",
+    "correct": "kurum",
+    "wrong": "örgütü",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_139",
+    "word": "establishment",
+    "correct": "yapı",
+    "wrong": "kurum",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_140",
+    "word": "infrastructure",
+    "correct": "altyapı",
+    "wrong": "temel yapı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_141",
+    "word": "superstructure",
+    "correct": "üst yapı",
+    "wrong": "ideoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_142",
+    "word": "framework",
+    "correct": "çerçeve",
+    "wrong": "yapı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_143",
+    "word": "mechanism",
+    "correct": "mekanizma",
+    "wrong": "sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_144",
+    "word": "apparatus",
+    "correct": "araç",
+    "wrong": "mekanizması",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_145",
+    "word": "apparatus",
+    "correct": "aygıt",
+    "wrong": "araç",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_146",
+    "word": "instrument",
+    "correct": "araç",
+    "wrong": "enstrüman",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_147",
+    "word": "tool",
+    "correct": "araç",
+    "wrong": "alet",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_148",
+    "word": "resource",
+    "correct": "kaynak",
+    "wrong": "vardı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_149",
+    "word": "asset",
+    "correct": "varlık",
+    "wrong": "kaynak",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_150",
+    "word": "capital",
+    "correct": "sermaye",
+    "wrong": "başkent",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_151",
+    "word": "investment",
+    "correct": "yatırım",
+    "wrong": "işletme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_152",
+    "word": "finance",
+    "correct": "finans",
+    "wrong": "para",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_153",
+    "word": "funding",
+    "correct": "fon",
+    "wrong": "finansman",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_154",
+    "word": "budget",
+    "correct": "bütçe",
+    "wrong": "gider",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_155",
+    "word": "expenditure",
+    "correct": "harcama",
+    "wrong": "gider",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_156",
+    "word": "revenue",
+    "correct": "gelir",
+    "wrong": "kazanç",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_157",
+    "word": "income",
+    "correct": "gelir",
+    "wrong": "kazanç",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_158",
+    "word": "profit",
+    "correct": "kar",
+    "wrong": "kazanç",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_159",
+    "word": "loss",
+    "correct": "kayıp",
+    "wrong": "zarar",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_160",
+    "word": "deficit",
+    "correct": "açık",
+    "wrong": "negatif",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_161",
+    "word": "surplus",
+    "correct": "fazla",
+    "wrong": "artı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_162",
+    "word": "debit",
+    "correct": "borç",
+    "wrong": "yükümlülük",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_163",
+    "word": "credit",
+    "correct": "kredi",
+    "wrong": "alacak",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_164",
+    "word": "liability",
+    "correct": "yükümlülük",
+    "wrong": "borç",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_165",
+    "word": "debt",
+    "correct": "borç",
+    "wrong": "yükümlülük",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_166",
+    "word": "mortgage",
+    "correct": "ipotek",
+    "wrong": "emlak kredisi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_167",
+    "word": "lease",
+    "correct": "kiralama",
+    "wrong": "kira sözleşmesi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_168",
+    "word": "rent",
+    "correct": "kira",
+    "wrong": "kiralama",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_169",
+    "word": "wage",
+    "correct": "ücret",
+    "wrong": "maaş",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_170",
+    "word": "salary",
+    "correct": "maaş",
+    "wrong": "ücret",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_171",
+    "word": "psychology",
+    "correct": "psikoloji",
+    "wrong": "ruh bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_172",
+    "word": "psychiatry",
+    "correct": "psikiyatri",
+    "wrong": "psikoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_173",
+    "word": "neuroscience",
+    "correct": "sinir bilimi",
+    "wrong": "beyin bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_174",
+    "word": "cognitive science",
+    "correct": "bilişsel bilim",
+    "wrong": "psikoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_175",
+    "word": "sociology",
+    "correct": "sosyoloji",
+    "wrong": "toplum bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_176",
+    "word": "anthropology",
+    "correct": "antropoloji",
+    "wrong": "insanbilim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_177",
+    "word": "archaeology",
+    "correct": "arkeoloji",
+    "wrong": "tarih bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_178",
+    "word": "ethnography",
+    "correct": "etnografi",
+    "wrong": "toplum inceleme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_179",
+    "word": "linguistics",
+    "correct": "dilbilim",
+    "wrong": "dil",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_180",
+    "word": "semantics",
+    "correct": "anlambilim",
+    "wrong": "dilbilim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_181",
+    "word": "syntax",
+    "correct": "söz dizimi",
+    "wrong": "dil yapısı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_182",
+    "word": "pragmatics",
+    "correct": "edimbilim",
+    "wrong": "dil kullanımı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_183",
+    "word": "phonetics",
+    "correct": "ses bilimi",
+    "wrong": "dilbilim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_184",
+    "word": "phonology",
+    "correct": "ses sistemi",
+    "wrong": "ses bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_185",
+    "word": "morphology",
+    "correct": "biçim bilgisi",
+    "wrong": "dilbilim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_186",
+    "word": "grammar",
+    "correct": "dilbilgisi",
+    "wrong": "dil kuralları",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_187",
+    "word": "rhetoric",
+    "correct": "retorik",
+    "wrong": "konuşma sanatı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_188",
+    "word": "oratory",
+    "correct": "söz sanatı",
+    "wrong": "retorik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_189",
+    "word": "eloquence",
+    "correct": "fesahat",
+    "wrong": "söz sanatı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_190",
+    "word": "discourse",
+    "correct": "söylem",
+    "wrong": "konuşma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_191",
+    "word": "narrative",
+    "correct": "anlatı",
+    "wrong": "hikaye",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_192",
+    "word": "exposition",
+    "correct": "açıklama",
+    "wrong": "anlatım",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_193",
+    "word": "description",
+    "correct": "betim",
+    "wrong": "açıklama",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_194",
+    "word": "argumentation",
+    "correct": "tartışma",
+    "wrong": "argüman",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_195",
+    "word": "persuasion",
+    "correct": "ikna",
+    "wrong": "etkileme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_196",
+    "word": "rhetoric",
+    "correct": "retorik",
+    "wrong": "konuşma tekniği",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_197",
+    "word": "metaphor",
+    "correct": "metafor",
+    "wrong": "benzetme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_198",
+    "word": "metonymy",
+    "correct": "metonomi",
+    "wrong": "değiştirme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_199",
+    "word": "synecdoche",
+    "correct": "senektok",
+    "wrong": "kısmı ile bütünü",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_200",
+    "word": "oxymoron",
+    "correct": "çelişkili söz",
+    "wrong": "iki zıt kavram",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_201",
+    "word": "paradox",
+    "correct": "paradoks",
+    "wrong": "çelişki",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_202",
+    "word": "hyperbole",
+    "correct": "abartma",
+    "wrong": "mübalağa",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_203",
+    "word": "understatement",
+    "correct": "eksik söyleme",
+    "wrong": "hafifletme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_204",
+    "word": "irony",
+    "correct": "ironi",
+    "wrong": "aykırılık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_205",
+    "word": "sarcasm",
+    "correct": "kinaye",
+    "wrong": "alaycı söz",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_206",
+    "word": "allusion",
+    "correct": "ima",
+    "wrong": "gönderme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_207",
+    "word": "personification",
+    "correct": "kişileştirme",
+    "wrong": "canlı yapma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_208",
+    "word": "symbolism",
+    "correct": "sembolizm",
+    "wrong": "sembol kullanımı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_209",
+    "word": "imagery",
+    "correct": "imgelem",
+    "wrong": "görsel betim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_210",
+    "word": "sensory",
+    "correct": "duyusal",
+    "wrong": "hiss",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_211",
+    "word": "olfactory",
+    "correct": "kokuya ait",
+    "wrong": "duyusal",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_212",
+    "word": "gustatory",
+    "correct": "tada ait",
+    "wrong": "duyusal",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_213",
+    "word": "tactile",
+    "correct": "dokunsal",
+    "wrong": "hissiyat",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_214",
+    "word": "auditory",
+    "correct": "işitsel",
+    "wrong": "ses",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_215",
+    "word": "visual",
+    "correct": "görsel",
+    "wrong": "görüntü",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_216",
+    "word": "perception",
+    "correct": "algı",
+    "wrong": "hissiyat",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_217",
+    "word": "sensation",
+    "correct": "sezgi",
+    "wrong": "duyum",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_218",
+    "word": "stimulus",
+    "correct": "uyaran",
+    "wrong": "tetikleyici",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_219",
+    "word": "response",
+    "correct": "yanıt",
+    "wrong": "tepki",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_220",
+    "word": "reflex",
+    "correct": "refleks",
+    "wrong": "otomatik tepki",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_221",
+    "word": "learned",
+    "correct": "öğrenilmiş",
+    "wrong": "eğitilmiş",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_222",
+    "word": "innate",
+    "correct": "doğuştan",
+    "wrong": "içsel",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_223",
+    "word": "instinct",
+    "correct": "içgüdü",
+    "wrong": "doğal eğilim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_224",
+    "word": "habit",
+    "correct": "alışkanlık",
+    "wrong": "gelenek",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_225",
+    "word": "addiction",
+    "correct": "bağımlılık",
+    "wrong": "alışkanlık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_226",
+    "word": "compulsion",
+    "correct": "zorunluluk",
+    "wrong": "bağımlılık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_227",
+    "word": "obsession",
+    "correct": "takıntı",
+    "wrong": "sabit fikir",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_228",
+    "word": "phobia",
+    "correct": "fobilya",
+    "wrong": "korku",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_229",
+    "word": "anxiety",
+    "correct": "kaygı",
+    "wrong": "endişe",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_230",
+    "word": "depression",
+    "correct": "depresyon",
+    "wrong": "bunalım",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_231",
+    "word": "psychosis",
+    "correct": "psikoz",
+    "wrong": "akıl hastalığı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_232",
+    "word": "neurosis",
+    "correct": "nevrose",
+    "wrong": "bağlantısızlık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_233",
+    "word": "paranoia",
+    "correct": "paranoia",
+    "wrong": "şüphe hastalığı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_234",
+    "word": "trauma",
+    "correct": "travma",
+    "wrong": "ruhsal çarpılma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_235",
+    "word": "therapy",
+    "correct": "terapi",
+    "wrong": "tedavi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_236",
+    "word": "counseling",
+    "correct": "danışmanlık",
+    "wrong": "psikolojik destek",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_237",
+    "word": "rehabilitation",
+    "correct": "rehabilitasyon",
+    "wrong": "iyileştirme",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_238",
+    "word": "recovery",
+    "correct": "iyileşme",
+    "wrong": "kurtuluş",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_239",
+    "word": "prognosis",
+    "correct": "prognozu",
+    "wrong": "seyir tahmini",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_240",
+    "word": "diagnosis",
+    "correct": "tanı",
+    "wrong": "teşhis",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_241",
+    "word": "symptom",
+    "correct": "semptom",
+    "wrong": "belirti",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_242",
+    "word": "syndrome",
+    "correct": "sendrom",
+    "wrong": "sendrom belirtileri",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_243",
+    "word": "disease",
+    "correct": "hastalık",
+    "wrong": "rahatsızlık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_244",
+    "word": "disorder",
+    "correct": "bozukluk",
+    "wrong": "hastalık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_245",
+    "word": "illness",
+    "correct": "hastalık",
+    "wrong": "rahatsızlık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_246",
+    "word": "ailment",
+    "correct": "rahatsızlık",
+    "wrong": "hastalık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_247",
+    "word": "condition",
+    "correct": "durum",
+    "wrong": "şartlar",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_248",
+    "word": "pathology",
+    "correct": "hastalık bilimi",
+    "wrong": "patoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_249",
+    "word": "etiology",
+    "correct": "etiyoloji",
+    "wrong": "nedenler",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_250",
+    "word": "epidemiology",
+    "correct": "epidemiyoloji",
+    "wrong": "hastalık yayılma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_251",
+    "word": "immunology",
+    "correct": "immunoloji",
+    "wrong": "bağışıklık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_252",
+    "word": "virology",
+    "correct": "viroloji",
+    "wrong": "virus bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_253",
+    "word": "microbiology",
+    "correct": "mikrobiyoloji",
+    "wrong": "mikrobiyoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_254",
+    "word": "bacteriology",
+    "correct": "bakteriyoloji",
+    "wrong": "bakteri bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_255",
+    "word": "parasitology",
+    "correct": "parazitoloji",
+    "wrong": "parasite bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_256",
+    "word": "mycology",
+    "correct": "mikoloji",
+    "wrong": "mantar bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_257",
+    "word": "botany",
+    "correct": "botanika",
+    "wrong": "bitki bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_258",
+    "word": "zoology",
+    "correct": "zooloji",
+    "wrong": "hayvan bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_259",
+    "word": "entomology",
+    "correct": "entomoloji",
+    "wrong": "böcek bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_260",
+    "word": "ornithology",
+    "correct": "ornitoloji",
+    "wrong": "kuş bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_261",
+    "word": "ichthyology",
+    "correct": "balık bilimi",
+    "wrong": "ichthyology",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_262",
+    "word": "herpetology",
+    "correct": "sürüngen bilimi",
+    "wrong": "herpetoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_263",
+    "word": "mammalogy",
+    "correct": "memeli bilimi",
+    "wrong": "mamoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_264",
+    "word": "marine biology",
+    "correct": "deniz biyolojisi",
+    "wrong": "biyoloji",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_265",
+    "word": "ecology",
+    "correct": "ekoloji",
+    "wrong": "çevre bilimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_266",
+    "word": "population",
+    "correct": "popülasyon",
+    "wrong": "nüfus",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_267",
+    "word": "community",
+    "correct": "topluluk",
+    "wrong": "sistem",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_268",
+    "word": "succession",
+    "correct": "ardıl",
+    "wrong": "değişim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_269",
+    "word": "niche",
+    "correct": "niş",
+    "wrong": "yer",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_270",
+    "word": "predator",
+    "correct": "avcı",
+    "wrong": "avlayan",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_271",
+    "word": "prey",
+    "correct": "av",
+    "wrong": "avlanan",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_272",
+    "word": "parasitism",
+    "correct": "parazitizm",
+    "wrong": "zararlı yaşama",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_273",
+    "word": "symbiosis",
+    "correct": "simbiosis",
+    "wrong": "birlikte yaşama",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_274",
+    "word": "mutualism",
+    "correct": "mutualizm",
+    "wrong": "karşılıklı yarar",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_275",
+    "word": "commensalism",
+    "correct": "komenzalizm",
+    "wrong": "tek taraflı yarar",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_276",
+    "word": "competition",
+    "correct": "rekabet",
+    "wrong": "yarış",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_277",
+    "word": "cooperation",
+    "correct": "işbirliği",
+    "wrong": "ortaklık",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_278",
+    "word": "adaptation",
+    "correct": "uyum",
+    "wrong": "alışma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_279",
+    "word": "evolution",
+    "correct": "evrim",
+    "wrong": "gelişim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_280",
+    "word": "natural selection",
+    "correct": "doğal seçilim",
+    "wrong": "seçim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_281",
+    "word": "genetic drift",
+    "correct": "genetik hareketlilik",
+    "wrong": "değişim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_282",
+    "word": "mutation",
+    "correct": "mutasyon",
+    "wrong": "değişim",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_283",
+    "word": "variation",
+    "correct": "varyasyon",
+    "wrong": "değişiklik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_284",
+    "word": "trait",
+    "correct": "özellik",
+    "wrong": "nitelik",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_285",
+    "word": "phenotype",
+    "correct": "fenотип",
+    "wrong": "görünüm",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_286",
+    "word": "genotype",
+    "correct": "genotip",
+    "wrong": "genetik yapısı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_287",
+    "word": "heredity",
+    "correct": "varislik",
+    "wrong": "kalıtım",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_288",
+    "word": "inheritance",
+    "correct": "kalıtım",
+    "wrong": "miras",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_289",
+    "word": "dominant",
+    "correct": "baskın",
+    "wrong": "üstün",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_290",
+    "word": "recessive",
+    "correct": "çekinik",
+    "wrong": "gizli",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_291",
+    "word": "allele",
+    "correct": "alel",
+    "wrong": "gen formu",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_292",
+    "word": "chromosome",
+    "correct": "kromozom",
+    "wrong": "gen taşıyıcı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_293",
+    "word": "DNA",
+    "correct": "DNA",
+    "wrong": "genetik madde",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_294",
+    "word": "RNA",
+    "correct": "RNA",
+    "wrong": "ribonükleik asit",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_295",
+    "word": "protein",
+    "correct": "protein",
+    "wrong": "yapı taşı",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_296",
+    "word": "enzyme",
+    "correct": "enzim",
+    "wrong": "katalizör",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_297",
+    "word": "metabolism",
+    "correct": "metabolizma",
+    "wrong": "madde değişimi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_298",
+    "word": "photosynthesis",
+    "correct": "fotosintez",
+    "wrong": "ışık sentezi",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_299",
+    "word": "respiration",
+    "correct": "solunun",
+    "wrong": "nefes alma",
+    "category": "B2 Seviye Kelimeler"
+  },
+  {
+    "id": "b2_300",
+    "word": "fermentation",
+    "correct": "fermantasyon",
+    "wrong": "mayalanma",
+    "category": "B2 Seviye Kelimeler"
+  }
+]

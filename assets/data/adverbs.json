@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "adverbs_1",
+    "word": "quickly",
+    "correct": "hızlı",
+    "wrong": "yavaş",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_2",
+    "word": "slowly",
+    "correct": "yavaş",
+    "wrong": "hızlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_3",
+    "word": "fast",
+    "correct": "hızlı",
+    "wrong": "yavaş",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_4",
+    "word": "slowly",
+    "correct": "yavaşça",
+    "wrong": "hızlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_5",
+    "word": "quietly",
+    "correct": "sessiz",
+    "wrong": "gürültülü",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_6",
+    "word": "loudly",
+    "correct": "yüksek",
+    "wrong": "sessiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_7",
+    "word": "softly",
+    "correct": "hafifçe",
+    "wrong": "sertçe",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_8",
+    "word": "gently",
+    "correct": "nazikçe",
+    "wrong": "sertçe",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_9",
+    "word": "harshly",
+    "correct": "sertçe",
+    "wrong": "nazikçe",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_10",
+    "word": "roughly",
+    "correct": "kaba",
+    "wrong": "nazikçe",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_11",
+    "word": "smoothly",
+    "correct": "düzgün",
+    "wrong": "sarsıntılı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_12",
+    "word": "roughly",
+    "correct": "pürüzlü",
+    "wrong": "düzgün",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_13",
+    "word": "carefully",
+    "correct": "dikkatli",
+    "wrong": "dikkatsiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_14",
+    "word": "carelessly",
+    "correct": "dikkatsiz",
+    "wrong": "dikkatli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_15",
+    "word": "accurately",
+    "correct": "doğru",
+    "wrong": "yanlış",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_16",
+    "word": "inaccurately",
+    "correct": "yanlış",
+    "wrong": "doğru",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_17",
+    "word": "precisely",
+    "correct": "tam",
+    "wrong": "yaklaşık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_18",
+    "word": "roughly",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_19",
+    "word": "correctly",
+    "correct": "doğru",
+    "wrong": "yanlış",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_20",
+    "word": "incorrectly",
+    "correct": "yanlış",
+    "wrong": "doğru",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_21",
+    "word": "well",
+    "correct": "iyi",
+    "wrong": "kötü",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_22",
+    "word": "badly",
+    "correct": "kötü",
+    "wrong": "iyi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_23",
+    "word": "poorly",
+    "correct": "kötü",
+    "wrong": "iyi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_24",
+    "word": "excellently",
+    "correct": "mükemmel",
+    "wrong": "kötü",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_25",
+    "word": "terribly",
+    "correct": "korkunç",
+    "wrong": "güzel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_26",
+    "word": "wonderfully",
+    "correct": "harika",
+    "wrong": "korkunç",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_27",
+    "word": "awfully",
+    "correct": "berbat",
+    "wrong": "harika",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_28",
+    "word": "greatly",
+    "correct": "büyük",
+    "wrong": "az",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_29",
+    "word": "slightly",
+    "correct": "hafifçe",
+    "wrong": "çok",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_30",
+    "word": "partially",
+    "correct": "kısmi",
+    "wrong": "tam",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_31",
+    "word": "totally",
+    "correct": "tamamen",
+    "wrong": "kısmi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_32",
+    "word": "completely",
+    "correct": "tamamen",
+    "wrong": "kısmi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_33",
+    "word": "fully",
+    "correct": "tamamen",
+    "wrong": "kısmi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_34",
+    "word": "partly",
+    "correct": "kısmi",
+    "wrong": "tam",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_35",
+    "word": "mostly",
+    "correct": "çoğunlukla",
+    "wrong": "az",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_36",
+    "word": "hardly",
+    "correct": "zor",
+    "wrong": "kolay",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_37",
+    "word": "easily",
+    "correct": "kolay",
+    "wrong": "zor",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_38",
+    "word": "simply",
+    "correct": "basit",
+    "wrong": "karmaşık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_39",
+    "word": "simply",
+    "correct": "basitçe",
+    "wrong": "kompleks",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_40",
+    "word": "merely",
+    "correct": "sadece",
+    "wrong": "birden",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_41",
+    "word": "only",
+    "correct": "sadece",
+    "wrong": "hepsi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_42",
+    "word": "just",
+    "correct": "sadece",
+    "wrong": "birçok",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_43",
+    "word": "purely",
+    "correct": "saf",
+    "wrong": "karışık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_44",
+    "word": "solely",
+    "correct": "yalnız",
+    "wrong": "beraber",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_45",
+    "word": "exclusively",
+    "correct": "münhasıran",
+    "wrong": "dahil",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_46",
+    "word": "entirely",
+    "correct": "tamamen",
+    "wrong": "kısmi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_47",
+    "word": "absolutely",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_48",
+    "word": "definitely",
+    "correct": "kesin",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_49",
+    "word": "certainly",
+    "correct": "elbette",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_50",
+    "word": "surely",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_51",
+    "word": "undoubtedly",
+    "correct": "şüphesiz",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_52",
+    "word": "probably",
+    "correct": "muhtemelen",
+    "wrong": "kesinlikle",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_53",
+    "word": "possibly",
+    "correct": "belki",
+    "wrong": "kesinlikle",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_54",
+    "word": "perhaps",
+    "correct": "belki",
+    "wrong": "kesinlikle",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_55",
+    "word": "maybe",
+    "correct": "belki",
+    "wrong": "kesinlikle",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_56",
+    "word": "apparently",
+    "correct": "görünüşe",
+    "wrong": "gerçekten",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_57",
+    "word": "seemingly",
+    "correct": "görünüş",
+    "wrong": "gerçek",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_58",
+    "word": "ostensibly",
+    "correct": "sözde",
+    "wrong": "gerçek",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_59",
+    "word": "allegedly",
+    "correct": "iddia",
+    "wrong": "kanıtlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_60",
+    "word": "reportedly",
+    "correct": "söylendiğine",
+    "wrong": "kanıtlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_61",
+    "word": "admittedly",
+    "correct": "itiraf",
+    "wrong": "inkar",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_62",
+    "word": "frankly",
+    "correct": "açık",
+    "wrong": "gizli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_63",
+    "word": "honestly",
+    "correct": "dürüst",
+    "wrong": "yalan",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_64",
+    "word": "truthfully",
+    "correct": "doğru",
+    "wrong": "yalan",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_65",
+    "word": "genuinely",
+    "correct": "gerçekten",
+    "wrong": "sahte",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_66",
+    "word": "sincerely",
+    "correct": "samimi",
+    "wrong": "sahte",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_67",
+    "word": "truly",
+    "correct": "gerçekten",
+    "wrong": "sahte",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_68",
+    "word": "really",
+    "correct": "gerçekten",
+    "wrong": "değil",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_69",
+    "word": "actually",
+    "correct": "aslında",
+    "wrong": "iddia",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_70",
+    "word": "basically",
+    "correct": "temelde",
+    "wrong": "ayrıntı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_71",
+    "word": "essentially",
+    "correct": "özünde",
+    "wrong": "yüzey",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_72",
+    "word": "fundamentally",
+    "correct": "temel",
+    "wrong": "yüzey",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_73",
+    "word": "primarily",
+    "correct": "öncelikle",
+    "wrong": "ikincil",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_74",
+    "word": "principally",
+    "correct": "esas",
+    "wrong": "ikincil",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_75",
+    "word": "mainly",
+    "correct": "ağırlıklı",
+    "wrong": "az",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_76",
+    "word": "largely",
+    "correct": "çoğunlukla",
+    "wrong": "az",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_77",
+    "word": "largely",
+    "correct": "geniş",
+    "wrong": "dar",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_78",
+    "word": "extensively",
+    "correct": "geniş",
+    "wrong": "dar",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_79",
+    "word": "broadly",
+    "correct": "geniş",
+    "wrong": "dar",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_80",
+    "word": "widely",
+    "correct": "yaygın",
+    "wrong": "dar",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_81",
+    "word": "commonly",
+    "correct": "yaygın",
+    "wrong": "nadir",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_82",
+    "word": "generally",
+    "correct": "genel",
+    "wrong": "özel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_83",
+    "word": "typically",
+    "correct": "tipik",
+    "wrong": "atipik",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_84",
+    "word": "usually",
+    "correct": "genelde",
+    "wrong": "nadiren",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_85",
+    "word": "ordinarily",
+    "correct": "normal",
+    "wrong": "anormal",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_86",
+    "word": "normally",
+    "correct": "normal",
+    "wrong": "anormal",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_87",
+    "word": "commonly",
+    "correct": "sık",
+    "wrong": "nadir",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_88",
+    "word": "frequently",
+    "correct": "sık",
+    "wrong": "nadiren",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_89",
+    "word": "often",
+    "correct": "sık",
+    "wrong": "nadiren",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_90",
+    "word": "sometimes",
+    "correct": "bazen",
+    "wrong": "daima",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_91",
+    "word": "occasionally",
+    "correct": "ara sıra",
+    "wrong": "daima",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_92",
+    "word": "rarely",
+    "correct": "nadiren",
+    "wrong": "sık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_93",
+    "word": "seldom",
+    "correct": "nadiren",
+    "wrong": "sık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_94",
+    "word": "hardly",
+    "correct": "nadiren",
+    "wrong": "sık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_95",
+    "word": "never",
+    "correct": "asla",
+    "wrong": "daima",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_96",
+    "word": "always",
+    "correct": "daima",
+    "wrong": "asla",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_97",
+    "word": "ever",
+    "correct": "hiç",
+    "wrong": "asla",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_98",
+    "word": "constantly",
+    "correct": "sürekli",
+    "wrong": "ara sıra",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_99",
+    "word": "continually",
+    "correct": "devam",
+    "wrong": "duraklama",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_100",
+    "word": "continuously",
+    "correct": "kesintisiz",
+    "wrong": "aralıklı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_101",
+    "word": "perpetually",
+    "correct": "sürekli",
+    "wrong": "aralıklı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_102",
+    "word": "eternally",
+    "correct": "ebedi",
+    "wrong": "geçici",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_103",
+    "word": "forever",
+    "correct": "sonsuza",
+    "wrong": "geçici",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_104",
+    "word": "endlessly",
+    "correct": "bitmeyen",
+    "wrong": "sınırlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_105",
+    "word": "infinitely",
+    "correct": "sonsuz",
+    "wrong": "sınırlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_106",
+    "word": "indefinitely",
+    "correct": "belirsiz",
+    "wrong": "sınırlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_107",
+    "word": "temporarily",
+    "correct": "geçici",
+    "wrong": "kalıcı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_108",
+    "word": "provisionally",
+    "correct": "şartlı",
+    "wrong": "kesin",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_109",
+    "word": "preliminarily",
+    "correct": "ön",
+    "wrong": "son",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_110",
+    "word": "initially",
+    "correct": "başlangıç",
+    "wrong": "son",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_111",
+    "word": "ultimately",
+    "correct": "sonunda",
+    "wrong": "başlangıç",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_112",
+    "word": "finally",
+    "correct": "en sonunda",
+    "wrong": "başlangıç",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_113",
+    "word": "eventually",
+    "correct": "sonunda",
+    "wrong": "hemen",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_114",
+    "word": "immediately",
+    "correct": "hemen",
+    "wrong": "sonunda",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_115",
+    "word": "promptly",
+    "correct": "çabuk",
+    "wrong": "yavaş",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_116",
+    "word": "instantly",
+    "correct": "anında",
+    "wrong": "yavaş",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_117",
+    "word": "suddenly",
+    "correct": "birdenbire",
+    "wrong": "kademeli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_118",
+    "word": "abruptly",
+    "correct": "ani",
+    "wrong": "kademeli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_119",
+    "word": "gradually",
+    "correct": "kademeli",
+    "wrong": "ani",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_120",
+    "word": "progressively",
+    "correct": "ilerleyici",
+    "wrong": "geri",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_121",
+    "word": "incrementally",
+    "correct": "adım adım",
+    "wrong": "çok",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_122",
+    "word": "step by step",
+    "correct": "adım adım",
+    "wrong": "bir anda",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_123",
+    "word": "little by little",
+    "correct": "yavaş yavaş",
+    "wrong": "bir anda",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_124",
+    "word": "bit by bit",
+    "correct": "parça parça",
+    "wrong": "tamamen",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_125",
+    "word": "by and large",
+    "correct": "genel olarak",
+    "wrong": "özel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_126",
+    "word": "on the whole",
+    "correct": "genel olarak",
+    "wrong": "özel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_127",
+    "word": "in general",
+    "correct": "genel",
+    "wrong": "özel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_128",
+    "word": "in particular",
+    "correct": "özel",
+    "wrong": "genel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_129",
+    "word": "specifically",
+    "correct": "özel",
+    "wrong": "genel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_130",
+    "word": "especially",
+    "correct": "özellikle",
+    "wrong": "genel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_131",
+    "word": "particularly",
+    "correct": "özellikle",
+    "wrong": "genel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_132",
+    "word": "notably",
+    "correct": "özellikle",
+    "wrong": "genel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_133",
+    "word": "remarkably",
+    "correct": "dikkat çekici",
+    "wrong": "adi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_134",
+    "word": "strikingly",
+    "correct": "göze çarpan",
+    "wrong": "adi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_135",
+    "word": "surprisingly",
+    "correct": "şaşırtıcı",
+    "wrong": "beklenen",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_136",
+    "word": "astonishingly",
+    "correct": "hayret verici",
+    "wrong": "beklenen",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_137",
+    "word": "amazingly",
+    "correct": "şaşırtıcı",
+    "wrong": "beklenen",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_138",
+    "word": "incredibly",
+    "correct": "inanılmaz",
+    "wrong": "olağan",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_139",
+    "word": "unbelievably",
+    "correct": "inanılmaz",
+    "wrong": "olağan",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_140",
+    "word": "seemingly",
+    "correct": "görünüşe",
+    "wrong": "gerçek",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_141",
+    "word": "evidently",
+    "correct": "açık",
+    "wrong": "gizli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_142",
+    "word": "clearly",
+    "correct": "açık",
+    "wrong": "bulanık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_143",
+    "word": "plainly",
+    "correct": "açık",
+    "wrong": "bulanık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_144",
+    "word": "manifestly",
+    "correct": "açık",
+    "wrong": "gizli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_145",
+    "word": "obviously",
+    "correct": "açık",
+    "wrong": "gizli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_146",
+    "word": "distinctly",
+    "correct": "net",
+    "wrong": "bulanık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_147",
+    "word": "unmistakably",
+    "correct": "şüphesiz",
+    "wrong": "belirsiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_148",
+    "word": "undeniably",
+    "correct": "inkar edilemez",
+    "wrong": "tartışılır",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_149",
+    "word": "indisputably",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_150",
+    "word": "incontrovertibly",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_151",
+    "word": "unquestionably",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_152",
+    "word": "beyond question",
+    "correct": "şüphesiz",
+    "wrong": "tartışılır",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_153",
+    "word": "without question",
+    "correct": "şüphesiz",
+    "wrong": "tartışılır",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_154",
+    "word": "for sure",
+    "correct": "kesin",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_155",
+    "word": "for certain",
+    "correct": "kesin",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_156",
+    "word": "without doubt",
+    "correct": "şüphesiz",
+    "wrong": "tartışılır",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_157",
+    "word": "no doubt",
+    "correct": "şüphesiz",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_158",
+    "word": "doubtless",
+    "correct": "şüphesiz",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_159",
+    "word": "no doubt",
+    "correct": "hiç şüphesiz",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_160",
+    "word": "unquestionably",
+    "correct": "tartışılmaz",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_161",
+    "word": "absolutely",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_162",
+    "word": "positively",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_163",
+    "word": "affirmatively",
+    "correct": "olumlu",
+    "wrong": "olumsuz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_164",
+    "word": "assuredly",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_165",
+    "word": "undoubtedly",
+    "correct": "şüphesiz",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_166",
+    "word": "indubitably",
+    "correct": "tartışılmaz",
+    "wrong": "belki",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_167",
+    "word": "unequivocally",
+    "correct": "kesin",
+    "wrong": "belirsiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_168",
+    "word": "unambiguously",
+    "correct": "net",
+    "wrong": "belirsiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_169",
+    "word": "categorically",
+    "correct": "kategorik",
+    "wrong": "belirsiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_170",
+    "word": "unconditionally",
+    "correct": "koşulsuz",
+    "wrong": "koşullu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_171",
+    "word": "unreservedly",
+    "correct": "çekincesiz",
+    "wrong": "çekincinli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_172",
+    "word": "wholeheartedly",
+    "correct": "tüm kalbimle",
+    "wrong": "yarım yamalak",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_173",
+    "word": "enthusiastically",
+    "correct": "hevesli",
+    "wrong": "kayıtsız",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_174",
+    "word": "eagerly",
+    "correct": "arzulu",
+    "wrong": "kayıtsız",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_175",
+    "word": "willingly",
+    "correct": "istekli",
+    "wrong": "isteksiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_176",
+    "word": "reluctantly",
+    "correct": "isteksiz",
+    "wrong": "istekli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_177",
+    "word": "unwillingly",
+    "correct": "isteksiz",
+    "wrong": "istekli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_178",
+    "word": "begrudgingly",
+    "correct": "isteksiz",
+    "wrong": "sevinçli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_179",
+    "word": "grudgingly",
+    "correct": "isteksiz",
+    "wrong": "sevinçli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_180",
+    "word": "resentfully",
+    "correct": "kızgın",
+    "wrong": "memnun",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_181",
+    "word": "angrily",
+    "correct": "kızgın",
+    "wrong": "memnun",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_182",
+    "word": "bitterly",
+    "correct": "acı",
+    "wrong": "tatlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_183",
+    "word": "sorrowfully",
+    "correct": "üzüntü",
+    "wrong": "sevinç",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_184",
+    "word": "sadly",
+    "correct": "üzgün",
+    "wrong": "mutlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_185",
+    "word": "miserably",
+    "correct": "talihsiz",
+    "wrong": "mutlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_186",
+    "word": "wretchedly",
+    "correct": "mutsuz",
+    "wrong": "mutlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_187",
+    "word": "pitifully",
+    "correct": "acınacak",
+    "wrong": "onurlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_188",
+    "word": "pathetically",
+    "correct": "acınacak",
+    "wrong": "onurlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_189",
+    "word": "shamefully",
+    "correct": "utanç verici",
+    "wrong": "onurlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_190",
+    "word": "disgracefully",
+    "correct": "rezil",
+    "wrong": "onurlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_191",
+    "word": "scandalously",
+    "correct": "skandal",
+    "wrong": "onurlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_192",
+    "word": "outrageously",
+    "correct": "skandal",
+    "wrong": "makul",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_193",
+    "word": "shockingly",
+    "correct": "şok",
+    "wrong": "beklenen",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_194",
+    "word": "appallingly",
+    "correct": "dehşet",
+    "wrong": "beklenen",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_195",
+    "word": "horrifically",
+    "correct": "korkunç",
+    "wrong": "güzel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_196",
+    "word": "ghastly",
+    "correct": "korkunç",
+    "wrong": "güzel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_197",
+    "word": "gruesomely",
+    "correct": "iğrenç",
+    "wrong": "güzel",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_198",
+    "word": "disturbingly",
+    "correct": "rahatsız",
+    "wrong": "huzur",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_199",
+    "word": "troublingly",
+    "correct": "sorunlu",
+    "wrong": "sorunsuz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_200",
+    "word": "concerningly",
+    "correct": "endişe",
+    "wrong": "sorunsuz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_201",
+    "word": "alarmingly",
+    "correct": "alarm",
+    "wrong": "sorunsuz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_202",
+    "word": "frantically",
+    "correct": "çılgınca",
+    "wrong": "sakin",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_203",
+    "word": "desperately",
+    "correct": "çaresiz",
+    "wrong": "umutlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_204",
+    "word": "hopelessly",
+    "correct": "umutlamayan",
+    "wrong": "umutlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_205",
+    "word": "helplessly",
+    "correct": "çaresiz",
+    "wrong": "yardımcı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_206",
+    "word": "defenselessly",
+    "correct": "savunmasız",
+    "wrong": "korumalı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_207",
+    "word": "vulnerably",
+    "correct": "savunmasız",
+    "wrong": "korumalı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_208",
+    "word": "precariously",
+    "correct": "tehlikeli",
+    "wrong": "güvenli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_209",
+    "word": "perilously",
+    "correct": "tehlikeli",
+    "wrong": "güvenli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_210",
+    "word": "dangerously",
+    "correct": "tehlikeli",
+    "wrong": "güvenli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_211",
+    "word": "recklessly",
+    "correct": "pervaskar",
+    "wrong": "ihtiyatlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_212",
+    "word": "thoughtlessly",
+    "correct": "düşüncesiz",
+    "wrong": "düşünceli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_213",
+    "word": "irresponsibly",
+    "correct": "sorumsuz",
+    "wrong": "sorumlu",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_214",
+    "word": "irrationally",
+    "correct": "akılsız",
+    "wrong": "mantıksal",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_215",
+    "word": "illogically",
+    "correct": "mantıksız",
+    "wrong": "mantıksal",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_216",
+    "word": "absurdly",
+    "correct": "saçma",
+    "wrong": "mantıksal",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_217",
+    "word": "ridiculously",
+    "correct": "gülünç",
+    "wrong": "ciddi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_218",
+    "word": "laughably",
+    "correct": "gülünç",
+    "wrong": "ciddi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_219",
+    "word": "comically",
+    "correct": "komik",
+    "wrong": "ciddi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_220",
+    "word": "jokingly",
+    "correct": "şaka",
+    "wrong": "ciddiye",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_221",
+    "word": "humorously",
+    "correct": "mizahi",
+    "wrong": "ciddi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_222",
+    "word": "sarcastically",
+    "correct": "alaycı",
+    "wrong": "samimi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_223",
+    "word": "ironically",
+    "correct": "ironik",
+    "wrong": "samimi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_224",
+    "word": "cynically",
+    "correct": "sorgulayıcı",
+    "wrong": "toyca",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_225",
+    "word": "skeptically",
+    "correct": "şüphecilikle",
+    "wrong": "inanarak",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_226",
+    "word": "dubiously",
+    "correct": "şüpheci",
+    "wrong": "inanarak",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_227",
+    "word": "suspiciously",
+    "correct": "şüpheyle",
+    "wrong": "güvenle",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_228",
+    "word": "mistrustfully",
+    "correct": "güvenmeyerek",
+    "wrong": "güvenle",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_229",
+    "word": "distrustfully",
+    "correct": "güvenmeyerek",
+    "wrong": "güvenle",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_230",
+    "word": "trustfully",
+    "correct": "güvenle",
+    "wrong": "güvenmeyerek",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_231",
+    "word": "confidently",
+    "correct": "emin",
+    "wrong": "şüpheli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_232",
+    "word": "assuredly",
+    "correct": "kesin",
+    "wrong": "şüpheli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_233",
+    "word": "securely",
+    "correct": "güvenli",
+    "wrong": "tehlikeli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_234",
+    "word": "safely",
+    "correct": "güvenli",
+    "wrong": "tehlikeli",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_235",
+    "word": "carefully",
+    "correct": "dikkatli",
+    "wrong": "dikkatsiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_236",
+    "word": "cautiously",
+    "correct": "ihtiyatlı",
+    "wrong": "pervaskar",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_237",
+    "word": "gingerly",
+    "correct": "hafif",
+    "wrong": "sert",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_238",
+    "word": "tenderly",
+    "correct": "nazik",
+    "wrong": "sert",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_239",
+    "word": "delicately",
+    "correct": "nazik",
+    "wrong": "kaba",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_240",
+    "word": "sensitively",
+    "correct": "hassas",
+    "wrong": "duyarsız",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_241",
+    "word": "tactfully",
+    "correct": "uygun",
+    "wrong": "saçma",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_242",
+    "word": "diplomatically",
+    "correct": "diplomatik",
+    "wrong": "açık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_243",
+    "word": "tactfully",
+    "correct": "uygun",
+    "wrong": "saçma",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_244",
+    "word": "gracefully",
+    "correct": "zarifce",
+    "wrong": "beceriksiz",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_245",
+    "word": "elegantly",
+    "correct": "zarif",
+    "wrong": "basit",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_246",
+    "word": "stylishly",
+    "correct": "şık",
+    "wrong": "basit",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_247",
+    "word": "fashionably",
+    "correct": "moda",
+    "wrong": "eski",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_248",
+    "word": "smartly",
+    "correct": "akıllı",
+    "wrong": "dumb",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_249",
+    "word": "neatly",
+    "correct": "düzenli",
+    "wrong": "dağınık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_250",
+    "word": "tidily",
+    "correct": "tertipli",
+    "wrong": "dağınık",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_251",
+    "word": "orderly",
+    "correct": "düzenli",
+    "wrong": "kaotik",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_252",
+    "word": "systematically",
+    "correct": "sistematik",
+    "wrong": "kaotik",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_253",
+    "word": "methodically",
+    "correct": "yöntembilimsel",
+    "wrong": "kaotik",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_254",
+    "word": "logically",
+    "correct": "mantıksal",
+    "wrong": "illogical",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_255",
+    "word": "rationally",
+    "correct": "akılcı",
+    "wrong": "akılsız",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_256",
+    "word": "reasonably",
+    "correct": "makul",
+    "wrong": "aşırı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_257",
+    "word": "sensibly",
+    "correct": "akıllıca",
+    "wrong": "aptalca",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_258",
+    "word": "wisely",
+    "correct": "bilgece",
+    "wrong": "aptalca",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_259",
+    "word": "foolishly",
+    "correct": "aptalca",
+    "wrong": "bilgece",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_260",
+    "word": "stupidly",
+    "correct": "aptalca",
+    "wrong": "zekice",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_261",
+    "word": "ignorantly",
+    "correct": "cahilce",
+    "wrong": "bilgili",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_262",
+    "word": "knowingly",
+    "correct": "bilerek",
+    "wrong": "bilmeyerek",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_263",
+    "word": "unknowingly",
+    "correct": "bilmeyerek",
+    "wrong": "bilerek",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_264",
+    "word": "intentionally",
+    "correct": "kasıtlı",
+    "wrong": "tesadüfi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_265",
+    "word": "unintentionally",
+    "correct": "kasıtsız",
+    "wrong": "kasıtlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_266",
+    "word": "deliberately",
+    "correct": "kasıtlı",
+    "wrong": "tesadüfi",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_267",
+    "word": "accidentally",
+    "correct": "tesadüfi",
+    "wrong": "kasıtlı",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_268",
+    "word": "inadvertently",
+    "correct": "farkında olmadan",
+    "wrong": "bilerek",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_269",
+    "word": "unawares",
+    "correct": "habersiz",
+    "wrong": "farkında",
+    "category": "Zarflar (Adverbs)"
+  },
+  {
+    "id": "adverbs_270",
+    "word": "deliberately",
+    "correct": "bilerek",
+    "wrong": "tesadüfi",
+    "category": "Zarflar (Adverbs)"
+  }
+]

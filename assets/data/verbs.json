@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "verbs_1",
+    "word": "be",
+    "correct": "olmak",
+    "wrong": "yaşamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_2",
+    "word": "have",
+    "correct": "sahip olmak",
+    "wrong": "almak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_3",
+    "word": "do",
+    "correct": "yapmak",
+    "wrong": "gerçekleştirmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_4",
+    "word": "go",
+    "correct": "gitmek",
+    "wrong": "hareket etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_5",
+    "word": "get",
+    "correct": "almak",
+    "wrong": "elde etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_6",
+    "word": "make",
+    "correct": "yapmak",
+    "wrong": "üretmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_7",
+    "word": "take",
+    "correct": "almak",
+    "wrong": "götürmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_8",
+    "word": "come",
+    "correct": "gelmek",
+    "wrong": "yaklaşmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_9",
+    "word": "see",
+    "correct": "görmek",
+    "wrong": "anlamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_10",
+    "word": "know",
+    "correct": "bilmek",
+    "wrong": "tanımak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_11",
+    "word": "think",
+    "correct": "düşünmek",
+    "wrong": "sanmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_12",
+    "word": "give",
+    "correct": "vermek",
+    "wrong": "hediye etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_13",
+    "word": "find",
+    "correct": "bulmak",
+    "wrong": "keşfetmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_14",
+    "word": "tell",
+    "correct": "söylemek",
+    "wrong": "anlatmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_15",
+    "word": "work",
+    "correct": "çalışmak",
+    "wrong": "işlemek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_16",
+    "word": "call",
+    "correct": "çağırmak",
+    "wrong": "aramak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_17",
+    "word": "try",
+    "correct": "denemek",
+    "wrong": "çabalamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_18",
+    "word": "ask",
+    "correct": "sormak",
+    "wrong": "talepte bulunmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_19",
+    "word": "need",
+    "correct": "ihtiyaç duyma",
+    "wrong": "gereksinim",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_20",
+    "word": "feel",
+    "correct": "hissetmek",
+    "wrong": "duymak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_21",
+    "word": "become",
+    "correct": "olmak",
+    "wrong": "dönüşmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_22",
+    "word": "leave",
+    "correct": "ayrılmak",
+    "wrong": "bırakmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_23",
+    "word": "put",
+    "correct": "koymak",
+    "wrong": "yerleştirmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_24",
+    "word": "mean",
+    "correct": "anlamına gelmek",
+    "wrong": "demek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_25",
+    "word": "keep",
+    "correct": "tutmak",
+    "wrong": "devam etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_26",
+    "word": "let",
+    "correct": "izin vermek",
+    "wrong": "bırakmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_27",
+    "word": "begin",
+    "correct": "başlamak",
+    "wrong": "açılmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_28",
+    "word": "seem",
+    "correct": "görünmek",
+    "wrong": "anlaşılmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_29",
+    "word": "help",
+    "correct": "yardım etmek",
+    "wrong": "katkı",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_30",
+    "word": "talk",
+    "correct": "konuşmak",
+    "wrong": "tartışmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_31",
+    "word": "turn",
+    "correct": "dönmek",
+    "wrong": "çevirmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_32",
+    "word": "start",
+    "correct": "başlamak",
+    "wrong": "açılmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_33",
+    "word": "show",
+    "correct": "göstermek",
+    "wrong": "ortaya koymak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_34",
+    "word": "hear",
+    "correct": "duymak",
+    "wrong": "öğrenmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_35",
+    "word": "hold",
+    "correct": "tutmak",
+    "wrong": "desteklemek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_36",
+    "word": "write",
+    "correct": "yazmak",
+    "wrong": "oluşturmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_37",
+    "word": "provide",
+    "correct": "sağlamak",
+    "wrong": "sunmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_38",
+    "word": "sit",
+    "correct": "oturmak",
+    "wrong": "yerleşmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_39",
+    "word": "stand",
+    "correct": "durmak",
+    "wrong": "ayakta olmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_40",
+    "word": "lose",
+    "correct": "kaybetmek",
+    "wrong": "mağlup olmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_41",
+    "word": "pay",
+    "correct": "ödemek",
+    "wrong": "para vermek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_42",
+    "word": "meet",
+    "correct": "karşılaşmak",
+    "wrong": "tanışmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_43",
+    "word": "include",
+    "correct": "dahil etmek",
+    "wrong": "içermek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_44",
+    "word": "continue",
+    "correct": "devam etmek",
+    "wrong": "sürdürmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_45",
+    "word": "set",
+    "correct": "kurmak",
+    "wrong": "belirlemek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_46",
+    "word": "learn",
+    "correct": "öğrenmek",
+    "wrong": "eğilim göstermek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_47",
+    "word": "change",
+    "correct": "değiştirmek",
+    "wrong": "dönüştürmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_48",
+    "word": "lead",
+    "correct": "öncülük etmek",
+    "wrong": "rehberlik",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_49",
+    "word": "understand",
+    "correct": "anlamak",
+    "wrong": "kavramak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_50",
+    "word": "watch",
+    "correct": "izlemek",
+    "wrong": "gözlemlemek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_51",
+    "word": "follow",
+    "correct": "takip etmek",
+    "wrong": "uygulamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_52",
+    "word": "stop",
+    "correct": "durmak",
+    "wrong": "sonlandırmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_53",
+    "word": "create",
+    "correct": "oluşturmak",
+    "wrong": "yaratmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_54",
+    "word": "speak",
+    "correct": "konuşmak",
+    "wrong": "söylemek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_55",
+    "word": "read",
+    "correct": "okumak",
+    "wrong": "yorumlamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_56",
+    "word": "allow",
+    "correct": "izin vermek",
+    "wrong": "sağlamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_57",
+    "word": "add",
+    "correct": "eklemek",
+    "wrong": "artırmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_58",
+    "word": "spend",
+    "correct": "harcamak",
+    "wrong": "geçirmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_59",
+    "word": "grow",
+    "correct": "büyümek",
+    "wrong": "gelişmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_60",
+    "word": "open",
+    "correct": "açmak",
+    "wrong": "başlatmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_61",
+    "word": "walk",
+    "correct": "yürümek",
+    "wrong": "seyre çıkmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_62",
+    "word": "win",
+    "correct": "kazanmak",
+    "wrong": "başarı",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_63",
+    "word": "offer",
+    "correct": "sunmak",
+    "wrong": "teklif",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_64",
+    "word": "remember",
+    "correct": "hatırlamak",
+    "wrong": "anımsamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_65",
+    "word": "love",
+    "correct": "sevmek",
+    "wrong": "hoşlanmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_66",
+    "word": "consider",
+    "correct": "düşünmek",
+    "wrong": "göz önüne almak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_67",
+    "word": "appear",
+    "correct": "görünmek",
+    "wrong": "ortaya çıkmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_68",
+    "word": "buy",
+    "correct": "satın almak",
+    "wrong": "para ile almak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_69",
+    "word": "wait",
+    "correct": "beklemek",
+    "wrong": "sabırlı olmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_70",
+    "word": "serve",
+    "correct": "hizmet etmek",
+    "wrong": "sunmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_71",
+    "word": "die",
+    "correct": "ölmek",
+    "wrong": "sona ermek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_72",
+    "word": "send",
+    "correct": "göndermek",
+    "wrong": "yollamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_73",
+    "word": "expect",
+    "correct": "beklenti",
+    "wrong": "umut etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_74",
+    "word": "build",
+    "correct": "inşa etmek",
+    "wrong": "kurmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_75",
+    "word": "stay",
+    "correct": "kalmak",
+    "wrong": "konaklamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_76",
+    "word": "fall",
+    "correct": "düşmek",
+    "wrong": "hale gelmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_77",
+    "word": "cut",
+    "correct": "kesmek",
+    "wrong": "azaltmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_78",
+    "word": "reach",
+    "correct": "ulaşmak",
+    "wrong": "erişmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_79",
+    "word": "kill",
+    "correct": "öldürmek",
+    "wrong": "sonlandırmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_80",
+    "word": "remain",
+    "correct": "kalmak",
+    "wrong": "devam etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_81",
+    "word": "suggest",
+    "correct": "önerme",
+    "wrong": "ima etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_82",
+    "word": "raise",
+    "correct": "yükseltmek",
+    "wrong": "kaldırmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_83",
+    "word": "pass",
+    "correct": "geçmek",
+    "wrong": "vermek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_84",
+    "word": "sell",
+    "correct": "satmak",
+    "wrong": "pazarlamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_85",
+    "word": "require",
+    "correct": "talep etmek",
+    "wrong": "gereksinim",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_86",
+    "word": "report",
+    "correct": "rapor",
+    "wrong": "haber vermek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_87",
+    "word": "decide",
+    "correct": "karar vermek",
+    "wrong": "kararlaştırmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_88",
+    "word": "explain",
+    "correct": "açıklamak",
+    "wrong": "izah etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_89",
+    "word": "share",
+    "correct": "paylaşmak",
+    "wrong": "bölüşmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_90",
+    "word": "produce",
+    "correct": "üretmek",
+    "wrong": "oluşturmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_91",
+    "word": "note",
+    "correct": "not almak",
+    "wrong": "gözlemlemek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_92",
+    "word": "enter",
+    "correct": "girmek",
+    "wrong": "katılmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_93",
+    "word": "happen",
+    "correct": "olmak",
+    "wrong": "meydana gelmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_94",
+    "word": "run",
+    "correct": "koşmak",
+    "wrong": "işletmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_95",
+    "word": "move",
+    "correct": "hareket",
+    "wrong": "taşınmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_96",
+    "word": "like",
+    "correct": "hoşlanmak",
+    "wrong": "sevmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_97",
+    "word": "live",
+    "correct": "yaşamak",
+    "wrong": "oturmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_98",
+    "word": "believe",
+    "correct": "inanmak",
+    "wrong": "kabul etmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_99",
+    "word": "bring",
+    "correct": "getirmek",
+    "wrong": "götürmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_100",
+    "word": "cook",
+    "correct": "pişirmek",
+    "wrong": "hazırlamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_101",
+    "word": "eat",
+    "correct": "yemek",
+    "wrong": "tüketmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_102",
+    "word": "drink",
+    "correct": "içmek",
+    "wrong": "yudumlama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_103",
+    "word": "sleep",
+    "correct": "uyumak",
+    "wrong": "dinlenme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_104",
+    "word": "wake",
+    "correct": "uyanmak",
+    "wrong": "ayılma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_105",
+    "word": "jump",
+    "correct": "zıplamak",
+    "wrong": "atlamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_106",
+    "word": "swim",
+    "correct": "yüzmek",
+    "wrong": "suya girmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_107",
+    "word": "fly",
+    "correct": "uçmak",
+    "wrong": "havada dolaşmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_108",
+    "word": "drive",
+    "correct": "araba kullanma",
+    "wrong": "sürme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_109",
+    "word": "ride",
+    "correct": "binmek",
+    "wrong": "at üzerinde",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_110",
+    "word": "sail",
+    "correct": "yelken açmak",
+    "wrong": "gemi",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_111",
+    "word": "dance",
+    "correct": "dans etmek",
+    "wrong": "adım atma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_112",
+    "word": "sing",
+    "correct": "şarkı söylemek",
+    "wrong": "melodi",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_113",
+    "word": "play",
+    "correct": "oynamak",
+    "wrong": "müzik",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_114",
+    "word": "paint",
+    "correct": "boyamak",
+    "wrong": "resim",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_115",
+    "word": "draw",
+    "correct": "çizmek",
+    "wrong": "kalem",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_116",
+    "word": "study",
+    "correct": "ders çalışmak",
+    "wrong": "öğrenme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_117",
+    "word": "teach",
+    "correct": "öğretmek",
+    "wrong": "eğitme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_118",
+    "word": "listen",
+    "correct": "dinlemek",
+    "wrong": "ses",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_119",
+    "word": "look",
+    "correct": "bakmak",
+    "wrong": "görmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_120",
+    "word": "smell",
+    "correct": "koklama",
+    "wrong": "tat",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_121",
+    "word": "taste",
+    "correct": "tadına bakmak",
+    "wrong": "tat",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_122",
+    "word": "touch",
+    "correct": "dokunmak",
+    "wrong": "değme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_123",
+    "word": "imagine",
+    "correct": "hayal etmek",
+    "wrong": "düşünme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_124",
+    "word": "dream",
+    "correct": "düş görmek",
+    "wrong": "uyku",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_125",
+    "word": "wish",
+    "correct": "dilemek",
+    "wrong": "arzu",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_126",
+    "word": "want",
+    "correct": "istemek",
+    "wrong": "arzulamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_127",
+    "word": "hate",
+    "correct": "nefret etmek",
+    "wrong": "kötü görmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_128",
+    "word": "enjoy",
+    "correct": "keyif almak",
+    "wrong": "zevk",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_129",
+    "word": "suffer",
+    "correct": "acı çekmek",
+    "wrong": "ıstırap",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_130",
+    "word": "laugh",
+    "correct": "gülmek",
+    "wrong": "neşe",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_131",
+    "word": "cry",
+    "correct": "ağlamak",
+    "wrong": "gözyaş",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_132",
+    "word": "smile",
+    "correct": "gülümsemek",
+    "wrong": "sevgi",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_133",
+    "word": "frown",
+    "correct": "kaş çatmak",
+    "wrong": "kızgınlık",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_134",
+    "word": "shout",
+    "correct": "bağırmak",
+    "wrong": "ses",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_135",
+    "word": "whisper",
+    "correct": "fısıldamak",
+    "wrong": "hafif ses",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_136",
+    "word": "say",
+    "correct": "söylemek",
+    "wrong": "ifade",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_137",
+    "word": "answer",
+    "correct": "cevap vermek",
+    "wrong": "yanıt",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_138",
+    "word": "reply",
+    "correct": "cevap vermek",
+    "wrong": "geri cevap",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_139",
+    "word": "respond",
+    "correct": "cevap vermek",
+    "wrong": "tepki",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_140",
+    "word": "refuse",
+    "correct": "reddetmek",
+    "wrong": "kabul etmeme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_141",
+    "word": "accept",
+    "correct": "kabul etmek",
+    "wrong": "onaylamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_142",
+    "word": "agree",
+    "correct": "anlaşmak",
+    "wrong": "evet demek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_143",
+    "word": "disagree",
+    "correct": "anlaşmamak",
+    "wrong": "farklı düşün",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_144",
+    "word": "apologize",
+    "correct": "özür dilemek",
+    "wrong": "pişmanlık",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_145",
+    "word": "forgive",
+    "correct": "affetmek",
+    "wrong": "bağışlama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_146",
+    "word": "punish",
+    "correct": "cezalandırmak",
+    "wrong": "haklı",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_147",
+    "word": "reward",
+    "correct": "ödüllendirmek",
+    "wrong": "prim",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_148",
+    "word": "praise",
+    "correct": "övmek",
+    "wrong": "takdir",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_149",
+    "word": "blame",
+    "correct": "suçlamak",
+    "wrong": "kınamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_150",
+    "word": "accuse",
+    "correct": "itham etmek",
+    "wrong": "suçlamak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_151",
+    "word": "defend",
+    "correct": "savunmak",
+    "wrong": "koruma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_152",
+    "word": "attack",
+    "correct": "saldırmak",
+    "wrong": "hücum",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_153",
+    "word": "protect",
+    "correct": "korumak",
+    "wrong": "himaye",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_154",
+    "word": "harm",
+    "correct": "zarar vermek",
+    "wrong": "yararlı",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_155",
+    "word": "help",
+    "correct": "yardım etmek",
+    "wrong": "destek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_156",
+    "word": "support",
+    "correct": "desteklemek",
+    "wrong": "takviye",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_157",
+    "word": "oppose",
+    "correct": "karşı çıkmak",
+    "wrong": "muhalefet",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_158",
+    "word": "compete",
+    "correct": "rekabet etmek",
+    "wrong": "yarışma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_159",
+    "word": "cooperate",
+    "correct": "işbirliği",
+    "wrong": "ortaklık",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_160",
+    "word": "collaborate",
+    "correct": "işbirliği",
+    "wrong": "ortak çalışma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_161",
+    "word": "negotiate",
+    "correct": "pazarlık etmek",
+    "wrong": "görüşme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_162",
+    "word": "compromise",
+    "correct": "uzlaşmak",
+    "wrong": "orta yol",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_163",
+    "word": "separate",
+    "correct": "ayırmak",
+    "wrong": "parçalama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_164",
+    "word": "unite",
+    "correct": "birleştirmek",
+    "wrong": "bir olmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_165",
+    "word": "divide",
+    "correct": "bölmek",
+    "wrong": "parça parça",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_166",
+    "word": "combine",
+    "correct": "birleştirmek",
+    "wrong": "karıştırma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_167",
+    "word": "mix",
+    "correct": "karıştırmak",
+    "wrong": "birleştirme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_168",
+    "word": "blend",
+    "correct": "karıştırmak",
+    "wrong": "homojen",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_169",
+    "word": "merge",
+    "correct": "birleşmek",
+    "wrong": "kaynaşma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_170",
+    "word": "join",
+    "correct": "katılmak",
+    "wrong": "üye olmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_171",
+    "word": "leave",
+    "correct": "ayrılmak",
+    "wrong": "terk etme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_172",
+    "word": "enter",
+    "correct": "girmek",
+    "wrong": "içine girmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_173",
+    "word": "exit",
+    "correct": "çıkmak",
+    "wrong": "ayrılmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_174",
+    "word": "arrive",
+    "correct": "varmak",
+    "wrong": "ulaşmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_175",
+    "word": "depart",
+    "correct": "ayrılmak",
+    "wrong": "yolculuğa çıkmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_176",
+    "word": "return",
+    "correct": "dönmek",
+    "wrong": "geri gelmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_177",
+    "word": "travel",
+    "correct": "seyahat etmek",
+    "wrong": "yolculuk",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_178",
+    "word": "wander",
+    "correct": "dolaşmak",
+    "wrong": "gezme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_179",
+    "word": "explore",
+    "correct": "keşfetmek",
+    "wrong": "araştırma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_180",
+    "word": "discover",
+    "correct": "keşfetmek",
+    "wrong": "bulma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_181",
+    "word": "hide",
+    "correct": "gizlemek",
+    "wrong": "saklama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_182",
+    "word": "seek",
+    "correct": "aramak",
+    "wrong": "arayış",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_183",
+    "word": "search",
+    "correct": "arama",
+    "wrong": "tarama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_184",
+    "word": "find",
+    "correct": "bulmak",
+    "wrong": "keşfetme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_185",
+    "word": "lose",
+    "correct": "kaybetmek",
+    "wrong": "mağlup olmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_186",
+    "word": "catch",
+    "correct": "yakalamak",
+    "wrong": "tutmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_187",
+    "word": "chase",
+    "correct": "kovalamak",
+    "wrong": "peşinde koşmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_188",
+    "word": "escape",
+    "correct": "kaçmak",
+    "wrong": "fırladı",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_189",
+    "word": "trap",
+    "correct": "tuzağa düşürmek",
+    "wrong": "yakalanmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_190",
+    "word": "release",
+    "correct": "serbest bırakmak",
+    "wrong": "özgür",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_191",
+    "word": "bind",
+    "correct": "bağlamak",
+    "wrong": "bağlı olmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_192",
+    "word": "untie",
+    "correct": "çözmek",
+    "wrong": "bağ kopartmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_193",
+    "word": "tie",
+    "correct": "bağlamak",
+    "wrong": "düğüm",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_194",
+    "word": "wrap",
+    "correct": "sarmalamak",
+    "wrong": "kaplama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_195",
+    "word": "unwrap",
+    "correct": "açmak",
+    "wrong": "sarmayı çıkarmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_196",
+    "word": "fold",
+    "correct": "katlamak",
+    "wrong": "kırıştırmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_197",
+    "word": "unfold",
+    "correct": "açmak",
+    "wrong": "açılmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_198",
+    "word": "bend",
+    "correct": "eğmek",
+    "wrong": "bükme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_199",
+    "word": "straighten",
+    "correct": "doğrultmak",
+    "wrong": "düzelme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_200",
+    "word": "twist",
+    "correct": "bükmek",
+    "wrong": "döndürme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_201",
+    "word": "turn",
+    "correct": "dönmek",
+    "wrong": "çevirme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_202",
+    "word": "roll",
+    "correct": "yuvarlamak",
+    "wrong": "yuvarlanma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_203",
+    "word": "spin",
+    "correct": "dönmek",
+    "wrong": "dönüş",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_204",
+    "word": "rotate",
+    "correct": "döndürmek",
+    "wrong": "dönme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_205",
+    "word": "tilt",
+    "correct": "eğme",
+    "wrong": "yan çevirmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_206",
+    "word": "lean",
+    "correct": "yaslama",
+    "wrong": "eğilme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_207",
+    "word": "balance",
+    "correct": "dengelemek",
+    "wrong": "denge",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_208",
+    "word": "push",
+    "correct": "itmek",
+    "wrong": "yükleme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_209",
+    "word": "pull",
+    "correct": "çekmek",
+    "wrong": "çekme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_210",
+    "word": "drag",
+    "correct": "sürükleme",
+    "wrong": "çekiştirme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_211",
+    "word": "carry",
+    "correct": "taşımak",
+    "wrong": "hamile",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_212",
+    "word": "lift",
+    "correct": "kaldırmak",
+    "wrong": "yükseltme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_213",
+    "word": "drop",
+    "correct": "bırakmak",
+    "wrong": "düşürmek",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_214",
+    "word": "throw",
+    "correct": "atmak",
+    "wrong": "fırlatma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_215",
+    "word": "catch",
+    "correct": "yakalamak",
+    "wrong": "tutmak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_216",
+    "word": "grab",
+    "correct": "kapmak",
+    "wrong": "şiddetle tutma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_217",
+    "word": "grasp",
+    "correct": "kavramak",
+    "wrong": "kuru tutma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_218",
+    "word": "hold",
+    "correct": "tutmak",
+    "wrong": "saklama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_219",
+    "word": "release",
+    "correct": "bırakmak",
+    "wrong": "serbest bırakma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_220",
+    "word": "strike",
+    "correct": "vurmak",
+    "wrong": "çarpma",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_221",
+    "word": "hit",
+    "correct": "darbesi",
+    "wrong": "darbe",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_222",
+    "word": "beat",
+    "correct": "dövmek",
+    "wrong": "vuruş",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_223",
+    "word": "kick",
+    "correct": "tekme atmak",
+    "wrong": "tekme",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_224",
+    "word": "punch",
+    "correct": "yumruk atmak",
+    "wrong": "yumruk",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_225",
+    "word": "slap",
+    "correct": "tokatlama",
+    "wrong": "şaplak",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_226",
+    "word": "scratch",
+    "correct": "tırmala",
+    "wrong": "çizgi",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_227",
+    "word": "bite",
+    "correct": "ısırma",
+    "wrong": "ısırık",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_228",
+    "word": "sting",
+    "correct": "sokmak",
+    "wrong": "iğne",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_229",
+    "word": "poison",
+    "correct": "zehir vermek",
+    "wrong": "toksin",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_230",
+    "word": "heal",
+    "correct": "iyileştirmek",
+    "wrong": "tedavi",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_231",
+    "word": "injure",
+    "correct": "yaralamak",
+    "wrong": "deri",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_232",
+    "word": "wound",
+    "correct": "yaralamak",
+    "wrong": "yara",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_233",
+    "word": "bleed",
+    "correct": "kan akıtmak",
+    "wrong": "kanama",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_234",
+    "word": "bandage",
+    "correct": "bandaj",
+    "wrong": "sargı",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_235",
+    "word": "treat",
+    "correct": "muamele",
+    "wrong": "tedavi",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_236",
+    "word": "cure",
+    "correct": "iyileştirmek",
+    "wrong": "çare",
+    "category": "Fiiller (Verbs)"
+  },
+  {
+    "id": "verbs_237",
+    "word": "recover",
+    "correct": "iyileşmek",
+    "wrong": "toparlanma",
+    "category": "Fiiller (Verbs)"
+  }
+]

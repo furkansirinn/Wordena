@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "academic_english_1",
+    "word": "student",
+    "correct": "öğrenci",
+    "wrong": "öğretmen",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_2",
+    "word": "teacher",
+    "correct": "öğretmen",
+    "wrong": "öğrenci",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_3",
+    "word": "professor",
+    "correct": "profesör",
+    "wrong": "öğrenci",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_4",
+    "word": "instructor",
+    "correct": "eğitmeni",
+    "wrong": "öğrenci",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_5",
+    "word": "lecturer",
+    "correct": "öğretim görevli",
+    "wrong": "öğrenci",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_6",
+    "word": "academic",
+    "correct": "akademisyen",
+    "wrong": "pratikal",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_7",
+    "word": "scholar",
+    "correct": "bilgin",
+    "wrong": "cahil",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_8",
+    "word": "researcher",
+    "correct": "araştırmacı",
+    "wrong": "görmezden",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_9",
+    "word": "dissertation",
+    "correct": "tez",
+    "wrong": "şiir",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_10",
+    "word": "thesis",
+    "correct": "tez",
+    "wrong": "hikaye",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_11",
+    "word": "essay",
+    "correct": "deneme",
+    "wrong": "hikaye",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_12",
+    "word": "article",
+    "correct": "makale",
+    "wrong": "köşe yazısı",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_13",
+    "word": "journal",
+    "correct": "dergi",
+    "wrong": "kitap",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_14",
+    "word": "publication",
+    "correct": "yayın",
+    "wrong": "gizlilik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_15",
+    "word": "research",
+    "correct": "araştırma",
+    "wrong": "görmezden",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_16",
+    "word": "study",
+    "correct": "çalışma",
+    "wrong": "oyun",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_17",
+    "word": "lecture",
+    "correct": "ders",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_18",
+    "word": "seminar",
+    "correct": "seminer",
+    "wrong": "pratik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_19",
+    "word": "workshop",
+    "correct": "atölye",
+    "wrong": "teori",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_20",
+    "word": "conference",
+    "correct": "konferans",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_21",
+    "word": "symposium",
+    "correct": "sempozyum",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_22",
+    "word": "colloquium",
+    "correct": "seminer",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_23",
+    "word": "syllabus",
+    "correct": "ders planı",
+    "wrong": "plansız",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_24",
+    "word": "curriculum",
+    "correct": "müfredat",
+    "wrong": "plansız",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_25",
+    "word": "academic year",
+    "correct": "akademik yıl",
+    "wrong": "tatil",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_26",
+    "word": "semester",
+    "correct": "dönem",
+    "wrong": "dönem dışı",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_27",
+    "word": "quarter",
+    "correct": "çeyrek",
+    "wrong": "tam",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_28",
+    "word": "trimester",
+    "correct": "üçer aylık",
+    "wrong": "tam",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_29",
+    "word": "tuition",
+    "correct": "harç",
+    "wrong": "bağış",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_30",
+    "word": "scholarship",
+    "correct": "burs",
+    "wrong": "ücret",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_31",
+    "word": "grant",
+    "correct": "hibe",
+    "wrong": "ücret",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_32",
+    "word": "financial aid",
+    "correct": "mali yardım",
+    "wrong": "ücret",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_33",
+    "word": "loan",
+    "correct": "kredi",
+    "wrong": "bağış",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_34",
+    "word": "degree",
+    "correct": "derece",
+    "wrong": "sertifika",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_35",
+    "word": "bachelor's degree",
+    "correct": "lisans derecesi",
+    "wrong": "ilköğretim",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_36",
+    "word": "master's degree",
+    "correct": "yüksek lisans",
+    "wrong": "lisans",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_37",
+    "word": "phd",
+    "correct": "doktora",
+    "wrong": "lisans",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_38",
+    "word": "diploma",
+    "correct": "diploma",
+    "wrong": "sertifika",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_39",
+    "word": "certificate",
+    "correct": "sertifika",
+    "wrong": "diploma",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_40",
+    "word": "major",
+    "correct": "ana dal",
+    "wrong": "yan dal",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_41",
+    "word": "minor",
+    "correct": "yan dal",
+    "wrong": "ana dal",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_42",
+    "word": "concentration",
+    "correct": "yoğunlaşma",
+    "wrong": "dağılma",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_43",
+    "word": "elective",
+    "correct": "seçmeli",
+    "wrong": "zorunlu",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_44",
+    "word": "required",
+    "correct": "zorunlu",
+    "wrong": "seçmeli",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_45",
+    "word": "prerequisite",
+    "correct": "ön koşul",
+    "wrong": "hiçbir şey",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_46",
+    "word": "co-requisite",
+    "correct": "eş koşul",
+    "wrong": "hiçbir şey",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_47",
+    "word": "credit",
+    "correct": "kredi",
+    "wrong": "borç",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_48",
+    "word": "credit hour",
+    "correct": "kredi saati",
+    "wrong": "kredi yok",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_49",
+    "word": "gpa",
+    "correct": "not ortalaması",
+    "wrong": "başarısızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_50",
+    "word": "grade",
+    "correct": "not",
+    "wrong": "başarısızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_51",
+    "word": "exam",
+    "correct": "sınav",
+    "wrong": "pratik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_52",
+    "word": "test",
+    "correct": "test",
+    "wrong": "pratik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_53",
+    "word": "quiz",
+    "correct": "kısa sınav",
+    "wrong": "uzun sınav",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_54",
+    "word": "midterm",
+    "correct": "ara sınav",
+    "wrong": "final",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_55",
+    "word": "final",
+    "correct": "final sınav",
+    "wrong": "ara sınav",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_56",
+    "word": "assignment",
+    "correct": "ödev",
+    "wrong": "özgürlük",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_57",
+    "word": "homework",
+    "correct": "ev ödevi",
+    "wrong": "okul ödevi",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_58",
+    "word": "project",
+    "correct": "proje",
+    "wrong": "hiçbir şey",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_59",
+    "word": "paper",
+    "correct": "makale",
+    "wrong": "sözlü",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_60",
+    "word": "presentation",
+    "correct": "sunum",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_61",
+    "word": "oral exam",
+    "correct": "sözlü sınav",
+    "wrong": "yazılı sınav",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_62",
+    "word": "written exam",
+    "correct": "yazılı sınav",
+    "wrong": "sözlü sınav",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_63",
+    "word": "multiple choice",
+    "correct": "çoktan seçmeli",
+    "wrong": "kısa cevap",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_64",
+    "word": "essay question",
+    "correct": "deneme sorusu",
+    "wrong": "çoktan seçmeli",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_65",
+    "word": "short answer",
+    "correct": "kısa cevap",
+    "wrong": "uzun cevap",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_66",
+    "word": "true or false",
+    "correct": "doğru yanlış",
+    "wrong": "çoktan seçmeli",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_67",
+    "word": "fill in the blank",
+    "correct": "boşluğu doldur",
+    "wrong": "yazı",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_68",
+    "word": "attendance",
+    "correct": "devam",
+    "wrong": "devamsızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_69",
+    "word": "participation",
+    "correct": "katılım",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_70",
+    "word": "classroom",
+    "correct": "sınıf",
+    "wrong": "dışarı",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_71",
+    "word": "lecture hall",
+    "correct": "ders salonu",
+    "wrong": "ev",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_72",
+    "word": "lab",
+    "correct": "laboratuvar",
+    "wrong": "saha",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_73",
+    "word": "library",
+    "correct": "kütüphane",
+    "wrong": "boşluk",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_74",
+    "word": "dormitory",
+    "correct": "yurt",
+    "wrong": "ev",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_75",
+    "word": "campus",
+    "correct": "kampüs",
+    "wrong": "şehir",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_76",
+    "word": "desk",
+    "correct": "masa",
+    "wrong": "sandalye",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_77",
+    "word": "chair",
+    "correct": "sandalye",
+    "wrong": "masa",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_78",
+    "word": "board",
+    "correct": "tahta",
+    "wrong": "silgi",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_79",
+    "word": "whiteboard",
+    "correct": "beyaz tahta",
+    "wrong": "kalem",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_80",
+    "word": "textbook",
+    "correct": "ders kitabı",
+    "wrong": "roman",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_81",
+    "word": "reference book",
+    "correct": "referans kitabı",
+    "wrong": "roman",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_82",
+    "word": "journal article",
+    "correct": "dergi makalesi",
+    "wrong": "edebiyat",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_83",
+    "word": "database",
+    "correct": "veri tabanı",
+    "wrong": "hiçbir şey",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_84",
+    "word": "search engine",
+    "correct": "arama motoru",
+    "wrong": "bulunamaz",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_85",
+    "word": "citation",
+    "correct": "alıntı",
+    "wrong": "ya da",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_86",
+    "word": "plagiarism",
+    "correct": "intihal",
+    "wrong": "orijinal",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_87",
+    "word": "original",
+    "correct": "orijinal",
+    "wrong": "kopya",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_88",
+    "word": "paraphrase",
+    "correct": "yeniden yazma",
+    "wrong": "alıntı",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_89",
+    "word": "quote",
+    "correct": "alıntı",
+    "wrong": "fikir",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_90",
+    "word": "footnote",
+    "correct": "dipnot",
+    "wrong": "üst not",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_91",
+    "word": "endnote",
+    "correct": "sonda not",
+    "wrong": "dipnot",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_92",
+    "word": "bibliography",
+    "correct": "kaynakça",
+    "wrong": "hiçbir şey",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_93",
+    "word": "reference list",
+    "correct": "kaynak listesi",
+    "wrong": "hiçbir şey",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_94",
+    "word": "abstract",
+    "correct": "özet",
+    "wrong": "tam metin",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_95",
+    "word": "introduction",
+    "correct": "giriş",
+    "wrong": "sonuç",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_96",
+    "word": "conclusion",
+    "correct": "sonuç",
+    "wrong": "giriş",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_97",
+    "word": "argument",
+    "correct": "argüman",
+    "wrong": "örnek",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_98",
+    "word": "evidence",
+    "correct": "kanıt",
+    "wrong": "fikir",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_99",
+    "word": "analysis",
+    "correct": "analiz",
+    "wrong": "sentez",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_100",
+    "word": "synthesis",
+    "correct": "sentez",
+    "wrong": "analiz",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_101",
+    "word": "critical thinking",
+    "correct": "eleştirel düşünme",
+    "wrong": "kabullenme",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_102",
+    "word": "hypothesis",
+    "correct": "hipotez",
+    "wrong": "teori",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_103",
+    "word": "experiment",
+    "correct": "deney",
+    "wrong": "gözlem",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_104",
+    "word": "observation",
+    "correct": "gözlem",
+    "wrong": "deney",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_105",
+    "word": "data",
+    "correct": "veri",
+    "wrong": "fikirler",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_106",
+    "word": "statistics",
+    "correct": "istatistik",
+    "wrong": "sayılar",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_107",
+    "word": "sample",
+    "correct": "örnek",
+    "wrong": "bütün",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_108",
+    "word": "population",
+    "correct": "nüfus",
+    "wrong": "açık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_109",
+    "word": "variable",
+    "correct": "değişken",
+    "wrong": "sabit",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_110",
+    "word": "control",
+    "correct": "kontrol",
+    "wrong": "deney",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_111",
+    "word": "theory",
+    "correct": "teori",
+    "wrong": "pratik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_112",
+    "word": "theorem",
+    "correct": "teorem",
+    "wrong": "deneme",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_113",
+    "word": "law",
+    "correct": "kanun",
+    "wrong": "ihtimal",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_114",
+    "word": "principle",
+    "correct": "ilke",
+    "wrong": "özel",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_115",
+    "word": "concept",
+    "correct": "kavram",
+    "wrong": "konkret",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_116",
+    "word": "definition",
+    "correct": "tanım",
+    "wrong": "örnek",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_117",
+    "word": "classification",
+    "correct": "sınıflandırma",
+    "wrong": "karışma",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_118",
+    "word": "categorization",
+    "correct": "kategorilendirme",
+    "wrong": "karışma",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_119",
+    "word": "comparison",
+    "correct": "karşılaştırma",
+    "wrong": "farklılık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_120",
+    "word": "contrast",
+    "correct": "karşıtlık",
+    "wrong": "benzerlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_121",
+    "word": "analogy",
+    "correct": "analoji",
+    "wrong": "farklılık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_122",
+    "word": "metaphor",
+    "correct": "metafor",
+    "wrong": "gerçek",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_123",
+    "word": "simile",
+    "correct": "benzetme",
+    "wrong": "gerçek",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_124",
+    "word": "irony",
+    "correct": "ironi",
+    "wrong": "samimi",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_125",
+    "word": "rhetoric",
+    "correct": "retorik",
+    "wrong": "mantık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_126",
+    "word": "logical fallacy",
+    "correct": "mantıksal hata",
+    "wrong": "geçerlilik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_127",
+    "word": "bias",
+    "correct": "önyargı",
+    "wrong": "tarafsızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_128",
+    "word": "objectivity",
+    "correct": "nesnellik",
+    "wrong": "öznenellik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_129",
+    "word": "subjectivity",
+    "correct": "öznellik",
+    "wrong": "nesnellik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_130",
+    "word": "validity",
+    "correct": "geçerlilik",
+    "wrong": "başarısızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_131",
+    "word": "reliability",
+    "correct": "güvenilirlik",
+    "wrong": "başarısızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_132",
+    "word": "credibility",
+    "correct": "güvenilirlik",
+    "wrong": "şüphe",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_133",
+    "word": "ethics",
+    "correct": "etik",
+    "wrong": "ahlaksızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_134",
+    "word": "integrity",
+    "correct": "dürüstlük",
+    "wrong": "hilekârlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_135",
+    "word": "academic dishonesty",
+    "correct": "akademik dürüstlüğün ihlali",
+    "wrong": "dürüstlük",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_136",
+    "word": "cheating",
+    "correct": "kopya çekme",
+    "wrong": "çalışma",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_137",
+    "word": "collaboration",
+    "correct": "işbirliği",
+    "wrong": "rekabet",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_138",
+    "word": "group work",
+    "correct": "grup çalışması",
+    "wrong": "bireysel",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_139",
+    "word": "peer review",
+    "correct": "akran incelemesi",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_140",
+    "word": "feedback",
+    "correct": "geri bildirim",
+    "wrong": "sessizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_141",
+    "word": "constructive criticism",
+    "correct": "yapıcı eleştiri",
+    "wrong": "kabahat",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_142",
+    "word": "evaluation",
+    "correct": "değerlendirme",
+    "wrong": "görmezden",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_143",
+    "word": "assessment",
+    "correct": "değerlendirme",
+    "wrong": "görmezden",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_144",
+    "word": "rubric",
+    "correct": "değerlendirme ölçütü",
+    "wrong": "hiçbir şey",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_145",
+    "word": "competency",
+    "correct": "yetkinlik",
+    "wrong": "yetersizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_146",
+    "word": "skill",
+    "correct": "beceri",
+    "wrong": "yetersizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_147",
+    "word": "ability",
+    "correct": "kabiliyet",
+    "wrong": "yetersizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_148",
+    "word": "proficiency",
+    "correct": "yeterlilik",
+    "wrong": "yetersizlik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_149",
+    "word": "mastery",
+    "correct": "ustalık",
+    "wrong": "başlangıç",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_150",
+    "word": "expertise",
+    "correct": "uzmanlık",
+    "wrong": "amatörlük",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_151",
+    "word": "knowledge",
+    "correct": "bilgi",
+    "wrong": "cahillik",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_152",
+    "word": "understanding",
+    "correct": "anlayış",
+    "wrong": "kafa karışıklığı",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_153",
+    "word": "comprehension",
+    "correct": "anlama",
+    "wrong": "kafa karışıklığı",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_154",
+    "word": "retention",
+    "correct": "tutma",
+    "wrong": "unutma",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_155",
+    "word": "learning outcome",
+    "correct": "öğrenme çıktısı",
+    "wrong": "başarısızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_156",
+    "word": "performance indicator",
+    "correct": "başarı göstergesi",
+    "wrong": "başarısızlık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_157",
+    "word": "benchmarking",
+    "correct": "kıyaslama",
+    "wrong": "farklılık",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_158",
+    "word": "continuous improvement",
+    "correct": "sürekli iyileştirme",
+    "wrong": "durma",
+    "category": "Akademik İngilizce"
+  },
+  {
+    "id": "academic_english_159",
+    "word": "standardized test",
+    "correct": "standart sınav",
+    "wrong": "özel sınav",
+    "category": "Akademik İngilizce"
+  }
+]

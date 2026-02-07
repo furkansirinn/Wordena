@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "technology_1",
+    "word": "technology",
+    "correct": "teknoloji",
+    "wrong": "doğa",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_2",
+    "word": "computer",
+    "correct": "bilgisayar",
+    "wrong": "tablet",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_3",
+    "word": "laptop",
+    "correct": "laptop",
+    "wrong": "masaüstü",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_4",
+    "word": "desktop",
+    "correct": "masaüstü",
+    "wrong": "laptop",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_5",
+    "word": "tablet",
+    "correct": "tablet",
+    "wrong": "bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_6",
+    "word": "smartphone",
+    "correct": "akıllı telefon",
+    "wrong": "tuşlu telefon",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_7",
+    "word": "phone",
+    "correct": "telefon",
+    "wrong": "masaüstü",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_8",
+    "word": "mobile device",
+    "correct": "mobil cihaz",
+    "wrong": "bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_9",
+    "word": "keyboard",
+    "correct": "klavye",
+    "wrong": "fare",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_10",
+    "word": "mouse",
+    "correct": "fare",
+    "wrong": "klavye",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_11",
+    "word": "monitor",
+    "correct": "monitör",
+    "wrong": "klavye",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_12",
+    "word": "screen",
+    "correct": "ekran",
+    "wrong": "monitor",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_13",
+    "word": "touchscreen",
+    "correct": "dokunmatik ekran",
+    "wrong": "ekran",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_14",
+    "word": "trackpad",
+    "correct": "trackpad",
+    "wrong": "fare",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_15",
+    "word": "mouse pad",
+    "correct": "mouse pad",
+    "wrong": "fare",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_16",
+    "word": "printer",
+    "correct": "yazıcı",
+    "wrong": "tarayıcı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_17",
+    "word": "scanner",
+    "correct": "tarayıcı",
+    "wrong": "yazıcı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_18",
+    "word": "camera",
+    "correct": "kamera",
+    "wrong": "projektör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_19",
+    "word": "webcam",
+    "correct": "web kamerası",
+    "wrong": "kamera",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_20",
+    "word": "microphone",
+    "correct": "mikrofon",
+    "wrong": "hoparlör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_21",
+    "word": "speaker",
+    "correct": "hoparlör",
+    "wrong": "mikrofon",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_22",
+    "word": "headphones",
+    "correct": "kulaklık",
+    "wrong": "hoparlör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_23",
+    "word": "earbuds",
+    "correct": "kulaklık",
+    "wrong": "hoparlör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_24",
+    "word": "router",
+    "correct": "yönlendirici",
+    "wrong": "modem",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_25",
+    "word": "modem",
+    "correct": "modem",
+    "wrong": "yönlendirici",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_26",
+    "word": "server",
+    "correct": "sunucu",
+    "wrong": "istemci",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_27",
+    "word": "desktop computer",
+    "correct": "masaüstü bilgisayar",
+    "wrong": "laptop",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_28",
+    "word": "all-in-one computer",
+    "correct": "hepsi bir arada bilgisayar",
+    "wrong": "bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_29",
+    "word": "mainframe",
+    "correct": "ana bilgisayar",
+    "wrong": "bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_30",
+    "word": "supercomputer",
+    "correct": "süper bilgisayar",
+    "wrong": "bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_31",
+    "word": "workstation",
+    "correct": "iş istasyonu",
+    "wrong": "bilgisayar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_32",
+    "word": "hard drive",
+    "correct": "sabit disk",
+    "wrong": "RAM",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_33",
+    "word": "SSD",
+    "correct": "katı hal sürücüsü",
+    "wrong": "sabit disk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_34",
+    "word": "RAM",
+    "correct": "RAM",
+    "wrong": "sabit disk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_35",
+    "word": "processor",
+    "correct": "işlemci",
+    "wrong": "bellek",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_36",
+    "word": "CPU",
+    "correct": "merkezi işlem birimi",
+    "wrong": "GPU",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_37",
+    "word": "GPU",
+    "correct": "grafik işleme birimi",
+    "wrong": "CPU",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_38",
+    "word": "motherboard",
+    "correct": "anakart",
+    "wrong": "işlemci",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_39",
+    "word": "power supply",
+    "correct": "güç kaynağı",
+    "wrong": "pil",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_40",
+    "word": "cooling fan",
+    "correct": "soğutma fanı",
+    "wrong": "çıkış fanı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_41",
+    "word": "battery",
+    "correct": "pil",
+    "wrong": "fiş",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_42",
+    "word": "charger",
+    "correct": "şarj cihazı",
+    "wrong": "pil",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_43",
+    "word": "USB port",
+    "correct": "USB portu",
+    "wrong": "fiş",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_44",
+    "word": "HDMI port",
+    "correct": "HDMI portu",
+    "wrong": "USB portu",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_45",
+    "word": "audio jack",
+    "correct": "kulaklık jakı",
+    "wrong": "USB",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_46",
+    "word": "memory card",
+    "correct": "bellek kartı",
+    "wrong": "sabit disk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_47",
+    "word": "external hard drive",
+    "correct": "harici sabit disk",
+    "wrong": "sabit disk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_48",
+    "word": "flash drive",
+    "correct": "flash bellek",
+    "wrong": "sabit disk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_49",
+    "word": "pendrive",
+    "correct": "kalem sürücü",
+    "wrong": "sabit disk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_50",
+    "word": "CD",
+    "correct": "CD",
+    "wrong": "DVD",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_51",
+    "word": "DVD",
+    "correct": "DVD",
+    "wrong": "CD",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_52",
+    "word": "Blu-ray",
+    "correct": "Blu-ray",
+    "wrong": "DVD",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_53",
+    "word": "software",
+    "correct": "yazılım",
+    "wrong": "donanım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_54",
+    "word": "hardware",
+    "correct": "donanım",
+    "wrong": "yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_55",
+    "word": "program",
+    "correct": "program",
+    "wrong": "uygulama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_56",
+    "word": "application",
+    "correct": "uygulama",
+    "wrong": "program",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_57",
+    "word": "app",
+    "correct": "uygulama",
+    "wrong": "yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_58",
+    "word": "operating system",
+    "correct": "işletim sistemi",
+    "wrong": "yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_59",
+    "word": "Windows",
+    "correct": "Windows",
+    "wrong": "Mac",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_60",
+    "word": "Mac",
+    "correct": "Mac",
+    "wrong": "Windows",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_61",
+    "word": "Linux",
+    "correct": "Linux",
+    "wrong": "Windows",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_62",
+    "word": "iOS",
+    "correct": "iOS",
+    "wrong": "Android",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_63",
+    "word": "Android",
+    "correct": "Android",
+    "wrong": "iOS",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_64",
+    "word": "browser",
+    "correct": "tarayıcı",
+    "wrong": "uygulamayı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_65",
+    "word": "Chrome",
+    "correct": "Chrome",
+    "wrong": "Firefox",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_66",
+    "word": "Firefox",
+    "correct": "Firefox",
+    "wrong": "Chrome",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_67",
+    "word": "Safari",
+    "correct": "Safari",
+    "wrong": "Chrome",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_68",
+    "word": "Edge",
+    "correct": "Edge",
+    "wrong": "Chrome",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_69",
+    "word": "internet",
+    "correct": "internet",
+    "wrong": "intranet",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_70",
+    "word": "website",
+    "correct": "web sitesi",
+    "wrong": "uygulama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_71",
+    "word": "web page",
+    "correct": "web sayfası",
+    "wrong": "web sitesi",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_72",
+    "word": "URL",
+    "correct": "URL",
+    "wrong": "IP",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_73",
+    "word": "link",
+    "correct": "bağlantı",
+    "wrong": "metin",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_74",
+    "word": "hyperlink",
+    "correct": "köprü",
+    "wrong": "bağlantı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_75",
+    "word": "email",
+    "correct": "e-posta",
+    "wrong": "mesaj",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_76",
+    "word": "username",
+    "correct": "kullanıcı adı",
+    "wrong": "parola",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_77",
+    "word": "password",
+    "correct": "parola",
+    "wrong": "kullanıcı adı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_78",
+    "word": "login",
+    "correct": "giriş",
+    "wrong": "çıkış",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_79",
+    "word": "logout",
+    "correct": "çıkış",
+    "wrong": "giriş",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_80",
+    "word": "account",
+    "correct": "hesap",
+    "wrong": "kullanıcı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_81",
+    "word": "profile",
+    "correct": "profil",
+    "wrong": "hesap",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_82",
+    "word": "settings",
+    "correct": "ayarlar",
+    "wrong": "seçenekler",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_83",
+    "word": "preferences",
+    "correct": "tercihler",
+    "wrong": "ayarlar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_84",
+    "word": "notification",
+    "correct": "bildirim",
+    "wrong": "sessizlik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_85",
+    "word": "alert",
+    "correct": "uyarı",
+    "wrong": "bildirim",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_86",
+    "word": "message",
+    "correct": "mesaj",
+    "wrong": "sesli mesaj",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_87",
+    "word": "text message",
+    "correct": "kısa mesaj",
+    "wrong": "e-posta",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_88",
+    "word": "SMS",
+    "correct": "kısa mesaj",
+    "wrong": "MMS",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_89",
+    "word": "call",
+    "correct": "çağrı",
+    "wrong": "metin",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_90",
+    "word": "video call",
+    "correct": "video çağrısı",
+    "wrong": "ses çağrısı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_91",
+    "word": "conference call",
+    "correct": "konferans çağrısı",
+    "wrong": "çağrı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_92",
+    "word": "download",
+    "correct": "indirme",
+    "wrong": "yükleme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_93",
+    "word": "upload",
+    "correct": "yükleme",
+    "wrong": "indirme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_94",
+    "word": "file",
+    "correct": "dosya",
+    "wrong": "klasör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_95",
+    "word": "folder",
+    "correct": "klasör",
+    "wrong": "dosya",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_96",
+    "word": "document",
+    "correct": "belge",
+    "wrong": "dosya",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_97",
+    "word": "spreadsheet",
+    "correct": "elektronik tablo",
+    "wrong": "belge",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_98",
+    "word": "presentation",
+    "correct": "sunum",
+    "wrong": "belge",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_99",
+    "word": "image",
+    "correct": "resim",
+    "wrong": "video",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_100",
+    "word": "video",
+    "correct": "video",
+    "wrong": "resim",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_101",
+    "word": "audio",
+    "correct": "ses",
+    "wrong": "video",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_102",
+    "word": "music",
+    "correct": "müzik",
+    "wrong": "ses",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_103",
+    "word": "podcast",
+    "correct": "podcast",
+    "wrong": "müzik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_104",
+    "word": "streaming",
+    "correct": "akış",
+    "wrong": "indirme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_105",
+    "word": "download",
+    "correct": "indirme",
+    "wrong": "akış",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_106",
+    "word": "data",
+    "correct": "veri",
+    "wrong": "bilgi",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_107",
+    "word": "database",
+    "correct": "veritabanı",
+    "wrong": "veri",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_108",
+    "word": "backup",
+    "correct": "yedekleme",
+    "wrong": "silme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_109",
+    "word": "restore",
+    "correct": "geri yükleme",
+    "wrong": "yedekleme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_110",
+    "word": "delete",
+    "correct": "silme",
+    "wrong": "oluşturma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_111",
+    "word": "trash",
+    "correct": "çöp kutusu",
+    "wrong": "klasör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_112",
+    "word": "recycle bin",
+    "correct": "geri dönüşüm kutusu",
+    "wrong": "çöp kutusu",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_113",
+    "word": "search",
+    "correct": "arama",
+    "wrong": "bulma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_114",
+    "word": "find",
+    "correct": "bulma",
+    "wrong": "kaybetme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_115",
+    "word": "replace",
+    "correct": "değiştirme",
+    "wrong": "arama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_116",
+    "word": "edit",
+    "correct": "düzenleme",
+    "wrong": "okuma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_117",
+    "word": "save",
+    "correct": "kaydetme",
+    "wrong": "açma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_118",
+    "word": "print",
+    "correct": "yazdırma",
+    "wrong": "tarama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_119",
+    "word": "copy",
+    "correct": "kopyalama",
+    "wrong": "kesme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_120",
+    "word": "cut",
+    "correct": "kesme",
+    "wrong": "yapıştırma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_121",
+    "word": "paste",
+    "correct": "yapıştırma",
+    "wrong": "kesme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_122",
+    "word": "undo",
+    "correct": "geri alma",
+    "wrong": "ileri yap",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_123",
+    "word": "redo",
+    "correct": "ileri yap",
+    "wrong": "geri alma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_124",
+    "word": "refresh",
+    "correct": "yenileme",
+    "wrong": "kaydetme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_125",
+    "word": "reload",
+    "correct": "yeniden yükleme",
+    "wrong": "yenileme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_126",
+    "word": "zoom in",
+    "correct": "yaklaştırma",
+    "wrong": "uzaklaştırma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_127",
+    "word": "zoom out",
+    "correct": "uzaklaştırma",
+    "wrong": "yaklaştırma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_128",
+    "word": "scroll",
+    "correct": "kaydırma",
+    "wrong": "yazı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_129",
+    "word": "drag",
+    "correct": "sürükleme",
+    "wrong": "bırakma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_130",
+    "word": "drop",
+    "correct": "bırakma",
+    "wrong": "sürükleme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_131",
+    "word": "click",
+    "correct": "tıklama",
+    "wrong": "iki tıklama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_132",
+    "word": "double click",
+    "correct": "çift tıklama",
+    "wrong": "tek tıklama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_133",
+    "word": "right click",
+    "correct": "sağ tıklama",
+    "wrong": "sol tıklama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_134",
+    "word": "hover",
+    "correct": "üzerine gelmek",
+    "wrong": "tıklama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_135",
+    "word": "select",
+    "correct": "seçme",
+    "wrong": "seçilmemiş",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_136",
+    "word": "deselect",
+    "correct": "seçimi kaldırma",
+    "wrong": "seçme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_137",
+    "word": "highlight",
+    "correct": "vurgulama",
+    "wrong": "normal",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_138",
+    "word": "minimize",
+    "correct": "küçültme",
+    "wrong": "büyütme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_139",
+    "word": "maximize",
+    "correct": "büyütme",
+    "wrong": "küçültme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_140",
+    "word": "close",
+    "correct": "kapatma",
+    "wrong": "açma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_141",
+    "word": "open",
+    "correct": "açma",
+    "wrong": "kapatma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_142",
+    "word": "run",
+    "correct": "çalıştırma",
+    "wrong": "durdurma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_143",
+    "word": "crash",
+    "correct": "çökmesi",
+    "wrong": "çalışması",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_144",
+    "word": "freeze",
+    "correct": "donması",
+    "wrong": "hareket",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_145",
+    "word": "lag",
+    "correct": "gecikme",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_146",
+    "word": "glitch",
+    "correct": "arıza",
+    "wrong": "işleme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_147",
+    "word": "bug",
+    "correct": "hata",
+    "wrong": "düzeltme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_148",
+    "word": "virus",
+    "correct": "virüs",
+    "wrong": "aşı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_149",
+    "word": "malware",
+    "correct": "zararlı yazılım",
+    "wrong": "güvenli yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_150",
+    "word": "spyware",
+    "correct": "casus yazılım",
+    "wrong": "güvenli yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_151",
+    "word": "adware",
+    "correct": "reklam yazılımı",
+    "wrong": "temiz yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_152",
+    "word": "ransomware",
+    "correct": "fidye yazılımı",
+    "wrong": "güvenli yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_153",
+    "word": "firewall",
+    "correct": "güvenlik duvarı",
+    "wrong": "açık",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_154",
+    "word": "antivirus",
+    "correct": "virüs koruması",
+    "wrong": "virüs",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_155",
+    "word": "encryption",
+    "correct": "şifreleme",
+    "wrong": "şifresiz",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_156",
+    "word": "password protection",
+    "correct": "parola koruması",
+    "wrong": "hiçbir koruma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_157",
+    "word": "two-factor authentication",
+    "correct": "iki faktörlü kimlik doğrulama",
+    "wrong": "tek faktör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_158",
+    "word": "VPN",
+    "correct": "sanal özel ağ",
+    "wrong": "açık ağ",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_159",
+    "word": "proxy",
+    "correct": "vekil sunucu",
+    "wrong": "doğrudan",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_160",
+    "word": "cloud storage",
+    "correct": "bulut depolaması",
+    "wrong": "yerel depolama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_161",
+    "word": "cloud computing",
+    "correct": "bulut bilişimi",
+    "wrong": "yerel bilişim",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_162",
+    "word": "artificial intelligence",
+    "correct": "yapay zeka",
+    "wrong": "doğal zeka",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_163",
+    "word": "machine learning",
+    "correct": "makine öğrenmesi",
+    "wrong": "insan öğrenmesi",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_164",
+    "word": "deep learning",
+    "correct": "derin öğrenme",
+    "wrong": "yüzeyel öğrenme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_165",
+    "word": "neural network",
+    "correct": "sinir ağı",
+    "wrong": "basit ağ",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_166",
+    "word": "algorithm",
+    "correct": "algoritma",
+    "wrong": "rastgele",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_167",
+    "word": "code",
+    "correct": "kod",
+    "wrong": "metin",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_168",
+    "word": "programming",
+    "correct": "programlama",
+    "wrong": "uygulama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_169",
+    "word": "developer",
+    "correct": "geliştirici",
+    "wrong": "kullanıcı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_170",
+    "word": "coder",
+    "correct": "kodlayıcı",
+    "wrong": "yazılımcı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_171",
+    "word": "debugging",
+    "correct": "hata ayıklama",
+    "wrong": "yazma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_172",
+    "word": "testing",
+    "correct": "test etme",
+    "wrong": "kullanma",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_173",
+    "word": "deployment",
+    "correct": "dağıtım",
+    "wrong": "geliştirme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_174",
+    "word": "update",
+    "correct": "güncelleme",
+    "wrong": "eski sürüm",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_175",
+    "word": "upgrade",
+    "correct": "yükseltme",
+    "wrong": "düşürme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_176",
+    "word": "patch",
+    "correct": "yamam",
+    "wrong": "hatası",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_177",
+    "word": "compatibility",
+    "correct": "uyumluluk",
+    "wrong": "uyumsuzluk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_178",
+    "word": "performance",
+    "correct": "performans",
+    "wrong": "yavaşlık",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_179",
+    "word": "speed",
+    "correct": "hız",
+    "wrong": "yavaşlık",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_180",
+    "word": "capacity",
+    "correct": "kapasite",
+    "wrong": "sınırlama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_181",
+    "word": "resolution",
+    "correct": "çözünürlük",
+    "wrong": "bulanıklık",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_182",
+    "word": "graphics",
+    "correct": "grafikler",
+    "wrong": "metin",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_183",
+    "word": "animation",
+    "correct": "animasyon",
+    "wrong": "statik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_184",
+    "word": "rendering",
+    "correct": "işleme",
+    "wrong": "görüntü",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_185",
+    "word": "texture",
+    "correct": "dokuma",
+    "wrong": "renk",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_186",
+    "word": "shader",
+    "correct": "gölgeleme",
+    "wrong": "ışık",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_187",
+    "word": "pixel",
+    "correct": "piksel",
+    "wrong": "nokta",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_188",
+    "word": "megapixel",
+    "correct": "megapiksel",
+    "wrong": "piksel",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_189",
+    "word": "frame rate",
+    "correct": "kare hızı",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_190",
+    "word": "refresh rate",
+    "correct": "yenileme hızı",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_191",
+    "word": "bitrate",
+    "correct": "bit hızı",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_192",
+    "word": "bandwidth",
+    "correct": "bant genişliği",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_193",
+    "word": "latency",
+    "correct": "gecikme süresi",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_194",
+    "word": "ping",
+    "correct": "ping",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_195",
+    "word": "server response",
+    "correct": "sunucu yanıtı",
+    "wrong": "istem",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_196",
+    "word": "connection speed",
+    "correct": "bağlantı hızı",
+    "wrong": "hız",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_197",
+    "word": "Wi-Fi",
+    "correct": "Wi-Fi",
+    "wrong": "kablolu",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_198",
+    "word": "Bluetooth",
+    "correct": "Bluetooth",
+    "wrong": "kablolu",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_199",
+    "word": "4G",
+    "correct": "4G",
+    "wrong": "3G",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_200",
+    "word": "5G",
+    "correct": "5G",
+    "wrong": "4G",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_201",
+    "word": "LTE",
+    "correct": "LTE",
+    "wrong": "3G",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_202",
+    "word": "NFC",
+    "correct": "NFC",
+    "wrong": "RFID",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_203",
+    "word": "RFID",
+    "correct": "RFID",
+    "wrong": "NFC",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_204",
+    "word": "GPS",
+    "correct": "GPS",
+    "wrong": "harita",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_205",
+    "word": "geolocation",
+    "correct": "coğrafi konum",
+    "wrong": "konum",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_206",
+    "word": "smart device",
+    "correct": "akıllı cihaz",
+    "wrong": "eski cihaz",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_207",
+    "word": "smart home",
+    "correct": "akıllı ev",
+    "wrong": "normal ev",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_208",
+    "word": "IoT",
+    "correct": "nesnelerin interneti",
+    "wrong": "bilgisayarlar",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_209",
+    "word": "wearable",
+    "correct": "giyilebilir cihaz",
+    "wrong": "sabit cihaz",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_210",
+    "word": "smartwatch",
+    "correct": "akıllı saat",
+    "wrong": "mekanik saat",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_211",
+    "word": "fitness tracker",
+    "correct": "fitness izleyici",
+    "wrong": "saat",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_212",
+    "word": "drone",
+    "correct": "insansız hava aracı",
+    "wrong": "uçak",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_213",
+    "word": "robot",
+    "correct": "robot",
+    "wrong": "makine",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_214",
+    "word": "automation",
+    "correct": "otomasyon",
+    "wrong": "manuel",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_215",
+    "word": "autonomous",
+    "correct": "otonom",
+    "wrong": "kontrol edilen",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_216",
+    "word": "virtual reality",
+    "correct": "sanal gerçeklik",
+    "wrong": "gerçeklik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_217",
+    "word": "augmented reality",
+    "correct": "artırılmış gerçeklik",
+    "wrong": "gerçeklik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_218",
+    "word": "metaverse",
+    "correct": "metaverse",
+    "wrong": "gerçeklik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_219",
+    "word": "cryptocurrency",
+    "correct": "kripto para",
+    "wrong": "normal para",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_220",
+    "word": "blockchain",
+    "correct": "blokzincir",
+    "wrong": "merkezi",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_221",
+    "word": "cryptocurrency wallet",
+    "correct": "kripto para cüzdanı",
+    "wrong": "banka",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_222",
+    "word": "digital currency",
+    "correct": "dijital para",
+    "wrong": "kağıt para",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_223",
+    "word": "online payment",
+    "correct": "çevrimiçi ödeme",
+    "wrong": "nakit",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_224",
+    "word": "e-commerce",
+    "correct": "elektronik ticaret",
+    "wrong": "fiziksel mağaza",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_225",
+    "word": "online shopping",
+    "correct": "çevrimiçi alışveriş",
+    "wrong": "mağazada alışveriş",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_226",
+    "word": "digital marketing",
+    "correct": "dijital pazarlama",
+    "wrong": "geleneksel pazarlama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_227",
+    "word": "social media",
+    "correct": "sosyal medya",
+    "wrong": "geleneksel medya",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_228",
+    "word": "social network",
+    "correct": "sosyal ağ",
+    "wrong": "kişisel ağ",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_229",
+    "word": "influencer",
+    "correct": "etkileyici",
+    "wrong": "takipçi",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_230",
+    "word": "content creator",
+    "correct": "içerik oluşturucu",
+    "wrong": "izleyici",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_231",
+    "word": "hashtag",
+    "correct": "konu etiketi",
+    "wrong": "metin",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_232",
+    "word": "emoji",
+    "correct": "emoji",
+    "wrong": "metin",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_233",
+    "word": "meme",
+    "correct": "meme",
+    "wrong": "resim",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_234",
+    "word": "viral",
+    "correct": "viral",
+    "wrong": "bilinmeyen",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_235",
+    "word": "trending",
+    "correct": "trend",
+    "wrong": "eski",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_236",
+    "word": "algorithm feed",
+    "correct": "algoritma beslemesi",
+    "wrong": "kronolojik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_237",
+    "word": "recommendation",
+    "correct": "tavsiye",
+    "wrong": "hiçbir tavsiye",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_238",
+    "word": "personalization",
+    "correct": "kişiselleştirme",
+    "wrong": "genel",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_239",
+    "word": "customization",
+    "correct": "özelleştirme",
+    "wrong": "standart",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_240",
+    "word": "widget",
+    "correct": "araç",
+    "wrong": "uygulama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_241",
+    "word": "plugin",
+    "correct": "eklenti",
+    "wrong": "çekirdek",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_242",
+    "word": "extension",
+    "correct": "uzantı",
+    "wrong": "çekirdek",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_243",
+    "word": "theme",
+    "correct": "tema",
+    "wrong": "varsayılan",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_244",
+    "word": "template",
+    "correct": "şablon",
+    "wrong": "boş",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_245",
+    "word": "framework",
+    "correct": "çerçeve",
+    "wrong": "temel",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_246",
+    "word": "library",
+    "correct": "kütüphane",
+    "wrong": "temel",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_247",
+    "word": "API",
+    "correct": "uygulama programı arayüzü",
+    "wrong": "program",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_248",
+    "word": "SDK",
+    "correct": "yazılım geliştirme seti",
+    "wrong": "yazılım",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_249",
+    "word": "IDE",
+    "correct": "entegre geliştirme ortamı",
+    "wrong": "editör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_250",
+    "word": "version control",
+    "correct": "sürüm kontrolü",
+    "wrong": "kontrol yok",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_251",
+    "word": "git",
+    "correct": "git",
+    "wrong": "dosya",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_252",
+    "word": "GitHub",
+    "correct": "GitHub",
+    "wrong": "depo",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_253",
+    "word": "repository",
+    "correct": "depo",
+    "wrong": "klasör",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_254",
+    "word": "commit",
+    "correct": "işleme",
+    "wrong": "taslak",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_255",
+    "word": "push",
+    "correct": "gönderiş",
+    "wrong": "çekme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_256",
+    "word": "pull",
+    "correct": "çekme",
+    "wrong": "gönderiş",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_257",
+    "word": "merge",
+    "correct": "birleştirme",
+    "wrong": "bölme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_258",
+    "word": "branch",
+    "correct": "dal",
+    "wrong": "ana hat",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_259",
+    "word": "fork",
+    "correct": "çatallama",
+    "wrong": "birleştirme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_260",
+    "word": "clone",
+    "correct": "klonlama",
+    "wrong": "orijinal",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_261",
+    "word": "database management",
+    "correct": "veritabanı yönetimi",
+    "wrong": "veritabanı",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_262",
+    "word": "SQL",
+    "correct": "SQL",
+    "wrong": "SQL olmayan",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_263",
+    "word": "NoSQL",
+    "correct": "SQL olmayan",
+    "wrong": "SQL",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_264",
+    "word": "query",
+    "correct": "sorgu",
+    "wrong": "cevap",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_265",
+    "word": "data mining",
+    "correct": "veri madenciliği",
+    "wrong": "veri gözlemleme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_266",
+    "word": "data analysis",
+    "correct": "veri analizi",
+    "wrong": "veri toplama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_267",
+    "word": "big data",
+    "correct": "büyük veri",
+    "wrong": "küçük veri",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_268",
+    "word": "data science",
+    "correct": "veri bilimi",
+    "wrong": "matematik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_269",
+    "word": "cybersecurity",
+    "correct": "siber güvenlik",
+    "wrong": "açık",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_270",
+    "word": "hacking",
+    "correct": "hackleme",
+    "wrong": "güvenlik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_271",
+    "word": "ethical hacking",
+    "correct": "etik hackleme",
+    "wrong": "hackleme",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_272",
+    "word": "penetration testing",
+    "correct": "penetrasyon testi",
+    "wrong": "normal test",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_273",
+    "word": "malicious attack",
+    "correct": "kötü niyetli saldırı",
+    "wrong": "temiz",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_274",
+    "word": "denial of service",
+    "correct": "hizmet reddi",
+    "wrong": "sağlama",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_275",
+    "word": "phishing",
+    "correct": "kimlik avı",
+    "wrong": "güvenlik",
+    "category": "Teknoloji"
+  },
+  {
+    "id": "technology_276",
+    "word": "identity theft",
+    "correct": "kimlik hırsızlığı",
+    "wrong": "güvenlik",
+    "category": "Teknoloji"
+  }
+]

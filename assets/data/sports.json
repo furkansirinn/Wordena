@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "sports_1",
+    "word": "sport",
+    "correct": "spor",
+    "wrong": "hobi",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_2",
+    "word": "game",
+    "correct": "oyun",
+    "wrong": "ciddi",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_3",
+    "word": "match",
+    "correct": "maç",
+    "wrong": "antrenman",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_4",
+    "word": "competition",
+    "correct": "rekabet",
+    "wrong": "pratik",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_5",
+    "word": "tournament",
+    "correct": "turnuva",
+    "wrong": "sezon",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_6",
+    "word": "championship",
+    "correct": "şampiyonluk",
+    "wrong": "maç",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_7",
+    "word": "league",
+    "correct": "lig",
+    "wrong": "kulüp",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_8",
+    "word": "team",
+    "correct": "takım",
+    "wrong": "bireyler",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_9",
+    "word": "player",
+    "correct": "oyuncu",
+    "wrong": "hakem",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_10",
+    "word": "coach",
+    "correct": "antrenör",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_11",
+    "word": "referee",
+    "correct": "hakem",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_12",
+    "word": "umpire",
+    "correct": "hakem",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_13",
+    "word": "manager",
+    "correct": "yönetici",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_14",
+    "word": "captain",
+    "correct": "kaptan",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_15",
+    "word": "substitute",
+    "correct": "yedek",
+    "wrong": "ana oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_16",
+    "word": "athlete",
+    "correct": "sporcu",
+    "wrong": "seyirci",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_17",
+    "word": "professional",
+    "correct": "profesyonel",
+    "wrong": "amatör",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_18",
+    "word": "amateur",
+    "correct": "amatör",
+    "wrong": "profesyonel",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_19",
+    "word": "winner",
+    "correct": "kazanan",
+    "wrong": "kaybeden",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_20",
+    "word": "loser",
+    "correct": "kaybeden",
+    "wrong": "kazanan",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_21",
+    "word": "victor",
+    "correct": "galibiyet",
+    "wrong": "yenilgi",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_22",
+    "word": "champion",
+    "correct": "şampiyon",
+    "wrong": "kaybeden",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_23",
+    "word": "record",
+    "correct": "rekor",
+    "wrong": "ortalama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_24",
+    "word": "score",
+    "correct": "puan",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_25",
+    "word": "goal",
+    "correct": "gol",
+    "wrong": "savunma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_26",
+    "word": "point",
+    "correct": "puan",
+    "wrong": "hata",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_27",
+    "word": "round",
+    "correct": "tur",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_28",
+    "word": "inning",
+    "correct": "tur",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_29",
+    "word": "quarter",
+    "correct": "çeyrek",
+    "wrong": "yarı",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_30",
+    "word": "half",
+    "correct": "yarı",
+    "wrong": "çeyrek",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_31",
+    "word": "set",
+    "correct": "set",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_32",
+    "word": "period",
+    "correct": "dönem",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_33",
+    "word": "season",
+    "correct": "sezon",
+    "wrong": "maç",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_34",
+    "word": "playoff",
+    "correct": "playoff",
+    "wrong": "sezon",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_35",
+    "word": "final",
+    "correct": "final",
+    "wrong": "yarı final",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_36",
+    "word": "semi-final",
+    "correct": "yarı final",
+    "wrong": "final",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_37",
+    "word": "tie",
+    "correct": "beraberlik",
+    "wrong": "kazan",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_38",
+    "word": "draw",
+    "correct": "beraberlik",
+    "wrong": "kazan",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_39",
+    "word": "victory",
+    "correct": "zafer",
+    "wrong": "yenilgi",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_40",
+    "word": "defeat",
+    "correct": "yenilgi",
+    "wrong": "zafer",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_41",
+    "word": "win",
+    "correct": "kazanma",
+    "wrong": "kayıp",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_42",
+    "word": "loss",
+    "correct": "kayıp",
+    "wrong": "kazanma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_43",
+    "word": "football",
+    "correct": "futbol",
+    "wrong": "basketbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_44",
+    "word": "soccer",
+    "correct": "futbol",
+    "wrong": "basketbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_45",
+    "word": "baseball",
+    "correct": "beyzbol",
+    "wrong": "futbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_46",
+    "word": "basketball",
+    "correct": "basketbol",
+    "wrong": "futbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_47",
+    "word": "volleyball",
+    "correct": "voleybol",
+    "wrong": "basketbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_48",
+    "word": "tennis",
+    "correct": "tenis",
+    "wrong": "badminton",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_49",
+    "word": "badminton",
+    "correct": "badminton",
+    "wrong": "tenis",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_50",
+    "word": "table tennis",
+    "correct": "masa tenisi",
+    "wrong": "tenis",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_51",
+    "word": "cricket",
+    "correct": "kriket",
+    "wrong": "beyzbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_52",
+    "word": "rugby",
+    "correct": "ragbi",
+    "wrong": "futbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_53",
+    "word": "ice hockey",
+    "correct": "buz hokeyi",
+    "wrong": "futbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_54",
+    "word": "field hockey",
+    "correct": "saha hokeyi",
+    "wrong": "buzda",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_55",
+    "word": "lacrosse",
+    "correct": "lakaros",
+    "wrong": "futbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_56",
+    "word": "golf",
+    "correct": "golf",
+    "wrong": "tenis",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_57",
+    "word": "bowling",
+    "correct": "boling",
+    "wrong": "golf",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_58",
+    "word": "boxing",
+    "correct": "boks",
+    "wrong": "güreş",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_59",
+    "word": "wrestling",
+    "correct": "güreş",
+    "wrong": "boks",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_60",
+    "word": "martial arts",
+    "correct": "dövüş sanatları",
+    "wrong": "spor",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_61",
+    "word": "karate",
+    "correct": "karate",
+    "wrong": "judo",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_62",
+    "word": "judo",
+    "correct": "judo",
+    "wrong": "karate",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_63",
+    "word": "taekwondo",
+    "correct": "taekwondo",
+    "wrong": "karate",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_64",
+    "word": "kung fu",
+    "correct": "kung fu",
+    "wrong": "karate",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_65",
+    "word": "gymnastics",
+    "correct": "jimnastik",
+    "wrong": "sporcu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_66",
+    "word": "swimming",
+    "correct": "yüzme",
+    "wrong": "dalış",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_67",
+    "word": "diving",
+    "correct": "dalış",
+    "wrong": "yüzme",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_68",
+    "word": "snorkeling",
+    "correct": "su altı gözetleme",
+    "wrong": "yüzme",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_69",
+    "word": "surfing",
+    "correct": "sörf",
+    "wrong": "yüzme",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_70",
+    "word": "windsurfing",
+    "correct": "rüzgar sörf",
+    "wrong": "sörf",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_71",
+    "word": "wakeboarding",
+    "correct": "su kayağı",
+    "wrong": "sörf",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_72",
+    "word": "skateboarding",
+    "correct": "kaykay",
+    "wrong": "kayak",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_73",
+    "word": "skiing",
+    "correct": "kayak",
+    "wrong": "kaykay",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_74",
+    "word": "snowboarding",
+    "correct": "kar kayağı",
+    "wrong": "kayak",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_75",
+    "word": "ice skating",
+    "correct": "buz pateni",
+    "wrong": "kayak",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_76",
+    "word": "roller skating",
+    "correct": "patin",
+    "wrong": "buz pateni",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_77",
+    "word": "cycling",
+    "correct": "bisiklet",
+    "wrong": "yüzme",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_78",
+    "word": "mountain biking",
+    "correct": "dağ bisikleti",
+    "wrong": "yol bisikleti",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_79",
+    "word": "running",
+    "correct": "koşu",
+    "wrong": "yürüyüş",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_80",
+    "word": "jogging",
+    "correct": "hafif koşu",
+    "wrong": "hızlı koşu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_81",
+    "word": "walking",
+    "correct": "yürüyüş",
+    "wrong": "koşu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_82",
+    "word": "hiking",
+    "correct": "yürüyüş",
+    "wrong": "koşu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_83",
+    "word": "trail running",
+    "correct": "kros koşu",
+    "wrong": "pist koşusu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_84",
+    "word": "sprinting",
+    "correct": "sprintçilik",
+    "wrong": "maraton",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_85",
+    "word": "marathon",
+    "correct": "maraton",
+    "wrong": "sprint",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_86",
+    "word": "race",
+    "correct": "yarış",
+    "wrong": "eğitim",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_87",
+    "word": "relay race",
+    "correct": "bayrak yarışı",
+    "wrong": "bireysel",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_88",
+    "word": "hurdles",
+    "correct": "engelli koşu",
+    "wrong": "düz koşu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_89",
+    "word": "long jump",
+    "correct": "uzun atlama",
+    "wrong": "yüksek atlama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_90",
+    "word": "high jump",
+    "correct": "yüksek atlama",
+    "wrong": "uzun atlama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_91",
+    "word": "pole vault",
+    "correct": "sırıkla atlama",
+    "wrong": "atlama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_92",
+    "word": "shot put",
+    "correct": "gülleyi atma",
+    "wrong": "atlama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_93",
+    "word": "discus",
+    "correct": "disk atma",
+    "wrong": "atlama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_94",
+    "word": "javelin",
+    "correct": "cirit atma",
+    "wrong": "atlama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_95",
+    "word": "hammer throw",
+    "correct": "çekiç atma",
+    "wrong": "atlama",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_96",
+    "word": "weightlifting",
+    "correct": "halter kaldırma",
+    "wrong": "spor",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_97",
+    "word": "bodybuilding",
+    "correct": "vücut geliştirme",
+    "wrong": "sporcu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_98",
+    "word": "crossfit",
+    "correct": "crossfit",
+    "wrong": "egzersiz",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_99",
+    "word": "yoga",
+    "correct": "yoga",
+    "wrong": "egzersiz",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_100",
+    "word": "pilates",
+    "correct": "pilates",
+    "wrong": "yoga",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_101",
+    "word": "aerobics",
+    "correct": "aerobik",
+    "wrong": "yoga",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_102",
+    "word": "zumba",
+    "correct": "zumba",
+    "wrong": "dans",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_103",
+    "word": "dance",
+    "correct": "dans",
+    "wrong": "müzik",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_104",
+    "word": "basketball court",
+    "correct": "basketbol sahanı",
+    "wrong": "sahası",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_105",
+    "word": "football field",
+    "correct": "futbol sahanı",
+    "wrong": "sahası",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_106",
+    "word": "tennis court",
+    "correct": "tenis kortu",
+    "wrong": "kortu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_107",
+    "word": "golf course",
+    "correct": "golf sahası",
+    "wrong": "sahası",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_108",
+    "word": "swimming pool",
+    "correct": "yüzme havuzu",
+    "wrong": "havuz",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_109",
+    "word": "ice rink",
+    "correct": "buz pateni pisti",
+    "wrong": "pist",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_110",
+    "word": "stadium",
+    "correct": "stadyum",
+    "wrong": "okul",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_111",
+    "word": "arena",
+    "correct": "arena",
+    "wrong": "stadyum",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_112",
+    "word": "gym",
+    "correct": "spor salonu",
+    "wrong": "okul",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_113",
+    "word": "fitness center",
+    "correct": "fitness merkezi",
+    "wrong": "spor salonu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_114",
+    "word": "track",
+    "correct": "pist",
+    "wrong": "sahası",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_115",
+    "word": "pitch",
+    "correct": "sahası",
+    "wrong": "alan",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_116",
+    "word": "diamond",
+    "correct": "elmas şeklindeki alan",
+    "wrong": "kare",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_117",
+    "word": "court",
+    "correct": "kortu",
+    "wrong": "alan",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_118",
+    "word": "ball",
+    "correct": "top",
+    "wrong": "raket",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_119",
+    "word": "puck",
+    "correct": "hokey diski",
+    "wrong": "top",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_120",
+    "word": "racket",
+    "correct": "raket",
+    "wrong": "top",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_121",
+    "word": "bat",
+    "correct": "sopası",
+    "wrong": "top",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_122",
+    "word": "stick",
+    "correct": "sopası",
+    "wrong": "top",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_123",
+    "word": "club",
+    "correct": "golf sopası",
+    "wrong": "sopası",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_124",
+    "word": "glove",
+    "correct": "eldiveni",
+    "wrong": "top",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_125",
+    "word": "shoe",
+    "correct": "ayakkabı",
+    "wrong": "spor",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_126",
+    "word": "uniform",
+    "correct": "üniforma",
+    "wrong": "elbise",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_127",
+    "word": "jersey",
+    "correct": "forma",
+    "wrong": "üniforma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_128",
+    "word": "shorts",
+    "correct": "şort",
+    "wrong": "pantalon",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_129",
+    "word": "socks",
+    "correct": "çorap",
+    "wrong": "bot",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_130",
+    "word": "helmet",
+    "correct": "kask",
+    "wrong": "başlık",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_131",
+    "word": "padding",
+    "correct": "dolgu",
+    "wrong": "kask",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_132",
+    "word": "gear",
+    "correct": "donanım",
+    "wrong": "spor",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_133",
+    "word": "equipment",
+    "correct": "ekipman",
+    "wrong": "donanım",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_134",
+    "word": "whistle",
+    "correct": "düdük",
+    "wrong": "ses",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_135",
+    "word": "timer",
+    "correct": "zamanlayıcı",
+    "wrong": "saat",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_136",
+    "word": "scoreboard",
+    "correct": "skor tahtası",
+    "wrong": "tahtası",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_137",
+    "word": "goal post",
+    "correct": "gol direği",
+    "wrong": "direkleri",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_138",
+    "word": "net",
+    "correct": "ağ",
+    "wrong": "spor",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_139",
+    "word": "hoop",
+    "correct": "halka",
+    "wrong": "basketbol",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_140",
+    "word": "base",
+    "correct": "baz",
+    "wrong": "sahası",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_141",
+    "word": "wicket",
+    "correct": "wicket",
+    "wrong": "kriket",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_142",
+    "word": "medal",
+    "correct": "madalya",
+    "wrong": "ödül",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_143",
+    "word": "gold medal",
+    "correct": "altın madalya",
+    "wrong": "madalya",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_144",
+    "word": "silver medal",
+    "correct": "gümüş madalya",
+    "wrong": "madalya",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_145",
+    "word": "bronze medal",
+    "correct": "bronz madalya",
+    "wrong": "madalya",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_146",
+    "word": "trophy",
+    "correct": "kupa",
+    "wrong": "ödül",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_147",
+    "word": "award",
+    "correct": "ödül",
+    "wrong": "madalya",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_148",
+    "word": "prize",
+    "correct": "ödül",
+    "wrong": "madalya",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_149",
+    "word": "ribbon",
+    "correct": "şerit",
+    "wrong": "ödül",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_150",
+    "word": "certificate",
+    "correct": "sertifika",
+    "wrong": "ödül",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_151",
+    "word": "MVP",
+    "correct": "en değerli oyuncu",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_152",
+    "word": "starting lineup",
+    "correct": "başlangıç kadrosu",
+    "wrong": "kadrosu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_153",
+    "word": "bench",
+    "correct": "yedek sandalyesi",
+    "wrong": "oyuncuları",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_154",
+    "word": "substitute",
+    "correct": "yedek",
+    "wrong": "ana oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_155",
+    "word": "formation",
+    "correct": "oluşum",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_156",
+    "word": "strategy",
+    "correct": "strateji",
+    "wrong": "taktik",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_157",
+    "word": "tactic",
+    "correct": "taktik",
+    "wrong": "strateji",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_158",
+    "word": "offense",
+    "correct": "hücum",
+    "wrong": "savunma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_159",
+    "word": "defense",
+    "correct": "savunma",
+    "wrong": "hücum",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_160",
+    "word": "offense player",
+    "correct": "hücum oyuncusu",
+    "wrong": "savunma oyuncusu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_161",
+    "word": "defense player",
+    "correct": "savunma oyuncusu",
+    "wrong": "hücum oyuncusu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_162",
+    "word": "forward",
+    "correct": "forvet",
+    "wrong": "arka",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_163",
+    "word": "midfielder",
+    "correct": "ortafielder",
+    "wrong": "ön",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_164",
+    "word": "defender",
+    "correct": "defender",
+    "wrong": "forvet",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_165",
+    "word": "goalie",
+    "correct": "kaleci",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_166",
+    "word": "goalkeeper",
+    "correct": "kaleci",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_167",
+    "word": "pitcher",
+    "correct": "atıcı",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_168",
+    "word": "batter",
+    "correct": "sopacı",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_169",
+    "word": "catcher",
+    "correct": "tutucu",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_170",
+    "word": "infielder",
+    "correct": "iç alan oyuncusu",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_171",
+    "word": "outfielder",
+    "correct": "dış alan oyuncusu",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_172",
+    "word": "quarterback",
+    "correct": "çeyrek geri",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_173",
+    "word": "running back",
+    "correct": "koşu geri",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_174",
+    "word": "wide receiver",
+    "correct": "geniş alıcı",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_175",
+    "word": "offensive line",
+    "correct": "hücum hattı",
+    "wrong": "hatı",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_176",
+    "word": "defensive line",
+    "correct": "savunma hattı",
+    "wrong": "hatı",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_177",
+    "word": "pass",
+    "correct": "pas",
+    "wrong": "şut",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_178",
+    "word": "kick",
+    "correct": "tekme",
+    "wrong": "pas",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_179",
+    "word": "throw",
+    "correct": "atma",
+    "wrong": "pas",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_180",
+    "word": "catch",
+    "correct": "yakalama",
+    "wrong": "atma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_181",
+    "word": "block",
+    "correct": "blok",
+    "wrong": "vurma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_182",
+    "word": "tackle",
+    "correct": "geri alma",
+    "wrong": "koşma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_183",
+    "word": "slide",
+    "correct": "kaydırma",
+    "wrong": "koşma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_184",
+    "word": "dive",
+    "correct": "dalış",
+    "wrong": "kaydırma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_185",
+    "word": "roll",
+    "correct": "yuvarlanma",
+    "wrong": "dalış",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_186",
+    "word": "somersault",
+    "correct": "takla",
+    "wrong": "yuvarlanma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_187",
+    "word": "flip",
+    "correct": "takla",
+    "wrong": "yuvarlanma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_188",
+    "word": "stunt",
+    "correct": "numarayı",
+    "wrong": "hareket",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_189",
+    "word": "trick",
+    "correct": "numarayı",
+    "wrong": "basit",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_190",
+    "word": "combo",
+    "correct": "kombinasyon",
+    "wrong": "hareket",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_191",
+    "word": "foul",
+    "correct": "kural ihlali",
+    "wrong": "temiz",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_192",
+    "word": "penalty",
+    "correct": "ceza",
+    "wrong": "avantaj",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_193",
+    "word": "yellow card",
+    "correct": "sarı kart",
+    "wrong": "kart",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_194",
+    "word": "red card",
+    "correct": "kırmızı kart",
+    "wrong": "kart",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_195",
+    "word": "offside",
+    "correct": "ofsayt",
+    "wrong": "pozisyon",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_196",
+    "word": "injury time",
+    "correct": "ilave zaman",
+    "wrong": "zaman",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_197",
+    "word": "halftime",
+    "correct": "yarı zaman",
+    "wrong": "maç sonu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_198",
+    "word": "overtime",
+    "correct": "uzatma",
+    "wrong": "normal zaman",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_199",
+    "word": "overtime period",
+    "correct": "uzatma periyodu",
+    "wrong": "normal periyot",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_200",
+    "word": "tiebreaker",
+    "correct": "beraberlik kırıcı",
+    "wrong": "beraberlik",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_201",
+    "word": "sudden death",
+    "correct": "ani ölüm",
+    "wrong": "beraberlik",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_202",
+    "word": "best of three",
+    "correct": "en iyi üç",
+    "wrong": "sezon",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_203",
+    "word": "best of five",
+    "correct": "en iyi beş",
+    "wrong": "sezon",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_204",
+    "word": "best of seven",
+    "correct": "en iyi yedi",
+    "wrong": "sezon",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_205",
+    "word": "doubles",
+    "correct": "çiftler",
+    "wrong": "tekiller",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_206",
+    "word": "singles",
+    "correct": "tekiller",
+    "wrong": "çiftler",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_207",
+    "word": "mixed doubles",
+    "correct": "karma çiftler",
+    "wrong": "çiftler",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_208",
+    "word": "round robin",
+    "correct": "döner masa",
+    "wrong": "turnuva",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_209",
+    "word": "elimination",
+    "correct": "eleme",
+    "wrong": "devam",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_210",
+    "word": "seed",
+    "correct": "tohum",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_211",
+    "word": "seeding",
+    "correct": "tohumlama",
+    "wrong": "oyuncu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_212",
+    "word": "bracket",
+    "correct": "braket",
+    "wrong": "turnuva",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_213",
+    "word": "qualifying round",
+    "correct": "elenmiş tur",
+    "wrong": "final",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_214",
+    "word": "qualifying match",
+    "correct": "elenmiş maç",
+    "wrong": "final",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_215",
+    "word": "wild card",
+    "correct": "joker",
+    "wrong": "kart",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_216",
+    "word": "bye",
+    "correct": "otomatik geçiş",
+    "wrong": "maç",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_217",
+    "word": "forfeit",
+    "correct": "vazgeçiş",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_218",
+    "word": "disqualification",
+    "correct": "diskalifiye",
+    "wrong": "oyun",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_219",
+    "word": "appeal",
+    "correct": "itiraz",
+    "wrong": "karar",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_220",
+    "word": "protest",
+    "correct": "protesto",
+    "wrong": "kabul",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_221",
+    "word": "sportsmanship",
+    "correct": "spor ruhu",
+    "wrong": "hilekârlık",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_222",
+    "word": "fair play",
+    "correct": "adil oyun",
+    "wrong": "hile",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_223",
+    "word": "unsportsmanlike conduct",
+    "correct": "spor dışı davranış",
+    "wrong": "spor davranışı",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_224",
+    "word": "doping",
+    "correct": "uyuşturucu kullanımı",
+    "wrong": "temiz",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_225",
+    "word": "banned substance",
+    "correct": "yasaklı madde",
+    "wrong": "madde",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_226",
+    "word": "performance enhancing",
+    "correct": "performans artırma",
+    "wrong": "normal",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_227",
+    "word": "clean",
+    "correct": "temiz",
+    "wrong": "kirli",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_228",
+    "word": "cheating",
+    "correct": "hile",
+    "wrong": "dürüstlük",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_229",
+    "word": "cheat",
+    "correct": "hile",
+    "wrong": "dürüst",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_230",
+    "word": "replay",
+    "correct": "tekrar",
+    "wrong": "ilk",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_231",
+    "word": "instant replay",
+    "correct": "anlık tekrar",
+    "wrong": "canlı",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_232",
+    "word": "challenge",
+    "correct": "meydan okuma",
+    "wrong": "kabul",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_233",
+    "word": "review",
+    "correct": "gözden geçirme",
+    "wrong": "onayla",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_234",
+    "word": "video review",
+    "correct": "video incelemesi",
+    "wrong": "canlı",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_235",
+    "word": "controversial",
+    "correct": "tartışmalı",
+    "wrong": "açık",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_236",
+    "word": "controversial call",
+    "correct": "tartışmalı karar",
+    "wrong": "açık karar",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_237",
+    "word": "missed call",
+    "correct": "kaçırılan karar",
+    "wrong": "harita",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_238",
+    "word": "training",
+    "correct": "antrenman",
+    "wrong": "maç",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_239",
+    "word": "practice",
+    "correct": "pratik",
+    "wrong": "maç",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_240",
+    "word": "drill",
+    "correct": "pratik",
+    "wrong": "antrenman",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_241",
+    "word": "conditioning",
+    "correct": "kondisyonlama",
+    "wrong": "spor",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_242",
+    "word": "workout",
+    "correct": "antrenman",
+    "wrong": "istirahat",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_243",
+    "word": "warm-up",
+    "correct": "ısınma",
+    "wrong": "soğutma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_244",
+    "word": "cool-down",
+    "correct": "soğutma",
+    "wrong": "ısınma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_245",
+    "word": "stretch",
+    "correct": "germe",
+    "wrong": "daralma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_246",
+    "word": "strength training",
+    "correct": "güç antrenmanı",
+    "wrong": "sporcu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_247",
+    "word": "endurance training",
+    "correct": "dayanıklılık antrenmanı",
+    "wrong": "sporcu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_248",
+    "word": "speed training",
+    "correct": "hız antrenmanı",
+    "wrong": "sporcu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_249",
+    "word": "agility training",
+    "correct": "çeviklik antrenmanı",
+    "wrong": "sporcu",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_250",
+    "word": "diet",
+    "correct": "diyet",
+    "wrong": "beslenme",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_251",
+    "word": "nutrition",
+    "correct": "beslenme",
+    "wrong": "diyet",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_252",
+    "word": "hydration",
+    "correct": "su almak",
+    "wrong": "susuz",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_253",
+    "word": "recovery",
+    "correct": "iyileşme",
+    "wrong": "sakatlanma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_254",
+    "word": "rest day",
+    "correct": "dinlenme günü",
+    "wrong": "antrenman günü",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_255",
+    "word": "injury prevention",
+    "correct": "sakatlanma önleme",
+    "wrong": "sakatlanma",
+    "category": "Spor"
+  },
+  {
+    "id": "sports_256",
+    "word": "rehabilitation",
+    "correct": "rehabilitasyon",
+    "wrong": "sakatlanma",
+    "category": "Spor"
+  }
+]

@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "people_professions_1",
+    "word": "person",
+    "correct": "kişi",
+    "wrong": "hayvan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_2",
+    "word": "people",
+    "correct": "insanlar",
+    "wrong": "nesneler",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_3",
+    "word": "human",
+    "correct": "insan",
+    "wrong": "makine",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_4",
+    "word": "individual",
+    "correct": "birey",
+    "wrong": "grup",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_5",
+    "word": "character",
+    "correct": "karakter",
+    "wrong": "tür",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_6",
+    "word": "personality",
+    "correct": "kişilik",
+    "wrong": "cebir",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_7",
+    "word": "adult",
+    "correct": "yetişkin",
+    "wrong": "çocuk",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_8",
+    "word": "child",
+    "correct": "çocuk",
+    "wrong": "yetişkin",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_9",
+    "word": "teenager",
+    "correct": "ergen",
+    "wrong": "çocuk",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_10",
+    "word": "senior",
+    "correct": "yaşlı",
+    "wrong": "genç",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_11",
+    "word": "elderly",
+    "correct": "yaşlı",
+    "wrong": "genç",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_12",
+    "word": "professional",
+    "correct": "profesyonel",
+    "wrong": "amatör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_13",
+    "word": "expert",
+    "correct": "uzman",
+    "wrong": "acemi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_14",
+    "word": "specialist",
+    "correct": "uzman",
+    "wrong": "amatör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_15",
+    "word": "novice",
+    "correct": "acemi",
+    "wrong": "uzman",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_16",
+    "word": "beginner",
+    "correct": "başlayan",
+    "wrong": "uzman",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_17",
+    "word": "veteran",
+    "correct": "tecrübeli",
+    "wrong": "acemi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_18",
+    "word": "apprentice",
+    "correct": "çırak",
+    "wrong": "usta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_19",
+    "word": "intern",
+    "correct": "stajyer",
+    "wrong": "çalışan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_20",
+    "word": "employee",
+    "correct": "çalışan",
+    "wrong": "işveren",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_21",
+    "word": "employer",
+    "correct": "işveren",
+    "wrong": "çalışan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_22",
+    "word": "boss",
+    "correct": "patron",
+    "wrong": "astı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_23",
+    "word": "manager",
+    "correct": "yönetici",
+    "wrong": "astı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_24",
+    "word": "supervisor",
+    "correct": "denetçi",
+    "wrong": "astı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_25",
+    "word": "administrator",
+    "correct": "yönetici",
+    "wrong": "astı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_26",
+    "word": "director",
+    "correct": "direktör",
+    "wrong": "astı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_27",
+    "word": "executive",
+    "correct": "yönetim",
+    "wrong": "çalışan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_28",
+    "word": "officer",
+    "correct": "memur",
+    "wrong": "astı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_29",
+    "word": "official",
+    "correct": "yetkilisi",
+    "wrong": "sivil",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_30",
+    "word": "colleague",
+    "correct": "meslektaş",
+    "wrong": "rakip",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_31",
+    "word": "coworker",
+    "correct": "iş arkadaşı",
+    "wrong": "rakip",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_32",
+    "word": "team member",
+    "correct": "takım üyesi",
+    "wrong": "yabancı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_33",
+    "word": "associate",
+    "correct": "ortağı",
+    "wrong": "rakip",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_34",
+    "word": "partner",
+    "correct": "ortak",
+    "wrong": "rakip",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_35",
+    "word": "client",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_36",
+    "word": "customer",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_37",
+    "word": "consumer",
+    "correct": "tüketici",
+    "wrong": "satıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_38",
+    "word": "vendor",
+    "correct": "satıcı",
+    "wrong": "alıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_39",
+    "word": "supplier",
+    "correct": "tedarikçi",
+    "wrong": "müşteri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_40",
+    "word": "contractor",
+    "correct": "müteahhit",
+    "wrong": "müşteri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_41",
+    "word": "consultant",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_42",
+    "word": "advisor",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_43",
+    "word": "counselor",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_44",
+    "word": "doctor",
+    "correct": "doktor",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_45",
+    "word": "physician",
+    "correct": "hekimi",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_46",
+    "word": "surgeon",
+    "correct": "cerrah",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_47",
+    "word": "dentist",
+    "correct": "diş hekimi",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_48",
+    "word": "nurse",
+    "correct": "hemşire",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_49",
+    "word": "paramedic",
+    "correct": "paramedik",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_50",
+    "word": "therapist",
+    "correct": "terapist",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_51",
+    "word": "psychologist",
+    "correct": "psikolog",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_52",
+    "word": "psychiatrist",
+    "correct": "psikiyatrist",
+    "wrong": "hasta",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_53",
+    "word": "veterinarian",
+    "correct": "veteriner",
+    "wrong": "hayvan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_54",
+    "word": "pharmacist",
+    "correct": "eczacı",
+    "wrong": "hastalık",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_55",
+    "word": "optometrist",
+    "correct": "göz doktoru",
+    "wrong": "göz",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_56",
+    "word": "podiatrist",
+    "correct": "ayak doktoru",
+    "wrong": "ayak",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_57",
+    "word": "chiropractor",
+    "correct": "kiroprakti",
+    "wrong": "sırt",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_58",
+    "word": "acupuncturist",
+    "correct": "akupunktur",
+    "wrong": "iğne",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_59",
+    "word": "herbalist",
+    "correct": "otacı",
+    "wrong": "ot",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_60",
+    "word": "nutritionist",
+    "correct": "beslenme uzmanı",
+    "wrong": "beslenme",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_61",
+    "word": "dietitian",
+    "correct": "diyetisyen",
+    "wrong": "beslenme",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_62",
+    "word": "personal trainer",
+    "correct": "kişisel antrenör",
+    "wrong": "antrenor",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_63",
+    "word": "fitness coach",
+    "correct": "fitness antrenörü",
+    "wrong": "antrenor",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_64",
+    "word": "lawyer",
+    "correct": "avukat",
+    "wrong": "müvekil",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_65",
+    "word": "attorney",
+    "correct": "avukat",
+    "wrong": "müvekil",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_66",
+    "word": "judge",
+    "correct": "hakim",
+    "wrong": "davacı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_67",
+    "word": "prosecutor",
+    "correct": "savcı",
+    "wrong": "avukat",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_68",
+    "word": "defendant",
+    "correct": "sanık",
+    "wrong": "davacı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_69",
+    "word": "plaintiff",
+    "correct": "davacı",
+    "wrong": "sanık",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_70",
+    "word": "witness",
+    "correct": "tanık",
+    "wrong": "mahkeme",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_71",
+    "word": "juror",
+    "correct": "jüri üyesi",
+    "wrong": "mahkeme",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_72",
+    "word": "paralegal",
+    "correct": "hukuk yardımcısı",
+    "wrong": "avukat",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_73",
+    "word": "notary",
+    "correct": "noter",
+    "wrong": "hukuk",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_74",
+    "word": "police officer",
+    "correct": "polis",
+    "wrong": "suçlu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_75",
+    "word": "detective",
+    "correct": "dedektif",
+    "wrong": "suçlu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_76",
+    "word": "investigator",
+    "correct": "araştırmacı",
+    "wrong": "şüpheli",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_77",
+    "word": "security guard",
+    "correct": "güvenlik görevlisi",
+    "wrong": "suçlu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_78",
+    "word": "security officer",
+    "correct": "güvenlik memuru",
+    "wrong": "suçlu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_79",
+    "word": "soldier",
+    "correct": "asker",
+    "wrong": "sivil",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_80",
+    "word": "general",
+    "correct": "orgeneral",
+    "wrong": "erin",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_81",
+    "word": "officer",
+    "correct": "subay",
+    "wrong": "erin",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_82",
+    "word": "sergeant",
+    "correct": "çavuş",
+    "wrong": "erin",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_83",
+    "word": "corporal",
+    "correct": "onbaşı",
+    "wrong": "erin",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_84",
+    "word": "private",
+    "correct": "er",
+    "wrong": "subay",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_85",
+    "word": "firefighter",
+    "correct": "itfaiyeci",
+    "wrong": "yangın",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_86",
+    "word": "paramedic",
+    "correct": "paramedik",
+    "wrong": "ambulans",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_87",
+    "word": "emergency responder",
+    "correct": "acil müdahale görevlisi",
+    "wrong": "acil",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_88",
+    "word": "construction worker",
+    "correct": "inşaat işçisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_89",
+    "word": "laborer",
+    "correct": "işçi",
+    "wrong": "patron",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_90",
+    "word": "mechanic",
+    "correct": "tamircisi",
+    "wrong": "elektrikçi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_91",
+    "word": "electrician",
+    "correct": "elektrikçi",
+    "wrong": "tesisatçı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_92",
+    "word": "plumber",
+    "correct": "tesisatçı",
+    "wrong": "elektrikçi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_93",
+    "word": "carpenter",
+    "correct": "marangoz",
+    "wrong": "ustası",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_94",
+    "word": "painter",
+    "correct": "boyacı",
+    "wrong": "elektrikçi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_95",
+    "word": "mason",
+    "correct": "ustası taş",
+    "wrong": "ustası",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_96",
+    "word": "welder",
+    "correct": "usta kaynakçı",
+    "wrong": "ustası",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_97",
+    "word": "blacksmith",
+    "correct": "demirci",
+    "wrong": "ustası",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_98",
+    "word": "locksmith",
+    "correct": "çilingir",
+    "wrong": "kilit",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_99",
+    "word": "glazier",
+    "correct": "camcı",
+    "wrong": "boyacı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_100",
+    "word": "roofer",
+    "correct": "çatı ustası",
+    "wrong": "ustası",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_101",
+    "word": "tiler",
+    "correct": "fayans ustası",
+    "wrong": "ustası",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_102",
+    "word": "plasterer",
+    "correct": "sıvacı",
+    "wrong": "ustası",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_103",
+    "word": "architect",
+    "correct": "mimar",
+    "wrong": "müteahhit",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_104",
+    "word": "civil engineer",
+    "correct": "inşaat mühendisi",
+    "wrong": "mimar",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_105",
+    "word": "mechanical engineer",
+    "correct": "makine mühendisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_106",
+    "word": "electrical engineer",
+    "correct": "elektrik mühendisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_107",
+    "word": "software engineer",
+    "correct": "yazılım mühendisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_108",
+    "word": "chemical engineer",
+    "correct": "kimya mühendisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_109",
+    "word": "structural engineer",
+    "correct": "yapı mühendisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_110",
+    "word": "geotechnical engineer",
+    "correct": "jeoteknik mühendisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_111",
+    "word": "surveyor",
+    "correct": "harita mühendisi",
+    "wrong": "mühendis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_112",
+    "word": "technician",
+    "correct": "teknisyen",
+    "wrong": "amatör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_113",
+    "word": "technologist",
+    "correct": "teknoloji uzmanı",
+    "wrong": "amatör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_114",
+    "word": "scientist",
+    "correct": "bilim insanı",
+    "wrong": "amatör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_115",
+    "word": "researcher",
+    "correct": "araştırmacı",
+    "wrong": "görmezden",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_116",
+    "word": "laboratory technician",
+    "correct": "laboratuvar teknisyeni",
+    "wrong": "teknisyen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_117",
+    "word": "data analyst",
+    "correct": "veri analisti",
+    "wrong": "analiz",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_118",
+    "word": "programmer",
+    "correct": "programcı",
+    "wrong": "kullanıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_119",
+    "word": "software developer",
+    "correct": "yazılım geliştirici",
+    "wrong": "yazılım",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_120",
+    "word": "web developer",
+    "correct": "web geliştirici",
+    "wrong": "yazılım",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_121",
+    "word": "app developer",
+    "correct": "uygulama geliştirici",
+    "wrong": "yazılım",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_122",
+    "word": "IT specialist",
+    "correct": "BT uzmanı",
+    "wrong": "kullanıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_123",
+    "word": "network administrator",
+    "correct": "ağ yöneticisi",
+    "wrong": "ağ",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_124",
+    "word": "database administrator",
+    "correct": "veritabanı yöneticisi",
+    "wrong": "veritabanı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_125",
+    "word": "system administrator",
+    "correct": "sistem yöneticisi",
+    "wrong": "sistem",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_126",
+    "word": "teacher",
+    "correct": "öğretmen",
+    "wrong": "öğrenci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_127",
+    "word": "professor",
+    "correct": "profesör",
+    "wrong": "öğrenci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_128",
+    "word": "lecturer",
+    "correct": "öğretim görevlisi",
+    "wrong": "öğrenci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_129",
+    "word": "instructor",
+    "correct": "eğitmeni",
+    "wrong": "öğretmen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_130",
+    "word": "tutor",
+    "correct": "özel öğretmen",
+    "wrong": "öğrenci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_131",
+    "word": "coach",
+    "correct": "antrenör",
+    "wrong": "oyuncu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_132",
+    "word": "educator",
+    "correct": "eğitimci",
+    "wrong": "öğrenci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_133",
+    "word": "principal",
+    "correct": "müdür",
+    "wrong": "öğretmen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_134",
+    "word": "dean",
+    "correct": "dekan",
+    "wrong": "öğrenci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_135",
+    "word": "scholar",
+    "correct": "bilgin",
+    "wrong": "cahil",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_136",
+    "word": "academic",
+    "correct": "akademisyen",
+    "wrong": "pratik",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_137",
+    "word": "artist",
+    "correct": "sanatçı",
+    "wrong": "patron",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_138",
+    "word": "painter",
+    "correct": "ressam",
+    "wrong": "tablosu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_139",
+    "word": "sculptor",
+    "correct": "heykeltıraş",
+    "wrong": "heykel",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_140",
+    "word": "designer",
+    "correct": "tasarımcı",
+    "wrong": "ürün",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_141",
+    "word": "graphic designer",
+    "correct": "grafik tasarımcı",
+    "wrong": "tasarımcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_142",
+    "word": "interior designer",
+    "correct": "iç mimar",
+    "wrong": "tasarımcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_143",
+    "word": "fashion designer",
+    "correct": "moda tasarımcısı",
+    "wrong": "tasarımcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_144",
+    "word": "architect",
+    "correct": "mimar",
+    "wrong": "yapı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_145",
+    "word": "illustrator",
+    "correct": "çizer",
+    "wrong": "ressam",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_146",
+    "word": "photographer",
+    "correct": "fotoğrafçı",
+    "wrong": "fotoğraf",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_147",
+    "word": "cinematographer",
+    "correct": "sinematografi",
+    "wrong": "kamera",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_148",
+    "word": "videographer",
+    "correct": "video operatörü",
+    "wrong": "video",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_149",
+    "word": "musician",
+    "correct": "müzisyen",
+    "wrong": "dinleyici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_150",
+    "word": "composer",
+    "correct": "besteci",
+    "wrong": "müzisyen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_151",
+    "word": "conductor",
+    "correct": "orkestra şefi",
+    "wrong": "müzisyen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_152",
+    "word": "performer",
+    "correct": "sanatçı",
+    "wrong": "seyirci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_153",
+    "word": "singer",
+    "correct": "şarkıcı",
+    "wrong": "dinleyici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_154",
+    "word": "guitarist",
+    "correct": "gitar oyuncusu",
+    "wrong": "müzisyen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_155",
+    "word": "drummer",
+    "correct": "davulcu",
+    "wrong": "müzisyen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_156",
+    "word": "pianist",
+    "correct": "piyanist",
+    "wrong": "müzisyen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_157",
+    "word": "violinist",
+    "correct": "kemancı",
+    "wrong": "müzisyen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_158",
+    "word": "dancer",
+    "correct": "dansçı",
+    "wrong": "seyirci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_159",
+    "word": "choreographer",
+    "correct": "koreograf",
+    "wrong": "dansçı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_160",
+    "word": "actor",
+    "correct": "oyuncu",
+    "wrong": "yönetmen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_161",
+    "word": "actress",
+    "correct": "oyuncu",
+    "wrong": "yönetmen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_162",
+    "word": "director",
+    "correct": "yönetmen",
+    "wrong": "oyuncu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_163",
+    "word": "producer",
+    "correct": "yapımcı",
+    "wrong": "yönetmen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_164",
+    "word": "screenwriter",
+    "correct": "senaryo yazarı",
+    "wrong": "yapımcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_165",
+    "word": "playwright",
+    "correct": "oyun yazarı",
+    "wrong": "oyuncu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_166",
+    "word": "writer",
+    "correct": "yazar",
+    "wrong": "okuyucu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_167",
+    "word": "author",
+    "correct": "yazar",
+    "wrong": "okuyucu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_168",
+    "word": "novelist",
+    "correct": "roman yazarı",
+    "wrong": "okuyucu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_169",
+    "word": "poet",
+    "correct": "şair",
+    "wrong": "okuyucu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_170",
+    "word": "journalist",
+    "correct": "gazeteci",
+    "wrong": "okuyucu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_171",
+    "word": "reporter",
+    "correct": "muhabir",
+    "wrong": "editör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_172",
+    "word": "editor",
+    "correct": "editör",
+    "wrong": "yazar",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_173",
+    "word": "publisher",
+    "correct": "yayımcı",
+    "wrong": "yazar",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_174",
+    "word": "translator",
+    "correct": "çevirmen",
+    "wrong": "yazılı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_175",
+    "word": "interpreter",
+    "correct": "tercüman",
+    "wrong": "ağızlı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_176",
+    "word": "copywriter",
+    "correct": "metin yazarı",
+    "wrong": "yayımcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_177",
+    "word": "copyeditor",
+    "correct": "metin editörü",
+    "wrong": "yayımcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_178",
+    "word": "proofreader",
+    "correct": "düzeltme okuyan",
+    "wrong": "editör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_179",
+    "word": "documentarian",
+    "correct": "belgesel yönetmeni",
+    "wrong": "yönetmen",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_180",
+    "word": "lecturer",
+    "correct": "verici",
+    "wrong": "dinleyici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_181",
+    "word": "speaker",
+    "correct": "konuşmacı",
+    "wrong": "dinleyici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_182",
+    "word": "presenter",
+    "correct": "sunucu",
+    "wrong": "seyirci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_183",
+    "word": "announcer",
+    "correct": "spikerı",
+    "wrong": "seyirci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_184",
+    "word": "newscaster",
+    "correct": "haber spikeri",
+    "wrong": "dinleyici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_185",
+    "word": "commentator",
+    "correct": "yorumcu",
+    "wrong": "sessizlik",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_186",
+    "word": "critic",
+    "correct": "eleştirmen",
+    "wrong": "hayran",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_187",
+    "word": "reviewer",
+    "correct": "eleştirmen",
+    "wrong": "yazılı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_188",
+    "word": "consultant",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_189",
+    "word": "advisor",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_190",
+    "word": "mediator",
+    "correct": "arabulucu",
+    "wrong": "taraf",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_191",
+    "word": "negotiator",
+    "correct": "müzakereci",
+    "wrong": "taraf",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_192",
+    "word": "lobbyist",
+    "correct": "lobici",
+    "wrong": "vasi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_193",
+    "word": "activist",
+    "correct": "aktivist",
+    "wrong": "pasif",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_194",
+    "word": "organizer",
+    "correct": "örgütçü",
+    "wrong": "kaos",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_195",
+    "word": "coordinator",
+    "correct": "koordinatör",
+    "wrong": "dağınık",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_196",
+    "word": "manager",
+    "correct": "yönetici",
+    "wrong": "astı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_197",
+    "word": "operations manager",
+    "correct": "operasyon yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_198",
+    "word": "project manager",
+    "correct": "proje yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_199",
+    "word": "product manager",
+    "correct": "ürün yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_200",
+    "word": "account manager",
+    "correct": "hesap yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_201",
+    "word": "sales manager",
+    "correct": "satış yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_202",
+    "word": "marketing manager",
+    "correct": "pazarlama yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_203",
+    "word": "human resources manager",
+    "correct": "insan kaynakları yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_204",
+    "word": "financial manager",
+    "correct": "finans yöneticisi",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_205",
+    "word": "chef",
+    "correct": "aşçıbaşı",
+    "wrong": "garson",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_206",
+    "word": "cook",
+    "correct": "aşçı",
+    "wrong": "garson",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_207",
+    "word": "baker",
+    "correct": "fırıncı",
+    "wrong": "şef",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_208",
+    "word": "pastry chef",
+    "correct": "pastane şefi",
+    "wrong": "şef",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_209",
+    "word": "butcher",
+    "correct": "kasap",
+    "wrong": "fırıncı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_210",
+    "word": "fishmonger",
+    "correct": "balıkçı",
+    "wrong": "kasap",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_211",
+    "word": "grocer",
+    "correct": "bakkalı",
+    "wrong": "kasap",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_212",
+    "word": "farmer",
+    "correct": "çiftçi",
+    "wrong": "şehirli",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_213",
+    "word": "rancher",
+    "correct": "çiftlik sahibi",
+    "wrong": "şehirli",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_214",
+    "word": "herder",
+    "correct": "çoban",
+    "wrong": "şehirli",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_215",
+    "word": "beekeeper",
+    "correct": "arıcı",
+    "wrong": "çiftçi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_216",
+    "word": "florist",
+    "correct": "çiçekçi",
+    "wrong": "demiryolu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_217",
+    "word": "gardener",
+    "correct": "bahçıvan",
+    "wrong": "çiçekçi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_218",
+    "word": "landscaper",
+    "correct": "peyzaj mimarı",
+    "wrong": "bahçıvan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_219",
+    "word": "nursery worker",
+    "correct": "eğitim kurumu işçisi",
+    "wrong": "bahçıvan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_220",
+    "word": "horticulturist",
+    "correct": "bahçıcılık uzmanı",
+    "wrong": "bahçıvan",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_221",
+    "word": "vintner",
+    "correct": "şarap üreticisi",
+    "wrong": "çiftçi",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_222",
+    "word": "brewer",
+    "correct": "bira üreticisi",
+    "wrong": "şarap",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_223",
+    "word": "distiller",
+    "correct": "destilatasyon",
+    "wrong": "bira",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_224",
+    "word": "enologist",
+    "correct": "şarap bilgini",
+    "wrong": "üretici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_225",
+    "word": "sommelier",
+    "correct": "şarap uzmanı",
+    "wrong": "garson",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_226",
+    "word": "bartender",
+    "correct": "barista",
+    "wrong": "garson",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_227",
+    "word": "barista",
+    "correct": "barista",
+    "wrong": "garson",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_228",
+    "word": "waiter",
+    "correct": "garson",
+    "wrong": "aşçı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_229",
+    "word": "waitress",
+    "correct": "garson",
+    "wrong": "aşçı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_230",
+    "word": "server",
+    "correct": "sunucu",
+    "wrong": "garson",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_231",
+    "word": "busboy",
+    "correct": "yardımcı garson",
+    "wrong": "garson",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_232",
+    "word": "host",
+    "correct": "mc",
+    "wrong": "misafir",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_233",
+    "word": "hostess",
+    "correct": "ev sahibesi",
+    "wrong": "misafir",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_234",
+    "word": "concierge",
+    "correct": "turizm görevlisi",
+    "wrong": "kapıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_235",
+    "word": "bellhop",
+    "correct": "kapıcı",
+    "wrong": "misafir",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_236",
+    "word": "porter",
+    "correct": "hammal",
+    "wrong": "kapıcı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_237",
+    "word": "doorman",
+    "correct": "kapıcı",
+    "wrong": "görevli",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_238",
+    "word": "security guard",
+    "correct": "güvenlik görevlisi",
+    "wrong": "suçlu",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_239",
+    "word": "bouncer",
+    "correct": "güvenlik görevlisi",
+    "wrong": "misafir",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_240",
+    "word": "usher",
+    "correct": "görevli",
+    "wrong": "seyirci",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_241",
+    "word": "guide",
+    "correct": "rehber",
+    "wrong": "turist",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_242",
+    "word": "tour guide",
+    "correct": "tur rehberi",
+    "wrong": "turist",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_243",
+    "word": "travel agent",
+    "correct": "turizm acentası",
+    "wrong": "turist",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_244",
+    "word": "travel consultant",
+    "correct": "seyahat danışmanı",
+    "wrong": "turist",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_245",
+    "word": "concierge",
+    "correct": "turizm görevlisi",
+    "wrong": "misafir",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_246",
+    "word": "receptionist",
+    "correct": "resepsiyonist",
+    "wrong": "misafir",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_247",
+    "word": "switchboard operator",
+    "correct": "santral görevlisi",
+    "wrong": "operatör",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_248",
+    "word": "secretary",
+    "correct": "sekreteri",
+    "wrong": "patron",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_249",
+    "word": "administrative assistant",
+    "correct": "idari asistan",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_250",
+    "word": "personal assistant",
+    "correct": "kişisel asistan",
+    "wrong": "patron",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_251",
+    "word": "executive assistant",
+    "correct": "yönetim asistanı",
+    "wrong": "yönetici",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_252",
+    "word": "office manager",
+    "correct": "ofis yöneticisi",
+    "wrong": "ofis",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_253",
+    "word": "clerk",
+    "correct": "memur",
+    "wrong": "müdür",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_254",
+    "word": "data entry clerk",
+    "correct": "veri giriş görevlisi",
+    "wrong": "veri",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_255",
+    "word": "transcriptionist",
+    "correct": "transkripsiyon görevlisi",
+    "wrong": "yazı",
+    "category": "İnsanlar & Meslekler"
+  },
+  {
+    "id": "people_professions_256",
+    "word": "typist",
+    "correct": "daktilograf",
+    "wrong": "yazı",
+    "category": "İnsanlar & Meslekler"
+  }
+]

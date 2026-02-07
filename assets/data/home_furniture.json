@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "home_furniture_1",
+    "word": "home",
+    "correct": "ev",
+    "wrong": "okul",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_2",
+    "word": "house",
+    "correct": "ev",
+    "wrong": "apartman",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_3",
+    "word": "apartment",
+    "correct": "apartman",
+    "wrong": "ev",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_4",
+    "word": "flat",
+    "correct": "daire",
+    "wrong": "apartman",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_5",
+    "word": "room",
+    "correct": "oda",
+    "wrong": "korridor",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_6",
+    "word": "bedroom",
+    "correct": "yatak odası",
+    "wrong": "salon",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_7",
+    "word": "living room",
+    "correct": "oturma odası",
+    "wrong": "yatak odası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_8",
+    "word": "kitchen",
+    "correct": "mutfak",
+    "wrong": "yemek odası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_9",
+    "word": "dining room",
+    "correct": "yemek odası",
+    "wrong": "mutfak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_10",
+    "word": "bathroom",
+    "correct": "banyo",
+    "wrong": "yatak odası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_11",
+    "word": "toilet",
+    "correct": "tuvalet",
+    "wrong": "banyo",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_12",
+    "word": "hallway",
+    "correct": "koridor",
+    "wrong": "oda",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_13",
+    "word": "staircase",
+    "correct": "merdiven",
+    "wrong": "kapı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_14",
+    "word": "basement",
+    "correct": "bodrum kat",
+    "wrong": "çatı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_15",
+    "word": "attic",
+    "correct": "çatı katı",
+    "wrong": "bodrum",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_16",
+    "word": "garage",
+    "correct": "garaj",
+    "wrong": "ev",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_17",
+    "word": "balcony",
+    "correct": "balkon",
+    "wrong": "veranda",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_18",
+    "word": "patio",
+    "correct": "veranda",
+    "wrong": "balkon",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_19",
+    "word": "garden",
+    "correct": "bahçe",
+    "wrong": "ev",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_20",
+    "word": "yard",
+    "correct": "avlu",
+    "wrong": "bahçe",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_21",
+    "word": "terrace",
+    "correct": "teras",
+    "wrong": "balkon",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_22",
+    "word": "fence",
+    "correct": "çit",
+    "wrong": "duvar",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_23",
+    "word": "gate",
+    "correct": "kapı",
+    "wrong": "çit",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_24",
+    "word": "door",
+    "correct": "kapı",
+    "wrong": "pencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_25",
+    "word": "window",
+    "correct": "pencere",
+    "wrong": "kapı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_26",
+    "word": "frame",
+    "correct": "çerçeve",
+    "wrong": "pencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_27",
+    "word": "wall",
+    "correct": "duvar",
+    "wrong": "tavan",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_28",
+    "word": "ceiling",
+    "correct": "tavan",
+    "wrong": "duvar",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_29",
+    "word": "floor",
+    "correct": "zemin",
+    "wrong": "tavan",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_30",
+    "word": "carpet",
+    "correct": "halı",
+    "wrong": "parke",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_31",
+    "word": "rug",
+    "correct": "halı",
+    "wrong": "parke",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_32",
+    "word": "hardwood",
+    "correct": "ahşap zemin",
+    "wrong": "halı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_33",
+    "word": "tile",
+    "correct": "fayans",
+    "wrong": "ahşap",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_34",
+    "word": "marble",
+    "correct": "mermer",
+    "wrong": "fayans",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_35",
+    "word": "furniture",
+    "correct": "mobilya",
+    "wrong": "dekorasyon",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_36",
+    "word": "bed",
+    "correct": "yatak",
+    "wrong": "koltuk",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_37",
+    "word": "mattress",
+    "correct": "yatak malzemesi",
+    "wrong": "yastık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_38",
+    "word": "pillow",
+    "correct": "yastık",
+    "wrong": "battaniye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_39",
+    "word": "blanket",
+    "correct": "battaniye",
+    "wrong": "yastık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_40",
+    "word": "sheet",
+    "correct": "çarşaf",
+    "wrong": "yastık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_41",
+    "word": "quilt",
+    "correct": "yorgan",
+    "wrong": "battaniye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_42",
+    "word": "duvet",
+    "correct": "puf yorgan",
+    "wrong": "battaniye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_43",
+    "word": "headboard",
+    "correct": "yatak başı",
+    "wrong": "yatak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_44",
+    "word": "footboard",
+    "correct": "yatak sonu",
+    "wrong": "yatak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_45",
+    "word": "nightstand",
+    "correct": "gece dolabı",
+    "wrong": "konsol",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_46",
+    "word": "dresser",
+    "correct": "dolap",
+    "wrong": "gece dolabı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_47",
+    "word": "wardrobe",
+    "correct": "gardrop",
+    "wrong": "dolap",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_48",
+    "word": "closet",
+    "correct": "dolap",
+    "wrong": "oda",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_49",
+    "word": "cabinet",
+    "correct": "dolap",
+    "wrong": "masa",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_50",
+    "word": "shelf",
+    "correct": "raf",
+    "wrong": "dolap",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_51",
+    "word": "desk",
+    "correct": "masa",
+    "wrong": "sandalye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_52",
+    "word": "table",
+    "correct": "masa",
+    "wrong": "sandalye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_53",
+    "word": "coffee table",
+    "correct": "orta sehpa",
+    "wrong": "masa",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_54",
+    "word": "dining table",
+    "correct": "yemek masası",
+    "wrong": "orta sehpa",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_55",
+    "word": "chair",
+    "correct": "sandalye",
+    "wrong": "masa",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_56",
+    "word": "armchair",
+    "correct": "koltuk",
+    "wrong": "sandalye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_57",
+    "word": "recliner",
+    "correct": "ayrıntılı sandalye",
+    "wrong": "koltuk",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_58",
+    "word": "sofa",
+    "correct": "kanepe",
+    "wrong": "koltuk",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_59",
+    "word": "couch",
+    "correct": "kanepe",
+    "wrong": "koltuk",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_60",
+    "word": "bench",
+    "correct": "sıra",
+    "wrong": "sandalye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_61",
+    "word": "stool",
+    "correct": "tabure",
+    "wrong": "sandalye",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_62",
+    "word": "ottoman",
+    "correct": "puf",
+    "wrong": "tabure",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_63",
+    "word": "bookshelf",
+    "correct": "kitap rafı",
+    "wrong": "dolap",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_64",
+    "word": "bookcase",
+    "correct": "kitaplık",
+    "wrong": "dolap",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_65",
+    "word": "desk lamp",
+    "correct": "masa lambası",
+    "wrong": "tavan lambası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_66",
+    "word": "table lamp",
+    "correct": "masa lambası",
+    "wrong": "tavan lambası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_67",
+    "word": "floor lamp",
+    "correct": "ayaklı lamba",
+    "wrong": "tavan lambası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_68",
+    "word": "ceiling lamp",
+    "correct": "tavan lambası",
+    "wrong": "duvar lambası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_69",
+    "word": "chandelier",
+    "correct": "avize",
+    "wrong": "lamba",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_70",
+    "word": "light bulb",
+    "correct": "ampul",
+    "wrong": "lamba",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_71",
+    "word": "LED",
+    "correct": "LED",
+    "wrong": "neon",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_72",
+    "word": "switch",
+    "correct": "anahtar",
+    "wrong": "soket",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_73",
+    "word": "outlet",
+    "correct": "soket",
+    "wrong": "anahtar",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_74",
+    "word": "plug",
+    "correct": "fiş",
+    "wrong": "soket",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_75",
+    "word": "cord",
+    "correct": "kord",
+    "wrong": "tel",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_76",
+    "word": "remote control",
+    "correct": "kumanda",
+    "wrong": "düğme",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_77",
+    "word": "thermostat",
+    "correct": "termosta",
+    "wrong": "soğutma",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_78",
+    "word": "air conditioner",
+    "correct": "klima",
+    "wrong": "ısıtma",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_79",
+    "word": "heating",
+    "correct": "ısıtma",
+    "wrong": "soğutma",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_80",
+    "word": "fan",
+    "correct": "fanı",
+    "wrong": "klima",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_81",
+    "word": "dehumidifier",
+    "correct": "nem giderici",
+    "wrong": "nem oluşturucu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_82",
+    "word": "humidifier",
+    "correct": "nem oluşturucu",
+    "wrong": "nem giderici",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_83",
+    "word": "fireplace",
+    "correct": "şömine",
+    "wrong": "ısıtma",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_84",
+    "word": "heater",
+    "correct": "ısıtıcı",
+    "wrong": "soğutma",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_85",
+    "word": "air purifier",
+    "correct": "hava temizleyici",
+    "wrong": "hava kirliyicisi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_86",
+    "word": "vacuum cleaner",
+    "correct": "elektrik süpürgesi",
+    "wrong": "süpürge",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_87",
+    "word": "broom",
+    "correct": "süpürge",
+    "wrong": "temizlik",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_88",
+    "word": "mop",
+    "correct": "mop",
+    "wrong": "süpürge",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_89",
+    "word": "bucket",
+    "correct": "kova",
+    "wrong": "tenek",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_90",
+    "word": "dustpan",
+    "correct": "köstek",
+    "wrong": "süpürge",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_91",
+    "word": "trash can",
+    "correct": "çöp kovası",
+    "wrong": "kova",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_92",
+    "word": "recycle bin",
+    "correct": "geri dönüşüm kutusu",
+    "wrong": "çöp kovası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_93",
+    "word": "cleaning supplies",
+    "correct": "temizlik malzemeleri",
+    "wrong": "dekorasyon",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_94",
+    "word": "laundry basket",
+    "correct": "çamaşır sepeti",
+    "wrong": "sepet",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_95",
+    "word": "hamper",
+    "correct": "çamaşır sepeti",
+    "wrong": "sepet",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_96",
+    "word": "washer",
+    "correct": "çamaşır makinesi",
+    "wrong": "kurutma makinesi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_97",
+    "word": "dryer",
+    "correct": "kurutma makinesi",
+    "wrong": "çamaşır makinesi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_98",
+    "word": "iron",
+    "correct": "ütü",
+    "wrong": "çamaşır makinesi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_99",
+    "word": "ironing board",
+    "correct": "ütü masası",
+    "wrong": "ütü",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_100",
+    "word": "clothesline",
+    "correct": "çamaşır ipi",
+    "wrong": "sepet",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_101",
+    "word": "clothespin",
+    "correct": "çamaşır mandalı",
+    "wrong": "ipi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_102",
+    "word": "kitchen sink",
+    "correct": "mutfak lavabı",
+    "wrong": "çiçek",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_103",
+    "word": "faucet",
+    "correct": "musluk",
+    "wrong": "lavabo",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_104",
+    "word": "drain",
+    "correct": "drenaj",
+    "wrong": "musluk",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_105",
+    "word": "dishwasher",
+    "correct": "bulaşık makinesi",
+    "wrong": "tencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_106",
+    "word": "garbage disposal",
+    "correct": "çöp değirmeni",
+    "wrong": "çöp kutusu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_107",
+    "word": "stove",
+    "correct": "ocak",
+    "wrong": "fırın",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_108",
+    "word": "oven",
+    "correct": "fırın",
+    "wrong": "ocak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_109",
+    "word": "microwave",
+    "correct": "mikrodalga fırın",
+    "wrong": "tost makinesi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_110",
+    "word": "toaster",
+    "correct": "tost makinesi",
+    "wrong": "kızartma",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_111",
+    "word": "coffee maker",
+    "correct": "kahve makinesi",
+    "wrong": "çaydanlık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_112",
+    "word": "kettle",
+    "correct": "çaydanlık",
+    "wrong": "kahve makinesi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_113",
+    "word": "blender",
+    "correct": "blender",
+    "wrong": "mikser",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_114",
+    "word": "food processor",
+    "correct": "yemek makinesi",
+    "wrong": "mikser",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_115",
+    "word": "mixer",
+    "correct": "mikser",
+    "wrong": "blender",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_116",
+    "word": "refrigerator",
+    "correct": "buzdolabı",
+    "wrong": "ocak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_117",
+    "word": "freezer",
+    "correct": "dondurucusu",
+    "wrong": "buzdolabı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_118",
+    "word": "ice maker",
+    "correct": "buz makinesi",
+    "wrong": "buzdolabı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_119",
+    "word": "cabinet",
+    "correct": "dolap",
+    "wrong": "raf",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_120",
+    "word": "counter",
+    "correct": "tezgah",
+    "wrong": "masa",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_121",
+    "word": "countertop",
+    "correct": "tezgah yüzeyi",
+    "wrong": "tezgah",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_122",
+    "word": "backsplash",
+    "correct": "sıçrama paneli",
+    "wrong": "tezgah",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_123",
+    "word": "cutting board",
+    "correct": "kesme tahtası",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_124",
+    "word": "knife block",
+    "correct": "bıçak tutucu",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_125",
+    "word": "spice rack",
+    "correct": "baharat rafı",
+    "wrong": "rafı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_126",
+    "word": "cookbook",
+    "correct": "yemek kitabı",
+    "wrong": "roman",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_127",
+    "word": "recipe book",
+    "correct": "tarif kitabı",
+    "wrong": "roman",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_128",
+    "word": "pot rack",
+    "correct": "tencere rafı",
+    "wrong": "dolap",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_129",
+    "word": "utensil holder",
+    "correct": "mutfak eşyaları tutucu",
+    "wrong": "masa",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_130",
+    "word": "napkin holder",
+    "correct": "peçete tutucu",
+    "wrong": "tutucusu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_131",
+    "word": "place mat",
+    "correct": "yer matı",
+    "wrong": "halı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_132",
+    "word": "tablecloth",
+    "correct": "masa örtüsü",
+    "wrong": "peçete",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_133",
+    "word": "table runner",
+    "correct": "masa koşusu",
+    "wrong": "masa örtüsü",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_134",
+    "word": "napkin",
+    "correct": "peçete",
+    "wrong": "havlu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_135",
+    "word": "dish",
+    "correct": "tabak",
+    "wrong": "kase",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_136",
+    "word": "bowl",
+    "correct": "kase",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_137",
+    "word": "cup",
+    "correct": "fincan",
+    "wrong": "bardak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_138",
+    "word": "glass",
+    "correct": "bardak",
+    "wrong": "fincan",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_139",
+    "word": "mug",
+    "correct": "kupa",
+    "wrong": "bardak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_140",
+    "word": "plate",
+    "correct": "tabak",
+    "wrong": "kase",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_141",
+    "word": "saucer",
+    "correct": "tabak altlığı",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_142",
+    "word": "serving dish",
+    "correct": "servis tabağı",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_143",
+    "word": "pot",
+    "correct": "tencere",
+    "wrong": "tavası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_144",
+    "word": "pan",
+    "correct": "tavası",
+    "wrong": "tencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_145",
+    "word": "skillet",
+    "correct": "tava",
+    "wrong": "tavası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_146",
+    "word": "frying pan",
+    "correct": "kızartma tavası",
+    "wrong": "tencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_147",
+    "word": "saucepan",
+    "correct": "sos tenceresi",
+    "wrong": "tavası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_148",
+    "word": "stockpot",
+    "correct": "büyük tencere",
+    "wrong": "tencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_149",
+    "word": "dutch oven",
+    "correct": "Hollanda fırını",
+    "wrong": "tencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_150",
+    "word": "baking pan",
+    "correct": "fırın tepsisi",
+    "wrong": "tencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_151",
+    "word": "cake pan",
+    "correct": "kek kalıbı",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_152",
+    "word": "pie dish",
+    "correct": "pasta tabaği",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_153",
+    "word": "loaf pan",
+    "correct": "ekmek kalıbı",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_154",
+    "word": "muffin tin",
+    "correct": "muffin kalıbı",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_155",
+    "word": "cooling rack",
+    "correct": "soğutma rafı",
+    "wrong": "raf",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_156",
+    "word": "measuring cups",
+    "correct": "ölçü bardakları",
+    "wrong": "bardak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_157",
+    "word": "measuring spoons",
+    "correct": "ölçü kaşıkları",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_158",
+    "word": "mixing bowl",
+    "correct": "karıştırma kabı",
+    "wrong": "kase",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_159",
+    "word": "whisk",
+    "correct": "çırpıcı",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_160",
+    "word": "spatula",
+    "correct": "spatula",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_161",
+    "word": "ladle",
+    "correct": "kepçe",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_162",
+    "word": "tongs",
+    "correct": "maşa",
+    "wrong": "çatal",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_163",
+    "word": "wooden spoon",
+    "correct": "ahşap kaşık",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_164",
+    "word": "rubber spatula",
+    "correct": "silikon spatula",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_165",
+    "word": "can opener",
+    "correct": "konserve açacağı",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_166",
+    "word": "bottle opener",
+    "correct": "şişe açacağı",
+    "wrong": "konserve açacağı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_167",
+    "word": "corkscrew",
+    "correct": "mantarlık",
+    "wrong": "şişe açacağı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_168",
+    "word": "grater",
+    "correct": "tırmık",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_169",
+    "word": "peeler",
+    "correct": "kürdan",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_170",
+    "word": "potato masher",
+    "correct": "patates ezmeci",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_171",
+    "word": "garlic press",
+    "correct": "sarımsak presi",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_172",
+    "word": "colander",
+    "correct": "süzgeç",
+    "wrong": "tavası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_173",
+    "word": "strainer",
+    "correct": "süzgeç",
+    "wrong": "tavası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_174",
+    "word": "sieve",
+    "correct": "eleme",
+    "wrong": "tavası",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_175",
+    "word": "mortar and pestle",
+    "correct": "dönerme ve pestle",
+    "wrong": "kaşık",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_176",
+    "word": "cutting knife",
+    "correct": "kesme bıçağı",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_177",
+    "word": "chef's knife",
+    "correct": "aşçı bıçağı",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_178",
+    "word": "paring knife",
+    "correct": "soyma bıçağı",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_179",
+    "word": "serrated knife",
+    "correct": "testere bıçağı",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_180",
+    "word": "cleaver",
+    "correct": "satır",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_181",
+    "word": "sharpening stone",
+    "correct": "bıçak bileme taşı",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_182",
+    "word": "knife sharpener",
+    "correct": "bıçak bileme",
+    "wrong": "bıçak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_183",
+    "word": "cutting board",
+    "correct": "kesme tahtası",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_184",
+    "word": "wooden cutting board",
+    "correct": "ahşap kesme tahtası",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_185",
+    "word": "plastic cutting board",
+    "correct": "plastik kesme tahtası",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_186",
+    "word": "glass cutting board",
+    "correct": "cam kesme tahtası",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_187",
+    "word": "towel rack",
+    "correct": "havlu rafı",
+    "wrong": "rafı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_188",
+    "word": "toilet paper holder",
+    "correct": "tuvalet kağıdı tutucu",
+    "wrong": "tutucu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_189",
+    "word": "soap dish",
+    "correct": "sabun tabağı",
+    "wrong": "tabak",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_190",
+    "word": "toothbrush holder",
+    "correct": "diş fırçası tutucu",
+    "wrong": "tutucu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_191",
+    "word": "mirror",
+    "correct": "ayna",
+    "wrong": "pencere",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_192",
+    "word": "medicine cabinet",
+    "correct": "ilaç dolabı",
+    "wrong": "dolap",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_193",
+    "word": "bathtub",
+    "correct": "banyo küveti",
+    "wrong": "duş",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_194",
+    "word": "shower",
+    "correct": "duş",
+    "wrong": "banyo",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_195",
+    "word": "shower curtain",
+    "correct": "duş perdesi",
+    "wrong": "perdesi",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_196",
+    "word": "shower head",
+    "correct": "duş başlığı",
+    "wrong": "duş",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_197",
+    "word": "faucet",
+    "correct": "musluk",
+    "wrong": "lavabo",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_198",
+    "word": "sink",
+    "correct": "lavabo",
+    "wrong": "banyo",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_199",
+    "word": "toilet",
+    "correct": "tuvalet",
+    "wrong": "banyo",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_200",
+    "word": "bidet",
+    "correct": "bidet",
+    "wrong": "tuvalet",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_201",
+    "word": "plunger",
+    "correct": "çekiç",
+    "wrong": "temizleme",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_202",
+    "word": "toilet brush",
+    "correct": "tuvalet fırçası",
+    "wrong": "fırça",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_203",
+    "word": "bath mat",
+    "correct": "banyo matı",
+    "wrong": "halı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_204",
+    "word": "towel",
+    "correct": "havlu",
+    "wrong": "peçete",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_205",
+    "word": "hand towel",
+    "correct": "el havlusu",
+    "wrong": "havlu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_206",
+    "word": "washcloth",
+    "correct": "yıkama bezi",
+    "wrong": "havlu",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_207",
+    "word": "bathrobe",
+    "correct": "banyo elbisesi",
+    "wrong": "elbise",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_208",
+    "word": "slippers",
+    "correct": "terlik",
+    "wrong": "ayakkabı",
+    "category": "Ev & Eşyalar"
+  },
+  {
+    "id": "home_furniture_209",
+    "word": "bathroom scale",
+    "correct": "banyo tartısı",
+    "wrong": "sayı",
+    "category": "Ev & Eşyalar"
+  }
+]

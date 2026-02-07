@@ -1,0 +1,2011 @@
+[
+  {
+    "id": "nouns_1",
+    "word": "person",
+    "correct": "kişi",
+    "wrong": "hayvan",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_2",
+    "word": "man",
+    "correct": "erkek",
+    "wrong": "kadın",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_3",
+    "word": "woman",
+    "correct": "kadın",
+    "wrong": "erkek",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_4",
+    "word": "child",
+    "correct": "çocuk",
+    "wrong": "yetişkin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_5",
+    "word": "boy",
+    "correct": "erkek çocuk",
+    "wrong": "kız",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_6",
+    "word": "girl",
+    "correct": "kız",
+    "wrong": "erkek",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_7",
+    "word": "baby",
+    "correct": "bebek",
+    "wrong": "yetişkin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_8",
+    "word": "infant",
+    "correct": "bebeğe",
+    "wrong": "yaşlı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_9",
+    "word": "toddler",
+    "correct": "küçük çocuk",
+    "wrong": "yaşlı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_10",
+    "word": "teenager",
+    "correct": "ergen",
+    "wrong": "çocuk",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_11",
+    "word": "adult",
+    "correct": "yetişkin",
+    "wrong": "çocuk",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_12",
+    "word": "elder",
+    "correct": "yaşlı",
+    "wrong": "genç",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_13",
+    "word": "elderly",
+    "correct": "yaşlı",
+    "wrong": "genç",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_14",
+    "word": "senior",
+    "correct": "yaşlı",
+    "wrong": "genç",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_15",
+    "word": "friend",
+    "correct": "arkadaş",
+    "wrong": "düşman",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_16",
+    "word": "enemy",
+    "correct": "düşman",
+    "wrong": "arkadaş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_17",
+    "word": "family",
+    "correct": "aile",
+    "wrong": "tanımayan",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_18",
+    "word": "relative",
+    "correct": "akraba",
+    "wrong": "tanımayan",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_19",
+    "word": "parent",
+    "correct": "ebeveyn",
+    "wrong": "çocuk",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_20",
+    "word": "mother",
+    "correct": "anne",
+    "wrong": "baba",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_21",
+    "word": "father",
+    "correct": "baba",
+    "wrong": "anne",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_22",
+    "word": "parent",
+    "correct": "ebeveyn",
+    "wrong": "çocuk",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_23",
+    "word": "son",
+    "correct": "oğul",
+    "wrong": "kız",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_24",
+    "word": "daughter",
+    "correct": "kız",
+    "wrong": "oğul",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_25",
+    "word": "sibling",
+    "correct": "kardeş",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_26",
+    "word": "brother",
+    "correct": "erkek kardeş",
+    "wrong": "kız kardeş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_27",
+    "word": "sister",
+    "correct": "kız kardeş",
+    "wrong": "erkek kardeş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_28",
+    "word": "grandmother",
+    "correct": "büyükannesu",
+    "wrong": "büyükbabası",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_29",
+    "word": "grandfather",
+    "correct": "büyükbabası",
+    "wrong": "büyükannesu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_30",
+    "word": "uncle",
+    "correct": "amca",
+    "wrong": "teyze",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_31",
+    "word": "aunt",
+    "correct": "teyze",
+    "wrong": "amca",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_32",
+    "word": "cousin",
+    "correct": "kuzen",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_33",
+    "word": "nephew",
+    "correct": "yeğen",
+    "wrong": "kız yeğen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_34",
+    "word": "niece",
+    "correct": "kız yeğen",
+    "wrong": "yeğen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_35",
+    "word": "husband",
+    "correct": "koca",
+    "wrong": "eş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_36",
+    "word": "wife",
+    "correct": "eş",
+    "wrong": "koca",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_37",
+    "word": "spouse",
+    "correct": "eş",
+    "wrong": "boş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_38",
+    "word": "partner",
+    "correct": "ortak",
+    "wrong": "rakip",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_39",
+    "word": "fiancé",
+    "correct": "nişanlı",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_40",
+    "word": "fiancée",
+    "correct": "nişanlı",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_41",
+    "word": "lover",
+    "correct": "sevgili",
+    "wrong": "düşman",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_42",
+    "word": "sweetheart",
+    "correct": "sevgili",
+    "wrong": "düşman",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_43",
+    "word": "neighbor",
+    "correct": "komşu",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_44",
+    "word": "stranger",
+    "correct": "yabancı",
+    "wrong": "komşu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_45",
+    "word": "acquaintance",
+    "correct": "tanıdık",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_46",
+    "word": "colleague",
+    "correct": "meslektaş",
+    "wrong": "rakip",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_47",
+    "word": "coworker",
+    "correct": "iş arkadaşı",
+    "wrong": "rakip",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_48",
+    "word": "boss",
+    "correct": "patron",
+    "wrong": "astı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_49",
+    "word": "supervisor",
+    "correct": "şef",
+    "wrong": "astı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_50",
+    "word": "manager",
+    "correct": "yönetici",
+    "wrong": "astı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_51",
+    "word": "director",
+    "correct": "direktör",
+    "wrong": "astı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_52",
+    "word": "president",
+    "correct": "başkan",
+    "wrong": "astı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_53",
+    "word": "officer",
+    "correct": "memur",
+    "wrong": "sivil",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_54",
+    "word": "official",
+    "correct": "yetkilisi",
+    "wrong": "sivil",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_55",
+    "word": "employee",
+    "correct": "çalışan",
+    "wrong": "işveren",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_56",
+    "word": "worker",
+    "correct": "işçi",
+    "wrong": "işveren",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_57",
+    "word": "laborer",
+    "correct": "işçi",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_58",
+    "word": "teacher",
+    "correct": "öğretmen",
+    "wrong": "öğrenci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_59",
+    "word": "student",
+    "correct": "öğrenci",
+    "wrong": "öğretmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_60",
+    "word": "professor",
+    "correct": "profesör",
+    "wrong": "öğrenci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_61",
+    "word": "instructor",
+    "correct": "eğitmeni",
+    "wrong": "öğrenci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_62",
+    "word": "coach",
+    "correct": "antrenör",
+    "wrong": "oyuncu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_63",
+    "word": "trainer",
+    "correct": "eğitmeni",
+    "wrong": "öğrenci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_64",
+    "word": "tutor",
+    "correct": "özel öğretmen",
+    "wrong": "öğrenci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_65",
+    "word": "mentor",
+    "correct": "danışman",
+    "wrong": "öğrenci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_66",
+    "word": "guide",
+    "correct": "rehber",
+    "wrong": "seyyah",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_67",
+    "word": "counselor",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_68",
+    "word": "advisor",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_69",
+    "word": "consultant",
+    "correct": "danışman",
+    "wrong": "müşteri",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_70",
+    "word": "specialist",
+    "correct": "uzman",
+    "wrong": "amatör",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_71",
+    "word": "expert",
+    "correct": "uzman",
+    "wrong": "amatör",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_72",
+    "word": "professional",
+    "correct": "profesyonel",
+    "wrong": "amatör",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_73",
+    "word": "amateur",
+    "correct": "amatör",
+    "wrong": "profesyonel",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_74",
+    "word": "novice",
+    "correct": "acemi",
+    "wrong": "uzman",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_75",
+    "word": "beginner",
+    "correct": "başlayan",
+    "wrong": "uzman",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_76",
+    "word": "veteran",
+    "correct": "yaşlı",
+    "wrong": "acemi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_77",
+    "word": "rookie",
+    "correct": "yeni",
+    "wrong": "tecrübeli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_78",
+    "word": "artist",
+    "correct": "sanatçı",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_79",
+    "word": "musician",
+    "correct": "müzisyen",
+    "wrong": "dinleyici",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_80",
+    "word": "singer",
+    "correct": "şarkıcı",
+    "wrong": "dinleyici",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_81",
+    "word": "dancer",
+    "correct": "dansçı",
+    "wrong": "seyirci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_82",
+    "word": "actor",
+    "correct": "oyuncu",
+    "wrong": "yönetmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_83",
+    "word": "actress",
+    "correct": "oyuncu",
+    "wrong": "yönetmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_84",
+    "word": "director",
+    "correct": "yönetmen",
+    "wrong": "oyuncu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_85",
+    "word": "writer",
+    "correct": "yazar",
+    "wrong": "okuyucu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_86",
+    "word": "author",
+    "correct": "yazar",
+    "wrong": "okuyucu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_87",
+    "word": "poet",
+    "correct": "şair",
+    "wrong": "okuyucu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_88",
+    "word": "playwright",
+    "correct": "oyun yazarı",
+    "wrong": "oyuncu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_89",
+    "word": "journalist",
+    "correct": "gazeteci",
+    "wrong": "okuyucu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_90",
+    "word": "reporter",
+    "correct": "muhabir",
+    "wrong": "editör",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_91",
+    "word": "editor",
+    "correct": "editör",
+    "wrong": "yazar",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_92",
+    "word": "publisher",
+    "correct": "yayımcı",
+    "wrong": "yazar",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_93",
+    "word": "printer",
+    "correct": "baskı",
+    "wrong": "tasarımcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_94",
+    "word": "designer",
+    "correct": "tasarımcı",
+    "wrong": "üretici",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_95",
+    "word": "architect",
+    "correct": "mimar",
+    "wrong": "müteahhit",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_96",
+    "word": "engineer",
+    "correct": "mühendis",
+    "wrong": "teknisyen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_97",
+    "word": "mechanic",
+    "correct": "tamircisi",
+    "wrong": "fabrika",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_98",
+    "word": "technician",
+    "correct": "teknisyen",
+    "wrong": "amatör",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_99",
+    "word": "scientist",
+    "correct": "bilim insanı",
+    "wrong": "amatör",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_100",
+    "word": "researcher",
+    "correct": "araştırmacı",
+    "wrong": "fakir",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_101",
+    "word": "doctor",
+    "correct": "doktor",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_102",
+    "word": "physician",
+    "correct": "hekimi",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_103",
+    "word": "surgeon",
+    "correct": "cerrah",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_104",
+    "word": "dentist",
+    "correct": "diş hekimi",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_105",
+    "word": "nurse",
+    "correct": "hemşire",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_106",
+    "word": "therapist",
+    "correct": "terapist",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_107",
+    "word": "psychologist",
+    "correct": "psikolog",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_108",
+    "word": "psychiatrist",
+    "correct": "psikiyatrist",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_109",
+    "word": "pharmacist",
+    "correct": "eczacı",
+    "wrong": "hasta",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_110",
+    "word": "veterinarian",
+    "correct": "veteriner",
+    "wrong": "hayvan",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_111",
+    "word": "lawyer",
+    "correct": "avukat",
+    "wrong": "müvekil",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_112",
+    "word": "attorney",
+    "correct": "avukat",
+    "wrong": "müvekil",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_113",
+    "word": "judge",
+    "correct": "hakim",
+    "wrong": "davacı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_114",
+    "word": "juror",
+    "correct": "jüri üyesi",
+    "wrong": "mahkeme",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_115",
+    "word": "witness",
+    "correct": "tanık",
+    "wrong": "mahkeme",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_116",
+    "word": "defendant",
+    "correct": "sanık",
+    "wrong": "davacı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_117",
+    "word": "plaintiff",
+    "correct": "davacı",
+    "wrong": "sanık",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_118",
+    "word": "prosecutor",
+    "correct": "savcı",
+    "wrong": "avukat",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_119",
+    "word": "detective",
+    "correct": "dedektif",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_120",
+    "word": "investigator",
+    "correct": "araştırmacı",
+    "wrong": "şüpheli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_121",
+    "word": "police",
+    "correct": "polis",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_122",
+    "word": "officer",
+    "correct": "polis",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_123",
+    "word": "soldier",
+    "correct": "asker",
+    "wrong": "sivil",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_124",
+    "word": "general",
+    "correct": "orgeneral",
+    "wrong": "erin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_125",
+    "word": "captain",
+    "correct": "kaptan",
+    "wrong": "erin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_126",
+    "word": "sergeant",
+    "correct": "çavuş",
+    "wrong": "erin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_127",
+    "word": "pilot",
+    "correct": "pilot",
+    "wrong": "yolcu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_128",
+    "word": "copilot",
+    "correct": "yardımcı pilot",
+    "wrong": "yolcu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_129",
+    "word": "captain",
+    "correct": "kaptan",
+    "wrong": "gemi mühendisi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_130",
+    "word": "sailor",
+    "correct": "gemi mühendisi",
+    "wrong": "kaptan",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_131",
+    "word": "merchant",
+    "correct": "tüccar",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_132",
+    "word": "trader",
+    "correct": "tüccar",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_133",
+    "word": "vendor",
+    "correct": "satıcı",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_134",
+    "word": "seller",
+    "correct": "satıcı",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_135",
+    "word": "buyer",
+    "correct": "alıcı",
+    "wrong": "satıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_136",
+    "word": "customer",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_137",
+    "word": "client",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_138",
+    "word": "consumer",
+    "correct": "tüketici",
+    "wrong": "satıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_139",
+    "word": "shopper",
+    "correct": "alıcı",
+    "wrong": "satıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_140",
+    "word": "deliveryman",
+    "correct": "teslimatçı",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_141",
+    "word": "postman",
+    "correct": "postacı",
+    "wrong": "gönderici",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_142",
+    "word": "mailman",
+    "correct": "postacı",
+    "wrong": "gönderici",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_143",
+    "word": "courier",
+    "correct": "kurye",
+    "wrong": "gönderici",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_144",
+    "word": "messenger",
+    "correct": "haber",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_145",
+    "word": "representative",
+    "correct": "temsilci",
+    "wrong": "müşteri",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_146",
+    "word": "agent",
+    "correct": "ajan",
+    "wrong": "müşteri",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_147",
+    "word": "broker",
+    "correct": "aracı",
+    "wrong": "taraf",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_148",
+    "word": "middleman",
+    "correct": "aracı",
+    "wrong": "taraf",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_149",
+    "word": "mediator",
+    "correct": "arabulucu",
+    "wrong": "taraf",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_150",
+    "word": "negotiator",
+    "correct": "müzakereci",
+    "wrong": "taraf",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_151",
+    "word": "diplomat",
+    "correct": "diplomat",
+    "wrong": "sivil",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_152",
+    "word": "ambassador",
+    "correct": "büyükelçi",
+    "wrong": "gözlemci",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_153",
+    "word": "ambassador",
+    "correct": "büyükelçi",
+    "wrong": "turist",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_154",
+    "word": "minister",
+    "correct": "bakan",
+    "wrong": "memurunun",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_155",
+    "word": "cabinet",
+    "correct": "kabine",
+    "wrong": "meclisi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_156",
+    "word": "parliament",
+    "correct": "parlamento",
+    "wrong": "meclisi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_157",
+    "word": "congress",
+    "correct": "kongre",
+    "wrong": "meclisi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_158",
+    "word": "senate",
+    "correct": "senato",
+    "wrong": "meclisi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_159",
+    "word": "representative",
+    "correct": "temsilci",
+    "wrong": "seçmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_160",
+    "word": "senator",
+    "correct": "senatör",
+    "wrong": "seçmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_161",
+    "word": "congressman",
+    "correct": "temsilci",
+    "wrong": "seçmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_162",
+    "word": "legislator",
+    "correct": "milletvekili",
+    "wrong": "seçmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_163",
+    "word": "politician",
+    "correct": "politikacı",
+    "wrong": "seçmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_164",
+    "word": "candidate",
+    "correct": "aday",
+    "wrong": "seçmen",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_165",
+    "word": "voter",
+    "correct": "seçmen",
+    "wrong": "aday",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_166",
+    "word": "citizen",
+    "correct": "vatandaş",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_167",
+    "word": "national",
+    "correct": "vatandaş",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_168",
+    "word": "immigrant",
+    "correct": "göçmen",
+    "wrong": "yerli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_169",
+    "word": "refugee",
+    "correct": "mülteci",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_170",
+    "word": "alien",
+    "correct": "yabancı",
+    "wrong": "vatandaş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_171",
+    "word": "native",
+    "correct": "yerli",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_172",
+    "word": "indigenous",
+    "correct": "yerli halk",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_173",
+    "word": "aboriginal",
+    "correct": "yerli",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_174",
+    "word": "peasant",
+    "correct": "köylü",
+    "wrong": "şehirli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_175",
+    "word": "farmer",
+    "correct": "çiftçi",
+    "wrong": "şehirli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_176",
+    "word": "rancher",
+    "correct": "çiftlik sahibi",
+    "wrong": "şehirli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_177",
+    "word": "herder",
+    "correct": "çoban",
+    "wrong": "şehirli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_178",
+    "word": "shepherd",
+    "correct": "çoban",
+    "wrong": "şehirli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_179",
+    "word": "fisherman",
+    "correct": "balıkçı",
+    "wrong": "çiftçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_180",
+    "word": "miner",
+    "correct": "madenci",
+    "wrong": "işçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_181",
+    "word": "lumberjack",
+    "correct": "ormancı",
+    "wrong": "işçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_182",
+    "word": "woodcutter",
+    "correct": "oduncu",
+    "wrong": "işçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_183",
+    "word": "blacksmith",
+    "correct": "demirci",
+    "wrong": "ustası",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_184",
+    "word": "carpenter",
+    "correct": "marangoz",
+    "wrong": "ustası",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_185",
+    "word": "mason",
+    "correct": "ustası taş",
+    "wrong": "ustası",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_186",
+    "word": "bricklayer",
+    "correct": "tuğlacı",
+    "wrong": "ustası",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_187",
+    "word": "plumber",
+    "correct": "tesisatçı",
+    "wrong": "elektrikçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_188",
+    "word": "electrician",
+    "correct": "elektrikçi",
+    "wrong": "tesisatçı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_189",
+    "word": "painter",
+    "correct": "boyacı",
+    "wrong": "elektrikçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_190",
+    "word": "tailor",
+    "correct": "terzi",
+    "wrong": "kunduracı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_191",
+    "word": "seamstress",
+    "correct": "terzi",
+    "wrong": "kunduracı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_192",
+    "word": "shoemaker",
+    "correct": "ayakkabı ustası",
+    "wrong": "terzi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_193",
+    "word": "cobbler",
+    "correct": "ayakkabı ustası",
+    "wrong": "terzi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_194",
+    "word": "baker",
+    "correct": "fırıncı",
+    "wrong": "şef",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_195",
+    "word": "butcher",
+    "correct": "kasap",
+    "wrong": "fırıncı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_196",
+    "word": "chef",
+    "correct": "aşçıbaşı",
+    "wrong": "garson",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_197",
+    "word": "cook",
+    "correct": "aşçı",
+    "wrong": "garson",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_198",
+    "word": "waiter",
+    "correct": "garson",
+    "wrong": "aşçı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_199",
+    "word": "waitress",
+    "correct": "garson",
+    "wrong": "aşçı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_200",
+    "word": "bartender",
+    "correct": "barista",
+    "wrong": "garson",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_201",
+    "word": "barman",
+    "correct": "barista",
+    "wrong": "garson",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_202",
+    "word": "innkeeper",
+    "correct": "otel sahibi",
+    "wrong": "misafir",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_203",
+    "word": "landlord",
+    "correct": "ev sahibi",
+    "wrong": "kiracı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_204",
+    "word": "landlady",
+    "correct": "ev sahibesi",
+    "wrong": "kiracı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_205",
+    "word": "tenant",
+    "correct": "kiracı",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_206",
+    "word": "resident",
+    "correct": "ikamet eden",
+    "wrong": "ziyaretçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_207",
+    "word": "inhabitant",
+    "correct": "sakin",
+    "wrong": "ziyaretçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_208",
+    "word": "occupant",
+    "correct": "sakin",
+    "wrong": "ziyaretçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_209",
+    "word": "dweller",
+    "correct": "sakin",
+    "wrong": "ziyaretçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_210",
+    "word": "lodger",
+    "correct": "kiracı",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_211",
+    "word": "guest",
+    "correct": "misafir",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_212",
+    "word": "visitor",
+    "correct": "ziyaretçi",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_213",
+    "word": "tourist",
+    "correct": "turist",
+    "wrong": "yerli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_214",
+    "word": "traveler",
+    "correct": "gezgin",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_215",
+    "word": "wanderer",
+    "correct": "gezgin",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_216",
+    "word": "nomad",
+    "correct": "göçebe",
+    "wrong": "yerleşik",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_217",
+    "word": "vagrant",
+    "correct": "başıboş",
+    "wrong": "yerleşik",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_218",
+    "word": "hobo",
+    "correct": "başıboş",
+    "wrong": "yerleşik",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_219",
+    "word": "tramp",
+    "correct": "başıboş",
+    "wrong": "yerleşik",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_220",
+    "word": "beggar",
+    "correct": "dilenci",
+    "wrong": "zengin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_221",
+    "word": "pauper",
+    "correct": "yoksul",
+    "wrong": "zengin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_222",
+    "word": "poor",
+    "correct": "yoksul",
+    "wrong": "zengin",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_223",
+    "word": "beggar",
+    "correct": "dilenci",
+    "wrong": "veren",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_224",
+    "word": "philanthropist",
+    "correct": "hayırsever",
+    "wrong": "cimri",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_225",
+    "word": "donor",
+    "correct": "bağışçı",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_226",
+    "word": "benefactor",
+    "correct": "yardımcı",
+    "wrong": "alıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_227",
+    "word": "helper",
+    "correct": "yardımcı",
+    "wrong": "engeli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_228",
+    "word": "assistant",
+    "correct": "asistan",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_229",
+    "word": "aide",
+    "correct": "yardımcı",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_230",
+    "word": "servant",
+    "correct": "hizmetçi",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_231",
+    "word": "maid",
+    "correct": "hemşire",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_232",
+    "word": "butler",
+    "correct": "kahya",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_233",
+    "word": "valet",
+    "correct": "vale",
+    "wrong": "patron",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_234",
+    "word": "slave",
+    "correct": "köle",
+    "wrong": "efendi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_235",
+    "word": "bondsman",
+    "correct": "köle",
+    "wrong": "efendi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_236",
+    "word": "prisoner",
+    "correct": "tutuklu",
+    "wrong": "muhbir",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_237",
+    "word": "inmate",
+    "correct": "mahkum",
+    "wrong": "bekçi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_238",
+    "word": "captive",
+    "correct": "esir",
+    "wrong": "tutucu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_239",
+    "word": "hostage",
+    "correct": "rehine",
+    "wrong": "tutucu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_240",
+    "word": "deserter",
+    "correct": "kaçak",
+    "wrong": "polis",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_241",
+    "word": "refugee",
+    "correct": "mülteci",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_242",
+    "word": "fugitive",
+    "correct": "kaçak",
+    "wrong": "polis",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_243",
+    "word": "escapee",
+    "correct": "kaçak",
+    "wrong": "polis",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_244",
+    "word": "criminal",
+    "correct": "suçlu",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_245",
+    "word": "offender",
+    "correct": "suçlu",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_246",
+    "word": "felon",
+    "correct": "suçlu",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_247",
+    "word": "thief",
+    "correct": "hırsız",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_248",
+    "word": "burglar",
+    "correct": "hırsız",
+    "wrong": "ev sahibi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_249",
+    "word": "pickpocket",
+    "correct": "yankesici",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_250",
+    "word": "robber",
+    "correct": "haydut",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_251",
+    "word": "bandit",
+    "correct": "eşkiya",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_252",
+    "word": "pirate",
+    "correct": "korsan",
+    "wrong": "gemi",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_253",
+    "word": "mugger",
+    "correct": "saldırgan",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_254",
+    "word": "assailant",
+    "correct": "saldırgan",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_255",
+    "word": "attacker",
+    "correct": "saldırgan",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_256",
+    "word": "aggressor",
+    "correct": "saldırgan",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_257",
+    "word": "bully",
+    "correct": "zorba",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_258",
+    "word": "coward",
+    "correct": "korkak",
+    "wrong": "cesur",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_259",
+    "word": "hero",
+    "correct": "kahraman",
+    "wrong": "korkak",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_260",
+    "word": "heroine",
+    "correct": "kahramanesi",
+    "wrong": "korkak",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_261",
+    "word": "martyr",
+    "correct": "şehit",
+    "wrong": "sahip",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_262",
+    "word": "victim",
+    "correct": "kurban",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_263",
+    "word": "sufferer",
+    "correct": "acı çeken",
+    "wrong": "kurtarıcı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_264",
+    "word": "survivor",
+    "correct": "hayatta kalanı",
+    "wrong": "ölü",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_265",
+    "word": "orphan",
+    "correct": "yetim",
+    "wrong": "ebeveyn",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_266",
+    "word": "widow",
+    "correct": "dul",
+    "wrong": "eş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_267",
+    "word": "widower",
+    "correct": "dul",
+    "wrong": "eş",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_268",
+    "word": "divorcee",
+    "correct": "boşanmış",
+    "wrong": "evli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_269",
+    "word": "bachelor",
+    "correct": "bekâr",
+    "wrong": "evli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_270",
+    "word": "spinster",
+    "correct": "bekâr",
+    "wrong": "evli",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_271",
+    "word": "companion",
+    "correct": "arkadaş",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_272",
+    "word": "confidant",
+    "correct": "güvenilir",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_273",
+    "word": "confidante",
+    "correct": "güvenilir",
+    "wrong": "yabancı",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_274",
+    "word": "accomplice",
+    "correct": "ortak suçlu",
+    "wrong": "kurban",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_275",
+    "word": "accessory",
+    "correct": "kabulüne",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_276",
+    "word": "conspirator",
+    "correct": "komplo",
+    "wrong": "yaşayan",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_277",
+    "word": "traitor",
+    "correct": "hain",
+    "wrong": "sadık",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_278",
+    "word": "turncoat",
+    "correct": "hain",
+    "wrong": "sadık",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_279",
+    "word": "defector",
+    "correct": "firar",
+    "wrong": "sadık",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_280",
+    "word": "double agent",
+    "correct": "çifte ajan",
+    "wrong": "ajan",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_281",
+    "word": "spy",
+    "correct": "casus",
+    "wrong": "sürü",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_282",
+    "word": "informant",
+    "correct": "muhbir",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_283",
+    "word": "informer",
+    "correct": "muhbir",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_284",
+    "word": "snitch",
+    "correct": "muhbir",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_285",
+    "word": "rat",
+    "correct": "muhbir",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_286",
+    "word": "whistle-blower",
+    "correct": "muhbir",
+    "wrong": "suçlu",
+    "category": "İsimler (Nouns)"
+  },
+  {
+    "id": "nouns_287",
+    "word": "leaker",
+    "correct": "muhbir",
+    "wrong": "sır",
+    "category": "İsimler (Nouns)"
+  }
+]

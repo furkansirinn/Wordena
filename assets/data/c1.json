@@ -1,0 +1,1969 @@
+[
+  {
+    "id": "c1_1",
+    "word": "epistemology",
+    "correct": "bilgi kuramı",
+    "wrong": "felsefe",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_2",
+    "word": "ontology",
+    "correct": "varlık bilimi",
+    "wrong": "metafizik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_3",
+    "word": "metaphysics",
+    "correct": "metafizik",
+    "wrong": "varlık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_4",
+    "word": "phenomenology",
+    "correct": "fenomenoloji",
+    "wrong": "bilim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_5",
+    "word": "hermeneutics",
+    "correct": "yorum bilimi",
+    "wrong": "anlam",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_6",
+    "word": "semiotics",
+    "correct": "göstergebilim",
+    "wrong": "sembol",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_7",
+    "word": "semantics",
+    "correct": "anlambilim",
+    "wrong": "söz",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_8",
+    "word": "pragmatics",
+    "correct": "edimbilim",
+    "wrong": "kullanım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_9",
+    "word": "syntax",
+    "correct": "söz dizimi",
+    "wrong": "dil yapısı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_10",
+    "word": "morphology",
+    "correct": "biçim bilgisi",
+    "wrong": "dilbilim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_11",
+    "word": "phonology",
+    "correct": "ses sistemi",
+    "wrong": "ses",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_12",
+    "word": "dialectology",
+    "correct": "ağız bilimi",
+    "wrong": "dil",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_13",
+    "word": "sociolinguistics",
+    "correct": "toplumbilişselci dilbilim",
+    "wrong": "dilbilim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_14",
+    "word": "psycholinguistics",
+    "correct": "psikoloji dilbilim",
+    "wrong": "dilbilim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_15",
+    "word": "neurolinguistics",
+    "correct": "sinir dilbilim",
+    "wrong": "dilbilim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_16",
+    "word": "computational linguistics",
+    "correct": "bilgisayar dilbilimi",
+    "wrong": "dilbilim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_17",
+    "word": "discourse analysis",
+    "correct": "söylem analizi",
+    "wrong": "analiz",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_18",
+    "word": "conversation analysis",
+    "correct": "konuşma analizi",
+    "wrong": "analiz",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_19",
+    "word": "rhetoric",
+    "correct": "retorik",
+    "wrong": "konuşma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_20",
+    "word": "argumentation",
+    "correct": "tartışma",
+    "wrong": "argüman",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_21",
+    "word": "logic",
+    "correct": "mantık",
+    "wrong": "düşünce",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_22",
+    "word": "formal logic",
+    "correct": "biçimsel mantık",
+    "wrong": "mantık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_23",
+    "word": "symbolic logic",
+    "correct": "sembolik mantık",
+    "wrong": "mantık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_24",
+    "word": "modal logic",
+    "correct": "kipli mantık",
+    "wrong": "mantık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_25",
+    "word": "deontic logic",
+    "correct": "zorunluluk mantığı",
+    "wrong": "mantık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_26",
+    "word": "fuzzy logic",
+    "correct": "bulanık mantık",
+    "wrong": "mantık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_27",
+    "word": "paradox",
+    "correct": "paradoks",
+    "wrong": "çelişki",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_28",
+    "word": "contradiction",
+    "correct": "çelişki",
+    "wrong": "uyumsuzluk",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_29",
+    "word": "tautology",
+    "correct": "tautoloji",
+    "wrong": "daima doğru",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_30",
+    "word": "axiom",
+    "correct": "aksiyom",
+    "wrong": "ilke",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_31",
+    "word": "theorem",
+    "correct": "teorem",
+    "wrong": "kanun",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_32",
+    "word": "lemma",
+    "correct": "lemma",
+    "wrong": "yardımcı teorem",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_33",
+    "word": "corollary",
+    "correct": "sonuç",
+    "wrong": "çıkarım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_34",
+    "word": "conjecture",
+    "correct": "varsayım",
+    "wrong": "tahmin",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_35",
+    "word": "hypothesis",
+    "correct": "hipotez",
+    "wrong": "varsayım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_36",
+    "word": "deduction",
+    "correct": "tümdengelim",
+    "wrong": "çıkarım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_37",
+    "word": "induction",
+    "correct": "tümevarım",
+    "wrong": "çıkarım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_38",
+    "word": "abduction",
+    "correct": "abduktif çıkarım",
+    "wrong": "çıkarım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_39",
+    "word": "inference",
+    "correct": "sonuç çıkarma",
+    "wrong": "mantık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_40",
+    "word": "validity",
+    "correct": "geçerlilik",
+    "wrong": "doğruluk",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_41",
+    "word": "soundness",
+    "correct": "sağlamlık",
+    "wrong": "güvenilirlik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_42",
+    "word": "fallacy",
+    "correct": "yanlış mantık",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_43",
+    "word": "sophistry",
+    "correct": "sofistlik",
+    "wrong": "hile",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_44",
+    "word": "equivocation",
+    "correct": "çok anlamlılık",
+    "wrong": "belirsizlik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_45",
+    "word": "amphiboly",
+    "correct": "yapı belirsizliği",
+    "wrong": "çok anlamlılık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_46",
+    "word": "begging the question",
+    "correct": "varsayım yapma",
+    "wrong": "hatalı mantık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_47",
+    "word": "circular reasoning",
+    "correct": "döngüsel mantık",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_48",
+    "word": "hasty generalization",
+    "correct": "acele genelleme",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_49",
+    "word": "straw man",
+    "correct": "saman adam",
+    "wrong": "hatalı argüman",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_50",
+    "word": "ad hominem",
+    "correct": "kişisel saldırı",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_51",
+    "word": "appeal to authority",
+    "correct": "otoriteye dayanma",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_52",
+    "word": "appeal to tradition",
+    "correct": "geleneğe dayanma",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_53",
+    "word": "appeal to emotion",
+    "correct": "duyguya dayanma",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_54",
+    "word": "slippery slope",
+    "correct": "kaygan eğim",
+    "wrong": "zincir mantığı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_55",
+    "word": "false dichotomy",
+    "correct": "yanlış ikili seçim",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_56",
+    "word": "false cause",
+    "correct": "yanlış neden",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_57",
+    "word": "composition",
+    "correct": "bölümden bütüne",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_58",
+    "word": "division",
+    "correct": "bütünden bölüme",
+    "wrong": "hata",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_59",
+    "word": "quantum mechanics",
+    "correct": "kuantum mekaniği",
+    "wrong": "fizik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_60",
+    "word": "quantum theory",
+    "correct": "kuantum teorisi",
+    "wrong": "kuantum",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_61",
+    "word": "relativity",
+    "correct": "görecelik",
+    "wrong": "görelilik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_62",
+    "word": "general relativity",
+    "correct": "genel görecelik",
+    "wrong": "görecelik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_63",
+    "word": "special relativity",
+    "correct": "özel görecelik",
+    "wrong": "görecelik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_64",
+    "word": "string theory",
+    "correct": "sicim teorisi",
+    "wrong": "teori",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_65",
+    "word": "particle physics",
+    "correct": "parçacık fiziği",
+    "wrong": "fizik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_66",
+    "word": "nuclear physics",
+    "correct": "nükleer fizik",
+    "wrong": "fizik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_67",
+    "word": "thermodynamics",
+    "correct": "termodinamik",
+    "wrong": "enerji",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_68",
+    "word": "electromagnetism",
+    "correct": "elektromanyetizm",
+    "wrong": "alan",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_69",
+    "word": "optics",
+    "correct": "optik",
+    "wrong": "ışık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_70",
+    "word": "acoustics",
+    "correct": "akustik",
+    "wrong": "ses",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_71",
+    "word": "mechanics",
+    "correct": "mekanik",
+    "wrong": "hareket",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_72",
+    "word": "kinematics",
+    "correct": "kinematik",
+    "wrong": "hareket",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_73",
+    "word": "dynamics",
+    "correct": "dinamik",
+    "wrong": "kuvvet",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_74",
+    "word": "statics",
+    "correct": "statik",
+    "wrong": "denge",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_75",
+    "word": "chemistry",
+    "correct": "kimya",
+    "wrong": "madde",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_76",
+    "word": "organic chemistry",
+    "correct": "organik kimya",
+    "wrong": "kimya",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_77",
+    "word": "inorganic chemistry",
+    "correct": "inorganik kimya",
+    "wrong": "kimya",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_78",
+    "word": "biochemistry",
+    "correct": "biyokimya",
+    "wrong": "kimya",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_79",
+    "word": "physical chemistry",
+    "correct": "fiziksel kimya",
+    "wrong": "kimya",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_80",
+    "word": "analytical chemistry",
+    "correct": "analitik kimya",
+    "wrong": "kimya",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_81",
+    "word": "polymer",
+    "correct": "polimer",
+    "wrong": "makromolekül",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_82",
+    "word": "catalyst",
+    "correct": "katalizör",
+    "wrong": "hızlandırıcı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_83",
+    "word": "catalysis",
+    "correct": "kataliz",
+    "wrong": "tepkime",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_84",
+    "word": "reaction",
+    "correct": "tepkime",
+    "wrong": "işlem",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_85",
+    "word": "equilibrium",
+    "correct": "denge",
+    "wrong": "dengelenme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_86",
+    "word": "kinetics",
+    "correct": "kinetik",
+    "wrong": "hareket",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_87",
+    "word": "thermochemistry",
+    "correct": "termokimya",
+    "wrong": "enerji",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_88",
+    "word": "spectroscopy",
+    "correct": "spektroskopi",
+    "wrong": "analiz",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_89",
+    "word": "chromatography",
+    "correct": "kromatografi",
+    "wrong": "ayrıştırma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_90",
+    "word": "crystallography",
+    "correct": "kristalografi",
+    "wrong": "kristal",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_91",
+    "word": "molecular",
+    "correct": "moleküler",
+    "wrong": "molekül",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_92",
+    "word": "atomic",
+    "correct": "atomik",
+    "wrong": "atom",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_93",
+    "word": "subatomic",
+    "correct": "atom altı",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_94",
+    "word": "ion",
+    "correct": "iyon",
+    "wrong": "yüklü atom",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_95",
+    "word": "isotope",
+    "correct": "izotop",
+    "wrong": "atom çeşidi",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_96",
+    "word": "radioactivity",
+    "correct": "radyoaktivite",
+    "wrong": "ışınım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_97",
+    "word": "half-life",
+    "correct": "yarılanma ömrü",
+    "wrong": "ışınım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_98",
+    "word": "fission",
+    "correct": "fisyon",
+    "wrong": "bölünme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_99",
+    "word": "fusion",
+    "correct": "füzyon",
+    "wrong": "birleşme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_100",
+    "word": "entropy",
+    "correct": "entropi",
+    "wrong": "düzensizlik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_101",
+    "word": "enthalpy",
+    "correct": "entalpi",
+    "wrong": "ısı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_102",
+    "word": "free energy",
+    "correct": "serbest enerji",
+    "wrong": "enerji",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_103",
+    "word": "lattice",
+    "correct": "örgü",
+    "wrong": "kristal yapısı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_104",
+    "word": "bond",
+    "correct": "bağ",
+    "wrong": "birleşme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_105",
+    "word": "covalent",
+    "correct": "kovalent",
+    "wrong": "bağ",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_106",
+    "word": "ionic",
+    "correct": "iyonik",
+    "wrong": "bağ",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_107",
+    "word": "hydrogen bond",
+    "correct": "hidrojen bağı",
+    "wrong": "bağ",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_108",
+    "word": "van der Waals",
+    "correct": "van der Waals",
+    "wrong": "güç",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_109",
+    "word": "electronegativity",
+    "correct": "elektron çekiciliği",
+    "wrong": "özellik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_110",
+    "word": "oxidation",
+    "correct": "oksidation",
+    "wrong": "tepkime",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_111",
+    "word": "reduction",
+    "correct": "indirgeme",
+    "wrong": "tepkime",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_112",
+    "word": "redox",
+    "correct": "redoks",
+    "wrong": "oksidasyonlu indirgeme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_113",
+    "word": "electrode",
+    "correct": "elektrot",
+    "wrong": "kutup",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_114",
+    "word": "electrolyte",
+    "correct": "elektrolit",
+    "wrong": "iletken",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_115",
+    "word": "conductivity",
+    "correct": "iletkenlik",
+    "wrong": "özellik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_116",
+    "word": "resistance",
+    "correct": "direnç",
+    "wrong": "dirençlilik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_117",
+    "word": "capacitance",
+    "correct": "kapasitans",
+    "wrong": "sığa",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_118",
+    "word": "inductance",
+    "correct": "endüktans",
+    "wrong": "özindüktans",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_119",
+    "word": "frequency",
+    "correct": "frekans",
+    "wrong": "dalga",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_120",
+    "word": "wavelength",
+    "correct": "dalga boyu",
+    "wrong": "mesafe",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_121",
+    "word": "amplitude",
+    "correct": "genlik",
+    "wrong": "yükseklik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_122",
+    "word": "phase",
+    "correct": "faz",
+    "wrong": "evre",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_123",
+    "word": "resonance",
+    "correct": "rezonans",
+    "wrong": "titreşim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_124",
+    "word": "interference",
+    "correct": "girişim",
+    "wrong": "dalga",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_125",
+    "word": "diffraction",
+    "correct": "kırınım",
+    "wrong": "sapma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_126",
+    "word": "refraction",
+    "correct": "kırılma",
+    "wrong": "sapma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_127",
+    "word": "dispersion",
+    "correct": "dağılma",
+    "wrong": "yayılma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_128",
+    "word": "polarization",
+    "correct": "polarizasyon",
+    "wrong": "cihazlama",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_129",
+    "word": "interference pattern",
+    "correct": "girişim deseni",
+    "wrong": "desen",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_130",
+    "word": "spectrum",
+    "correct": "spektrum",
+    "wrong": "görünümü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_131",
+    "word": "infrared",
+    "correct": "kızılötesi",
+    "wrong": "ışın",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_132",
+    "word": "ultraviolet",
+    "correct": "morötesi",
+    "wrong": "ışın",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_133",
+    "word": "microwave",
+    "correct": "mikrodalgası",
+    "wrong": "ışın",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_134",
+    "word": "radio wave",
+    "correct": "radyo dalgası",
+    "wrong": "dalgası",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_135",
+    "word": "cosmic ray",
+    "correct": "kosmik ışın",
+    "wrong": "ışın",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_136",
+    "word": "gamma ray",
+    "correct": "gamma ışını",
+    "wrong": "ışın",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_137",
+    "word": "x-ray",
+    "correct": "x ışını",
+    "wrong": "ışın",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_138",
+    "word": "photon",
+    "correct": "foton",
+    "wrong": "ışık parçacığı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_139",
+    "word": "electron",
+    "correct": "elektron",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_140",
+    "word": "proton",
+    "correct": "proton",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_141",
+    "word": "neutron",
+    "correct": "nötron",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_142",
+    "word": "quark",
+    "correct": "quark",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_143",
+    "word": "gluon",
+    "correct": "gluon",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_144",
+    "word": "boson",
+    "correct": "bozon",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_145",
+    "word": "fermion",
+    "correct": "fermion",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_146",
+    "word": "lepton",
+    "correct": "lepton",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_147",
+    "word": "hadron",
+    "correct": "hadron",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_148",
+    "word": "meson",
+    "correct": "mezon",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_149",
+    "word": "baryon",
+    "correct": "baryon",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_150",
+    "word": "antiparticle",
+    "correct": "antiparçacık",
+    "wrong": "parçacık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_151",
+    "word": "antimatter",
+    "correct": "antimadde",
+    "wrong": "madde",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_152",
+    "word": "plasma",
+    "correct": "plazma",
+    "wrong": "durumu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_153",
+    "word": "Bose-Einstein",
+    "correct": "Bose-Einstein",
+    "wrong": "istatistik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_154",
+    "word": "Fermi-Dirac",
+    "correct": "Fermi-Dirac",
+    "wrong": "istatistik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_155",
+    "word": "Maxwell-Boltzmann",
+    "correct": "Maxwell-Boltzmann",
+    "wrong": "istatistik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_156",
+    "word": "black body",
+    "correct": "kara cisim",
+    "wrong": "cisim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_157",
+    "word": "black hole",
+    "correct": "kara delik",
+    "wrong": "nesne",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_158",
+    "word": "event horizon",
+    "correct": "olay ufku",
+    "wrong": "sınır",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_159",
+    "word": "singularity",
+    "correct": "tekil nokta",
+    "wrong": "nokta",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_160",
+    "word": "big bang",
+    "correct": "büyük patlama",
+    "wrong": "evrenin başlangıcı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_161",
+    "word": "big crunch",
+    "correct": "büyük çöküş",
+    "wrong": "evrenin sonu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_162",
+    "word": "cosmic inflation",
+    "correct": "kosmik enflasyon",
+    "wrong": "genişleme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_163",
+    "word": "dark matter",
+    "correct": "karanlık madde",
+    "wrong": "madde",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_164",
+    "word": "dark energy",
+    "correct": "karanlık enerji",
+    "wrong": "enerji",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_165",
+    "word": "astronomy",
+    "correct": "astronomi",
+    "wrong": "gök bilimi",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_166",
+    "word": "astrophysics",
+    "correct": "astrofizik",
+    "wrong": "yıldız fiziği",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_167",
+    "word": "cosmology",
+    "correct": "kozmoloji",
+    "wrong": "evren bilimi",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_168",
+    "word": "astrochemistry",
+    "correct": "astrokimya",
+    "wrong": "uzay kimyası",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_169",
+    "word": "astrobiology",
+    "correct": "astrobiyoloji",
+    "wrong": "uzay biyolojisi",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_170",
+    "word": "spectroscopy",
+    "correct": "spektroskopi",
+    "wrong": "ışık analizi",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_171",
+    "word": "photometry",
+    "correct": "fotometri",
+    "wrong": "ışık ölçümü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_172",
+    "word": "astrometry",
+    "correct": "astrometri",
+    "wrong": "yıldız konumu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_173",
+    "word": "celestial mechanics",
+    "correct": "gök mekaniği",
+    "wrong": "hareket",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_174",
+    "word": "orbital mechanics",
+    "correct": "yörünge mekaniği",
+    "wrong": "hareket",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_175",
+    "word": "perturbation theory",
+    "correct": "pertürbasyon teorisi",
+    "wrong": "sapma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_176",
+    "word": "gravitational lensing",
+    "correct": "yerçekimi lensi",
+    "wrong": "ışın sapması",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_177",
+    "word": "redshift",
+    "correct": "kırmızı kayması",
+    "wrong": "Doppler",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_178",
+    "word": "blueshift",
+    "correct": "mavi kayması",
+    "wrong": "Doppler",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_179",
+    "word": "Doppler effect",
+    "correct": "Doppler etkisi",
+    "wrong": "frekans",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_180",
+    "word": "parallax",
+    "correct": "paralaks",
+    "wrong": "açı ölçümü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_181",
+    "word": "magnitude",
+    "correct": "parlaklık",
+    "wrong": "ölçü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_182",
+    "word": "luminosity",
+    "correct": "aydınlık",
+    "wrong": "parlaklık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_183",
+    "word": "radiance",
+    "correct": "ışınım",
+    "wrong": "enerji",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_184",
+    "word": "radiant flux",
+    "correct": "ışın akısı",
+    "wrong": "güç",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_185",
+    "word": "irradiance",
+    "correct": "ışınım şiddeti",
+    "wrong": "enerji",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_186",
+    "word": "temperature",
+    "correct": "sıcaklık",
+    "wrong": "derece",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_187",
+    "word": "effective temperature",
+    "correct": "etkin sıcaklık",
+    "wrong": "sıcaklık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_188",
+    "word": "color index",
+    "correct": "renk indeksi",
+    "wrong": "sıcaklık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_189",
+    "word": "Hertzsprung-Russell diagram",
+    "correct": "Hertzsprung-Russell diyagramı",
+    "wrong": "diyagram",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_190",
+    "word": "main sequence",
+    "correct": "ana dizi",
+    "wrong": "yıldız",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_191",
+    "word": "giant branch",
+    "correct": "dev dalı",
+    "wrong": "evre",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_192",
+    "word": "white dwarf",
+    "correct": "beyaz cüce",
+    "wrong": "yıldız",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_193",
+    "word": "neutron star",
+    "correct": "nötron yıldızı",
+    "wrong": "yıldız",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_194",
+    "word": "pulsar",
+    "correct": "pulsar",
+    "wrong": "nötron yıldızı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_195",
+    "word": "quasar",
+    "correct": "kuasar",
+    "wrong": "uzak galaksi",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_196",
+    "word": "blazar",
+    "correct": "blazar",
+    "wrong": "kuasar",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_197",
+    "word": "active galactic nucleus",
+    "correct": "aktif galaktik çekirdek",
+    "wrong": "çekirdek",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_198",
+    "word": "supermassive black hole",
+    "correct": "süperkütleli kara delik",
+    "wrong": "delik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_199",
+    "word": "galactic cluster",
+    "correct": "galaksi kümesi",
+    "wrong": "küme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_200",
+    "word": "globular cluster",
+    "correct": "küresel küme",
+    "wrong": "küme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_201",
+    "word": "open cluster",
+    "correct": "açık küme",
+    "wrong": "küme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_202",
+    "word": "nebula",
+    "correct": "bulutsu",
+    "wrong": "gaz bulotu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_203",
+    "word": "emission nebula",
+    "correct": "emisyon bulutsu",
+    "wrong": "bulutsu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_204",
+    "word": "reflection nebula",
+    "correct": "yansıma bulutsu",
+    "wrong": "bulutsu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_205",
+    "word": "dark nebula",
+    "correct": "koyu bulutsu",
+    "wrong": "bulutsu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_206",
+    "word": "planetary nebula",
+    "correct": "gezegen bulutsu",
+    "wrong": "bulutsu",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_207",
+    "word": "supernova remnant",
+    "correct": "süpernova kalıntısı",
+    "wrong": "kalıntı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_208",
+    "word": "stellar evolution",
+    "correct": "yıldız evrimi",
+    "wrong": "gelişim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_209",
+    "word": "nucleosynthesis",
+    "correct": "çekirdek sentezi",
+    "wrong": "oluşum",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_210",
+    "word": "primordial nucleosynthesis",
+    "correct": "ilkel çekirdek sentezi",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_211",
+    "word": "stellar nucleosynthesis",
+    "correct": "yıldız çekirdek sentezi",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_212",
+    "word": "supernova nucleosynthesis",
+    "correct": "süpernova çekirdek sentezi",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_213",
+    "word": "r-process",
+    "correct": "r-süreci",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_214",
+    "word": "s-process",
+    "correct": "s-süreci",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_215",
+    "word": "p-process",
+    "correct": "p-süreci",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_216",
+    "word": "alpha process",
+    "correct": "alfa süreci",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_217",
+    "word": "carbon-nitrogen-oxygen cycle",
+    "correct": "CNO döngüsü",
+    "wrong": "döngü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_218",
+    "word": "proton-proton chain",
+    "correct": "proton-proton zinciri",
+    "wrong": "zincir",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_219",
+    "word": "triple alpha process",
+    "correct": "üçlü alfa süreci",
+    "wrong": "sentez",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_220",
+    "word": "stellar wind",
+    "correct": "yıldız rüzgarı",
+    "wrong": "rüzgar",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_221",
+    "word": "solar wind",
+    "correct": "güneş rüzgarı",
+    "wrong": "rüzgar",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_222",
+    "word": "magnetosphere",
+    "correct": "manyetosfer",
+    "wrong": "alan",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_223",
+    "word": "ionosphere",
+    "correct": "iyonosfer",
+    "wrong": "tabaka",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_224",
+    "word": "thermosphere",
+    "correct": "termosfer",
+    "wrong": "tabaka",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_225",
+    "word": "mesosphere",
+    "correct": "mezosfer",
+    "wrong": "tabaka",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_226",
+    "word": "stratosphere",
+    "correct": "stratosfer",
+    "wrong": "tabaka",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_227",
+    "word": "troposphere",
+    "correct": "troposfer",
+    "wrong": "tabaka",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_228",
+    "word": "atmospheric pressure",
+    "correct": "atmosfer basıncı",
+    "wrong": "basınç",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_229",
+    "word": "air density",
+    "correct": "hava yoğunluğu",
+    "wrong": "yoğunluk",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_230",
+    "word": "convection",
+    "correct": "konveksiyon",
+    "wrong": "taşınım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_231",
+    "word": "radiation",
+    "correct": "ışınım",
+    "wrong": "radyasyon",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_232",
+    "word": "conduction",
+    "correct": "iletim",
+    "wrong": "ısı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_233",
+    "word": "albedo",
+    "correct": "albedo",
+    "wrong": "yansıtabilirlik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_234",
+    "word": "greenhouse effect",
+    "correct": "sera etkisi",
+    "wrong": "etki",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_235",
+    "word": "ozone layer",
+    "correct": "ozon tabakası",
+    "wrong": "tabaka",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_236",
+    "word": "UV radiation",
+    "correct": "ultraviyole ışını",
+    "wrong": "ışınım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_237",
+    "word": "solar constant",
+    "correct": "güneş sabiti",
+    "wrong": "sabit",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_238",
+    "word": "insolation",
+    "correct": "güneş ışınımı",
+    "wrong": "ışınım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_239",
+    "word": "photosynthetically active radiation",
+    "correct": "fotosintez aktif ışınım",
+    "wrong": "ışınım",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_240",
+    "word": "net primary productivity",
+    "correct": "net birincil verimlilik",
+    "wrong": "verimlilik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_241",
+    "word": "gross primary productivity",
+    "correct": "brüt birincil verimlilik",
+    "wrong": "verimlilik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_242",
+    "word": "secondary productivity",
+    "correct": "ikincil verimlilik",
+    "wrong": "verimlilik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_243",
+    "word": "energy budget",
+    "correct": "enerji bütçesi",
+    "wrong": "bütçe",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_244",
+    "word": "carbon cycle",
+    "correct": "karbon döngüsü",
+    "wrong": "döngü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_245",
+    "word": "nitrogen cycle",
+    "correct": "nitrojen döngüsü",
+    "wrong": "döngü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_246",
+    "word": "phosphorus cycle",
+    "correct": "fosfor döngüsü",
+    "wrong": "döngü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_247",
+    "word": "sulfur cycle",
+    "correct": "kükürt döngüsü",
+    "wrong": "döngü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_248",
+    "word": "hydrological cycle",
+    "correct": "hidrolojik döngü",
+    "wrong": "döngü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_249",
+    "word": "biogeochemical cycle",
+    "correct": "biyojeokimyasal döngü",
+    "wrong": "döngü",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_250",
+    "word": "carrying capacity",
+    "correct": "taşıma kapasitesi",
+    "wrong": "kapasite",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_251",
+    "word": "logistic growth",
+    "correct": "lojistik büyüme",
+    "wrong": "büyüme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_252",
+    "word": "exponential growth",
+    "correct": "üstel büyüme",
+    "wrong": "büyüme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_253",
+    "word": "population dynamics",
+    "correct": "popülasyon dinamiği",
+    "wrong": "dinamik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_254",
+    "word": "age structure",
+    "correct": "yaş yapısı",
+    "wrong": "yapı",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_255",
+    "word": "survivorship curve",
+    "correct": "yaşama eğrisi",
+    "wrong": "eğri",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_256",
+    "word": "life expectancy",
+    "correct": "yaşam beklentisi",
+    "wrong": "beklenti",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_257",
+    "word": "fecundity",
+    "correct": "doğurganlık",
+    "wrong": "üretim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_258",
+    "word": "fertility rate",
+    "correct": "doğurganlık oranı",
+    "wrong": "oran",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_259",
+    "word": "demographic transition",
+    "correct": "demografik geçiş",
+    "wrong": "değişim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_260",
+    "word": "crude birth rate",
+    "correct": "ham doğum oranı",
+    "wrong": "oran",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_261",
+    "word": "crude death rate",
+    "correct": "ham ölüm oranı",
+    "wrong": "oran",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_262",
+    "word": "net migration rate",
+    "correct": "net göç oranı",
+    "wrong": "oran",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_263",
+    "word": "immigration",
+    "correct": "göçmen kabul",
+    "wrong": "göç",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_264",
+    "word": "emigration",
+    "correct": "göç",
+    "wrong": "ülke terk",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_265",
+    "word": "migration",
+    "correct": "göç",
+    "wrong": "yer değiştirme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_266",
+    "word": "diaspora",
+    "correct": "diaspora",
+    "wrong": "dağılma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_267",
+    "word": "urbanization",
+    "correct": "kentleşme",
+    "wrong": "şehirleşme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_268",
+    "word": "megacity",
+    "correct": "megakent",
+    "wrong": "büyük şehir",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_269",
+    "word": "metropolitan",
+    "correct": "metropolitan",
+    "wrong": "şehir bölgesi",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_270",
+    "word": "urban sprawl",
+    "correct": "şehir yayılması",
+    "wrong": "genişleme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_271",
+    "word": "gentrification",
+    "correct": "soylullaştırma",
+    "wrong": "değişim",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_272",
+    "word": "suburbanization",
+    "correct": "banliyöleşme",
+    "wrong": "genişleme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_273",
+    "word": "slum",
+    "correct": "gecekondu",
+    "wrong": "yoksul mahalle",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_274",
+    "word": "favela",
+    "correct": "favela",
+    "wrong": "yoksul mahalle",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_275",
+    "word": "ghetto",
+    "correct": "geto",
+    "wrong": "ayrı bölge",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_276",
+    "word": "redlining",
+    "correct": "kırmızı çizgi politikası",
+    "wrong": "ayrımcılık",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_277",
+    "word": "segregation",
+    "correct": "ayrımcılık",
+    "wrong": "ayırma",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_278",
+    "word": "integration",
+    "correct": "entegrasyon",
+    "wrong": "birleştirme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_279",
+    "word": "assimilation",
+    "correct": "asimilasyon",
+    "wrong": "benzeşme",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_280",
+    "word": "pluralism",
+    "correct": "çokkültürlülük",
+    "wrong": "çeşitlilik",
+    "category": "C1 Seviye Kelimeler"
+  },
+  {
+    "id": "c1_281",
+    "word": "multiculturalism",
+    "correct": "çokkültürcilik",
+    "wrong": "çeşitlilik",
+    "category": "C1 Seviye Kelimeler"
+  }
+]

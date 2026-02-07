@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "transportation_1",
+    "word": "transportation",
+    "correct": "ulaşım",
+    "wrong": "iletişim",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_2",
+    "word": "vehicle",
+    "correct": "araç",
+    "wrong": "yürüyüş",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_3",
+    "word": "car",
+    "correct": "araba",
+    "wrong": "otobüs",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_4",
+    "word": "automobile",
+    "correct": "otomobil",
+    "wrong": "araç",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_5",
+    "word": "sedan",
+    "correct": "sedan",
+    "wrong": "SUV",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_6",
+    "word": "SUV",
+    "correct": "SUV",
+    "wrong": "sedan",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_7",
+    "word": "truck",
+    "correct": "kamyon",
+    "wrong": "araba",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_8",
+    "word": "pickup truck",
+    "correct": "pikap kamyon",
+    "wrong": "kamyon",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_9",
+    "word": "bus",
+    "correct": "otobüs",
+    "wrong": "araba",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_10",
+    "word": "minibus",
+    "correct": "minibüs",
+    "wrong": "otobüs",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_11",
+    "word": "van",
+    "correct": "van",
+    "wrong": "araba",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_12",
+    "word": "taxi",
+    "correct": "taksi",
+    "wrong": "otobüs",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_13",
+    "word": "cab",
+    "correct": "taksi",
+    "wrong": "araba",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_14",
+    "word": "motorcycle",
+    "correct": "motosiklet",
+    "wrong": "bisiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_15",
+    "word": "scooter",
+    "correct": "skuter",
+    "wrong": "motosiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_16",
+    "word": "bicycle",
+    "correct": "bisiklet",
+    "wrong": "motosiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_17",
+    "word": "bike",
+    "correct": "bisiklet",
+    "wrong": "motosiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_18",
+    "word": "tricycle",
+    "correct": "üç tekerlekli bisiklet",
+    "wrong": "bisiklet",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_19",
+    "word": "train",
+    "correct": "tren",
+    "wrong": "otobüs",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_20",
+    "word": "locomotive",
+    "correct": "lokomotif",
+    "wrong": "tren",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_21",
+    "word": "railway",
+    "correct": "demiryolu",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_22",
+    "word": "track",
+    "correct": "ray",
+    "wrong": "raylı",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_23",
+    "word": "station",
+    "correct": "istasyon",
+    "wrong": "platform",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_24",
+    "word": "platform",
+    "correct": "peron",
+    "wrong": "istasyon",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_25",
+    "word": "subway",
+    "correct": "metro",
+    "wrong": "tren",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_26",
+    "word": "underground",
+    "correct": "yeraltı treni",
+    "wrong": "metro",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_27",
+    "word": "tram",
+    "correct": "tramvay",
+    "wrong": "metro",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_28",
+    "word": "cable car",
+    "correct": "teleferik",
+    "wrong": "tramvay",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_29",
+    "word": "monorail",
+    "correct": "monorail",
+    "wrong": "tren",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_30",
+    "word": "high-speed train",
+    "correct": "yüksek hızlı tren",
+    "wrong": "tren",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_31",
+    "word": "bullet train",
+    "correct": "mermili tren",
+    "wrong": "hızlı tren",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_32",
+    "word": "freight train",
+    "correct": "yük treni",
+    "wrong": "yolcu treni",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_33",
+    "word": "passenger train",
+    "correct": "yolcu treni",
+    "wrong": "yük treni",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_34",
+    "word": "airbus",
+    "correct": "hava otobüsü",
+    "wrong": "otobüs",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_35",
+    "word": "airplane",
+    "correct": "uçak",
+    "wrong": "helikopter",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_36",
+    "word": "plane",
+    "correct": "uçak",
+    "wrong": "helikopter",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_37",
+    "word": "aircraft",
+    "correct": "hava aracı",
+    "wrong": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_38",
+    "word": "jet",
+    "correct": "jet",
+    "wrong": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_39",
+    "word": "helicopter",
+    "correct": "helikopter",
+    "wrong": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_40",
+    "word": "drone",
+    "correct": "insansız hava aracı",
+    "wrong": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_41",
+    "word": "hot air balloon",
+    "correct": "sıcak hava balonu",
+    "wrong": "balon",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_42",
+    "word": "glider",
+    "correct": "planör",
+    "wrong": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_43",
+    "word": "seaplane",
+    "correct": "deniz uçağı",
+    "wrong": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_44",
+    "word": "spaceship",
+    "correct": "uzay gemisi",
+    "wrong": "uçak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_45",
+    "word": "rocket",
+    "correct": "roket",
+    "wrong": "uzay gemisi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_46",
+    "word": "shuttle",
+    "correct": "uzay mekiği",
+    "wrong": "roket",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_47",
+    "word": "ship",
+    "correct": "gemi",
+    "wrong": "kayık",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_48",
+    "word": "boat",
+    "correct": "tekne",
+    "wrong": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_49",
+    "word": "sailboat",
+    "correct": "yelkenli",
+    "wrong": "motorlu tekne",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_50",
+    "word": "motorboat",
+    "correct": "motorlu tekne",
+    "wrong": "yelkenli",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_51",
+    "word": "yacht",
+    "correct": "yat",
+    "wrong": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_52",
+    "word": "ferry",
+    "correct": "feribot",
+    "wrong": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_53",
+    "word": "cruise ship",
+    "correct": "gemi turizmi",
+    "wrong": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_54",
+    "word": "cargo ship",
+    "correct": "kargo gemisi",
+    "wrong": "yolcu gemisi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_55",
+    "word": "tanker",
+    "correct": "tanker",
+    "wrong": "kargo gemisi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_56",
+    "word": "fishing boat",
+    "correct": "balık gemisi",
+    "wrong": "teknesi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_57",
+    "word": "canoe",
+    "correct": "kano",
+    "wrong": "kayık",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_58",
+    "word": "kayak",
+    "correct": "kayak",
+    "wrong": "kano",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_59",
+    "word": "raft",
+    "correct": "sal",
+    "wrong": "tekne",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_60",
+    "word": "lifeboat",
+    "correct": "cankurtaran teknesi",
+    "wrong": "tekne",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_61",
+    "word": "hovercraft",
+    "correct": "hava yastıklı gemi",
+    "wrong": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_62",
+    "word": "submarine",
+    "correct": "denizaltı",
+    "wrong": "gemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_63",
+    "word": "road",
+    "correct": "yol",
+    "wrong": "kara",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_64",
+    "word": "street",
+    "correct": "sokak",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_65",
+    "word": "avenue",
+    "correct": "cadde",
+    "wrong": "sokak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_66",
+    "word": "boulevard",
+    "correct": "bulvar",
+    "wrong": "cadde",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_67",
+    "word": "highway",
+    "correct": "otoyol",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_68",
+    "word": "motorway",
+    "correct": "motorlu yol",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_69",
+    "word": "freeway",
+    "correct": "geniş yol",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_70",
+    "word": "expressway",
+    "correct": "ekspres yol",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_71",
+    "word": "bypass",
+    "correct": "çevre yolu",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_72",
+    "word": "alley",
+    "correct": "dar sokak",
+    "wrong": "cadde",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_73",
+    "word": "lane",
+    "correct": "şerit",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_74",
+    "word": "crossing",
+    "correct": "geçit",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_75",
+    "word": "intersection",
+    "correct": "kavşak",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_76",
+    "word": "junction",
+    "correct": "birleşim",
+    "wrong": "kavşak",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_77",
+    "word": "roundabout",
+    "correct": "döner kavşak",
+    "wrong": "ışık",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_78",
+    "word": "traffic light",
+    "correct": "ışık",
+    "wrong": "işaret",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_79",
+    "word": "traffic sign",
+    "correct": "trafik işareti",
+    "wrong": "işaret",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_80",
+    "word": "speed limit",
+    "correct": "hız sınırı",
+    "wrong": "sınırı",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_81",
+    "word": "parking lot",
+    "correct": "otopark",
+    "wrong": "park",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_82",
+    "word": "parking space",
+    "correct": "park yeri",
+    "wrong": "otopark",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_83",
+    "word": "gas station",
+    "correct": "benzin istasyonu",
+    "wrong": "istasyon",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_84",
+    "word": "petrol station",
+    "correct": "benzin istasyonu",
+    "wrong": "istasyon",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_85",
+    "word": "car wash",
+    "correct": "araba yıkama",
+    "wrong": "yıkama",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_86",
+    "word": "mechanic",
+    "correct": "tamircisi",
+    "wrong": "elektrikçi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_87",
+    "word": "garage",
+    "correct": "garaj",
+    "wrong": "depo",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_88",
+    "word": "service station",
+    "correct": "bakım istasyonu",
+    "wrong": "istasyon",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_89",
+    "word": "toll",
+    "correct": "gişe ücreti",
+    "wrong": "ücreti",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_90",
+    "word": "toll booth",
+    "correct": "gişe",
+    "wrong": "dişi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_91",
+    "word": "driver",
+    "correct": "şoför",
+    "wrong": "yolcu",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_92",
+    "word": "passenger",
+    "correct": "yolcu",
+    "wrong": "şoför",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_93",
+    "word": "pedestrian",
+    "correct": "yaya",
+    "wrong": "sürücü",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_94",
+    "word": "cyclist",
+    "correct": "bisikletçi",
+    "wrong": "yaya",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_95",
+    "word": "commuter",
+    "correct": "işe gidip gelen kişi",
+    "wrong": "turist",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_96",
+    "word": "destination",
+    "correct": "varış noktası",
+    "wrong": "başlangıç",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_97",
+    "word": "route",
+    "correct": "rota",
+    "wrong": "yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_98",
+    "word": "direction",
+    "correct": "yön",
+    "wrong": "hedef",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_99",
+    "word": "GPS",
+    "correct": "GPS",
+    "wrong": "harita",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_100",
+    "word": "map",
+    "correct": "harita",
+    "wrong": "rehber",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_101",
+    "word": "navigation",
+    "correct": "navigasyon",
+    "wrong": "yön",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_102",
+    "word": "compass",
+    "correct": "pusula",
+    "wrong": "harita",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_103",
+    "word": "speedometer",
+    "correct": "hız göstergesi",
+    "wrong": "gösterge",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_104",
+    "word": "odometer",
+    "correct": "kilometre sayacı",
+    "wrong": "sayaç",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_105",
+    "word": "fuel gauge",
+    "correct": "yakıt göstergesi",
+    "wrong": "gösterge",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_106",
+    "word": "dashboard",
+    "correct": "gösterge paneli",
+    "wrong": "panel",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_107",
+    "word": "steering wheel",
+    "correct": "direksiyon",
+    "wrong": "tekerlek",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_108",
+    "word": "pedal",
+    "correct": "pedal",
+    "wrong": "kontrolü",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_109",
+    "word": "accelerator",
+    "correct": "gaz pedali",
+    "wrong": "pedal",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_110",
+    "word": "brake",
+    "correct": "fren",
+    "wrong": "gaz",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_111",
+    "word": "clutch",
+    "correct": "debriyaj",
+    "wrong": "pedal",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_112",
+    "word": "gear",
+    "correct": "vites",
+    "wrong": "hareket",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_113",
+    "word": "transmission",
+    "correct": "aktarma",
+    "wrong": "vites",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_114",
+    "word": "automatic transmission",
+    "correct": "otomatik vites",
+    "wrong": "manuel vites",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_115",
+    "word": "manual transmission",
+    "correct": "manuel vites",
+    "wrong": "otomatik vites",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_116",
+    "word": "engine",
+    "correct": "motor",
+    "wrong": "araç",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_117",
+    "word": "diesel engine",
+    "correct": "diesel motor",
+    "wrong": "benzin motoru",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_118",
+    "word": "gasoline engine",
+    "correct": "benzin motoru",
+    "wrong": "diesel motoru",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_119",
+    "word": "electric motor",
+    "correct": "elektrik motoru",
+    "wrong": "motor",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_120",
+    "word": "hybrid engine",
+    "correct": "hibrid motor",
+    "wrong": "motor",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_121",
+    "word": "fuel tank",
+    "correct": "yakıt deposu",
+    "wrong": "depo",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_122",
+    "word": "tire",
+    "correct": "lastik",
+    "wrong": "tekerlek",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_123",
+    "word": "wheel",
+    "correct": "tekerlek",
+    "wrong": "lastik",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_124",
+    "word": "suspension",
+    "correct": "süspansiyon",
+    "wrong": "sistem",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_125",
+    "word": "brake system",
+    "correct": "fren sistemi",
+    "wrong": "sistemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_126",
+    "word": "exhaust system",
+    "correct": "egzoz sistemi",
+    "wrong": "sistemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_127",
+    "word": "cooling system",
+    "correct": "soğutma sistemi",
+    "wrong": "sistemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_128",
+    "word": "electrical system",
+    "correct": "elektrik sistemi",
+    "wrong": "sistemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_129",
+    "word": "ignition",
+    "correct": "ateşleme",
+    "wrong": "motor",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_130",
+    "word": "battery",
+    "correct": "akü",
+    "wrong": "motor",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_131",
+    "word": "alternator",
+    "correct": "alternatör",
+    "wrong": "akü",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_132",
+    "word": "starter",
+    "correct": "startlatıcı",
+    "wrong": "motor",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_133",
+    "word": "headlight",
+    "correct": "ön ışık",
+    "wrong": "ışık",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_134",
+    "word": "taillight",
+    "correct": "arka ışık",
+    "wrong": "ışık",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_135",
+    "word": "windshield",
+    "correct": "ön cam",
+    "wrong": "cam",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_136",
+    "word": "windshield wipers",
+    "correct": "silecek",
+    "wrong": "cam",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_137",
+    "word": "side mirror",
+    "correct": "yan ayna",
+    "wrong": "ayna",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_138",
+    "word": "rearview mirror",
+    "correct": "arka görünüş aynası",
+    "wrong": "ayna",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_139",
+    "word": "door",
+    "correct": "kapı",
+    "wrong": "pencere",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_140",
+    "word": "window",
+    "correct": "pencere",
+    "wrong": "kapı",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_141",
+    "word": "trunk",
+    "correct": "bagaj",
+    "wrong": "kabin",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_142",
+    "word": "hood",
+    "correct": "kaput",
+    "wrong": "motor",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_143",
+    "word": "bumper",
+    "correct": "tampon",
+    "wrong": "araç",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_144",
+    "word": "grille",
+    "correct": "ızgara",
+    "wrong": "ön",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_145",
+    "word": "spoiler",
+    "correct": "spoiler",
+    "wrong": "araç",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_146",
+    "word": "roof",
+    "correct": "tavan",
+    "wrong": "araç",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_147",
+    "word": "sunroof",
+    "correct": "açılır tavan",
+    "wrong": "tavan",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_148",
+    "word": "seat",
+    "correct": "koltuk",
+    "wrong": "yer",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_149",
+    "word": "seat belt",
+    "correct": "emniyet kemeri",
+    "wrong": "koltuk",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_150",
+    "word": "airbag",
+    "correct": "hava yastığı",
+    "wrong": "güvenlik",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_151",
+    "word": "horn",
+    "correct": "korna",
+    "wrong": "ses",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_152",
+    "word": "lock",
+    "correct": "kilit",
+    "wrong": "anahtar",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_153",
+    "word": "key",
+    "correct": "anahtar",
+    "wrong": "kilit",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_154",
+    "word": "ignition key",
+    "correct": "ateşleme anahtarı",
+    "wrong": "anahtar",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_155",
+    "word": "license plate",
+    "correct": "plaka",
+    "wrong": "kimlik",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_156",
+    "word": "registration",
+    "correct": "tescil",
+    "wrong": "kayıt",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_157",
+    "word": "insurance",
+    "correct": "sigorta",
+    "wrong": "koruma",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_158",
+    "word": "inspection",
+    "correct": "muayene",
+    "wrong": "kontrol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_159",
+    "word": "maintenance",
+    "correct": "bakım",
+    "wrong": "tamiri",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_160",
+    "word": "repair",
+    "correct": "tamir",
+    "wrong": "bakım",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_161",
+    "word": "accident",
+    "correct": "kaza",
+    "wrong": "olayı",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_162",
+    "word": "collision",
+    "correct": "çarpışma",
+    "wrong": "kaza",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_163",
+    "word": "crash",
+    "correct": "çarpma",
+    "wrong": "kaza",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_164",
+    "word": "flat tire",
+    "correct": "lastik patlaması",
+    "wrong": "lastik",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_165",
+    "word": "breakdown",
+    "correct": "arıza",
+    "wrong": "çalışma",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_166",
+    "word": "tow truck",
+    "correct": "çekici kamyon",
+    "wrong": "kamyon",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_167",
+    "word": "traffic jam",
+    "correct": "trafik sıkışıklığı",
+    "wrong": "akış",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_168",
+    "word": "rush hour",
+    "correct": "saatler",
+    "wrong": "sessiz saat",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_169",
+    "word": "congestion",
+    "correct": "tıkanıklık",
+    "wrong": "açıklık",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_170",
+    "word": "detour",
+    "correct": "dolaşım",
+    "wrong": "doğrudan",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_171",
+    "word": "shortcut",
+    "correct": "kısa yol",
+    "wrong": "uzun yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_172",
+    "word": "toll road",
+    "correct": "paralı yol",
+    "wrong": "bedelsiz yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_173",
+    "word": "freeway",
+    "correct": "geniş yol",
+    "wrong": "dar yol",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_174",
+    "word": "carpool",
+    "correct": "paylaşımlı araç",
+    "wrong": "bireysel",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_175",
+    "word": "public transportation",
+    "correct": "toplu taşım",
+    "wrong": "kişisel taşım",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_176",
+    "word": "transit",
+    "correct": "transit",
+    "wrong": "taşım",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_177",
+    "word": "transit system",
+    "correct": "taşım sistemi",
+    "wrong": "sistemi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_178",
+    "word": "commute",
+    "correct": "işe gitme-gelme",
+    "wrong": "iş",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_179",
+    "word": "journey",
+    "correct": "yolculuk",
+    "wrong": "durum",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_180",
+    "word": "trip",
+    "correct": "gezi",
+    "wrong": "ev",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_181",
+    "word": "departure",
+    "correct": "kalkış",
+    "wrong": "varış",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_182",
+    "word": "arrival",
+    "correct": "varış",
+    "wrong": "kalkış",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_183",
+    "word": "schedule",
+    "correct": "zaman çizelgesi",
+    "wrong": "çizelge",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_184",
+    "word": "timetable",
+    "correct": "saat cetveli",
+    "wrong": "çizelge",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_185",
+    "word": "delay",
+    "correct": "gecikme",
+    "wrong": "zamanında",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_186",
+    "word": "early arrival",
+    "correct": "erken varış",
+    "wrong": "geç varış",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_187",
+    "word": "fare",
+    "correct": "ücret",
+    "wrong": "para",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_188",
+    "word": "ticket",
+    "correct": "bilet",
+    "wrong": "kart",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_189",
+    "word": "pass",
+    "correct": "kart",
+    "wrong": "bilet",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_190",
+    "word": "round trip",
+    "correct": "gidiş dönüş",
+    "wrong": "tek yön",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_191",
+    "word": "one way",
+    "correct": "tek yön",
+    "wrong": "gidiş dönüş",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_192",
+    "word": "baggage",
+    "correct": "bagaj",
+    "wrong": "eşya",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_193",
+    "word": "luggage",
+    "correct": "bagaj",
+    "wrong": "eşya",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_194",
+    "word": "cargo",
+    "correct": "kargo",
+    "wrong": "paket",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_195",
+    "word": "shipping",
+    "correct": "kargo gönderme",
+    "wrong": "alma",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_196",
+    "word": "delivery",
+    "correct": "teslimat",
+    "wrong": "alma",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_197",
+    "word": "warehouse",
+    "correct": "depo",
+    "wrong": "mağaza",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_198",
+    "word": "customs",
+    "correct": "gümrük",
+    "wrong": "serbest",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_199",
+    "word": "border",
+    "correct": "sınır",
+    "wrong": "kapalı",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_200",
+    "word": "checkpoint",
+    "correct": "kontrol noktası",
+    "wrong": "noktası",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_201",
+    "word": "visa",
+    "correct": "vize",
+    "wrong": "pasaport",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_202",
+    "word": "passport",
+    "correct": "pasaport",
+    "wrong": "kimlik",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_203",
+    "word": "traffic police",
+    "correct": "trafik polisi",
+    "wrong": "polis",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_204",
+    "word": "traffic violation",
+    "correct": "trafik ihlali",
+    "wrong": "uyum",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_205",
+    "word": "speeding",
+    "correct": "hız ihlali",
+    "wrong": "hız uyumu",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_206",
+    "word": "parking violation",
+    "correct": "park yasağı ihlali",
+    "wrong": "uyum",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_207",
+    "word": "traffic ticket",
+    "correct": "trafik cezası",
+    "wrong": "ceza yok",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_208",
+    "word": "fine",
+    "correct": "para cezası",
+    "wrong": "ödül",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_209",
+    "word": "penalty",
+    "correct": "ceza",
+    "wrong": "ödül",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_210",
+    "word": "suspension",
+    "correct": "fesih",
+    "wrong": "devam",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_211",
+    "word": "revocation",
+    "correct": "iptal",
+    "wrong": "verme",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_212",
+    "word": "driving license",
+    "correct": "ehliyet",
+    "wrong": "lisans",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_213",
+    "word": "driver's license",
+    "correct": "sürücü belgesi",
+    "wrong": "ehliyet",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_214",
+    "word": "learner's permit",
+    "correct": "öğrenci belgesi",
+    "wrong": "belgesi",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_215",
+    "word": "test",
+    "correct": "sınav",
+    "wrong": "sertifika",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_216",
+    "word": "written test",
+    "correct": "yazılı sınav",
+    "wrong": "pratik",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_217",
+    "word": "driving test",
+    "correct": "pratik sınav",
+    "wrong": "yazılı sınav",
+    "category": "Ulaşım"
+  },
+  {
+    "id": "transportation_218",
+    "word": "renewal",
+    "correct": "yenileme",
+    "wrong": "iptali",
+    "category": "Ulaşım"
+  }
+]

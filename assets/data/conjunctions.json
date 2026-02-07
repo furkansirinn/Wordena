@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "conjunctions_1",
+    "word": "and",
+    "correct": "ve",
+    "wrong": "veya",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_2",
+    "word": "or",
+    "correct": "veya",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_3",
+    "word": "but",
+    "correct": "ama",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_4",
+    "word": "yet",
+    "correct": "yine de",
+    "wrong": "ama",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_5",
+    "word": "so",
+    "correct": "bu yüzden",
+    "wrong": "çünkü",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_6",
+    "word": "because",
+    "correct": "çünkü",
+    "wrong": "rağmen",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_7",
+    "word": "since",
+    "correct": "çünkü",
+    "wrong": "ama",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_8",
+    "word": "as",
+    "correct": "gibi",
+    "wrong": "aksine",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_9",
+    "word": "while",
+    "correct": "iken",
+    "wrong": "sonra",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_10",
+    "word": "when",
+    "correct": "zaman",
+    "wrong": "hiçbir zaman",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_11",
+    "word": "whenever",
+    "correct": "her zaman",
+    "wrong": "hiçbir zaman",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_12",
+    "word": "before",
+    "correct": "önce",
+    "wrong": "sonra",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_13",
+    "word": "after",
+    "correct": "sonra",
+    "wrong": "önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_14",
+    "word": "until",
+    "correct": "kadar",
+    "wrong": "henüz",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_15",
+    "word": "till",
+    "correct": "kadar",
+    "wrong": "henüz",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_16",
+    "word": "unless",
+    "correct": "sürece",
+    "wrong": "eğer",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_17",
+    "word": "if",
+    "correct": "eğer",
+    "wrong": "değilse",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_18",
+    "word": "in case",
+    "correct": "durumunda",
+    "wrong": "eğer değilse",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_19",
+    "word": "provided",
+    "correct": "koşulu",
+    "wrong": "sürece",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_20",
+    "word": "suppose",
+    "correct": "varsayalım",
+    "wrong": "aksine",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_21",
+    "word": "supposing",
+    "correct": "varsayalım",
+    "wrong": "aksine",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_22",
+    "word": "although",
+    "correct": "rağmen",
+    "wrong": "çünkü",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_23",
+    "word": "though",
+    "correct": "rağmen",
+    "wrong": "çünkü",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_24",
+    "word": "even though",
+    "correct": "rağmen",
+    "wrong": "çünkü",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_25",
+    "word": "even if",
+    "correct": "olsa da",
+    "wrong": "değilse",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_26",
+    "word": "whereas",
+    "correct": "iken",
+    "wrong": "gibi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_27",
+    "word": "unlike",
+    "correct": "aksine",
+    "wrong": "gibi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_28",
+    "word": "as long as",
+    "correct": "sürece",
+    "wrong": "kadar",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_29",
+    "word": "now that",
+    "correct": "şimdi",
+    "wrong": "daha önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_30",
+    "word": "in order that",
+    "correct": "için",
+    "wrong": "rağmen",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_31",
+    "word": "so that",
+    "correct": "için",
+    "wrong": "rağmen",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_32",
+    "word": "with the result that",
+    "correct": "sonucu",
+    "wrong": "çünkü",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_33",
+    "word": "such that",
+    "correct": "öyle ki",
+    "wrong": "değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_34",
+    "word": "insomuch as",
+    "correct": "kadarıyla",
+    "wrong": "olmadığı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_35",
+    "word": "inasmuch as",
+    "correct": "kadarıyla",
+    "wrong": "olmadığı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_36",
+    "word": "for",
+    "correct": "çünkü",
+    "wrong": "rağmen",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_37",
+    "word": "nor",
+    "correct": "ne",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_38",
+    "word": "neither",
+    "correct": "ne",
+    "wrong": "her iki",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_39",
+    "word": "either",
+    "correct": "ya",
+    "wrong": "ne",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_40",
+    "word": "both",
+    "correct": "her iki",
+    "wrong": "ne",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_41",
+    "word": "as well as",
+    "correct": "kadar",
+    "wrong": "aksine",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_42",
+    "word": "moreover",
+    "correct": "ayrıca",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_43",
+    "word": "furthermore",
+    "correct": "ayrıca",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_44",
+    "word": "besides",
+    "correct": "ayrıca",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_45",
+    "word": "additionally",
+    "correct": "ek olarak",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_46",
+    "word": "also",
+    "correct": "ayrıca",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_47",
+    "word": "too",
+    "correct": "da",
+    "wrong": "değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_48",
+    "word": "likewise",
+    "correct": "benzer şekilde",
+    "wrong": "aksine",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_49",
+    "word": "similarly",
+    "correct": "benzer şekilde",
+    "wrong": "aksine",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_50",
+    "word": "in addition",
+    "correct": "ek olarak",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_51",
+    "word": "on the other hand",
+    "correct": "öte yandan",
+    "wrong": "bir yandan",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_52",
+    "word": "on the contrary",
+    "correct": "aksine",
+    "wrong": "gibi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_53",
+    "word": "conversely",
+    "correct": "aksine",
+    "wrong": "gibi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_54",
+    "word": "however",
+    "correct": "ama",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_55",
+    "word": "nevertheless",
+    "correct": "yine de",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_56",
+    "word": "notwithstanding",
+    "correct": "rağmen",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_57",
+    "word": "still",
+    "correct": "yine de",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_58",
+    "word": "yet",
+    "correct": "yine de",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_59",
+    "word": "at the same time",
+    "correct": "aynı zamanda",
+    "wrong": "farklı zamanda",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_60",
+    "word": "rather",
+    "correct": "aksine",
+    "wrong": "gibi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_61",
+    "word": "instead",
+    "correct": "yerine",
+    "wrong": "ek olarak",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_62",
+    "word": "by contrast",
+    "correct": "aksine",
+    "wrong": "gibi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_63",
+    "word": "in contrast",
+    "correct": "aksine",
+    "wrong": "gibi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_64",
+    "word": "otherwise",
+    "correct": "yoksa",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_65",
+    "word": "else",
+    "correct": "yoksa",
+    "wrong": "ve",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_66",
+    "word": "moreover",
+    "correct": "ayrıca",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_67",
+    "word": "meanwhile",
+    "correct": "bu arada",
+    "wrong": "daha sonra",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_68",
+    "word": "in the meantime",
+    "correct": "bu arada",
+    "wrong": "daha sonra",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_69",
+    "word": "consequently",
+    "correct": "sonuç olarak",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_70",
+    "word": "therefore",
+    "correct": "bu nedenle",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_71",
+    "word": "thus",
+    "correct": "bu nedenle",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_72",
+    "word": "as a result",
+    "correct": "sonuç olarak",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_73",
+    "word": "in consequence",
+    "correct": "sonuç olarak",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_74",
+    "word": "accordingly",
+    "correct": "buna göre",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_75",
+    "word": "then",
+    "correct": "sonra",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_76",
+    "word": "so",
+    "correct": "bu yüzden",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_77",
+    "word": "hence",
+    "correct": "bu nedenle",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_78",
+    "word": "afterward",
+    "correct": "sonra",
+    "wrong": "önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_79",
+    "word": "afterwards",
+    "correct": "sonra",
+    "wrong": "önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_80",
+    "word": "later",
+    "correct": "daha sonra",
+    "wrong": "daha önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_81",
+    "word": "next",
+    "correct": "sonra",
+    "wrong": "önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_82",
+    "word": "subsequently",
+    "correct": "sonra",
+    "wrong": "önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_83",
+    "word": "later on",
+    "correct": "daha sonra",
+    "wrong": "daha önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_84",
+    "word": "then",
+    "correct": "sonra",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_85",
+    "word": "and then",
+    "correct": "ve sonra",
+    "wrong": "ve önce",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_86",
+    "word": "and so",
+    "correct": "ve bu yüzden",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_87",
+    "word": "also",
+    "correct": "ayrıca",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_88",
+    "word": "further",
+    "correct": "daha",
+    "wrong": "daha az",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_89",
+    "word": "additionally",
+    "correct": "ek olarak",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_90",
+    "word": "besides",
+    "correct": "ayrıca",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_91",
+    "word": "in addition to",
+    "correct": "ek olarak",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_92",
+    "word": "above all",
+    "correct": "her şeyden önce",
+    "wrong": "en sonunda",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_93",
+    "word": "mainly",
+    "correct": "esas olarak",
+    "wrong": "ikincil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_94",
+    "word": "chiefly",
+    "correct": "esas olarak",
+    "wrong": "ikincil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_95",
+    "word": "in fact",
+    "correct": "aslında",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_96",
+    "word": "indeed",
+    "correct": "gerçekten",
+    "wrong": "fakat",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_97",
+    "word": "certainly",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_98",
+    "word": "surely",
+    "correct": "kesinlikle",
+    "wrong": "belki",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_99",
+    "word": "without doubt",
+    "correct": "şüphesiz",
+    "wrong": "belki",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_100",
+    "word": "no doubt",
+    "correct": "şüphesiz",
+    "wrong": "belki",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_101",
+    "word": "obviously",
+    "correct": "açıkça",
+    "wrong": "belirsizlik",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_102",
+    "word": "clearly",
+    "correct": "açıkça",
+    "wrong": "bulanık",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_103",
+    "word": "evidently",
+    "correct": "açıkça",
+    "wrong": "belirsizlik",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_104",
+    "word": "plainly",
+    "correct": "açıkça",
+    "wrong": "karmaşık",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_105",
+    "word": "visibly",
+    "correct": "görülür şekilde",
+    "wrong": "gözle görülmez",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_106",
+    "word": "patently",
+    "correct": "açıkça",
+    "wrong": "gizli",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_107",
+    "word": "manifestly",
+    "correct": "açıkça",
+    "wrong": "gizli",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_108",
+    "word": "undoubtedly",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_109",
+    "word": "indisputably",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_110",
+    "word": "unquestionably",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_111",
+    "word": "indubitably",
+    "correct": "tartışılmaz",
+    "wrong": "tartışılır",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_112",
+    "word": "admittedly",
+    "correct": "itiraf",
+    "wrong": "inkar",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_113",
+    "word": "avowedly",
+    "correct": "açık",
+    "wrong": "gizli",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_114",
+    "word": "allegedly",
+    "correct": "iddia",
+    "wrong": "kanıtlı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_115",
+    "word": "reportedly",
+    "correct": "söylendiğine",
+    "wrong": "kanıtlı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_116",
+    "word": "seemingly",
+    "correct": "görünüşe",
+    "wrong": "gerçekten",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_117",
+    "word": "apparently",
+    "correct": "görünüşe",
+    "wrong": "gerçekten",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_118",
+    "word": "ostensibly",
+    "correct": "sözde",
+    "wrong": "gerçek",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_119",
+    "word": "purportedly",
+    "correct": "iddia",
+    "wrong": "kanıtlı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_120",
+    "word": "professedly",
+    "correct": "iddialı",
+    "wrong": "gerçekten",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_121",
+    "word": "reputedly",
+    "correct": "söylendiğine",
+    "wrong": "kanıtlı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_122",
+    "word": "supposedly",
+    "correct": "varsayılışına",
+    "wrong": "gerçekten",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_123",
+    "word": "virtually",
+    "correct": "pratik olarak",
+    "wrong": "tam değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_124",
+    "word": "practically",
+    "correct": "pratik olarak",
+    "wrong": "teorik olarak",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_125",
+    "word": "essentially",
+    "correct": "özünde",
+    "wrong": "yüzey",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_126",
+    "word": "fundamentally",
+    "correct": "temel olarak",
+    "wrong": "yüzey",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_127",
+    "word": "basically",
+    "correct": "temelde",
+    "wrong": "ayrıntıda",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_128",
+    "word": "chiefly",
+    "correct": "esas",
+    "wrong": "ikincil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_129",
+    "word": "primarily",
+    "correct": "esas",
+    "wrong": "ikincil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_130",
+    "word": "principally",
+    "correct": "esas",
+    "wrong": "ikincil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_131",
+    "word": "mainly",
+    "correct": "esas",
+    "wrong": "ikincil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_132",
+    "word": "largely",
+    "correct": "çoğunlukla",
+    "wrong": "az",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_133",
+    "word": "mostly",
+    "correct": "çoğunlukla",
+    "wrong": "az",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_134",
+    "word": "in general",
+    "correct": "genel",
+    "wrong": "özel",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_135",
+    "word": "generally",
+    "correct": "genel",
+    "wrong": "özel",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_136",
+    "word": "broadly",
+    "correct": "geniş",
+    "wrong": "dar",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_137",
+    "word": "loosely",
+    "correct": "gevşek",
+    "wrong": "katı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_138",
+    "word": "roughly",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_139",
+    "word": "approximately",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_140",
+    "word": "more or less",
+    "correct": "az çok",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_141",
+    "word": "so to speak",
+    "correct": "söyle diyebilir",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_142",
+    "word": "as it were",
+    "correct": "söyle diyebilir",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_143",
+    "word": "if you like",
+    "correct": "istersen",
+    "wrong": "istemezsen",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_144",
+    "word": "in a sense",
+    "correct": "bir anlamda",
+    "wrong": "tam anlamda",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_145",
+    "word": "in a way",
+    "correct": "bir bakıma",
+    "wrong": "tamamen değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_146",
+    "word": "more or less",
+    "correct": "az çok",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_147",
+    "word": "sort of",
+    "correct": "az çok",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_148",
+    "word": "kind of",
+    "correct": "az çok",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_149",
+    "word": "rather",
+    "correct": "biraz",
+    "wrong": "değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_150",
+    "word": "quite",
+    "correct": "oldukça",
+    "wrong": "pek değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_151",
+    "word": "somewhat",
+    "correct": "biraz",
+    "wrong": "hiç",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_152",
+    "word": "somewhat",
+    "correct": "biraz",
+    "wrong": "çok",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_153",
+    "word": "comparatively",
+    "correct": "nispeten",
+    "wrong": "tamamen",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_154",
+    "word": "relatively",
+    "correct": "nispeten",
+    "wrong": "tamamen",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_155",
+    "word": "fairly",
+    "correct": "oldukça",
+    "wrong": "pek değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_156",
+    "word": "rather",
+    "correct": "oldukça",
+    "wrong": "pek değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_157",
+    "word": "pretty",
+    "correct": "oldukça",
+    "wrong": "pek değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_158",
+    "word": "pretty much",
+    "correct": "hemen hemen",
+    "wrong": "değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_159",
+    "word": "almost",
+    "correct": "neredeyse",
+    "wrong": "kesinlikle",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_160",
+    "word": "nearly",
+    "correct": "neredeyse",
+    "wrong": "kesinlikle",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_161",
+    "word": "virtually",
+    "correct": "pratik olarak",
+    "wrong": "kesinlikle değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_162",
+    "word": "practically",
+    "correct": "pratik olarak",
+    "wrong": "kesinlikle değil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_163",
+    "word": "about",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_164",
+    "word": "around",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_165",
+    "word": "roughly",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_166",
+    "word": "thereabouts",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_167",
+    "word": "or so",
+    "correct": "kadar",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_168",
+    "word": "or thereabouts",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_169",
+    "word": "something like",
+    "correct": "yaklaşık",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_170",
+    "word": "in the region of",
+    "correct": "civarında",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_171",
+    "word": "in the neighborhood of",
+    "correct": "civarında",
+    "wrong": "tam",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_172",
+    "word": "by and large",
+    "correct": "genel olarak",
+    "wrong": "özel olarak",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_173",
+    "word": "on the whole",
+    "correct": "genel olarak",
+    "wrong": "özel olarak",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_174",
+    "word": "in the main",
+    "correct": "esas olarak",
+    "wrong": "ikincil",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_175",
+    "word": "all in all",
+    "correct": "özet olarak",
+    "wrong": "detaylı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_176",
+    "word": "altogether",
+    "correct": "tamamen",
+    "wrong": "kısmi",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_177",
+    "word": "all things considered",
+    "correct": "göz önüne alındığında",
+    "wrong": "göz ardı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_178",
+    "word": "taking everything into account",
+    "correct": "göz önüne alındığında",
+    "wrong": "göz ardı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_179",
+    "word": "on balance",
+    "correct": "sonuç olarak",
+    "wrong": "başlangıçta",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_180",
+    "word": "all told",
+    "correct": "toplam",
+    "wrong": "bölüm",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_181",
+    "word": "in sum",
+    "correct": "özet olarak",
+    "wrong": "detaylı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_182",
+    "word": "in summary",
+    "correct": "özet olarak",
+    "wrong": "detaylı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_183",
+    "word": "in short",
+    "correct": "kısaca",
+    "wrong": "detaylı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_184",
+    "word": "in brief",
+    "correct": "kısaca",
+    "wrong": "detaylı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_185",
+    "word": "to summarize",
+    "correct": "özet olarak",
+    "wrong": "detaylı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_186",
+    "word": "to sum up",
+    "correct": "özet olarak",
+    "wrong": "detaylı",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_187",
+    "word": "lastly",
+    "correct": "en sonunda",
+    "wrong": "ilk olarak",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_188",
+    "word": "finally",
+    "correct": "en sonunda",
+    "wrong": "ilk olarak",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_189",
+    "word": "in conclusion",
+    "correct": "sonuç olarak",
+    "wrong": "başlangıç",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_190",
+    "word": "to conclude",
+    "correct": "sonuç olarak",
+    "wrong": "başlangıç",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_191",
+    "word": "in the end",
+    "correct": "sonunda",
+    "wrong": "başında",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_192",
+    "word": "ultimately",
+    "correct": "sonunda",
+    "wrong": "başında",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_193",
+    "word": "at last",
+    "correct": "en sonunda",
+    "wrong": "başında",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_194",
+    "word": "at length",
+    "correct": "sonunda",
+    "wrong": "başında",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_195",
+    "word": "in the final analysis",
+    "correct": "sonuç olarak",
+    "wrong": "başlangıç",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_196",
+    "word": "when all is said and done",
+    "correct": "her şey söylendi yapıldı",
+    "wrong": "başlangıçta",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_197",
+    "word": "at the end of the day",
+    "correct": "sonunda",
+    "wrong": "başında",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_198",
+    "word": "coming back to",
+    "correct": "geri dönüşü",
+    "wrong": "ileri gitme",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_199",
+    "word": "retracing our steps",
+    "correct": "geri dönüşü",
+    "wrong": "ileri gitme",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_200",
+    "word": "getting back to",
+    "correct": "geri dönüşü",
+    "wrong": "ileri gitme",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_201",
+    "word": "returning to",
+    "correct": "geri dönüşü",
+    "wrong": "ileri gitme",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_202",
+    "word": "let's return to",
+    "correct": "geri dönelim",
+    "wrong": "ileri gidelim",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_203",
+    "word": "let's get back to",
+    "correct": "geri dönelim",
+    "wrong": "ileri gidelim",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_204",
+    "word": "to go back to",
+    "correct": "geri gitmek",
+    "wrong": "ileri gitmek",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_205",
+    "word": "as I was saying",
+    "correct": "dediğim gibi",
+    "wrong": "yanlış söyledim",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_206",
+    "word": "as I mentioned",
+    "correct": "bahsettiğim",
+    "wrong": "bahsetmedim",
+    "category": "Bağlaçlar (Conjunctions)"
+  },
+  {
+    "id": "conjunctions_207",
+    "word": "as I pointed out",
+    "correct": "işaret ettiğim",
+    "wrong": "görmezden geldim",
+    "category": "Bağlaçlar (Conjunctions)"
+  }
+]

@@ -1,0 +1,1801 @@
+[
+  {
+    "id": "health_body_1",
+    "word": "body",
+    "correct": "vücut",
+    "wrong": "ruh",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_2",
+    "word": "head",
+    "correct": "baş",
+    "wrong": "boyun",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_3",
+    "word": "neck",
+    "correct": "boyun",
+    "wrong": "baş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_4",
+    "word": "shoulder",
+    "correct": "omuz",
+    "wrong": "kol",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_5",
+    "word": "arm",
+    "correct": "kol",
+    "wrong": "bacak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_6",
+    "word": "elbow",
+    "correct": "dirsek",
+    "wrong": "kol",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_7",
+    "word": "wrist",
+    "correct": "bilek",
+    "wrong": "el",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_8",
+    "word": "hand",
+    "correct": "el",
+    "wrong": "kol",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_9",
+    "word": "finger",
+    "correct": "parmak",
+    "wrong": "el",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_10",
+    "word": "thumb",
+    "correct": "başparmak",
+    "wrong": "parmak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_11",
+    "word": "index finger",
+    "correct": "işaret parmağı",
+    "wrong": "parmak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_12",
+    "word": "middle finger",
+    "correct": "orta parmak",
+    "wrong": "parmak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_13",
+    "word": "ring finger",
+    "correct": "yüzük parmağı",
+    "wrong": "parmak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_14",
+    "word": "pinky",
+    "correct": "küçük parmak",
+    "wrong": "parmak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_15",
+    "word": "nail",
+    "correct": "tırnak",
+    "wrong": "parmak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_16",
+    "word": "palm",
+    "correct": "avuç",
+    "wrong": "el",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_17",
+    "word": "back",
+    "correct": "sırt",
+    "wrong": "göğüs",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_18",
+    "word": "spine",
+    "correct": "omurga",
+    "wrong": "sırt",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_19",
+    "word": "chest",
+    "correct": "göğüs",
+    "wrong": "sırt",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_20",
+    "word": "breast",
+    "correct": "meme",
+    "wrong": "göğüs",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_21",
+    "word": "rib",
+    "correct": "kaburga",
+    "wrong": "göğüs",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_22",
+    "word": "waist",
+    "correct": "bel",
+    "wrong": "karın",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_23",
+    "word": "abdomen",
+    "correct": "karın",
+    "wrong": "bel",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_24",
+    "word": "belly",
+    "correct": "karın",
+    "wrong": "bel",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_25",
+    "word": "stomach",
+    "correct": "mide",
+    "wrong": "karın",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_26",
+    "word": "intestine",
+    "correct": "bağırsaklar",
+    "wrong": "mide",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_27",
+    "word": "liver",
+    "correct": "karaciğer",
+    "wrong": "böbrek",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_28",
+    "word": "kidney",
+    "correct": "böbrek",
+    "wrong": "karaciğer",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_29",
+    "word": "heart",
+    "correct": "kalp",
+    "wrong": "akciğer",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_30",
+    "word": "lung",
+    "correct": "akciğer",
+    "wrong": "kalp",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_31",
+    "word": "diaphragm",
+    "correct": "diyafram",
+    "wrong": "göğüs",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_32",
+    "word": "leg",
+    "correct": "bacak",
+    "wrong": "kol",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_33",
+    "word": "thigh",
+    "correct": "uyluk",
+    "wrong": "bacak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_34",
+    "word": "knee",
+    "correct": "diz",
+    "wrong": "bacak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_35",
+    "word": "shin",
+    "correct": "kaval",
+    "wrong": "bacak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_36",
+    "word": "calf",
+    "correct": "baldır",
+    "wrong": "bacak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_37",
+    "word": "ankle",
+    "correct": "ayak bileği",
+    "wrong": "ayak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_38",
+    "word": "foot",
+    "correct": "ayak",
+    "wrong": "bacak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_39",
+    "word": "heel",
+    "correct": "topuk",
+    "wrong": "ayak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_40",
+    "word": "sole",
+    "correct": "tabanlık",
+    "wrong": "topuk",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_41",
+    "word": "toe",
+    "correct": "ayak parmağı",
+    "wrong": "ayak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_42",
+    "word": "toe nail",
+    "correct": "ayak tırnağı",
+    "wrong": "tırnak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_43",
+    "word": "skin",
+    "correct": "cilt",
+    "wrong": "kol",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_44",
+    "word": "hair",
+    "correct": "saç",
+    "wrong": "cilt",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_45",
+    "word": "scalp",
+    "correct": "başkaldırma",
+    "wrong": "saç",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_46",
+    "word": "face",
+    "correct": "yüz",
+    "wrong": "baş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_47",
+    "word": "forehead",
+    "correct": "alın",
+    "wrong": "yüz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_48",
+    "word": "temple",
+    "correct": "şakak",
+    "wrong": "alın",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_49",
+    "word": "eyebrow",
+    "correct": "kaş",
+    "wrong": "gözler",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_50",
+    "word": "eyelash",
+    "correct": "kirpik",
+    "wrong": "göz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_51",
+    "word": "eyelid",
+    "correct": "göz kapağı",
+    "wrong": "göz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_52",
+    "word": "eye",
+    "correct": "göz",
+    "wrong": "ağız",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_53",
+    "word": "pupil",
+    "correct": "göz bebeği",
+    "wrong": "göz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_54",
+    "word": "iris",
+    "correct": "iris",
+    "wrong": "göz bebeği",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_55",
+    "word": "tear",
+    "correct": "gözyaş",
+    "wrong": "göz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_56",
+    "word": "nose",
+    "correct": "burun",
+    "wrong": "ağız",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_57",
+    "word": "nostril",
+    "correct": "burun deliği",
+    "wrong": "burun",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_58",
+    "word": "ear",
+    "correct": "kulak",
+    "wrong": "burun",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_59",
+    "word": "earlobe",
+    "correct": "kulak memesi",
+    "wrong": "kulak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_60",
+    "word": "earwax",
+    "correct": "kulak mumu",
+    "wrong": "kulak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_61",
+    "word": "mouth",
+    "correct": "ağız",
+    "wrong": "yüz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_62",
+    "word": "lip",
+    "correct": "dudak",
+    "wrong": "ağız",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_63",
+    "word": "tooth",
+    "correct": "diş",
+    "wrong": "ağız",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_64",
+    "word": "teeth",
+    "correct": "dişler",
+    "wrong": "diş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_65",
+    "word": "incisor",
+    "correct": "ön diş",
+    "wrong": "diş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_66",
+    "word": "canine",
+    "correct": "köpek dişi",
+    "wrong": "diş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_67",
+    "word": "molar",
+    "correct": "azı dişi",
+    "wrong": "diş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_68",
+    "word": "gum",
+    "correct": "diş eti",
+    "wrong": "dişler",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_69",
+    "word": "tongue",
+    "correct": "dil",
+    "wrong": "ağız",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_70",
+    "word": "palate",
+    "correct": "damak",
+    "wrong": "dil",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_71",
+    "word": "throat",
+    "correct": "boğaz",
+    "wrong": "boyun",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_72",
+    "word": "vocal cord",
+    "correct": "ses telleri",
+    "wrong": "boğaz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_73",
+    "word": "tonsil",
+    "correct": "tonsil",
+    "wrong": "boğaz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_74",
+    "word": "chin",
+    "correct": "çene",
+    "wrong": "ağız",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_75",
+    "word": "jaw",
+    "correct": "çene",
+    "wrong": "yüz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_76",
+    "word": "cheek",
+    "correct": "yanak",
+    "wrong": "yüz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_77",
+    "word": "bone",
+    "correct": "kemik",
+    "wrong": "kas",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_78",
+    "word": "muscle",
+    "correct": "kas",
+    "wrong": "kemik",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_79",
+    "word": "tendon",
+    "correct": "tendon",
+    "wrong": "kas",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_80",
+    "word": "ligament",
+    "correct": "bağ",
+    "wrong": "tendon",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_81",
+    "word": "cartilage",
+    "correct": "kıkırdak",
+    "wrong": "kemik",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_82",
+    "word": "blood",
+    "correct": "kan",
+    "wrong": "serum",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_83",
+    "word": "red blood cell",
+    "correct": "kırmızı kan hücresi",
+    "wrong": "beyaz kan hücresi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_84",
+    "word": "white blood cell",
+    "correct": "beyaz kan hücresi",
+    "wrong": "kırmızı kan hücresi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_85",
+    "word": "platelet",
+    "correct": "trombosit",
+    "wrong": "kan hücresi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_86",
+    "word": "plasma",
+    "correct": "plazma",
+    "wrong": "kan",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_87",
+    "word": "artery",
+    "correct": "arter",
+    "wrong": "ven",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_88",
+    "word": "vein",
+    "correct": "ven",
+    "wrong": "arter",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_89",
+    "word": "capillary",
+    "correct": "kılcal damar",
+    "wrong": "arter",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_90",
+    "word": "vein",
+    "correct": "ven",
+    "wrong": "arter",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_91",
+    "word": "nerve",
+    "correct": "sinir",
+    "wrong": "kas",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_92",
+    "word": "nerve cell",
+    "correct": "sinir hücresi",
+    "wrong": "sinir",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_93",
+    "word": "brain",
+    "correct": "beyin",
+    "wrong": "kalp",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_94",
+    "word": "cerebrum",
+    "correct": "serebrum",
+    "wrong": "beyin",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_95",
+    "word": "cerebellum",
+    "correct": "serebellum",
+    "wrong": "beyin",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_96",
+    "word": "brainstem",
+    "correct": "beyin sapı",
+    "wrong": "beyin",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_97",
+    "word": "spinal cord",
+    "correct": "spinal kord",
+    "wrong": "nerv",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_98",
+    "word": "thyroid",
+    "correct": "tiroid",
+    "wrong": "organ",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_99",
+    "word": "pancreas",
+    "correct": "pankreas",
+    "wrong": "karaciğer",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_100",
+    "word": "gland",
+    "correct": "bez",
+    "wrong": "organ",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_101",
+    "word": "hormone",
+    "correct": "hormon",
+    "wrong": "enzim",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_102",
+    "word": "enzyme",
+    "correct": "enzim",
+    "wrong": "hormon",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_103",
+    "word": "antibody",
+    "correct": "antikor",
+    "wrong": "virüs",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_104",
+    "word": "immune system",
+    "correct": "bağışıklık sistemi",
+    "wrong": "sinir sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_105",
+    "word": "lymph",
+    "correct": "lenfatik sıvı",
+    "wrong": "kan",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_106",
+    "word": "lymph node",
+    "correct": "lenf nodu",
+    "wrong": "lenfatik sıvı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_107",
+    "word": "lymphatic system",
+    "correct": "lenfatik sistem",
+    "wrong": "sinir sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_108",
+    "word": "digestive system",
+    "correct": "sindirme sistemi",
+    "wrong": "dolaşım sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_109",
+    "word": "respiratory system",
+    "correct": "solunum sistemi",
+    "wrong": "sindirme sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_110",
+    "word": "nervous system",
+    "correct": "sinir sistemi",
+    "wrong": "solunum sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_111",
+    "word": "circulatory system",
+    "correct": "dolaşım sistemi",
+    "wrong": "sinir sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_112",
+    "word": "reproductive system",
+    "correct": "üreme sistemi",
+    "wrong": "sindirme sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_113",
+    "word": "urinary system",
+    "correct": "üriner sistem",
+    "wrong": "sindirme sistemi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_114",
+    "word": "health",
+    "correct": "sağlık",
+    "wrong": "hastalık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_115",
+    "word": "illness",
+    "correct": "hastalık",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_116",
+    "word": "disease",
+    "correct": "hastalık",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_117",
+    "word": "fever",
+    "correct": "ateş",
+    "wrong": "soğukluk",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_118",
+    "word": "cold",
+    "correct": "soğuk algınlığı",
+    "wrong": "sıcak",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_119",
+    "word": "flu",
+    "correct": "grip",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_120",
+    "word": "cough",
+    "correct": "öksürük",
+    "wrong": "nefes",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_121",
+    "word": "sneeze",
+    "correct": "hapşırma",
+    "wrong": "nefes",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_122",
+    "word": "sore throat",
+    "correct": "boğaz ağrısı",
+    "wrong": "boğaz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_123",
+    "word": "runny nose",
+    "correct": "akan burun",
+    "wrong": "burun",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_124",
+    "word": "congestion",
+    "correct": "tıkanıklık",
+    "wrong": "açıklık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_125",
+    "word": "headache",
+    "correct": "baş ağrısı",
+    "wrong": "ağrı yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_126",
+    "word": "migraine",
+    "correct": "migren",
+    "wrong": "ağrı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_127",
+    "word": "backache",
+    "correct": "sırt ağrısı",
+    "wrong": "ağrı yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_128",
+    "word": "nausea",
+    "correct": "bulantı",
+    "wrong": "iştah",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_129",
+    "word": "vomit",
+    "correct": "kusma",
+    "wrong": "yemek",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_130",
+    "word": "diarrhea",
+    "correct": "ishal",
+    "wrong": "kabızlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_131",
+    "word": "constipation",
+    "correct": "kabızlık",
+    "wrong": "ishal",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_132",
+    "word": "indigestion",
+    "correct": "hazımsızlık",
+    "wrong": "sindirme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_133",
+    "word": "heartburn",
+    "correct": "mide yanması",
+    "wrong": "soğukluk",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_134",
+    "word": "allergies",
+    "correct": "alerjiler",
+    "wrong": "iyileşme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_135",
+    "word": "allergy",
+    "correct": "alerji",
+    "wrong": "iyileşme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_136",
+    "word": "asthma",
+    "correct": "astım",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_137",
+    "word": "diabetes",
+    "correct": "diyabet",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_138",
+    "word": "hypertension",
+    "correct": "yüksek tansiyon",
+    "wrong": "düşük tansiyon",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_139",
+    "word": "high blood pressure",
+    "correct": "yüksek kan basıncı",
+    "wrong": "düşük kan basıncı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_140",
+    "word": "low blood pressure",
+    "correct": "düşük kan basıncı",
+    "wrong": "yüksek kan basıncı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_141",
+    "word": "heart attack",
+    "correct": "kalp krizi",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_142",
+    "word": "stroke",
+    "correct": "felç",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_143",
+    "word": "cancer",
+    "correct": "kanser",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_144",
+    "word": "arthritis",
+    "correct": "artrit",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_145",
+    "word": "osteoporosis",
+    "correct": "kemik erimesi",
+    "wrong": "sağlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_146",
+    "word": "fracture",
+    "correct": "kırık",
+    "wrong": "bütün kemik",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_147",
+    "word": "sprain",
+    "correct": "burkulma",
+    "wrong": "çıkık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_148",
+    "word": "dislocation",
+    "correct": "çıkık",
+    "wrong": "burkulma",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_149",
+    "word": "wound",
+    "correct": "yara",
+    "wrong": "iyileşmiş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_150",
+    "word": "cut",
+    "correct": "kesik",
+    "wrong": "iyileşmiş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_151",
+    "word": "bruise",
+    "correct": "çürük",
+    "wrong": "iyileşmiş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_152",
+    "word": "blister",
+    "correct": "su çıkıntısı",
+    "wrong": "cilt",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_153",
+    "word": "sunburn",
+    "correct": "güneş yanığı",
+    "wrong": "soğukluk",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_154",
+    "word": "rash",
+    "correct": "dönerme",
+    "wrong": "cilt",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_155",
+    "word": "itch",
+    "correct": "kaşıntı",
+    "wrong": "kayıtsızlık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_156",
+    "word": "pain",
+    "correct": "ağrı",
+    "wrong": "rahatlama",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_157",
+    "word": "ache",
+    "correct": "ağrı",
+    "wrong": "rahatlama",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_158",
+    "word": "soreness",
+    "correct": "ağrılılık",
+    "wrong": "rahatlama",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_159",
+    "word": "fatigue",
+    "correct": "yorgunluk",
+    "wrong": "enerji",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_160",
+    "word": "exhaustion",
+    "correct": "bitkinlik",
+    "wrong": "enerji",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_161",
+    "word": "weakness",
+    "correct": "zayıflık",
+    "wrong": "güç",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_162",
+    "word": "dizziness",
+    "correct": "başını döndürme",
+    "wrong": "denge",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_163",
+    "word": "fainting",
+    "correct": "bayılma",
+    "wrong": "bilinç",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_164",
+    "word": "coma",
+    "correct": "koma",
+    "wrong": "bilinç",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_165",
+    "word": "seizure",
+    "correct": "nöbet",
+    "wrong": "sakinlik",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_166",
+    "word": "panic attack",
+    "correct": "panik nöbeti",
+    "wrong": "sakinlik",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_167",
+    "word": "anxiety",
+    "correct": "kaygı",
+    "wrong": "sakinlik",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_168",
+    "word": "depression",
+    "correct": "depresyon",
+    "wrong": "mutluluk",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_169",
+    "word": "insomnia",
+    "correct": "uyku bozukluğu",
+    "wrong": "uyku",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_170",
+    "word": "sleepiness",
+    "correct": "uyku halı",
+    "wrong": "uyanıklık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_171",
+    "word": "coma",
+    "correct": "komadan",
+    "wrong": "bilinç",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_172",
+    "word": "doctor",
+    "correct": "doktor",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_173",
+    "word": "physician",
+    "correct": "hekimi",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_174",
+    "word": "surgeon",
+    "correct": "cerrah",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_175",
+    "word": "dentist",
+    "correct": "diş hekimi",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_176",
+    "word": "nurse",
+    "correct": "hemşire",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_177",
+    "word": "therapist",
+    "correct": "terapist",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_178",
+    "word": "psychologist",
+    "correct": "psikolog",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_179",
+    "word": "psychiatrist",
+    "correct": "psikiyatrist",
+    "wrong": "hasta",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_180",
+    "word": "veterinarian",
+    "correct": "veteriner",
+    "wrong": "hayvan",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_181",
+    "word": "hospital",
+    "correct": "hastane",
+    "wrong": "ev",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_182",
+    "word": "clinic",
+    "correct": "klinik",
+    "wrong": "hastane",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_183",
+    "word": "emergency room",
+    "correct": "acil servis",
+    "wrong": "hastane",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_184",
+    "word": "intensive care unit",
+    "correct": "yoğun bakım ünitesi",
+    "wrong": "hastane",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_185",
+    "word": "ward",
+    "correct": "koğuş",
+    "wrong": "hastane",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_186",
+    "word": "operating room",
+    "correct": "ameliyathane",
+    "wrong": "hastane",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_187",
+    "word": "laboratory",
+    "correct": "laboratuvar",
+    "wrong": "hastane",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_188",
+    "word": "pharmacy",
+    "correct": "eczane",
+    "wrong": "hastane",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_189",
+    "word": "prescription",
+    "correct": "reçete",
+    "wrong": "ilaç yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_190",
+    "word": "medication",
+    "correct": "ilaç",
+    "wrong": "reçete",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_191",
+    "word": "medicine",
+    "correct": "ilaç",
+    "wrong": "reçete",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_192",
+    "word": "pill",
+    "correct": "hap",
+    "wrong": "ilaç",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_193",
+    "word": "tablet",
+    "correct": "tablet",
+    "wrong": "hap",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_194",
+    "word": "capsule",
+    "correct": "kapsül",
+    "wrong": "hap",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_195",
+    "word": "injection",
+    "correct": "enjeksiyon",
+    "wrong": "ilaç",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_196",
+    "word": "syringe",
+    "correct": "şırınga",
+    "wrong": "enjeksiyon",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_197",
+    "word": "needle",
+    "correct": "iğne",
+    "wrong": "şırınga",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_198",
+    "word": "bandage",
+    "correct": "bandaj",
+    "wrong": "sargı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_199",
+    "word": "gauze",
+    "correct": "gazlı bez",
+    "wrong": "bandaj",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_200",
+    "word": "plaster",
+    "correct": "plaster",
+    "wrong": "bandaj",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_201",
+    "word": "medical tape",
+    "correct": "tıbbi bant",
+    "wrong": "bandaj",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_202",
+    "word": "antiseptic",
+    "correct": "antiseptik",
+    "wrong": "mikrop",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_203",
+    "word": "antibiotic",
+    "correct": "antibiyotik",
+    "wrong": "enfeksiyon",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_204",
+    "word": "painkiller",
+    "correct": "ağrı kesici",
+    "wrong": "ağrı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_205",
+    "word": "antihistamine",
+    "correct": "antihistamin",
+    "wrong": "alerji",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_206",
+    "word": "fever reducer",
+    "correct": "ateş düşürücü",
+    "wrong": "ateş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_207",
+    "word": "cough syrup",
+    "correct": "öksürük şurubu",
+    "wrong": "öksürük",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_208",
+    "word": "vaccine",
+    "correct": "aşı",
+    "wrong": "hastalık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_209",
+    "word": "vaccination",
+    "correct": "aşılama",
+    "wrong": "hastalık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_210",
+    "word": "blood test",
+    "correct": "kan testi",
+    "wrong": "test yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_211",
+    "word": "blood pressure test",
+    "correct": "kan basıncı testi",
+    "wrong": "test yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_212",
+    "word": "thermometer",
+    "correct": "termometre",
+    "wrong": "sıcaklık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_213",
+    "word": "stethoscope",
+    "correct": "stetoskop",
+    "wrong": "hastalık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_214",
+    "word": "X-ray",
+    "correct": "röntgen",
+    "wrong": "görünüş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_215",
+    "word": "CT scan",
+    "correct": "CT taraması",
+    "wrong": "tarama yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_216",
+    "word": "ultrasound",
+    "correct": "ultrason",
+    "wrong": "görünüş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_217",
+    "word": "MRI",
+    "correct": "MRI",
+    "wrong": "tarama yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_218",
+    "word": "biopsy",
+    "correct": "biyopsi",
+    "wrong": "örnek yok",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_219",
+    "word": "surgery",
+    "correct": "ameliyat",
+    "wrong": "tedavi",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_220",
+    "word": "anesthesia",
+    "correct": "anestezi",
+    "wrong": "ağrı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_221",
+    "word": "incision",
+    "correct": "kesme",
+    "wrong": "dikme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_222",
+    "word": "stitches",
+    "correct": "dikme",
+    "wrong": "kesme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_223",
+    "word": "cast",
+    "correct": "atel",
+    "wrong": "sargı",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_224",
+    "word": "crutches",
+    "correct": "koltuk değneği",
+    "wrong": "yürüme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_225",
+    "word": "wheelchair",
+    "correct": "tekerlemeli sandalye",
+    "wrong": "yürüme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_226",
+    "word": "prosthetic",
+    "correct": "protez",
+    "wrong": "organ",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_227",
+    "word": "hearing aid",
+    "correct": "işitme cihazı",
+    "wrong": "işitme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_228",
+    "word": "glasses",
+    "correct": "gözlük",
+    "wrong": "göz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_229",
+    "word": "contact lens",
+    "correct": "kontakt lens",
+    "wrong": "gözlük",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_230",
+    "word": "diet",
+    "correct": "diyet",
+    "wrong": "beslenme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_231",
+    "word": "nutrition",
+    "correct": "beslenme",
+    "wrong": "diyet",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_232",
+    "word": "calorie",
+    "correct": "kalori",
+    "wrong": "kilo",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_233",
+    "word": "protein",
+    "correct": "protein",
+    "wrong": "yağ",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_234",
+    "word": "carbohydrate",
+    "correct": "karbohidrat",
+    "wrong": "protein",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_235",
+    "word": "fat",
+    "correct": "yağ",
+    "wrong": "protein",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_236",
+    "word": "vitamin",
+    "correct": "vitamin",
+    "wrong": "mineral",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_237",
+    "word": "mineral",
+    "correct": "mineral",
+    "wrong": "vitamin",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_238",
+    "word": "fiber",
+    "correct": "lif",
+    "wrong": "protein",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_239",
+    "word": "water",
+    "correct": "su",
+    "wrong": "içecek",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_240",
+    "word": "exercise",
+    "correct": "egzersiz",
+    "wrong": "istirahat",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_241",
+    "word": "workout",
+    "correct": "antrenman",
+    "wrong": "istirahat",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_242",
+    "word": "fitness",
+    "correct": "zindelik",
+    "wrong": "zayıflık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_243",
+    "word": "stretching",
+    "correct": "germe",
+    "wrong": "daralma",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_244",
+    "word": "yoga",
+    "correct": "yoga",
+    "wrong": "egzersiz",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_245",
+    "word": "meditation",
+    "correct": "meditasyon",
+    "wrong": "hareket",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_246",
+    "word": "sleep",
+    "correct": "uyku",
+    "wrong": "uyanıklık",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_247",
+    "word": "rest",
+    "correct": "istirahat",
+    "wrong": "hareket",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_248",
+    "word": "relaxation",
+    "correct": "rahatlama",
+    "wrong": "gerilim",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_249",
+    "word": "stress",
+    "correct": "stres",
+    "wrong": "rahatlama",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_250",
+    "word": "hygiene",
+    "correct": "hijyen",
+    "wrong": "temizliği",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_251",
+    "word": "cleanliness",
+    "correct": "temizlik",
+    "wrong": "kirlilik",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_252",
+    "word": "grooming",
+    "correct": "bakım",
+    "wrong": "ihmal",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_253",
+    "word": "bathing",
+    "correct": "banyo",
+    "wrong": "temizleme",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_254",
+    "word": "shower",
+    "correct": "duş",
+    "wrong": "banyo",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_255",
+    "word": "teeth brushing",
+    "correct": "diş fırçalaması",
+    "wrong": "diş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_256",
+    "word": "flossing",
+    "correct": "diş ipi kullanma",
+    "wrong": "diş",
+    "category": "Sağlık & Vücut"
+  },
+  {
+    "id": "health_body_257",
+    "word": "sunscreen",
+    "correct": "güneş kremi",
+    "wrong": "güneş",
+    "category": "Sağlık & Vücut"
+  }
+]

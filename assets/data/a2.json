@@ -1,0 +1,2165 @@
+[
+  {
+    "id": "a2_1",
+    "word": "sport",
+    "correct": "spor",
+    "wrong": "oyun",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_2",
+    "word": "football",
+    "correct": "futbol",
+    "wrong": "basketbol",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_3",
+    "word": "basketball",
+    "correct": "basketbol",
+    "wrong": "voleybol",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_4",
+    "word": "volleyball",
+    "correct": "voleybol",
+    "wrong": "futbol",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_5",
+    "word": "tennis",
+    "correct": "tenis",
+    "wrong": "badminton",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_6",
+    "word": "badminton",
+    "correct": "badminton",
+    "wrong": "tenis",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_7",
+    "word": "swimming",
+    "correct": "yüzme",
+    "wrong": "dalış",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_8",
+    "word": "running",
+    "correct": "koşu",
+    "wrong": "yürüyüş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_9",
+    "word": "walking",
+    "correct": "yürüyüş",
+    "wrong": "koşu",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_10",
+    "word": "jumping",
+    "correct": "atlama",
+    "wrong": "koşu",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_11",
+    "word": "cycling",
+    "correct": "bisiklet",
+    "wrong": "kayak",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_12",
+    "word": "skiing",
+    "correct": "kayak",
+    "wrong": "paten",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_13",
+    "word": "skating",
+    "correct": "paten",
+    "wrong": "kayak",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_14",
+    "word": "golf",
+    "correct": "golf",
+    "wrong": "tenis",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_15",
+    "word": "bowling",
+    "correct": "bowling",
+    "wrong": "tenis",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_16",
+    "word": "boxing",
+    "correct": "boks",
+    "wrong": "güreş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_17",
+    "word": "wrestling",
+    "correct": "güreş",
+    "wrong": "boks",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_18",
+    "word": "martial arts",
+    "correct": "dövüş sanatları",
+    "wrong": "spor",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_19",
+    "word": "hiking",
+    "correct": "yürüyüş turu",
+    "wrong": "koşu",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_20",
+    "word": "camping",
+    "correct": "kamp",
+    "wrong": "yürüyüş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_21",
+    "word": "hobby",
+    "correct": "hobi",
+    "wrong": "spor",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_22",
+    "word": "painting",
+    "correct": "resim çizme",
+    "wrong": "heykeltıraşlık",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_23",
+    "word": "drawing",
+    "correct": "çizim",
+    "wrong": "resim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_24",
+    "word": "music",
+    "correct": "müzik",
+    "wrong": "sanat",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_25",
+    "word": "dance",
+    "correct": "dans",
+    "wrong": "müzik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_26",
+    "word": "singing",
+    "correct": "şarkı söyleme",
+    "wrong": "dans",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_27",
+    "word": "cooking",
+    "correct": "mutfak",
+    "wrong": "aşçılık",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_28",
+    "word": "gardening",
+    "correct": "bahçıcılık",
+    "wrong": "çiftçilik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_29",
+    "word": "reading",
+    "correct": "okuma",
+    "wrong": "yazma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_30",
+    "word": "writing",
+    "correct": "yazma",
+    "wrong": "okuma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_31",
+    "word": "collecting",
+    "correct": "koleksiyonculuk",
+    "wrong": "satma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_32",
+    "word": "photography",
+    "correct": "fotoğrafçılık",
+    "wrong": "resim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_33",
+    "word": "traveling",
+    "correct": "seyahat",
+    "wrong": "kalma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_34",
+    "word": "visiting",
+    "correct": "ziyaret etme",
+    "wrong": "kalma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_35",
+    "word": "tourism",
+    "correct": "turizm",
+    "wrong": "iş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_36",
+    "word": "tour",
+    "correct": "tur",
+    "wrong": "gezi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_37",
+    "word": "guide",
+    "correct": "rehber",
+    "wrong": "turist",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_38",
+    "word": "sightseeing",
+    "correct": "turizm",
+    "wrong": "alışveriş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_39",
+    "word": "hotel",
+    "correct": "otel",
+    "wrong": "ev",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_40",
+    "word": "hostel",
+    "correct": "pansiyon",
+    "wrong": "otel",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_41",
+    "word": "resort",
+    "correct": "tatil merkezi",
+    "wrong": "otel",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_42",
+    "word": "vacation",
+    "correct": "tatil",
+    "wrong": "iş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_43",
+    "word": "holiday",
+    "correct": "tatil",
+    "wrong": "iş günü",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_44",
+    "word": "weekend",
+    "correct": "hafta sonu",
+    "wrong": "hafta",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_45",
+    "word": "passport",
+    "correct": "pasaport",
+    "wrong": "vize",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_46",
+    "word": "visa",
+    "correct": "vize",
+    "wrong": "pasaport",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_47",
+    "word": "luggage",
+    "correct": "bagaj",
+    "wrong": "çanta",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_48",
+    "word": "suitcase",
+    "correct": "bavul",
+    "wrong": "çanta",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_49",
+    "word": "backpack",
+    "correct": "sırt çantası",
+    "wrong": "çanta",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_50",
+    "word": "journey",
+    "correct": "yolculuk",
+    "wrong": "kalma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_51",
+    "word": "trip",
+    "correct": "gezi",
+    "wrong": "yolculuk",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_52",
+    "word": "flight",
+    "correct": "uçuş",
+    "wrong": "seyahat",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_53",
+    "word": "ticket",
+    "correct": "bilet",
+    "wrong": "kart",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_54",
+    "word": "booking",
+    "correct": "rezervasyon",
+    "wrong": "iptal",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_55",
+    "word": "reservation",
+    "correct": "yer ayırma",
+    "wrong": "iptal",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_56",
+    "word": "hotel room",
+    "correct": "otel odası",
+    "wrong": "ev",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_57",
+    "word": "double room",
+    "correct": "çift kişilik oda",
+    "wrong": "tek kişilik oda",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_58",
+    "word": "single room",
+    "correct": "tek kişilik oda",
+    "wrong": "çift kişilik oda",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_59",
+    "word": "suite",
+    "correct": "süit",
+    "wrong": "oda",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_60",
+    "word": "balcony",
+    "correct": "balkon",
+    "wrong": "pencere",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_61",
+    "word": "view",
+    "correct": "manzara",
+    "wrong": "duvar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_62",
+    "word": "beach",
+    "correct": "plaj",
+    "wrong": "park",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_63",
+    "word": "island",
+    "correct": "ada",
+    "wrong": "kara",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_64",
+    "word": "cruise",
+    "correct": "gemi turu",
+    "wrong": "uçak",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_65",
+    "word": "port",
+    "correct": "liman",
+    "wrong": "havaalanı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_66",
+    "word": "airport",
+    "correct": "havaalanı",
+    "wrong": "istasyon",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_67",
+    "word": "station",
+    "correct": "istasyon",
+    "wrong": "terminal",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_68",
+    "word": "terminal",
+    "correct": "terminal",
+    "wrong": "istasyon",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_69",
+    "word": "customs",
+    "correct": "gümrük",
+    "wrong": "vergiler",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_70",
+    "word": "immigration",
+    "correct": "göçmenlik",
+    "wrong": "gümrük",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_71",
+    "word": "exchange",
+    "correct": "döviz",
+    "wrong": "para",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_72",
+    "word": "currency",
+    "correct": "para birimi",
+    "wrong": "döviz",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_73",
+    "word": "credit card",
+    "correct": "kredi kartı",
+    "wrong": "debit kartı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_74",
+    "word": "debit card",
+    "correct": "banka kartı",
+    "wrong": "kredi kartı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_75",
+    "word": "cash",
+    "correct": "nakit",
+    "wrong": "çek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_76",
+    "word": "check",
+    "correct": "çek",
+    "wrong": "para",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_77",
+    "word": "payment",
+    "correct": "ödeme",
+    "wrong": "borç",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_78",
+    "word": "invoice",
+    "correct": "fatura",
+    "wrong": "makbuz",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_79",
+    "word": "receipt",
+    "correct": "makbuz",
+    "wrong": "fatura",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_80",
+    "word": "price",
+    "correct": "fiyat",
+    "wrong": "değer",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_81",
+    "word": "cost",
+    "correct": "maliyet",
+    "wrong": "fiyat",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_82",
+    "word": "discount",
+    "correct": "indirim",
+    "wrong": "artış",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_83",
+    "word": "sale",
+    "correct": "satış",
+    "wrong": "alım",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_84",
+    "word": "bargain",
+    "correct": "pazarlık",
+    "wrong": "satış",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_85",
+    "word": "shopping",
+    "correct": "alışveriş",
+    "wrong": "satış",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_86",
+    "word": "boutique",
+    "correct": "butik",
+    "wrong": "mağaza",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_87",
+    "word": "supermarket",
+    "correct": "süpermarket",
+    "wrong": "market",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_88",
+    "word": "shopping mall",
+    "correct": "alışveriş merkezi",
+    "wrong": "çarşı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_89",
+    "word": "grocery store",
+    "correct": "bakkal",
+    "wrong": "manav",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_90",
+    "word": "pharmacy",
+    "correct": "eczane",
+    "wrong": "hastane",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_91",
+    "word": "bookstore",
+    "correct": "kitapçı",
+    "wrong": "kütüphane",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_92",
+    "word": "department store",
+    "correct": "mağaza",
+    "wrong": "butik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_93",
+    "word": "clothing",
+    "correct": "giyim",
+    "wrong": "kumaş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_94",
+    "word": "underwear",
+    "correct": "iç giyim",
+    "wrong": "dış giyim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_95",
+    "word": "jacket",
+    "correct": "ceket",
+    "wrong": "gömlek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_96",
+    "word": "sweater",
+    "correct": "kazak",
+    "wrong": "gömlek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_97",
+    "word": "jeans",
+    "correct": "kot pantolon",
+    "wrong": "pantolon",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_98",
+    "word": "skirt",
+    "correct": "etek",
+    "wrong": "pantolon",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_99",
+    "word": "blouse",
+    "correct": "bluz",
+    "wrong": "gömlek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_100",
+    "word": "tie",
+    "correct": "kravat",
+    "wrong": "eşarp",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_101",
+    "word": "belt",
+    "correct": "kemer",
+    "wrong": "şapka",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_102",
+    "word": "button",
+    "correct": "düğme",
+    "wrong": "fermuar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_103",
+    "word": "zipper",
+    "correct": "fermuar",
+    "wrong": "düğme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_104",
+    "word": "pocket",
+    "correct": "cep",
+    "wrong": "torba",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_105",
+    "word": "sleeve",
+    "correct": "kol",
+    "wrong": "yakası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_106",
+    "word": "collar",
+    "correct": "yakası",
+    "wrong": "sleeve",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_107",
+    "word": "seam",
+    "correct": "dikiş",
+    "wrong": "dokuma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_108",
+    "word": "fabric",
+    "correct": "kumaş",
+    "wrong": "iplik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_109",
+    "word": "cotton",
+    "correct": "pamuk",
+    "wrong": "ipek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_110",
+    "word": "silk",
+    "correct": "ipek",
+    "wrong": "pamuk",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_111",
+    "word": "wool",
+    "correct": "yün",
+    "wrong": "pamuk",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_112",
+    "word": "leather",
+    "correct": "deri",
+    "wrong": "kumaş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_113",
+    "word": "size",
+    "correct": "beden",
+    "wrong": "ölçü",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_114",
+    "word": "fit",
+    "correct": "uyum",
+    "wrong": "ölçü",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_115",
+    "word": "tight",
+    "correct": "dar",
+    "wrong": "bol",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_116",
+    "word": "loose",
+    "correct": "bol",
+    "wrong": "dar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_117",
+    "word": "comfortable",
+    "correct": "rahat",
+    "wrong": "sıkı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_118",
+    "word": "uncomfortable",
+    "correct": "rahatsız edici",
+    "wrong": "rahat",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_119",
+    "word": "style",
+    "correct": "stil",
+    "wrong": "moda",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_120",
+    "word": "fashion",
+    "correct": "moda",
+    "wrong": "giyim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_121",
+    "word": "designer",
+    "correct": "tasarımcı",
+    "wrong": "üretici",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_122",
+    "word": "brand",
+    "correct": "marka",
+    "wrong": "üretici",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_123",
+    "word": "quality",
+    "correct": "kalite",
+    "wrong": "fiyat",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_124",
+    "word": "material",
+    "correct": "malzeme",
+    "wrong": "kumaş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_125",
+    "word": "pattern",
+    "correct": "desen",
+    "wrong": "renk",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_126",
+    "word": "color",
+    "correct": "renk",
+    "wrong": "desen",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_127",
+    "word": "stripe",
+    "correct": "çizgi",
+    "wrong": "desen",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_128",
+    "word": "checkered",
+    "correct": "kareli",
+    "wrong": "çizgili",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_129",
+    "word": "polka dot",
+    "correct": "benekli",
+    "wrong": "çizgili",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_130",
+    "word": "solid",
+    "correct": "düz renk",
+    "wrong": "desen",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_131",
+    "word": "floral",
+    "correct": "çiçekli",
+    "wrong": "desen",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_132",
+    "word": "vintage",
+    "correct": "eski moda",
+    "wrong": "yeni moda",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_133",
+    "word": "modern",
+    "correct": "modern",
+    "wrong": "eski",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_134",
+    "word": "casual",
+    "correct": "günlük",
+    "wrong": "resmi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_135",
+    "word": "formal",
+    "correct": "resmi",
+    "wrong": "günlük",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_136",
+    "word": "traditional",
+    "correct": "geleneksel",
+    "wrong": "modern",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_137",
+    "word": "ethnic",
+    "correct": "etnik",
+    "wrong": "batı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_138",
+    "word": "western",
+    "correct": "batı tarzı",
+    "wrong": "doğu",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_139",
+    "word": "oriental",
+    "correct": "doğu tarzı",
+    "wrong": "batı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_140",
+    "word": "accessories",
+    "correct": "aksesuarlar",
+    "wrong": "giyim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_141",
+    "word": "jewelry",
+    "correct": "mücevher",
+    "wrong": "aksesuar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_142",
+    "word": "necklace",
+    "correct": "kolye",
+    "wrong": "bilezik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_143",
+    "word": "bracelet",
+    "correct": "bilezik",
+    "wrong": "yüzük",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_144",
+    "word": "earring",
+    "correct": "küpe",
+    "wrong": "kolye",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_145",
+    "word": "ring",
+    "correct": "yüzük",
+    "wrong": "bilezik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_146",
+    "word": "watch",
+    "correct": "saat",
+    "wrong": "bilezik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_147",
+    "word": "pendant",
+    "correct": "kolye ucu",
+    "wrong": "kolye",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_148",
+    "word": "brooch",
+    "correct": "broş",
+    "wrong": "küpe",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_149",
+    "word": "pin",
+    "correct": "iğne",
+    "wrong": "broş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_150",
+    "word": "sunglasses",
+    "correct": "güneş gözlüğü",
+    "wrong": "gözlük",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_151",
+    "word": "glasses",
+    "correct": "gözlük",
+    "wrong": "mercek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_152",
+    "word": "contact lens",
+    "correct": "kontakt lens",
+    "wrong": "gözlük",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_153",
+    "word": "purse",
+    "correct": "çanta",
+    "wrong": "cüzdan",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_154",
+    "word": "handbag",
+    "correct": "el çantası",
+    "wrong": "sırt çantası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_155",
+    "word": "shoulder bag",
+    "correct": "omuz çantası",
+    "wrong": "el çantası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_156",
+    "word": "crossbody bag",
+    "correct": "çapraz çanta",
+    "wrong": "omuz çantası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_157",
+    "word": "tote bag",
+    "correct": "bez çanta",
+    "wrong": "sırt çantası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_158",
+    "word": "clutch",
+    "correct": "el portföyü",
+    "wrong": "çanta",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_159",
+    "word": "wallet",
+    "correct": "cüzdan",
+    "wrong": "çanta",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_160",
+    "word": "coin purse",
+    "correct": "para cüzdanı",
+    "wrong": "cüzdan",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_161",
+    "word": "keychain",
+    "correct": "anahtar zinciri",
+    "wrong": "anahtar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_162",
+    "word": "umbrella",
+    "correct": "şemsiye",
+    "wrong": "yağmur kaftanı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_163",
+    "word": "raincoat",
+    "correct": "yağmur kaftanı",
+    "wrong": "şemsiye",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_164",
+    "word": "boots",
+    "correct": "çizme",
+    "wrong": "ayakkabı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_165",
+    "word": "sneakers",
+    "correct": "spor ayakkabısı",
+    "wrong": "çizme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_166",
+    "word": "sandals",
+    "correct": "sandalet",
+    "wrong": "ayakkabı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_167",
+    "word": "flip flops",
+    "correct": "terlik",
+    "wrong": "sandalet",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_168",
+    "word": "loafers",
+    "correct": "mokasın",
+    "wrong": "ayakkabı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_169",
+    "word": "high heels",
+    "correct": "topuklu ayakkabı",
+    "wrong": "ayakkabı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_170",
+    "word": "flat shoes",
+    "correct": "düz ayakkabı",
+    "wrong": "topuklu",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_171",
+    "word": "running shoes",
+    "correct": "koşu ayakkabısı",
+    "wrong": "spor ayakkabısı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_172",
+    "word": "leather shoes",
+    "correct": "deri ayakkabı",
+    "wrong": "spor ayakkabısı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_173",
+    "word": "bedroom",
+    "correct": "yatak odası",
+    "wrong": "oturma odası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_174",
+    "word": "workspace",
+    "correct": "çalışma alanı",
+    "wrong": "oturma odası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_175",
+    "word": "studio",
+    "correct": "stüdyo",
+    "wrong": "apartman",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_176",
+    "word": "loft",
+    "correct": "loft",
+    "wrong": "apartman",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_177",
+    "word": "mansion",
+    "correct": "konak",
+    "wrong": "ev",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_178",
+    "word": "cottage",
+    "correct": "kulübe",
+    "wrong": "ev",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_179",
+    "word": "villa",
+    "correct": "villa",
+    "wrong": "ev",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_180",
+    "word": "skyscraper",
+    "correct": "gökdelen",
+    "wrong": "bina",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_181",
+    "word": "building",
+    "correct": "bina",
+    "wrong": "yapı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_182",
+    "word": "structure",
+    "correct": "yapı",
+    "wrong": "bina",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_183",
+    "word": "foundation",
+    "correct": "temel",
+    "wrong": "yapı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_184",
+    "word": "framework",
+    "correct": "çatı",
+    "wrong": "yapı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_185",
+    "word": "blueprint",
+    "correct": "inşaat planı",
+    "wrong": "harita",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_186",
+    "word": "architect",
+    "correct": "mimar",
+    "wrong": "mühendis",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_187",
+    "word": "contractor",
+    "correct": "müteahhit",
+    "wrong": "işçi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_188",
+    "word": "carpenter",
+    "correct": "marangoz",
+    "wrong": "elektrikçi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_189",
+    "word": "plumber",
+    "correct": "tesisatçı",
+    "wrong": "elektrikçi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_190",
+    "word": "electrician",
+    "correct": "elektrikçi",
+    "wrong": "tesisatçı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_191",
+    "word": "painter",
+    "correct": "boyacı",
+    "wrong": "aydınlatmacı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_192",
+    "word": "renovation",
+    "correct": "tadilat",
+    "wrong": "inşaat",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_193",
+    "word": "repair",
+    "correct": "tamir",
+    "wrong": "bakım",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_194",
+    "word": "maintenance",
+    "correct": "bakım",
+    "wrong": "temizlik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_195",
+    "word": "cleaning",
+    "correct": "temizlik",
+    "wrong": "bakım",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_196",
+    "word": "laundry",
+    "correct": "çamaşır",
+    "wrong": "temizlik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_197",
+    "word": "dishwashing",
+    "correct": "bulaşık",
+    "wrong": "temizlik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_198",
+    "word": "gardening",
+    "correct": "bahçe işleri",
+    "wrong": "çevre",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_199",
+    "word": "lawn",
+    "correct": "çimen alan",
+    "wrong": "bahçe",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_200",
+    "word": "hedge",
+    "correct": "çit",
+    "wrong": "ağaç",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_201",
+    "word": "bush",
+    "correct": "çalı",
+    "wrong": "ağaç",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_202",
+    "word": "shrub",
+    "correct": "çalı",
+    "wrong": "ağaç",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_203",
+    "word": "herb",
+    "correct": "bitki",
+    "wrong": "çalı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_204",
+    "word": "vegetable",
+    "correct": "sebze",
+    "wrong": "meyve",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_205",
+    "word": "fruit",
+    "correct": "meyve",
+    "wrong": "sebze",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_206",
+    "word": "crop",
+    "correct": "ürün",
+    "wrong": "üretime",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_207",
+    "word": "harvest",
+    "correct": "hasat",
+    "wrong": "ekme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_208",
+    "word": "planting",
+    "correct": "ekme",
+    "wrong": "hasat",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_209",
+    "word": "irrigation",
+    "correct": "sulama",
+    "wrong": "ekme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_210",
+    "word": "profession",
+    "correct": "meslek",
+    "wrong": "iş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_211",
+    "word": "occupation",
+    "correct": "iş",
+    "wrong": "meslek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_212",
+    "word": "career",
+    "correct": "kariyer",
+    "wrong": "iş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_213",
+    "word": "job",
+    "correct": "iş",
+    "wrong": "kariyer",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_214",
+    "word": "work",
+    "correct": "çalışma",
+    "wrong": "iş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_215",
+    "word": "employment",
+    "correct": "istihdam",
+    "wrong": "iş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_216",
+    "word": "employer",
+    "correct": "işveren",
+    "wrong": "çalışan",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_217",
+    "word": "employee",
+    "correct": "çalışan",
+    "wrong": "işveren",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_218",
+    "word": "boss",
+    "correct": "patron",
+    "wrong": "çalışan",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_219",
+    "word": "manager",
+    "correct": "yönetici",
+    "wrong": "patron",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_220",
+    "word": "director",
+    "correct": "direktör",
+    "wrong": "yönetici",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_221",
+    "word": "secretary",
+    "correct": "sekreter",
+    "wrong": "asistan",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_222",
+    "word": "assistant",
+    "correct": "asistan",
+    "wrong": "sekreter",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_223",
+    "word": "colleague",
+    "correct": "meslektaş",
+    "wrong": "patron",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_224",
+    "word": "coworker",
+    "correct": "iş arkadaşı",
+    "wrong": "patron",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_225",
+    "word": "staff",
+    "correct": "personel",
+    "wrong": "yönetim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_226",
+    "word": "employee",
+    "correct": "çalışan",
+    "wrong": "personel",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_227",
+    "word": "worker",
+    "correct": "işçi",
+    "wrong": "çalışan",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_228",
+    "word": "laborer",
+    "correct": "işçi",
+    "wrong": "teknikçi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_229",
+    "word": "technician",
+    "correct": "teknikçi",
+    "wrong": "mühendis",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_230",
+    "word": "engineer",
+    "correct": "mühendis",
+    "wrong": "teknikçi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_231",
+    "word": "architect",
+    "correct": "mimar",
+    "wrong": "mühendis",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_232",
+    "word": "designer",
+    "correct": "tasarımcı",
+    "wrong": "mimar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_233",
+    "word": "developer",
+    "correct": "geliştirici",
+    "wrong": "programcı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_234",
+    "word": "programmer",
+    "correct": "programcı",
+    "wrong": "geliştirici",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_235",
+    "word": "software",
+    "correct": "yazılım",
+    "wrong": "donanım",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_236",
+    "word": "hardware",
+    "correct": "donanım",
+    "wrong": "yazılım",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_237",
+    "word": "programmer",
+    "correct": "programcı",
+    "wrong": "mühendis",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_238",
+    "word": "analyst",
+    "correct": "analist",
+    "wrong": "programcı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_239",
+    "word": "accountant",
+    "correct": "muhasebe",
+    "wrong": "denetçi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_240",
+    "word": "auditor",
+    "correct": "denetçi",
+    "wrong": "muhasebe",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_241",
+    "word": "finance",
+    "correct": "finans",
+    "wrong": "muhasebe",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_242",
+    "word": "accounting",
+    "correct": "muhasebe",
+    "wrong": "finans",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_243",
+    "word": "business",
+    "correct": "işletme",
+    "wrong": "ticaret",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_244",
+    "word": "commerce",
+    "correct": "ticaret",
+    "wrong": "işletme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_245",
+    "word": "trade",
+    "correct": "ticaret",
+    "wrong": "işletme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_246",
+    "word": "investment",
+    "correct": "yatırım",
+    "wrong": "tasarruf",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_247",
+    "word": "stock",
+    "correct": "hisse",
+    "wrong": "tahvil",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_248",
+    "word": "bond",
+    "correct": "tahvil",
+    "wrong": "hisse",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_249",
+    "word": "market",
+    "correct": "pazar",
+    "wrong": "borsası",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_250",
+    "word": "exchange",
+    "correct": "borsası",
+    "wrong": "pazar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_251",
+    "word": "bank",
+    "correct": "banka",
+    "wrong": "finansal",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_252",
+    "word": "banking",
+    "correct": "bankacılık",
+    "wrong": "finans",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_253",
+    "word": "loan",
+    "correct": "kredi",
+    "wrong": "borç",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_254",
+    "word": "debt",
+    "correct": "borç",
+    "wrong": "kredi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_255",
+    "word": "interest",
+    "correct": "faiz",
+    "wrong": "kar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_256",
+    "word": "profit",
+    "correct": "kar",
+    "wrong": "zarar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_257",
+    "word": "loss",
+    "correct": "zarar",
+    "wrong": "kar",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_258",
+    "word": "revenue",
+    "correct": "gelir",
+    "wrong": "gider",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_259",
+    "word": "expense",
+    "correct": "gider",
+    "wrong": "gelir",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_260",
+    "word": "budget",
+    "correct": "bütçe",
+    "wrong": "gider",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_261",
+    "word": "salary",
+    "correct": "maaş",
+    "wrong": "ücret",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_262",
+    "word": "wage",
+    "correct": "ücret",
+    "wrong": "maaş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_263",
+    "word": "bonus",
+    "correct": "prim",
+    "wrong": "maaş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_264",
+    "word": "commission",
+    "correct": "komisyon",
+    "wrong": "prim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_265",
+    "word": "raise",
+    "correct": "zam",
+    "wrong": "kesinti",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_266",
+    "word": "promotion",
+    "correct": "terfi",
+    "wrong": "görevden alma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_267",
+    "word": "demotion",
+    "correct": "görevden alma",
+    "wrong": "terfi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_268",
+    "word": "resignation",
+    "correct": "istifa",
+    "wrong": "işten çıkarma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_269",
+    "word": "dismissal",
+    "correct": "işten çıkarma",
+    "wrong": "istifa",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_270",
+    "word": "unemployment",
+    "correct": "işsizlik",
+    "wrong": "istihdam",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_271",
+    "word": "interview",
+    "correct": "röportaj",
+    "wrong": "görüşme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_272",
+    "word": "resume",
+    "correct": "özgeçmiş",
+    "wrong": "referans",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_273",
+    "word": "reference",
+    "correct": "referans",
+    "wrong": "özgeçmiş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_274",
+    "word": "qualification",
+    "correct": "nitelik",
+    "wrong": "yeterlilik",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_275",
+    "word": "skill",
+    "correct": "beceri",
+    "wrong": "yetenek",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_276",
+    "word": "experience",
+    "correct": "deneyim",
+    "wrong": "beceri",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_277",
+    "word": "training",
+    "correct": "eğitim",
+    "wrong": "öğretim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_278",
+    "word": "education",
+    "correct": "eğitim",
+    "wrong": "akademi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_279",
+    "word": "degree",
+    "correct": "derece",
+    "wrong": "sertifika",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_280",
+    "word": "diploma",
+    "correct": "diploma",
+    "wrong": "sertifika",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_281",
+    "word": "certificate",
+    "correct": "sertifika",
+    "wrong": "lisans",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_282",
+    "word": "license",
+    "correct": "lisans",
+    "wrong": "sertifika",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_283",
+    "word": "apprenticeship",
+    "correct": "çıraklık",
+    "wrong": "eğitim",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_284",
+    "word": "internship",
+    "correct": "staj",
+    "wrong": "çıraklık",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_285",
+    "word": "meeting",
+    "correct": "toplantı",
+    "wrong": "konferans",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_286",
+    "word": "conference",
+    "correct": "konferans",
+    "wrong": "seminer",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_287",
+    "word": "seminar",
+    "correct": "seminer",
+    "wrong": "atölye",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_288",
+    "word": "workshop",
+    "correct": "atölye",
+    "wrong": "seminer",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_289",
+    "word": "presentation",
+    "correct": "sunum",
+    "wrong": "rapor",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_290",
+    "word": "report",
+    "correct": "rapor",
+    "wrong": "sunum",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_291",
+    "word": "proposal",
+    "correct": "teklif",
+    "wrong": "öneri",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_292",
+    "word": "agenda",
+    "correct": "gündem",
+    "wrong": "toplantı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_293",
+    "word": "minute",
+    "correct": "tutanak",
+    "wrong": "not",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_294",
+    "word": "document",
+    "correct": "belge",
+    "wrong": "dosya",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_295",
+    "word": "file",
+    "correct": "dosya",
+    "wrong": "belge",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_296",
+    "word": "archive",
+    "correct": "arşiv",
+    "wrong": "kütüphane",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_297",
+    "word": "database",
+    "correct": "veri tabanı",
+    "wrong": "bilgi",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_298",
+    "word": "network",
+    "correct": "ağ",
+    "wrong": "sistem",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_299",
+    "word": "internet",
+    "correct": "internet",
+    "wrong": "ağ",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_300",
+    "word": "email",
+    "correct": "e-posta",
+    "wrong": "mesaj",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_301",
+    "word": "message",
+    "correct": "mesaj",
+    "wrong": "e-posta",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_302",
+    "word": "call",
+    "correct": "arama",
+    "wrong": "konuşma",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_303",
+    "word": "meeting",
+    "correct": "toplantı",
+    "wrong": "görüşme",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_304",
+    "word": "conference call",
+    "correct": "video konferans",
+    "wrong": "telefon toplantısı",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_305",
+    "word": "presentation",
+    "correct": "sunum",
+    "wrong": "sunuş",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_306",
+    "word": "slide",
+    "correct": "slayt",
+    "wrong": "sayfa",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_307",
+    "word": "chart",
+    "correct": "grafik",
+    "wrong": "tablo",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_308",
+    "word": "diagram",
+    "correct": "diyagram",
+    "wrong": "şekil",
+    "category": "A2 Seviye Kelimeler"
+  },
+  {
+    "id": "a2_309",
+    "word": "graph",
+    "correct": "grafik",
+    "wrong": "diyagram",
+    "category": "A2 Seviye Kelimeler"
+  }
+]

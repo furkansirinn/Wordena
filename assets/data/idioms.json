@@ -1,0 +1,1913 @@
+[
+  {
+    "id": "idioms_1",
+    "word": "a piece of cake",
+    "correct": "çok kolay",
+    "wrong": "çok zor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_2",
+    "word": "break the ice",
+    "correct": "buzları kırmak",
+    "wrong": "sessiz kalmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_3",
+    "word": "hit the books",
+    "correct": "ders çalışmak",
+    "wrong": "oyun oynamak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_4",
+    "word": "hit the hay",
+    "correct": "yatmak",
+    "wrong": "kalkma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_5",
+    "word": "hit the road",
+    "correct": "yola çıkmak",
+    "wrong": "kalmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_6",
+    "word": "bite the dust",
+    "correct": "yenilmek",
+    "wrong": "kazanmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_7",
+    "word": "bite your tongue",
+    "correct": "sessiz kalmak",
+    "wrong": "konuşmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_8",
+    "word": "break a leg",
+    "correct": "başarılı olmak",
+    "wrong": "başarısız olmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_9",
+    "word": "break the bank",
+    "correct": "çok para harcamak",
+    "wrong": "tasarruf etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_10",
+    "word": "call it a day",
+    "correct": "günü bitirmek",
+    "wrong": "devam etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_11",
+    "word": "caught red-handed",
+    "correct": "suçüstü yakalamak",
+    "wrong": "kaçmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_12",
+    "word": "cost an arm and a leg",
+    "correct": "çok pahalı",
+    "wrong": "ucuz",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_13",
+    "word": "cut corners",
+    "correct": "kısa yoldan yapmak",
+    "wrong": "düzgün yapmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_14",
+    "word": "cut to the chase",
+    "correct": "asıl konuya gelmek",
+    "wrong": "detaylara girmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_15",
+    "word": "dive into",
+    "correct": "başlamak",
+    "wrong": "terk etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_16",
+    "word": "don't burn your bridges",
+    "correct": "ilişkiyi bozmamak",
+    "wrong": "kavga etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_17",
+    "word": "down to earth",
+    "correct": "ayakları yere basan",
+    "wrong": "cüretkar",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_18",
+    "word": "draw the line",
+    "correct": "sınır çizmek",
+    "wrong": "izin vermek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_19",
+    "word": "drive me up the wall",
+    "correct": "sinirini bozma",
+    "wrong": "sakinlik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_20",
+    "word": "early bird",
+    "correct": "erken kalkan",
+    "wrong": "geç kalkan",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_21",
+    "word": "easy as pie",
+    "correct": "çok kolay",
+    "wrong": "çok zor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_22",
+    "word": "eleventh hour",
+    "correct": "son dakika",
+    "wrong": "erken",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_23",
+    "word": "face the music",
+    "correct": "sonuçları kabul etmek",
+    "wrong": "kaçmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_24",
+    "word": "fall through the cracks",
+    "correct": "ilgi görmemek",
+    "wrong": "dikkat çekmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_25",
+    "word": "get a kick out of",
+    "correct": "keyif almak",
+    "wrong": "sıkılmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_26",
+    "word": "get a taste of",
+    "correct": "denemek",
+    "wrong": "kaçınmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_27",
+    "word": "get down and dirty",
+    "correct": "ağır işe başlamak",
+    "wrong": "temiz kalmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_28",
+    "word": "get the lead out",
+    "correct": "hızlanmak",
+    "wrong": "yavaşlamak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_29",
+    "word": "get to the bottom of",
+    "correct": "sonunu öğrenmek",
+    "wrong": "göz ardı etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_30",
+    "word": "get your feet wet",
+    "correct": "başlamak",
+    "wrong": "uzak durmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_31",
+    "word": "give and take",
+    "correct": "karşılıklı anlayış",
+    "wrong": "kırgınlık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_32",
+    "word": "go against the grain",
+    "correct": "karşı gelmek",
+    "wrong": "desteklemek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_33",
+    "word": "go for broke",
+    "correct": "tüm çabayı göstermek",
+    "wrong": "yarıda kesmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_34",
+    "word": "go the extra mile",
+    "correct": "fazladan çaba",
+    "wrong": "minimum çaba",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_35",
+    "word": "go with the flow",
+    "correct": "akışa kapılmak",
+    "wrong": "direnmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_36",
+    "word": "goes without saying",
+    "correct": "aşikardır",
+    "wrong": "tartışmalı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_37",
+    "word": "going places",
+    "correct": "başarılı olacak",
+    "wrong": "başarısız olacak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_38",
+    "word": "greek to me",
+    "correct": "anlamadı",
+    "wrong": "anlamış",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_39",
+    "word": "green thumb",
+    "correct": "bahçecilik yeteneği",
+    "wrong": "başarısız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_40",
+    "word": "green-eyed monster",
+    "correct": "kıskançlık",
+    "wrong": "paylaşma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_41",
+    "word": "grin and bear it",
+    "correct": "sabırla katlanmak",
+    "wrong": "şikayet etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_42",
+    "word": "growing like a weed",
+    "correct": "hızlı büyümek",
+    "wrong": "yavaş büyümek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_43",
+    "word": "hair of the dog",
+    "correct": "aynı seyle tedavi",
+    "wrong": "farklı seyle",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_44",
+    "word": "hand to mouth",
+    "correct": "günü gün yaşamak",
+    "wrong": "tasarruf etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_45",
+    "word": "handwriting on the wall",
+    "correct": "kötü işaret",
+    "wrong": "iyi işaret",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_46",
+    "word": "happy as a clam",
+    "correct": "çok mutlu",
+    "wrong": "çok üzgün",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_47",
+    "word": "happy as a lark",
+    "correct": "çok mutlu",
+    "wrong": "çok üzgün",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_48",
+    "word": "hasn't a clue",
+    "correct": "hiç fikri yok",
+    "wrong": "biliyor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_49",
+    "word": "have a nice day",
+    "correct": "güzel bir gün",
+    "wrong": "kötü gün",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_50",
+    "word": "have high hopes",
+    "correct": "yüksek umut",
+    "wrong": "kuşku",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_51",
+    "word": "have your cake and eat it too",
+    "correct": "her şeyi isteme",
+    "wrong": "seçim yapma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_52",
+    "word": "head honcho",
+    "correct": "başkan",
+    "wrong": "astı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_53",
+    "word": "head over heels",
+    "correct": "tamamen aşık",
+    "wrong": "ilgisiz",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_54",
+    "word": "hear a pin drop",
+    "correct": "sessizlik",
+    "wrong": "gürültü",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_55",
+    "word": "heard it through the grapevine",
+    "correct": "söylenti",
+    "wrong": "doğrudan",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_56",
+    "word": "heart of gold",
+    "correct": "iyi kalp",
+    "wrong": "kötü kalp",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_57",
+    "word": "heavy as lead",
+    "correct": "çok ağır",
+    "wrong": "çok hafif",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_58",
+    "word": "hell in a handbasket",
+    "correct": "çok kötü",
+    "wrong": "çok iyi",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_59",
+    "word": "hem and haw",
+    "correct": "kararsız davranmak",
+    "wrong": "kararlı davranmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_60",
+    "word": "hidden agenda",
+    "correct": "gizli niyet",
+    "wrong": "açık niyet",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_61",
+    "word": "high and dry",
+    "correct": "yalnız bırakılmak",
+    "wrong": "destek görmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_62",
+    "word": "high and mighty",
+    "correct": "kibirli",
+    "wrong": "alçakgönüllü",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_63",
+    "word": "high as a kite",
+    "correct": "çok mutlu",
+    "wrong": "çok üzgün",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_64",
+    "word": "hit paydirt",
+    "correct": "başarı",
+    "wrong": "başarısızlık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_65",
+    "word": "hold your horses",
+    "correct": "beklemek",
+    "wrong": "acele etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_66",
+    "word": "hold your own",
+    "correct": "direnmek",
+    "wrong": "yenilmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_67",
+    "word": "hold your tongue",
+    "correct": "sessiz kalmak",
+    "wrong": "konuşmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_68",
+    "word": "honest to goodness",
+    "correct": "gerçekten",
+    "wrong": "yalan",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_69",
+    "word": "horns of a dilemma",
+    "correct": "ikilemde",
+    "wrong": "seçim",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_70",
+    "word": "horse of a different color",
+    "correct": "farklı şey",
+    "wrong": "aynı şey",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_71",
+    "word": "hot under the collar",
+    "correct": "kızgın",
+    "wrong": "sakin",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_72",
+    "word": "hourly wage",
+    "correct": "saatlik ücret",
+    "wrong": "maaş",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_73",
+    "word": "house of cards",
+    "correct": "istikrarsız",
+    "wrong": "sağlam",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_74",
+    "word": "how goes it",
+    "correct": "nasılsın",
+    "wrong": "selamla",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_75",
+    "word": "hungry as a bear",
+    "correct": "çok açık",
+    "wrong": "tokmuş",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_76",
+    "word": "hurts like the devil",
+    "correct": "çok acılı",
+    "wrong": "acısız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_77",
+    "word": "hush your mouth",
+    "correct": "sessiz ol",
+    "wrong": "konuşacak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_78",
+    "word": "i beg to differ",
+    "correct": "katılmıyorum",
+    "wrong": "katılıyorum",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_79",
+    "word": "iced tea",
+    "correct": "buzlu çay",
+    "wrong": "sıcak çay",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_80",
+    "word": "if the shoe fits",
+    "correct": "uyuyorsa",
+    "wrong": "uymuyor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_81",
+    "word": "if the shoe was on the other foot",
+    "correct": "ters olsaydı",
+    "wrong": "normal",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_82",
+    "word": "in a jam",
+    "correct": "zor durumda",
+    "wrong": "kolay durumda",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_83",
+    "word": "in a jiffy",
+    "correct": "çabuk",
+    "wrong": "yavaş",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_84",
+    "word": "in a nutshell",
+    "correct": "özetle",
+    "wrong": "detaylı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_85",
+    "word": "in a pig's eye",
+    "correct": "kesinlikle değil",
+    "wrong": "elbette",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_86",
+    "word": "in a pinch",
+    "correct": "acil durum",
+    "wrong": "rahat",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_87",
+    "word": "in a rut",
+    "correct": "tekdüze",
+    "wrong": "değişken",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_88",
+    "word": "in a tight spot",
+    "correct": "zor durumda",
+    "wrong": "kolay durumda",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_89",
+    "word": "in an eggshell",
+    "correct": "özetle",
+    "wrong": "detaylı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_90",
+    "word": "in and out",
+    "correct": "çabuk gitmek",
+    "wrong": "kalma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_91",
+    "word": "in due course",
+    "correct": "zamanı gelince",
+    "wrong": "geç",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_92",
+    "word": "in my opinion",
+    "correct": "benim görüşüme",
+    "wrong": "tartışmalı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_93",
+    "word": "in over your head",
+    "correct": "kapasiteyi aşma",
+    "wrong": "uygun",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_94",
+    "word": "in the gutter",
+    "correct": "alçak durum",
+    "wrong": "yüksek durum",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_95",
+    "word": "in the hot seat",
+    "correct": "sorumlu",
+    "wrong": "kaçık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_96",
+    "word": "in the limelight",
+    "correct": "ünlü",
+    "wrong": "bilinmeyen",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_97",
+    "word": "in the long run",
+    "correct": "uzun vadede",
+    "wrong": "kısa vadede",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_98",
+    "word": "in the nick of time",
+    "correct": "tam zamanında",
+    "wrong": "geç",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_99",
+    "word": "in the red",
+    "correct": "borç altında",
+    "wrong": "kârlı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_100",
+    "word": "in the same boat",
+    "correct": "aynı durumda",
+    "wrong": "farklı durumda",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_101",
+    "word": "in the thick of it",
+    "correct": "merkezinde",
+    "wrong": "kenarında",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_102",
+    "word": "in this day and age",
+    "correct": "günümüzde",
+    "wrong": "geçmişte",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_103",
+    "word": "in your dreams",
+    "correct": "hayal et",
+    "wrong": "gerçeklik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_104",
+    "word": "it ain't over until the fat lady sings",
+    "correct": "bitmedi",
+    "wrong": "bitti",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_105",
+    "word": "it goes without saying",
+    "correct": "açıktır",
+    "wrong": "tartışmalı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_106",
+    "word": "it takes all kinds",
+    "correct": "her tür insan var",
+    "wrong": "hepsi aynı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_107",
+    "word": "itch to go",
+    "correct": "gitme isteği",
+    "wrong": "kalma isteği",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_108",
+    "word": "its not brain surgery",
+    "correct": "kolay",
+    "wrong": "zor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_109",
+    "word": "ivory tower",
+    "correct": "gerçeklikten uzak",
+    "wrong": "pratik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_110",
+    "word": "jack of all trades",
+    "correct": "her işi bilen",
+    "wrong": "uzman",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_111",
+    "word": "jockey for position",
+    "correct": "yer almaya çalışmak",
+    "wrong": "geri çekilmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_112",
+    "word": "jog your memory",
+    "correct": "hatırlatmak",
+    "wrong": "unutturmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_113",
+    "word": "joined at the hip",
+    "correct": "çok yakın",
+    "wrong": "uzak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_114",
+    "word": "judge a book by its cover",
+    "correct": "görünüşle yargılamak",
+    "wrong": "içeriği görmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_115",
+    "word": "jump down your throat",
+    "correct": "kızgınca saldırmak",
+    "wrong": "sakinlik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_116",
+    "word": "jump in with both feet",
+    "correct": "tamamen katılmak",
+    "wrong": "uzak durmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_117",
+    "word": "jump on the bandwagon",
+    "correct": "akışa kapılmak",
+    "wrong": "direnmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_118",
+    "word": "jump the gun",
+    "correct": "erken başlamak",
+    "wrong": "geç başlamak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_119",
+    "word": "jump to conclusions",
+    "correct": "acele sonuç",
+    "wrong": "düşünerek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_120",
+    "word": "jumpy as a cat",
+    "correct": "gergin",
+    "wrong": "rahat",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_121",
+    "word": "just a hop, skip, and a jump",
+    "correct": "çok yakın",
+    "wrong": "çok uzak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_122",
+    "word": "just the tip of the iceberg",
+    "correct": "sadece başı",
+    "wrong": "tamamı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_123",
+    "word": "keep a stiff upper lip",
+    "correct": "sakinlik",
+    "wrong": "panik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_124",
+    "word": "keep an eye on",
+    "correct": "göz kulak olmak",
+    "wrong": "ihmal etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_125",
+    "word": "keep it simple, stupid",
+    "correct": "basit tut",
+    "wrong": "karmaşık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_126",
+    "word": "keep the home fires burning",
+    "correct": "evde kalma",
+    "wrong": "dışarıya çıkma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_127",
+    "word": "keep up with the joneses",
+    "correct": "rakip olmak",
+    "wrong": "farklı olmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_128",
+    "word": "keep your chin up",
+    "correct": "moral",
+    "wrong": "moral bozması",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_129",
+    "word": "keep your fingers crossed",
+    "correct": "umut etmek",
+    "wrong": "umutsuz olmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_130",
+    "word": "keep your head above water",
+    "correct": "ayakta durmak",
+    "wrong": "batmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_131",
+    "word": "keep your nose to the grindstone",
+    "correct": "çalışmak",
+    "wrong": "tembellik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_132",
+    "word": "keep your shirt on",
+    "correct": "sakin ol",
+    "wrong": "panik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_133",
+    "word": "keep your eyes peeled",
+    "correct": "açık göz",
+    "wrong": "kapalı gözler",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_134",
+    "word": "kept to a minimum",
+    "correct": "minimum",
+    "wrong": "maksimum",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_135",
+    "word": "key to the city",
+    "correct": "onur",
+    "wrong": "rezillik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_136",
+    "word": "kick the bucket",
+    "correct": "ölmek",
+    "wrong": "yaşamak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_137",
+    "word": "kick up your heels",
+    "correct": "eğlenmek",
+    "wrong": "çalışmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_138",
+    "word": "kick your feet up",
+    "correct": "eğlenmek",
+    "wrong": "çalışmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_139",
+    "word": "kick into high gear",
+    "correct": "hızlanmak",
+    "wrong": "yavaşlamak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_140",
+    "word": "kicking and screaming",
+    "correct": "zorlama",
+    "wrong": "istekli",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_141",
+    "word": "kid in a candy store",
+    "correct": "çok mutlu",
+    "wrong": "üzgün",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_142",
+    "word": "killjoy",
+    "correct": "eğlenceyi bozan",
+    "wrong": "eğlenceci",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_143",
+    "word": "kiss of death",
+    "correct": "ölümcül darbe",
+    "wrong": "kurtarma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_144",
+    "word": "kit and caboodle",
+    "correct": "her şey",
+    "wrong": "hiçbir şey",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_145",
+    "word": "knock it out of the park",
+    "correct": "harika başarı",
+    "wrong": "başarısızlık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_146",
+    "word": "knock on wood",
+    "correct": "uğur vermesi",
+    "wrong": "şans",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_147",
+    "word": "knock your socks off",
+    "correct": "şaşırtmak",
+    "wrong": "beklenen",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_148",
+    "word": "knock-knock joke",
+    "correct": "şaka",
+    "wrong": "ciddi",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_149",
+    "word": "know him from adam",
+    "correct": "tanıyorum",
+    "wrong": "bilmiyorum",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_150",
+    "word": "know which side your bread is buttered",
+    "correct": "çıkarı bilmek",
+    "wrong": "çıkarsız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_151",
+    "word": "know-it-all",
+    "correct": "her şeyi bilen",
+    "wrong": "cehil",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_152",
+    "word": "knuckle down",
+    "correct": "çalışmak",
+    "wrong": "tembellik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_153",
+    "word": "knuckle sandwich",
+    "correct": "yumruk",
+    "wrong": "ödül",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_154",
+    "word": "knuckle under",
+    "correct": "teslim olmak",
+    "wrong": "direnmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_155",
+    "word": "labor of love",
+    "correct": "sevgiyle yapılan iş",
+    "wrong": "zorunlu iş",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_156",
+    "word": "ladder of success",
+    "correct": "başarı merdiveni",
+    "wrong": "başarısızlık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_157",
+    "word": "lady luck",
+    "correct": "şans kadını",
+    "wrong": "şanssızlık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_158",
+    "word": "land on your feet",
+    "correct": "ayakta durmak",
+    "wrong": "başarısız olmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_159",
+    "word": "land the big one",
+    "correct": "büyük balık",
+    "wrong": "hiç balık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_160",
+    "word": "lap of luxury",
+    "correct": "lüksün kucağında",
+    "wrong": "yoksulluk",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_161",
+    "word": "last but not least",
+    "correct": "en sonunda ama önemli",
+    "wrong": "önemsiz",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_162",
+    "word": "last hurrah",
+    "correct": "son çabanın",
+    "wrong": "başarısızlık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_163",
+    "word": "last-ditch effort",
+    "correct": "son çalışma",
+    "wrong": "ilk çabası",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_164",
+    "word": "last straw",
+    "correct": "son damla",
+    "wrong": "başlangıç",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_165",
+    "word": "laugh a minute",
+    "correct": "komik",
+    "wrong": "sıkıcı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_166",
+    "word": "laugh all the way to the bank",
+    "correct": "kârlı gülüşme",
+    "wrong": "zarar",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_167",
+    "word": "laugh it up",
+    "correct": "eğlenme",
+    "wrong": "ciddiye alma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_168",
+    "word": "laughing stock",
+    "correct": "alay konusu",
+    "wrong": "saygın",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_169",
+    "word": "laughs and giggles",
+    "correct": "eğlencelik",
+    "wrong": "ciddi",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_170",
+    "word": "law of the jungle",
+    "correct": "güçlü yasası",
+    "wrong": "insan hukuku",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_171",
+    "word": "law of the land",
+    "correct": "ülke yasası",
+    "wrong": "yasa dışı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_172",
+    "word": "lay down the law",
+    "correct": "kural koymak",
+    "wrong": "serbest bırakmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_173",
+    "word": "lay your cards on the table",
+    "correct": "açık olmak",
+    "wrong": "gizlemek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_174",
+    "word": "lay your eyes on",
+    "correct": "görmek",
+    "wrong": "gözden çıkarmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_175",
+    "word": "leaps and bounds",
+    "correct": "hızlı ilerleme",
+    "wrong": "yavaş ilerleme",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_176",
+    "word": "learn the ropes",
+    "correct": "öğrenmek",
+    "wrong": "bilmemek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_177",
+    "word": "learn by heart",
+    "correct": "ezberlemek",
+    "wrong": "unutmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_178",
+    "word": "learned by rote",
+    "correct": "ezber",
+    "wrong": "anlayış",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_179",
+    "word": "least said, soonest mended",
+    "correct": "az konuşmak iyi",
+    "wrong": "çok konuşmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_180",
+    "word": "leave in the lurch",
+    "correct": "yalnız bırakmak",
+    "wrong": "yardım etmek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_181",
+    "word": "leave no stone unturned",
+    "correct": "her çabayı göstermek",
+    "wrong": "minimum çaba",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_182",
+    "word": "leave well alone",
+    "correct": "olduğu gibi bırakmak",
+    "wrong": "değiştirmeye çalışmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_183",
+    "word": "leaves of absence",
+    "correct": "izin",
+    "wrong": "çalışma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_184",
+    "word": "leaving on a jet plane",
+    "correct": "ayrılıyor",
+    "wrong": "kalıyor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_185",
+    "word": "left in the lurch",
+    "correct": "yalnız bırakılan",
+    "wrong": "yardım alan",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_186",
+    "word": "left out in the cold",
+    "correct": "dışlanmış",
+    "wrong": "dahil",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_187",
+    "word": "legal beagle",
+    "correct": "hukuk uzmanı",
+    "wrong": "amatör",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_188",
+    "word": "legal brief",
+    "correct": "kısa hukuki",
+    "wrong": "uzun belge",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_189",
+    "word": "let the cat out of the bag",
+    "correct": "sırrı ortaya çıkarmak",
+    "wrong": "gizlemek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_190",
+    "word": "let sleeping dogs lie",
+    "correct": "uyuyan köpeği uyandırmamak",
+    "wrong": "karıştırmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_191",
+    "word": "let the good times roll",
+    "correct": "eğlenme",
+    "wrong": "çalışma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_192",
+    "word": "let your hair down",
+    "correct": "rahatla",
+    "wrong": "çekil",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_193",
+    "word": "let's face it",
+    "correct": "kabul edelim",
+    "wrong": "inkâr edelim",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_194",
+    "word": "let's play hardball",
+    "correct": "ciddi oynama",
+    "wrong": "hafif",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_195",
+    "word": "let's shake on it",
+    "correct": "anlaştık",
+    "wrong": "anlaşmadık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_196",
+    "word": "let's talk turkey",
+    "correct": "doğru konuş",
+    "wrong": "yalan",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_197",
+    "word": "let's wend our way",
+    "correct": "gidelim",
+    "wrong": "kalalım",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_198",
+    "word": "letter perfect",
+    "correct": "kusursuz",
+    "wrong": "kusurlu",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_199",
+    "word": "letters of fire",
+    "correct": "önemli mesajı",
+    "wrong": "önemsiz",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_200",
+    "word": "level playing field",
+    "correct": "eşit şartlar",
+    "wrong": "haksız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_201",
+    "word": "levee breaks",
+    "correct": "baraj kırması",
+    "wrong": "saklanma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_202",
+    "word": "liberal arts",
+    "correct": "liberal sanatlar",
+    "wrong": "dar bilim",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_203",
+    "word": "liberty of the press",
+    "correct": "basın özgürlüğü",
+    "wrong": "sansür",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_204",
+    "word": "libraries of thought",
+    "correct": "bilim kütüphanesi",
+    "wrong": "bilgisizlik",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_205",
+    "word": "license to kill",
+    "correct": "öldürmek izni",
+    "wrong": "yasak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_206",
+    "word": "lick your wounds",
+    "correct": "acıyı iyileştirmek",
+    "wrong": "zıt çıkarmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_207",
+    "word": "lickety split",
+    "correct": "çok hızlı",
+    "wrong": "çok yavaş",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_208",
+    "word": "lid on it",
+    "correct": "kapatmak",
+    "wrong": "açmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_209",
+    "word": "lie like a rug",
+    "correct": "yalan söylemek",
+    "wrong": "doğru söylemek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_210",
+    "word": "lie low",
+    "correct": "saklanmak",
+    "wrong": "açık olmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_211",
+    "word": "lie through your teeth",
+    "correct": "pervasızca yalan söylemek",
+    "wrong": "doğru",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_212",
+    "word": "lien on property",
+    "correct": "mülk üzerinde hak",
+    "wrong": "serbest mülk",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_213",
+    "word": "lies like a log",
+    "correct": "yalanı seviyor",
+    "wrong": "doğru",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_214",
+    "word": "lies through his teeth",
+    "correct": "büyük yalan",
+    "wrong": "doğru",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_215",
+    "word": "life's a bitch",
+    "correct": "hayat zor",
+    "wrong": "hayat kolay",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_216",
+    "word": "life's a grind",
+    "correct": "hayat çalışma",
+    "wrong": "hayat eğlence",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_217",
+    "word": "lifeguard on duty",
+    "correct": "görevli",
+    "wrong": "yokluğu",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_218",
+    "word": "light at the end of the tunnel",
+    "correct": "umut",
+    "wrong": "umutsuzluk",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_219",
+    "word": "light bulb moment",
+    "correct": "iç görü",
+    "wrong": "karma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_220",
+    "word": "light fantastic",
+    "correct": "çok hafif",
+    "wrong": "çok ağır",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_221",
+    "word": "light in the loafers",
+    "correct": "hafif",
+    "wrong": "ağır",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_222",
+    "word": "light up my life",
+    "correct": "hayatımı aydınlat",
+    "wrong": "karanlık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_223",
+    "word": "light your fire",
+    "correct": "heyecanlandır",
+    "wrong": "sakinleştir",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_224",
+    "word": "lighten the load",
+    "correct": "yükü hafiflet",
+    "wrong": "artır",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_225",
+    "word": "lighter side of life",
+    "correct": "eğlence tarafı",
+    "wrong": "ciddi tarafı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_226",
+    "word": "light-fingered",
+    "correct": "hırsız",
+    "wrong": "dürüst",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_227",
+    "word": "lighthouse keeper",
+    "correct": "fener bekçi",
+    "wrong": "ziyaretçi",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_228",
+    "word": "lighting the way",
+    "correct": "yol göstermek",
+    "wrong": "şaşırtmak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_229",
+    "word": "lightning bolt",
+    "correct": "şimşek",
+    "wrong": "rüzgar",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_230",
+    "word": "lightning in a bottle",
+    "correct": "nadir şans",
+    "wrong": "sık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_231",
+    "word": "lights out",
+    "correct": "ışıklar sönen",
+    "wrong": "ışıklar açık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_232",
+    "word": "lightweight suit",
+    "correct": "hafif elbise",
+    "wrong": "ağır",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_233",
+    "word": "likable and lovable",
+    "correct": "sevilebilir",
+    "wrong": "nefret",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_234",
+    "word": "like a bump on a log",
+    "correct": "hareketsiz",
+    "wrong": "aktif",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_235",
+    "word": "like a bull by the horns",
+    "correct": "güçle gelmek",
+    "wrong": "hafif",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_236",
+    "word": "like a bull in a china shop",
+    "correct": "beceriksiz",
+    "wrong": "ustalıklı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_237",
+    "word": "like a cat in a room full of rocking chairs",
+    "correct": "gergin",
+    "wrong": "rahat",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_238",
+    "word": "like a hole in the head",
+    "correct": "istenmeyen",
+    "wrong": "istenen",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_239",
+    "word": "like a kid in a candy store",
+    "correct": "mutlu",
+    "wrong": "üzgün",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_240",
+    "word": "like a lost sheep",
+    "correct": "kayıp",
+    "wrong": "bulunmuş",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_241",
+    "word": "like a moth to a flame",
+    "correct": "çekimi",
+    "wrong": "uzak durma",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_242",
+    "word": "like a sieve",
+    "correct": "unutkan",
+    "wrong": "hatırlayan",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_243",
+    "word": "like a sitting duck",
+    "correct": "savunmasız",
+    "wrong": "korumalı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_244",
+    "word": "like a ton of bricks",
+    "correct": "ağır",
+    "wrong": "hafif",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_245",
+    "word": "like a walk in the park",
+    "correct": "kolay",
+    "wrong": "zor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_246",
+    "word": "like a wounded animal",
+    "correct": "korkmuş",
+    "wrong": "sakin",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_247",
+    "word": "like clockwork",
+    "correct": "düzenli",
+    "wrong": "düzensiz",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_248",
+    "word": "like comparing apples and oranges",
+    "correct": "karşılaştırılamaz",
+    "wrong": "benzer",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_249",
+    "word": "like finding a needle in a haystack",
+    "correct": "neredeyse imkansız",
+    "wrong": "kolay",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_250",
+    "word": "like taking candy from a baby",
+    "correct": "çok kolay",
+    "wrong": "çok zor",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_251",
+    "word": "like the back of my hand",
+    "correct": "iyi bilmek",
+    "wrong": "bilmemek",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_252",
+    "word": "like the plague",
+    "correct": "kaçınmak",
+    "wrong": "arama",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_253",
+    "word": "like there's no tomorrow",
+    "correct": "çılgınca",
+    "wrong": "ölçülü",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_254",
+    "word": "like two peas in a pod",
+    "correct": "aynı",
+    "wrong": "farklı",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_255",
+    "word": "like watching paint dry",
+    "correct": "sıkıcı",
+    "wrong": "ilginç",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_256",
+    "word": "like you've seen a ghost",
+    "correct": "korkmuş",
+    "wrong": "normal",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_257",
+    "word": "liked by all",
+    "correct": "popüler",
+    "wrong": "nefret",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_258",
+    "word": "liked for her charm",
+    "correct": "çekici",
+    "wrong": "çekici olmayan",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_259",
+    "word": "likelihood of snow",
+    "correct": "kar ihtimali",
+    "wrong": "yağmur",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_260",
+    "word": "likely story",
+    "correct": "olası hikaye",
+    "wrong": "imkansız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_261",
+    "word": "likeness in appearance",
+    "correct": "benzerlik",
+    "wrong": "farklılık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_262",
+    "word": "likes me, likes me not",
+    "correct": "hoşlanıyor, hoşlanmıyor",
+    "wrong": "kararsız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_263",
+    "word": "liking for adventure",
+    "correct": "macera tutkusu",
+    "wrong": "korkak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_264",
+    "word": "lilac wine",
+    "correct": "leylak şarabı",
+    "wrong": "kırmızı şarap",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_265",
+    "word": "lilt in her voice",
+    "correct": "müzik sesi",
+    "wrong": "monoton",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_266",
+    "word": "lily white",
+    "correct": "temiz",
+    "wrong": "kirli",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_267",
+    "word": "limb by limb",
+    "correct": "parça parça",
+    "wrong": "bütün",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_268",
+    "word": "limber up before exercise",
+    "correct": "isınma",
+    "wrong": "hemen başlamak",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_269",
+    "word": "limbo land",
+    "correct": "belirsiz",
+    "wrong": "açık",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_270",
+    "word": "lime light",
+    "correct": "spotlight",
+    "wrong": "gölge",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_271",
+    "word": "limit of endurance",
+    "correct": "sabrın sınırı",
+    "wrong": "sınırsız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_272",
+    "word": "limited liability",
+    "correct": "sınırlı sorumluluk",
+    "wrong": "sınırsız",
+    "category": "Deyimler (Idioms)"
+  },
+  {
+    "id": "idioms_273",
+    "word": "limited time offer",
+    "correct": "sınırlı zaman",
+    "wrong": "sınırsız",
+    "category": "Deyimler (Idioms)"
+  }
+]

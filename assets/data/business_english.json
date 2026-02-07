@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "business_english_1",
+    "word": "business",
+    "correct": "işletme",
+    "wrong": "hobi",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_2",
+    "word": "company",
+    "correct": "şirket",
+    "wrong": "kişi",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_3",
+    "word": "corporation",
+    "correct": "şirket",
+    "wrong": "kişi",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_4",
+    "word": "enterprise",
+    "correct": "girişim",
+    "wrong": "hobisi",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_5",
+    "word": "organization",
+    "correct": "kuruluş",
+    "wrong": "bireyin",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_6",
+    "word": "firm",
+    "correct": "firma",
+    "wrong": "kişi",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_7",
+    "word": "industry",
+    "correct": "endüstri",
+    "wrong": "tarım",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_8",
+    "word": "sector",
+    "correct": "sektör",
+    "wrong": "parça",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_9",
+    "word": "market",
+    "correct": "pazar",
+    "wrong": "sahip",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_10",
+    "word": "consumer",
+    "correct": "tüketici",
+    "wrong": "satıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_11",
+    "word": "customer",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_12",
+    "word": "client",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_13",
+    "word": "profit",
+    "correct": "kar",
+    "wrong": "zarar",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_14",
+    "word": "loss",
+    "correct": "kayıp",
+    "wrong": "kar",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_15",
+    "word": "revenue",
+    "correct": "gelir",
+    "wrong": "gider",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_16",
+    "word": "income",
+    "correct": "gelir",
+    "wrong": "gider",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_17",
+    "word": "expense",
+    "correct": "gider",
+    "wrong": "gelir",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_18",
+    "word": "cost",
+    "correct": "maliyet",
+    "wrong": "fiyat",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_19",
+    "word": "price",
+    "correct": "fiyat",
+    "wrong": "değer",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_20",
+    "word": "discount",
+    "correct": "indirim",
+    "wrong": "artış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_21",
+    "word": "sale",
+    "correct": "satış",
+    "wrong": "alım",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_22",
+    "word": "purchase",
+    "correct": "satın alma",
+    "wrong": "satış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_23",
+    "word": "transaction",
+    "correct": "işlem",
+    "wrong": "statü",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_24",
+    "word": "deal",
+    "correct": "anlaşma",
+    "wrong": "çekişme",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_25",
+    "word": "contract",
+    "correct": "sözleşme",
+    "wrong": "söz",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_26",
+    "word": "agreement",
+    "correct": "anlaşma",
+    "wrong": "çekişme",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_27",
+    "word": "invoice",
+    "correct": "fatura",
+    "wrong": "makbuz",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_28",
+    "word": "receipt",
+    "correct": "makbuz",
+    "wrong": "fatura",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_29",
+    "word": "payment",
+    "correct": "ödeme",
+    "wrong": "borç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_30",
+    "word": "wage",
+    "correct": "ücret",
+    "wrong": "maaş",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_31",
+    "word": "salary",
+    "correct": "maaş",
+    "wrong": "ücret",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_32",
+    "word": "bonus",
+    "correct": "prim",
+    "wrong": "maaş",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_33",
+    "word": "commission",
+    "correct": "komisyon",
+    "wrong": "prim",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_34",
+    "word": "benefit",
+    "correct": "fayda",
+    "wrong": "zarar",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_35",
+    "word": "employee",
+    "correct": "çalışan",
+    "wrong": "işveren",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_36",
+    "word": "employer",
+    "correct": "işveren",
+    "wrong": "çalışan",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_37",
+    "word": "worker",
+    "correct": "işçi",
+    "wrong": "patron",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_38",
+    "word": "manager",
+    "correct": "yönetici",
+    "wrong": "astı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_39",
+    "word": "director",
+    "correct": "direktör",
+    "wrong": "astı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_40",
+    "word": "executive",
+    "correct": "yönetim",
+    "wrong": "işçi",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_41",
+    "word": "boss",
+    "correct": "patron",
+    "wrong": "astı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_42",
+    "word": "supervisor",
+    "correct": "denetçi",
+    "wrong": "astı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_43",
+    "word": "colleague",
+    "correct": "meslektaş",
+    "wrong": "rakip",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_44",
+    "word": "coworker",
+    "correct": "iş arkadaşı",
+    "wrong": "rakip",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_45",
+    "word": "team",
+    "correct": "takım",
+    "wrong": "bireyler",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_46",
+    "word": "department",
+    "correct": "departman",
+    "wrong": "daire",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_47",
+    "word": "division",
+    "correct": "bölüm",
+    "wrong": "parça",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_48",
+    "word": "branch",
+    "correct": "şube",
+    "wrong": "kök",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_49",
+    "word": "office",
+    "correct": "ofis",
+    "wrong": "ev",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_50",
+    "word": "workplace",
+    "correct": "iş yeri",
+    "wrong": "ev",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_51",
+    "word": "headquarters",
+    "correct": "merkez",
+    "wrong": "şube",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_52",
+    "word": "meeting",
+    "correct": "toplantı",
+    "wrong": "ayrılma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_53",
+    "word": "conference",
+    "correct": "konferans",
+    "wrong": "boşluk",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_54",
+    "word": "seminar",
+    "correct": "seminer",
+    "wrong": "pratik",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_55",
+    "word": "workshop",
+    "correct": "atölye",
+    "wrong": "teori",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_56",
+    "word": "presentation",
+    "correct": "sunum",
+    "wrong": "gizleme",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_57",
+    "word": "report",
+    "correct": "rapor",
+    "wrong": "sessizlik",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_58",
+    "word": "proposal",
+    "correct": "teklif",
+    "wrong": "reddetme",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_59",
+    "word": "project",
+    "correct": "proje",
+    "wrong": "hiçbir şey",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_60",
+    "word": "deadline",
+    "correct": "son tarih",
+    "wrong": "başlangıç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_61",
+    "word": "schedule",
+    "correct": "zaman çizelgesi",
+    "wrong": "kaos",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_62",
+    "word": "budget",
+    "correct": "bütçe",
+    "wrong": "sınırsız",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_63",
+    "word": "finance",
+    "correct": "finans",
+    "wrong": "defter",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_64",
+    "word": "accounting",
+    "correct": "muhasebe",
+    "wrong": "defter",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_65",
+    "word": "audit",
+    "correct": "denetim",
+    "wrong": "göz yumma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_66",
+    "word": "tax",
+    "correct": "vergi",
+    "wrong": "hediye",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_67",
+    "word": "loan",
+    "correct": "kredi",
+    "wrong": "bağış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_68",
+    "word": "investment",
+    "correct": "yatırım",
+    "wrong": "harcama",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_69",
+    "word": "capital",
+    "correct": "sermaye",
+    "wrong": "borç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_70",
+    "word": "equity",
+    "correct": "özsermaye",
+    "wrong": "borç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_71",
+    "word": "debt",
+    "correct": "borç",
+    "wrong": "alacak",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_72",
+    "word": "credit",
+    "correct": "kredi",
+    "wrong": "borç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_73",
+    "word": "liability",
+    "correct": "yükümlülük",
+    "wrong": "varlık",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_74",
+    "word": "asset",
+    "correct": "varlık",
+    "wrong": "borç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_75",
+    "word": "balance sheet",
+    "correct": "bilanço",
+    "wrong": "bencin",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_76",
+    "word": "income statement",
+    "correct": "gelir tablosu",
+    "wrong": "gider",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_77",
+    "word": "cash flow",
+    "correct": "nakit akışı",
+    "wrong": "duraklama",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_78",
+    "word": "profit margin",
+    "correct": "kar marjı",
+    "wrong": "zarar",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_79",
+    "word": "return on investment",
+    "correct": "yatırım getirisi",
+    "wrong": "kayıp",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_80",
+    "word": "break even",
+    "correct": "başabaş",
+    "wrong": "zarar",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_81",
+    "word": "turnover",
+    "correct": "cirro",
+    "wrong": "satın alma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_82",
+    "word": "productivity",
+    "correct": "verimlilik",
+    "wrong": "atalet",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_83",
+    "word": "efficiency",
+    "correct": "verimlilik",
+    "wrong": "atalet",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_84",
+    "word": "performance",
+    "correct": "performans",
+    "wrong": "başarısızlık",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_85",
+    "word": "quality",
+    "correct": "kalite",
+    "wrong": "hata",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_86",
+    "word": "standard",
+    "correct": "standart",
+    "wrong": "sapma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_87",
+    "word": "procedure",
+    "correct": "prosedür",
+    "wrong": "kaos",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_88",
+    "word": "policy",
+    "correct": "politika",
+    "wrong": "kural",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_89",
+    "word": "regulation",
+    "correct": "düzenlemeler",
+    "wrong": "kural",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_90",
+    "word": "compliance",
+    "correct": "uyumu",
+    "wrong": "ihlal",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_91",
+    "word": "strategy",
+    "correct": "strateji",
+    "wrong": "taktikler",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_92",
+    "word": "tactic",
+    "correct": "taktik",
+    "wrong": "strateji",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_93",
+    "word": "competitor",
+    "correct": "rakip",
+    "wrong": "ortak",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_94",
+    "word": "competition",
+    "correct": "rekabet",
+    "wrong": "ortaklık",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_95",
+    "word": "competitive",
+    "correct": "rekabetçi",
+    "wrong": "işbirliği",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_96",
+    "word": "alliance",
+    "correct": "ittifak",
+    "wrong": "rekabet",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_97",
+    "word": "partnership",
+    "correct": "ortaklık",
+    "wrong": "rekabet",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_98",
+    "word": "joint venture",
+    "correct": "ortak girişim",
+    "wrong": "bireysel",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_99",
+    "word": "merger",
+    "correct": "birleşme",
+    "wrong": "ayrılma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_100",
+    "word": "acquisition",
+    "correct": "satın alma",
+    "wrong": "satış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_101",
+    "word": "takeover",
+    "correct": "devralma",
+    "wrong": "satış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_102",
+    "word": "expansion",
+    "correct": "genişleme",
+    "wrong": "daralma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_103",
+    "word": "growth",
+    "correct": "büyüme",
+    "wrong": "daralma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_104",
+    "word": "decline",
+    "correct": "düşüş",
+    "wrong": "artış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_105",
+    "word": "recession",
+    "correct": "durgunluk",
+    "wrong": "gelişme",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_106",
+    "word": "inflation",
+    "correct": "enflasyon",
+    "wrong": "deflasyon",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_107",
+    "word": "deflation",
+    "correct": "deflasyon",
+    "wrong": "enflasyon",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_108",
+    "word": "economy",
+    "correct": "ekonomi",
+    "wrong": "parasal",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_109",
+    "word": "economic",
+    "correct": "ekonomik",
+    "wrong": "maliyetsiz",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_110",
+    "word": "commerce",
+    "correct": "ticaret",
+    "wrong": "kullanma",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_111",
+    "word": "trade",
+    "correct": "ticaret",
+    "wrong": "barış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_112",
+    "word": "export",
+    "correct": "ihracat",
+    "wrong": "ithalatı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_113",
+    "word": "import",
+    "correct": "ithalatı",
+    "wrong": "ihracat",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_114",
+    "word": "tariff",
+    "correct": "gümrük vergisi",
+    "wrong": "hediye",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_115",
+    "word": "duty",
+    "correct": "vergi",
+    "wrong": "muafiyet",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_116",
+    "word": "quota",
+    "correct": "kota",
+    "wrong": "sınırsız",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_117",
+    "word": "supply",
+    "correct": "tedarik",
+    "wrong": "talep",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_118",
+    "word": "demand",
+    "correct": "talep",
+    "wrong": "tedarik",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_119",
+    "word": "inventory",
+    "correct": "envanter",
+    "wrong": "boşluk",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_120",
+    "word": "stock",
+    "correct": "hisse",
+    "wrong": "tahvil",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_121",
+    "word": "share",
+    "correct": "pay",
+    "wrong": "borç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_122",
+    "word": "dividend",
+    "correct": "temettü",
+    "wrong": "borç",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_123",
+    "word": "portfolio",
+    "correct": "portföy",
+    "wrong": "tek",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_124",
+    "word": "broker",
+    "correct": "aracı",
+    "wrong": "müşteri",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_125",
+    "word": "trader",
+    "correct": "tüccar",
+    "wrong": "alıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_126",
+    "word": "dealer",
+    "correct": "satıcı",
+    "wrong": "alıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_127",
+    "word": "vendor",
+    "correct": "satıcı",
+    "wrong": "alıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_128",
+    "word": "supplier",
+    "correct": "tedarikçi",
+    "wrong": "müşteri",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_129",
+    "word": "wholesaler",
+    "correct": "toptancı",
+    "wrong": "perakendeci",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_130",
+    "word": "retailer",
+    "correct": "perakendeci",
+    "wrong": "toptancı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_131",
+    "word": "distributor",
+    "correct": "dağıtıcı",
+    "wrong": "alıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_132",
+    "word": "merchant",
+    "correct": "tüccar",
+    "wrong": "alıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_133",
+    "word": "franchise",
+    "correct": "imtiyaz",
+    "wrong": "özgürlük",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_134",
+    "word": "franchise owner",
+    "correct": "imtiyaz sahibi",
+    "wrong": "gözlemci",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_135",
+    "word": "startup",
+    "correct": "başlangıç",
+    "wrong": "bitmiş",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_136",
+    "word": "entrepreneur",
+    "correct": "girişimci",
+    "wrong": "çalışan",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_137",
+    "word": "venture capital",
+    "correct": "risk sermayesi",
+    "wrong": "güvenli",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_138",
+    "word": "stakeholder",
+    "correct": "paydaş",
+    "wrong": "observer",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_139",
+    "word": "shareholder",
+    "correct": "hissedar",
+    "wrong": "alacaklı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_140",
+    "word": "investor",
+    "correct": "yatırımcı",
+    "wrong": "borçlu",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_141",
+    "word": "creditor",
+    "correct": "alacaklı",
+    "wrong": "borçlu",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_142",
+    "word": "debtor",
+    "correct": "borçlu",
+    "wrong": "alacaklı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_143",
+    "word": "client",
+    "correct": "müşteri",
+    "wrong": "satıcı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_144",
+    "word": "customer service",
+    "correct": "müşteri hizmetleri",
+    "wrong": "müşteri görmezden",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_145",
+    "word": "customer satisfaction",
+    "correct": "müşteri memnuniyeti",
+    "wrong": "müşteri hoşnutsuzluğu",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_146",
+    "word": "customer loyalty",
+    "correct": "müşteri sadakati",
+    "wrong": "müşteri görmezden",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_147",
+    "word": "brand",
+    "correct": "marka",
+    "wrong": "tanımlanmamış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_148",
+    "word": "trademark",
+    "correct": "ticari marka",
+    "wrong": "açıklanmamış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_149",
+    "word": "logo",
+    "correct": "logo",
+    "wrong": "tanımlanmamış",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_150",
+    "word": "advertising",
+    "correct": "reklam",
+    "wrong": "gizleme",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_151",
+    "word": "marketing",
+    "correct": "pazarlama",
+    "wrong": "satış dışı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_152",
+    "word": "promotion",
+    "correct": "promosyon",
+    "wrong": "görmezden",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_153",
+    "word": "campaign",
+    "correct": "kampanya",
+    "wrong": "sessizlik",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_154",
+    "word": "customer acquisition",
+    "correct": "müşteri kazanımı",
+    "wrong": "müşteri kaybı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_155",
+    "word": "customer retention",
+    "correct": "müşteri elde tutma",
+    "wrong": "müşteri kaybı",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_156",
+    "word": "market share",
+    "correct": "pazar payı",
+    "wrong": "kayıp",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_157",
+    "word": "market leader",
+    "correct": "pazar lideri",
+    "wrong": "takipçi",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_158",
+    "word": "competitive advantage",
+    "correct": "rekabet avantajı",
+    "wrong": "dezavantaj",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_159",
+    "word": "unique selling point",
+    "correct": "benzersiz satış noktası",
+    "wrong": "ortak",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_160",
+    "word": "business model",
+    "correct": "işletme modeli",
+    "wrong": "özel",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_161",
+    "word": "business plan",
+    "correct": "işletme planı",
+    "wrong": "plansız",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_162",
+    "word": "mission statement",
+    "correct": "misyon bildirimi",
+    "wrong": "sessizlik",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_163",
+    "word": "vision statement",
+    "correct": "vizyon bildirimi",
+    "wrong": "sessizlik",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_164",
+    "word": "objective",
+    "correct": "hedef",
+    "wrong": "kayıp",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_165",
+    "word": "goal",
+    "correct": "amaç",
+    "wrong": "kayıp",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_166",
+    "word": "key performance indicator",
+    "correct": "ana başarı göstergesi",
+    "wrong": "başarısızlık",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_167",
+    "word": "metrics",
+    "correct": "metrikler",
+    "wrong": "niceliksiz",
+    "category": "İş İngilizcesi"
+  },
+  {
+    "id": "business_english_168",
+    "word": "benchmark",
+    "correct": "kıyaslama",
+    "wrong": "farklılık",
+    "category": "İş İngilizcesi"
+  }
+]

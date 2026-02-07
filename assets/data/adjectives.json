@@ -1,0 +1,1990 @@
+[
+  {
+    "id": "adjectives_1",
+    "word": "big",
+    "correct": "büyük",
+    "wrong": "küçük",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_2",
+    "word": "small",
+    "correct": "küçük",
+    "wrong": "büyük",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_3",
+    "word": "large",
+    "correct": "geniş",
+    "wrong": "dar",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_4",
+    "word": "tiny",
+    "correct": "çok küçük",
+    "wrong": "büyük",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_5",
+    "word": "huge",
+    "correct": "çok büyük",
+    "wrong": "küçük",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_6",
+    "word": "long",
+    "correct": "uzun",
+    "wrong": "kısa",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_7",
+    "word": "short",
+    "correct": "kısa",
+    "wrong": "uzun",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_8",
+    "word": "tall",
+    "correct": "uzun boylu",
+    "wrong": "kısa boylu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_9",
+    "word": "wide",
+    "correct": "geniş",
+    "wrong": "dar",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_10",
+    "word": "narrow",
+    "correct": "dar",
+    "wrong": "geniş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_11",
+    "word": "thick",
+    "correct": "kalın",
+    "wrong": "ince",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_12",
+    "word": "thin",
+    "correct": "ince",
+    "wrong": "kalın",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_13",
+    "word": "deep",
+    "correct": "derin",
+    "wrong": "sığ",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_14",
+    "word": "shallow",
+    "correct": "sığ",
+    "wrong": "derin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_15",
+    "word": "high",
+    "correct": "yüksek",
+    "wrong": "alçak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_16",
+    "word": "low",
+    "correct": "alçak",
+    "wrong": "yüksek",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_17",
+    "word": "heavy",
+    "correct": "ağır",
+    "wrong": "hafif",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_18",
+    "word": "light",
+    "correct": "hafif",
+    "wrong": "ağır",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_19",
+    "word": "strong",
+    "correct": "güçlü",
+    "wrong": "zayıf",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_20",
+    "word": "weak",
+    "correct": "zayıf",
+    "wrong": "güçlü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_21",
+    "word": "fast",
+    "correct": "hızlı",
+    "wrong": "yavaş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_22",
+    "word": "slow",
+    "correct": "yavaş",
+    "wrong": "hızlı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_23",
+    "word": "quick",
+    "correct": "çabuk",
+    "wrong": "yavaş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_24",
+    "word": "bright",
+    "correct": "parlak",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_25",
+    "word": "dark",
+    "correct": "koyu",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_26",
+    "word": "light",
+    "correct": "açık",
+    "wrong": "koyu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_27",
+    "word": "clear",
+    "correct": "net",
+    "wrong": "bulanık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_28",
+    "word": "cloudy",
+    "correct": "bulutlu",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_29",
+    "word": "sunny",
+    "correct": "güneşli",
+    "wrong": "kapalı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_30",
+    "word": "rainy",
+    "correct": "yağmurlu",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_31",
+    "word": "snowy",
+    "correct": "karlı",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_32",
+    "word": "windy",
+    "correct": "rüzgarlı",
+    "wrong": "sakin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_33",
+    "word": "calm",
+    "correct": "sakin",
+    "wrong": "kızgın",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_34",
+    "word": "peaceful",
+    "correct": "barışçı",
+    "wrong": "huzursuz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_35",
+    "word": "quiet",
+    "correct": "sessiz",
+    "wrong": "gürültülü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_36",
+    "word": "loud",
+    "correct": "gürültülü",
+    "wrong": "sessiz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_37",
+    "word": "hot",
+    "correct": "sıcak",
+    "wrong": "soğuk",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_38",
+    "word": "cold",
+    "correct": "soğuk",
+    "wrong": "sıcak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_39",
+    "word": "warm",
+    "correct": "ılık",
+    "wrong": "soğuk",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_40",
+    "word": "cool",
+    "correct": "serin",
+    "wrong": "sıcak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_41",
+    "word": "fresh",
+    "correct": "taze",
+    "wrong": "eski",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_42",
+    "word": "stale",
+    "correct": "bayat",
+    "wrong": "taze",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_43",
+    "word": "clean",
+    "correct": "temiz",
+    "wrong": "kirli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_44",
+    "word": "dirty",
+    "correct": "kirli",
+    "wrong": "temiz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_45",
+    "word": "neat",
+    "correct": "düzenli",
+    "wrong": "dağınık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_46",
+    "word": "messy",
+    "correct": "dağınık",
+    "wrong": "düzenli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_47",
+    "word": "tidy",
+    "correct": "tertipli",
+    "wrong": "dağınık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_48",
+    "word": "untidy",
+    "correct": "dağınık",
+    "wrong": "tertipli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_49",
+    "word": "organized",
+    "correct": "organize",
+    "wrong": "dağınık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_50",
+    "word": "chaotic",
+    "correct": "kaotik",
+    "wrong": "düzenli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_51",
+    "word": "beautiful",
+    "correct": "güzel",
+    "wrong": "çirkin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_52",
+    "word": "ugly",
+    "correct": "çirkin",
+    "wrong": "güzel",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_53",
+    "word": "pretty",
+    "correct": "güzel",
+    "wrong": "çirkin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_54",
+    "word": "handsome",
+    "correct": "yakışıklı",
+    "wrong": "çirkin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_55",
+    "word": "attractive",
+    "correct": "çekici",
+    "wrong": "itici",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_56",
+    "word": "repulsive",
+    "correct": "iğrenç",
+    "wrong": "çekici",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_57",
+    "word": "lovely",
+    "correct": "sevimli",
+    "wrong": "çirkin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_58",
+    "word": "adorable",
+    "correct": "harika",
+    "wrong": "kötü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_59",
+    "word": "cute",
+    "correct": "tatlı",
+    "wrong": "çirkin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_60",
+    "word": "good",
+    "correct": "iyi",
+    "wrong": "kötü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_61",
+    "word": "bad",
+    "correct": "kötü",
+    "wrong": "iyi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_62",
+    "word": "excellent",
+    "correct": "mükemmel",
+    "wrong": "kötü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_63",
+    "word": "terrible",
+    "correct": "korkunç",
+    "wrong": "güzel",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_64",
+    "word": "wonderful",
+    "correct": "harika",
+    "wrong": "korkunç",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_65",
+    "word": "awful",
+    "correct": "berbat",
+    "wrong": "harika",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_66",
+    "word": "great",
+    "correct": "harika",
+    "wrong": "kötü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_67",
+    "word": "poor",
+    "correct": "kötü",
+    "wrong": "iyi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_68",
+    "word": "nice",
+    "correct": "hoş",
+    "wrong": "kötü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_69",
+    "word": "nasty",
+    "correct": "iğrenç",
+    "wrong": "hoş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_70",
+    "word": "pleasant",
+    "correct": "hoş",
+    "wrong": "rahatsız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_71",
+    "word": "unpleasant",
+    "correct": "rahatsız",
+    "wrong": "hoş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_72",
+    "word": "happy",
+    "correct": "mutlu",
+    "wrong": "üzgün",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_73",
+    "word": "sad",
+    "correct": "üzgün",
+    "wrong": "mutlu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_74",
+    "word": "angry",
+    "correct": "kızgın",
+    "wrong": "sakin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_75",
+    "word": "calm",
+    "correct": "sakin",
+    "wrong": "kızgın",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_76",
+    "word": "excited",
+    "correct": "heyecanlı",
+    "wrong": "sıkılan",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_77",
+    "word": "bored",
+    "correct": "sıkılan",
+    "wrong": "heyecanlı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_78",
+    "word": "surprised",
+    "correct": "şaşkın",
+    "wrong": "beklemiş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_79",
+    "word": "amazed",
+    "correct": "hayretler",
+    "wrong": "kayıtsız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_80",
+    "word": "afraid",
+    "correct": "korkmuş",
+    "wrong": "cesur",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_81",
+    "word": "scared",
+    "correct": "korkmuş",
+    "wrong": "cesur",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_82",
+    "word": "brave",
+    "correct": "cesur",
+    "wrong": "korkmuş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_83",
+    "word": "courageous",
+    "correct": "kahraman",
+    "wrong": "korkmuş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_84",
+    "word": "nervous",
+    "correct": "gergin",
+    "wrong": "sakin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_85",
+    "word": "anxious",
+    "correct": "endişeli",
+    "wrong": "sakin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_86",
+    "word": "stressed",
+    "correct": "stres",
+    "wrong": "rahat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_87",
+    "word": "relaxed",
+    "correct": "rahat",
+    "wrong": "gergin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_88",
+    "word": "tired",
+    "correct": "yorgun",
+    "wrong": "dinç",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_89",
+    "word": "exhausted",
+    "correct": "bitmiş",
+    "wrong": "enerjik",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_90",
+    "word": "energetic",
+    "correct": "enerjik",
+    "wrong": "yorgun",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_91",
+    "word": "sleepy",
+    "correct": "uyku",
+    "wrong": "uyanık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_92",
+    "word": "awake",
+    "correct": "uyanık",
+    "wrong": "uyku",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_93",
+    "word": "alert",
+    "correct": "dikkat",
+    "wrong": "uyuşuk",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_94",
+    "word": "confused",
+    "correct": "şaşkın",
+    "wrong": "anlayan",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_95",
+    "word": "certain",
+    "correct": "kesin",
+    "wrong": "şüpheli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_96",
+    "word": "uncertain",
+    "correct": "belirsiz",
+    "wrong": "kesin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_97",
+    "word": "sure",
+    "correct": "emin",
+    "wrong": "şüpheli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_98",
+    "word": "doubtful",
+    "correct": "şüpheli",
+    "wrong": "emin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_99",
+    "word": "honest",
+    "correct": "dürüst",
+    "wrong": "sahte",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_100",
+    "word": "dishonest",
+    "correct": "sahte",
+    "wrong": "dürüst",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_101",
+    "word": "truthful",
+    "correct": "doğru",
+    "wrong": "yalancı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_102",
+    "word": "lying",
+    "correct": "yalan",
+    "wrong": "doğru",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_103",
+    "word": "faithful",
+    "correct": "sadık",
+    "wrong": "hain",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_104",
+    "word": "unfaithful",
+    "correct": "sadık olmayan",
+    "wrong": "sadık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_105",
+    "word": "loyal",
+    "correct": "bağlı",
+    "wrong": "bağlantısız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_106",
+    "word": "disloyal",
+    "correct": "sadık olmayan",
+    "wrong": "sadık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_107",
+    "word": "proud",
+    "correct": "gururlu",
+    "wrong": "alçakgönüllü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_108",
+    "word": "ashamed",
+    "correct": "utanmış",
+    "wrong": "özgüvenli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_109",
+    "word": "humble",
+    "correct": "alçakgönüllü",
+    "wrong": "kibirli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_110",
+    "word": "arrogant",
+    "correct": "kibirli",
+    "wrong": "alçakgönüllü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_111",
+    "word": "polite",
+    "correct": "kibar",
+    "wrong": "kaba",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_112",
+    "word": "rude",
+    "correct": "kaba",
+    "wrong": "kibar",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_113",
+    "word": "respectful",
+    "correct": "saygılı",
+    "wrong": "saygısız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_114",
+    "word": "disrespectful",
+    "correct": "saygısız",
+    "wrong": "saygılı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_115",
+    "word": "kind",
+    "correct": "nazik",
+    "wrong": "acımasız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_116",
+    "word": "cruel",
+    "correct": "acımasız",
+    "wrong": "nazik",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_117",
+    "word": "gentle",
+    "correct": "yumuşak",
+    "wrong": "sert",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_118",
+    "word": "harsh",
+    "correct": "sert",
+    "wrong": "yumuşak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_119",
+    "word": "friendly",
+    "correct": "arkadaşçı",
+    "wrong": "düşmanca",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_120",
+    "word": "hostile",
+    "correct": "düşmanca",
+    "wrong": "arkadaşçı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_121",
+    "word": "warm",
+    "correct": "sıcak kalplı",
+    "wrong": "soğuk",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_122",
+    "word": "cold",
+    "correct": "soğuk",
+    "wrong": "sıcak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_123",
+    "word": "helpful",
+    "correct": "yardımsever",
+    "wrong": "faydasız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_124",
+    "word": "unhelpful",
+    "correct": "faydasız",
+    "wrong": "yardımsever",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_125",
+    "word": "useful",
+    "correct": "faydalı",
+    "wrong": "işe yaramaz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_126",
+    "word": "useless",
+    "correct": "işe yaramaz",
+    "wrong": "faydalı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_127",
+    "word": "practical",
+    "correct": "pratik",
+    "wrong": "hayali",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_128",
+    "word": "impractical",
+    "correct": "hayali",
+    "wrong": "pratik",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_129",
+    "word": "possible",
+    "correct": "mümkün",
+    "wrong": "imkansız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_130",
+    "word": "impossible",
+    "correct": "imkansız",
+    "wrong": "mümkün",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_131",
+    "word": "easy",
+    "correct": "kolay",
+    "wrong": "zor",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_132",
+    "word": "difficult",
+    "correct": "zor",
+    "wrong": "kolay",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_133",
+    "word": "simple",
+    "correct": "basit",
+    "wrong": "karmaşık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_134",
+    "word": "complex",
+    "correct": "karmaşık",
+    "wrong": "basit",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_135",
+    "word": "obvious",
+    "correct": "açık",
+    "wrong": "gizli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_136",
+    "word": "hidden",
+    "correct": "gizli",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_137",
+    "word": "visible",
+    "correct": "görünür",
+    "wrong": "görünmez",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_138",
+    "word": "invisible",
+    "correct": "görünmez",
+    "wrong": "görünür",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_139",
+    "word": "near",
+    "correct": "yakın",
+    "wrong": "uzak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_140",
+    "word": "far",
+    "correct": "uzak",
+    "wrong": "yakın",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_141",
+    "word": "close",
+    "correct": "yakın",
+    "wrong": "uzak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_142",
+    "word": "distant",
+    "correct": "uzak",
+    "wrong": "yakın",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_143",
+    "word": "new",
+    "correct": "yeni",
+    "wrong": "eski",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_144",
+    "word": "old",
+    "correct": "eski",
+    "wrong": "yeni",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_145",
+    "word": "ancient",
+    "correct": "antik",
+    "wrong": "modern",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_146",
+    "word": "modern",
+    "correct": "modern",
+    "wrong": "antik",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_147",
+    "word": "recent",
+    "correct": "yakın tarihli",
+    "wrong": "eski",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_148",
+    "word": "current",
+    "correct": "güncel",
+    "wrong": "eski",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_149",
+    "word": "present",
+    "correct": "şimdiki",
+    "wrong": "geçmiş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_150",
+    "word": "past",
+    "correct": "geçmiş",
+    "wrong": "gelecek",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_151",
+    "word": "future",
+    "correct": "gelecek",
+    "wrong": "geçmiş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_152",
+    "word": "temporary",
+    "correct": "geçici",
+    "wrong": "kalıcı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_153",
+    "word": "permanent",
+    "correct": "kalıcı",
+    "wrong": "geçici",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_154",
+    "word": "real",
+    "correct": "gerçek",
+    "wrong": "sahte",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_155",
+    "word": "fake",
+    "correct": "sahte",
+    "wrong": "gerçek",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_156",
+    "word": "genuine",
+    "correct": "gerçek",
+    "wrong": "taklit",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_157",
+    "word": "artificial",
+    "correct": "yapay",
+    "wrong": "doğal",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_158",
+    "word": "natural",
+    "correct": "doğal",
+    "wrong": "yapay",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_159",
+    "word": "wild",
+    "correct": "vahşi",
+    "wrong": "evcil",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_160",
+    "word": "tame",
+    "correct": "evcil",
+    "wrong": "vahşi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_161",
+    "word": "free",
+    "correct": "özgür",
+    "wrong": "esir",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_162",
+    "word": "captive",
+    "correct": "esir",
+    "wrong": "özgür",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_163",
+    "word": "alive",
+    "correct": "canlı",
+    "wrong": "ölü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_164",
+    "word": "dead",
+    "correct": "ölü",
+    "wrong": "canlı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_165",
+    "word": "living",
+    "correct": "yaşayan",
+    "wrong": "ölü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_166",
+    "word": "dying",
+    "correct": "ölüyor",
+    "wrong": "doğan",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_167",
+    "word": "awake",
+    "correct": "uyanık",
+    "wrong": "uyuyan",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_168",
+    "word": "asleep",
+    "correct": "uyuyan",
+    "wrong": "uyanık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_169",
+    "word": "conscious",
+    "correct": "bilinçli",
+    "wrong": "bilinçsiz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_170",
+    "word": "unconscious",
+    "correct": "bilinçsiz",
+    "wrong": "bilinçli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_171",
+    "word": "aware",
+    "correct": "farkında",
+    "wrong": "habersiz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_172",
+    "word": "unaware",
+    "correct": "habersiz",
+    "wrong": "farkında",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_173",
+    "word": "sober",
+    "correct": "ayık",
+    "wrong": "sarhoş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_174",
+    "word": "drunk",
+    "correct": "sarhoş",
+    "wrong": "ayık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_175",
+    "word": "sane",
+    "correct": "akılda",
+    "wrong": "deli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_176",
+    "word": "insane",
+    "correct": "deli",
+    "wrong": "akılda",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_177",
+    "word": "wise",
+    "correct": "bilge",
+    "wrong": "aptal",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_178",
+    "word": "foolish",
+    "correct": "aptal",
+    "wrong": "bilge",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_179",
+    "word": "smart",
+    "correct": "zeki",
+    "wrong": "aptal",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_180",
+    "word": "stupid",
+    "correct": "aptal",
+    "wrong": "zeki",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_181",
+    "word": "clever",
+    "correct": "zeka",
+    "wrong": "aptal",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_182",
+    "word": "dull",
+    "correct": "donuk",
+    "wrong": "zeka",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_183",
+    "word": "bright",
+    "correct": "parlak",
+    "wrong": "donuk",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_184",
+    "word": "dim",
+    "correct": "kişi",
+    "wrong": "parlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_185",
+    "word": "keen",
+    "correct": "katı",
+    "wrong": "kayıtsız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_186",
+    "word": "indifferent",
+    "correct": "kayıtsız",
+    "wrong": "ilgili",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_187",
+    "word": "enthusiastic",
+    "correct": "hevesli",
+    "wrong": "kayıtsız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_188",
+    "word": "apathetic",
+    "correct": "ilgisiz",
+    "wrong": "hevesli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_189",
+    "word": "passionate",
+    "correct": "tutkulu",
+    "wrong": "kayıtsız",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_190",
+    "word": "dispassionate",
+    "correct": "tarafsız",
+    "wrong": "tutkulu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_191",
+    "word": "sincere",
+    "correct": "samimi",
+    "wrong": "sahte",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_192",
+    "word": "insincere",
+    "correct": "samimi olmayan",
+    "wrong": "samimi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_193",
+    "word": "frank",
+    "correct": "açık sözlü",
+    "wrong": "gizli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_194",
+    "word": "secretive",
+    "correct": "gizlemeci",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_195",
+    "word": "open",
+    "correct": "açık",
+    "wrong": "kapalı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_196",
+    "word": "closed",
+    "correct": "kapalı",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_197",
+    "word": "transparent",
+    "correct": "şeffaf",
+    "wrong": "opak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_198",
+    "word": "opaque",
+    "correct": "opak",
+    "wrong": "şeffaf",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_199",
+    "word": "explicit",
+    "correct": "açık",
+    "wrong": "ima",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_200",
+    "word": "implicit",
+    "correct": "dolaylı",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_201",
+    "word": "direct",
+    "correct": "doğrudan",
+    "wrong": "dolaylı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_202",
+    "word": "indirect",
+    "correct": "dolaylı",
+    "wrong": "doğrudan",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_203",
+    "word": "straight",
+    "correct": "düz",
+    "wrong": "eğri",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_204",
+    "word": "crooked",
+    "correct": "eğri",
+    "wrong": "düz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_205",
+    "word": "curved",
+    "correct": "kavisli",
+    "wrong": "düz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_206",
+    "word": "angular",
+    "correct": "köşeli",
+    "wrong": "yuvarlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_207",
+    "word": "round",
+    "correct": "yuvarlak",
+    "wrong": "kare",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_208",
+    "word": "square",
+    "correct": "kare",
+    "wrong": "yuvarlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_209",
+    "word": "oval",
+    "correct": "oval",
+    "wrong": "kare",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_210",
+    "word": "triangular",
+    "correct": "üçgen",
+    "wrong": "yuvarlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_211",
+    "word": "rectangular",
+    "correct": "dikdörtgen",
+    "wrong": "kare",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_212",
+    "word": "smooth",
+    "correct": "pürüzsüz",
+    "wrong": "sert",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_213",
+    "word": "rough",
+    "correct": "pürüzlü",
+    "wrong": "düz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_214",
+    "word": "soft",
+    "correct": "yumuşak",
+    "wrong": "sert",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_215",
+    "word": "hard",
+    "correct": "sert",
+    "wrong": "yumuşak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_216",
+    "word": "silky",
+    "correct": "ipek gibi",
+    "wrong": "pürüzlü",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_217",
+    "word": "velvet",
+    "correct": "kadife gibi",
+    "wrong": "sert",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_218",
+    "word": "fuzzy",
+    "correct": "tüylü",
+    "wrong": "düz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_219",
+    "word": "hairy",
+    "correct": "saçlı",
+    "wrong": "tüysüz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_220",
+    "word": "bald",
+    "correct": "kel",
+    "wrong": "saçlı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_221",
+    "word": "shiny",
+    "correct": "parlak",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_222",
+    "word": "dull",
+    "correct": "mat",
+    "wrong": "parlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_223",
+    "word": "glossy",
+    "correct": "cilalı",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_224",
+    "word": "matte",
+    "correct": "mat",
+    "wrong": "cilalı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_225",
+    "word": "translucent",
+    "correct": "yarı saydam",
+    "wrong": "opak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_226",
+    "word": "transparent",
+    "correct": "saydam",
+    "wrong": "opak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_227",
+    "word": "opaque",
+    "correct": "opak",
+    "wrong": "saydam",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_228",
+    "word": "colorful",
+    "correct": "renkli",
+    "wrong": "renksiz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_229",
+    "word": "colorless",
+    "correct": "renksiz",
+    "wrong": "renkli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_230",
+    "word": "vibrant",
+    "correct": "canlı",
+    "wrong": "solgun",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_231",
+    "word": "pale",
+    "correct": "solgun",
+    "wrong": "canlı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_232",
+    "word": "vivid",
+    "correct": "canlı",
+    "wrong": "solgun",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_233",
+    "word": "drab",
+    "correct": "sönük",
+    "wrong": "canlı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_234",
+    "word": "bright",
+    "correct": "parlak",
+    "wrong": "karanlık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_235",
+    "word": "dark",
+    "correct": "koyu",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_236",
+    "word": "light",
+    "correct": "açık",
+    "wrong": "koyu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_237",
+    "word": "white",
+    "correct": "beyaz",
+    "wrong": "siyah",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_238",
+    "word": "black",
+    "correct": "siyah",
+    "wrong": "beyaz",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_239",
+    "word": "gray",
+    "correct": "gri",
+    "wrong": "renkli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_240",
+    "word": "grey",
+    "correct": "gri",
+    "wrong": "renkli",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_241",
+    "word": "red",
+    "correct": "kırmızı",
+    "wrong": "mavi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_242",
+    "word": "blue",
+    "correct": "mavi",
+    "wrong": "kırmızı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_243",
+    "word": "green",
+    "correct": "yeşil",
+    "wrong": "sarı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_244",
+    "word": "yellow",
+    "correct": "sarı",
+    "wrong": "yeşil",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_245",
+    "word": "orange",
+    "correct": "turuncu",
+    "wrong": "mor",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_246",
+    "word": "purple",
+    "correct": "mor",
+    "wrong": "turuncu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_247",
+    "word": "pink",
+    "correct": "pembe",
+    "wrong": "mavi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_248",
+    "word": "brown",
+    "correct": "kahverengi",
+    "wrong": "sarı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_249",
+    "word": "beige",
+    "correct": "bej",
+    "wrong": "kahverengi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_250",
+    "word": "tan",
+    "correct": "kumral",
+    "wrong": "koyu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_251",
+    "word": "maroon",
+    "correct": "koyu kırmızı",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_252",
+    "word": "navy",
+    "correct": "lacivert",
+    "wrong": "açık mavi",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_253",
+    "word": "turquoise",
+    "correct": "türkuaz",
+    "wrong": "turuncu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_254",
+    "word": "teal",
+    "correct": "çağla yeşili",
+    "wrong": "turuncu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_255",
+    "word": "olive",
+    "correct": "zeytin yeşili",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_256",
+    "word": "khaki",
+    "correct": "haki",
+    "wrong": "koyu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_257",
+    "word": "crimson",
+    "correct": "al kırmızı",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_258",
+    "word": "scarlet",
+    "correct": "parlak kırmızı",
+    "wrong": "koyu",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_259",
+    "word": "magenta",
+    "correct": "magenta",
+    "wrong": "sarı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_260",
+    "word": "cyan",
+    "correct": "cyan",
+    "wrong": "kırmızı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_261",
+    "word": "indigo",
+    "correct": "indigo",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_262",
+    "word": "violet",
+    "correct": "menekşe",
+    "wrong": "sarı",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_263",
+    "word": "silver",
+    "correct": "gümüş",
+    "wrong": "altın",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_264",
+    "word": "golden",
+    "correct": "altın",
+    "wrong": "gümüş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_265",
+    "word": "bronze",
+    "correct": "bronz",
+    "wrong": "gümüş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_266",
+    "word": "copper",
+    "correct": "bakır",
+    "wrong": "gümüş",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_267",
+    "word": "metallic",
+    "correct": "metalik",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_268",
+    "word": "iridescent",
+    "correct": "göz kamaştırıcı",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_269",
+    "word": "fluorescent",
+    "correct": "floresan",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_270",
+    "word": "luminous",
+    "correct": "ışıltılı",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_271",
+    "word": "glowing",
+    "correct": "parıltılı",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_272",
+    "word": "radiant",
+    "correct": "ışıl ışıl",
+    "wrong": "donuk",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_273",
+    "word": "dim",
+    "correct": "loş",
+    "wrong": "parlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_274",
+    "word": "shadowy",
+    "correct": "gölgeli",
+    "wrong": "parlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_275",
+    "word": "murky",
+    "correct": "bulanık",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_276",
+    "word": "hazy",
+    "correct": "puslu",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_277",
+    "word": "foggy",
+    "correct": "sisli",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_278",
+    "word": "misty",
+    "correct": "sisli",
+    "wrong": "açık",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_279",
+    "word": "fuzzy",
+    "correct": "bulanık",
+    "wrong": "net",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_280",
+    "word": "blurred",
+    "correct": "bulanık",
+    "wrong": "net",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_281",
+    "word": "sharp",
+    "correct": "keskin",
+    "wrong": "mat",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_282",
+    "word": "blunt",
+    "correct": "körleş",
+    "wrong": "keskin",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_283",
+    "word": "pointed",
+    "correct": "sivri",
+    "wrong": "yuvarlak",
+    "category": "Sıfatlar (Adjectives)"
+  },
+  {
+    "id": "adjectives_284",
+    "word": "rounded",
+    "correct": "yuvarlak",
+    "wrong": "sivri",
+    "category": "Sıfatlar (Adjectives)"
+  }
+]

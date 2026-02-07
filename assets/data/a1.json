@@ -1,0 +1,2634 @@
+[
+  {
+    "id": "a1_1",
+    "word": "hello",
+    "correct": "merhaba",
+    "wrong": "hoşça kalın",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_2",
+    "word": "goodbye",
+    "correct": "güle güle",
+    "wrong": "merhaba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_3",
+    "word": "yes",
+    "correct": "evet",
+    "wrong": "hayır",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_4",
+    "word": "no",
+    "correct": "hayır",
+    "wrong": "evet",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_5",
+    "word": "please",
+    "correct": "lütfen",
+    "wrong": "teşekkür ederim",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_6",
+    "word": "thank you",
+    "correct": "teşekkür ederim",
+    "wrong": "affedersiniz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_7",
+    "word": "sorry",
+    "correct": "üzgünüm",
+    "wrong": "merhaba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_8",
+    "word": "excuse me",
+    "correct": "affedersiniz",
+    "wrong": "teşekkür ederim",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_9",
+    "word": "water",
+    "correct": "su",
+    "wrong": "çay",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_10",
+    "word": "apple",
+    "correct": "elma",
+    "wrong": "portakal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_11",
+    "word": "bread",
+    "correct": "ekmek",
+    "wrong": "peynir",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_12",
+    "word": "cheese",
+    "correct": "peynir",
+    "wrong": "ekmek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_13",
+    "word": "milk",
+    "correct": "süt",
+    "wrong": "su",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_14",
+    "word": "egg",
+    "correct": "yumurta",
+    "wrong": "tavuk",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_15",
+    "word": "chicken",
+    "correct": "tavuk",
+    "wrong": "ördek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_16",
+    "word": "fish",
+    "correct": "balık",
+    "wrong": "kedi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_17",
+    "word": "meat",
+    "correct": "et",
+    "wrong": "balık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_18",
+    "word": "rice",
+    "correct": "pirinç",
+    "wrong": "makarna",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_19",
+    "word": "pasta",
+    "correct": "makarna",
+    "wrong": "pirinç",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_20",
+    "word": "potato",
+    "correct": "patates",
+    "wrong": "domates",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_21",
+    "word": "tomato",
+    "correct": "domates",
+    "wrong": "salatalık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_22",
+    "word": "cucumber",
+    "correct": "salatalık",
+    "wrong": "domates",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_23",
+    "word": "lettuce",
+    "correct": "marul",
+    "wrong": "ispanak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_24",
+    "word": "carrot",
+    "correct": "havuç",
+    "wrong": "pancar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_25",
+    "word": "onion",
+    "correct": "soğan",
+    "wrong": "sarımsak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_26",
+    "word": "salt",
+    "correct": "tuz",
+    "wrong": "şeker",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_27",
+    "word": "sugar",
+    "correct": "şeker",
+    "wrong": "tuz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_28",
+    "word": "coffee",
+    "correct": "kahve",
+    "wrong": "çay",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_29",
+    "word": "tea",
+    "correct": "çay",
+    "wrong": "kahve",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_30",
+    "word": "juice",
+    "correct": "meyve suyu",
+    "wrong": "su",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_31",
+    "word": "wine",
+    "correct": "şarap",
+    "wrong": "bira",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_32",
+    "word": "beer",
+    "correct": "bira",
+    "wrong": "şarap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_33",
+    "word": "cat",
+    "correct": "kedi",
+    "wrong": "köpek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_34",
+    "word": "dog",
+    "correct": "köpek",
+    "wrong": "kedi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_35",
+    "word": "bird",
+    "correct": "kuş",
+    "wrong": "balık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_36",
+    "word": "horse",
+    "correct": "at",
+    "wrong": "inek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_37",
+    "word": "cow",
+    "correct": "inek",
+    "wrong": "koyun",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_38",
+    "word": "sheep",
+    "correct": "koyun",
+    "wrong": "keçi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_39",
+    "word": "pig",
+    "correct": "domuz",
+    "wrong": "inek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_40",
+    "word": "rabbit",
+    "correct": "tavşan",
+    "wrong": "sincap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_41",
+    "word": "mouse",
+    "correct": "fare",
+    "wrong": "tavşan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_42",
+    "word": "bear",
+    "correct": "ayı",
+    "wrong": "aslan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_43",
+    "word": "lion",
+    "correct": "aslan",
+    "wrong": "kaplan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_44",
+    "word": "tiger",
+    "correct": "kaplan",
+    "wrong": "aslan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_45",
+    "word": "elephant",
+    "correct": "fil",
+    "wrong": "deve",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_46",
+    "word": "monkey",
+    "correct": "maymun",
+    "wrong": "kuş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_47",
+    "word": "house",
+    "correct": "ev",
+    "wrong": "okul",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_48",
+    "word": "apartment",
+    "correct": "daire",
+    "wrong": "ev",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_49",
+    "word": "room",
+    "correct": "oda",
+    "wrong": "koridor",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_50",
+    "word": "bedroom",
+    "correct": "yatak odası",
+    "wrong": "mutfak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_51",
+    "word": "kitchen",
+    "correct": "mutfak",
+    "wrong": "banyo",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_52",
+    "word": "bathroom",
+    "correct": "banyo",
+    "wrong": "yatak odası",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_53",
+    "word": "living room",
+    "correct": "oturma odası",
+    "wrong": "yemek odası",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_54",
+    "word": "door",
+    "correct": "kapı",
+    "wrong": "pencere",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_55",
+    "word": "window",
+    "correct": "pencere",
+    "wrong": "kapı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_56",
+    "word": "wall",
+    "correct": "duvar",
+    "wrong": "tavan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_57",
+    "word": "ceiling",
+    "correct": "tavan",
+    "wrong": "zemin",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_58",
+    "word": "floor",
+    "correct": "zemin",
+    "wrong": "tavan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_59",
+    "word": "roof",
+    "correct": "çatı",
+    "wrong": "duvar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_60",
+    "word": "table",
+    "correct": "masa",
+    "wrong": "sandalye",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_61",
+    "word": "chair",
+    "correct": "sandalye",
+    "wrong": "masa",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_62",
+    "word": "bed",
+    "correct": "yatak",
+    "wrong": "sofa",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_63",
+    "word": "sofa",
+    "correct": "kanepe",
+    "wrong": "sandalye",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_64",
+    "word": "desk",
+    "correct": "yazı masası",
+    "wrong": "masa",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_65",
+    "word": "cabinet",
+    "correct": "dolap",
+    "wrong": "raf",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_66",
+    "word": "shelf",
+    "correct": "raf",
+    "wrong": "dolap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_67",
+    "word": "lamp",
+    "correct": "lamba",
+    "wrong": "mum",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_68",
+    "word": "key",
+    "correct": "anahtar",
+    "wrong": "kilit",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_69",
+    "word": "lock",
+    "correct": "kilit",
+    "wrong": "anahtar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_70",
+    "word": "book",
+    "correct": "kitap",
+    "wrong": "dergi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_71",
+    "word": "magazine",
+    "correct": "dergi",
+    "wrong": "gazete",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_72",
+    "word": "newspaper",
+    "correct": "gazete",
+    "wrong": "dergi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_73",
+    "word": "pen",
+    "correct": "kalem",
+    "wrong": "kağıt",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_74",
+    "word": "pencil",
+    "correct": "kurşun kalem",
+    "wrong": "kalem",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_75",
+    "word": "paper",
+    "correct": "kağıt",
+    "wrong": "kalem",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_76",
+    "word": "notebook",
+    "correct": "defter",
+    "wrong": "kitap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_77",
+    "word": "computer",
+    "correct": "bilgisayar",
+    "wrong": "telefon",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_78",
+    "word": "phone",
+    "correct": "telefon",
+    "wrong": "bilgisayar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_79",
+    "word": "mobile phone",
+    "correct": "cep telefonu",
+    "wrong": "telefon",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_80",
+    "word": "camera",
+    "correct": "kamera",
+    "wrong": "bilgisayar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_81",
+    "word": "television",
+    "correct": "televizyon",
+    "wrong": "radyo",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_82",
+    "word": "radio",
+    "correct": "radyo",
+    "wrong": "televizyon",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_83",
+    "word": "music",
+    "correct": "müzik",
+    "wrong": "ses",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_84",
+    "word": "song",
+    "correct": "şarkı",
+    "wrong": "müzik",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_85",
+    "word": "movie",
+    "correct": "film",
+    "wrong": "şarkı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_86",
+    "word": "game",
+    "correct": "oyun",
+    "wrong": "spor",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_87",
+    "word": "toy",
+    "correct": "oyuncak",
+    "wrong": "oyun",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_88",
+    "word": "ball",
+    "correct": "top",
+    "wrong": "oyuncak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_89",
+    "word": "car",
+    "correct": "araba",
+    "wrong": "otobüs",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_90",
+    "word": "bus",
+    "correct": "otobüs",
+    "wrong": "araba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_91",
+    "word": "train",
+    "correct": "tren",
+    "wrong": "otobüs",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_92",
+    "word": "airplane",
+    "correct": "uçak",
+    "wrong": "tren",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_93",
+    "word": "bicycle",
+    "correct": "bisiklet",
+    "wrong": "araba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_94",
+    "word": "motorcycle",
+    "correct": "motosiklet",
+    "wrong": "bisiklet",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_95",
+    "word": "taxi",
+    "correct": "taksi",
+    "wrong": "otobüs",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_96",
+    "word": "truck",
+    "correct": "kamyon",
+    "wrong": "araba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_97",
+    "word": "school",
+    "correct": "okul",
+    "wrong": "ev",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_98",
+    "word": "university",
+    "correct": "üniversite",
+    "wrong": "okul",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_99",
+    "word": "hospital",
+    "correct": "hastane",
+    "wrong": "okul",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_100",
+    "word": "restaurant",
+    "correct": "restoran",
+    "wrong": "hastane",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_101",
+    "word": "hotel",
+    "correct": "otel",
+    "wrong": "restoran",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_102",
+    "word": "shop",
+    "correct": "dükkân",
+    "wrong": "market",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_103",
+    "word": "market",
+    "correct": "market",
+    "wrong": "dükkân",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_104",
+    "word": "bank",
+    "correct": "banka",
+    "wrong": "otel",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_105",
+    "word": "park",
+    "correct": "park",
+    "wrong": "banka",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_106",
+    "word": "beach",
+    "correct": "plaj",
+    "wrong": "park",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_107",
+    "word": "mountain",
+    "correct": "dağ",
+    "wrong": "plaj",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_108",
+    "word": "river",
+    "correct": "nehir",
+    "wrong": "dağ",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_109",
+    "word": "lake",
+    "correct": "göl",
+    "wrong": "nehir",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_110",
+    "word": "sea",
+    "correct": "deniz",
+    "wrong": "göl",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_111",
+    "word": "forest",
+    "correct": "orman",
+    "wrong": "çöl",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_112",
+    "word": "desert",
+    "correct": "çöl",
+    "wrong": "orman",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_113",
+    "word": "city",
+    "correct": "şehir",
+    "wrong": "köy",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_114",
+    "word": "village",
+    "correct": "köy",
+    "wrong": "şehir",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_115",
+    "word": "country",
+    "correct": "ülke",
+    "wrong": "şehir",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_116",
+    "word": "street",
+    "correct": "sokak",
+    "wrong": "yol",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_117",
+    "word": "road",
+    "correct": "yol",
+    "wrong": "sokak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_118",
+    "word": "bridge",
+    "correct": "köprü",
+    "wrong": "yol",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_119",
+    "word": "church",
+    "correct": "kilise",
+    "wrong": "cami",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_120",
+    "word": "mosque",
+    "correct": "cami",
+    "wrong": "kilise",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_121",
+    "word": "red",
+    "correct": "kırmızı",
+    "wrong": "mavi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_122",
+    "word": "blue",
+    "correct": "mavi",
+    "wrong": "kırmızı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_123",
+    "word": "green",
+    "correct": "yeşil",
+    "wrong": "sarı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_124",
+    "word": "yellow",
+    "correct": "sarı",
+    "wrong": "yeşil",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_125",
+    "word": "orange",
+    "correct": "turuncu",
+    "wrong": "mor",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_126",
+    "word": "purple",
+    "correct": "mor",
+    "wrong": "turuncu",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_127",
+    "word": "pink",
+    "correct": "pembe",
+    "wrong": "mavi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_128",
+    "word": "brown",
+    "correct": "kahverengi",
+    "wrong": "sarı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_129",
+    "word": "black",
+    "correct": "siyah",
+    "wrong": "beyaz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_130",
+    "word": "white",
+    "correct": "beyaz",
+    "wrong": "siyah",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_131",
+    "word": "gray",
+    "correct": "gri",
+    "wrong": "siyah",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_132",
+    "word": "big",
+    "correct": "büyük",
+    "wrong": "küçük",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_133",
+    "word": "small",
+    "correct": "küçük",
+    "wrong": "büyük",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_134",
+    "word": "tall",
+    "correct": "uzun boylu",
+    "wrong": "kısa boylu",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_135",
+    "word": "short",
+    "correct": "kısa",
+    "wrong": "uzun",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_136",
+    "word": "long",
+    "correct": "uzun",
+    "wrong": "kısa",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_137",
+    "word": "wide",
+    "correct": "geniş",
+    "wrong": "dar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_138",
+    "word": "narrow",
+    "correct": "dar",
+    "wrong": "geniş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_139",
+    "word": "thick",
+    "correct": "kalın",
+    "wrong": "ince",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_140",
+    "word": "thin",
+    "correct": "ince",
+    "wrong": "kalın",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_141",
+    "word": "heavy",
+    "correct": "ağır",
+    "wrong": "hafif",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_142",
+    "word": "light",
+    "correct": "hafif",
+    "wrong": "ağır",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_143",
+    "word": "hot",
+    "correct": "sıcak",
+    "wrong": "soğuk",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_144",
+    "word": "cold",
+    "correct": "soğuk",
+    "wrong": "sıcak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_145",
+    "word": "warm",
+    "correct": "ılık",
+    "wrong": "soğuk",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_146",
+    "word": "cool",
+    "correct": "serin",
+    "wrong": "sıcak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_147",
+    "word": "dry",
+    "correct": "kuru",
+    "wrong": "ıslak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_148",
+    "word": "wet",
+    "correct": "ıslak",
+    "wrong": "kuru",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_149",
+    "word": "clean",
+    "correct": "temiz",
+    "wrong": "kirli",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_150",
+    "word": "dirty",
+    "correct": "kirli",
+    "wrong": "temiz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_151",
+    "word": "fast",
+    "correct": "hızlı",
+    "wrong": "yavaş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_152",
+    "word": "slow",
+    "correct": "yavaş",
+    "wrong": "hızlı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_153",
+    "word": "strong",
+    "correct": "güçlü",
+    "wrong": "zayıf",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_154",
+    "word": "weak",
+    "correct": "zayıf",
+    "wrong": "güçlü",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_155",
+    "word": "good",
+    "correct": "iyi",
+    "wrong": "kötü",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_156",
+    "word": "bad",
+    "correct": "kötü",
+    "wrong": "iyi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_157",
+    "word": "beautiful",
+    "correct": "güzel",
+    "wrong": "çirkin",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_158",
+    "word": "ugly",
+    "correct": "çirkin",
+    "wrong": "güzel",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_159",
+    "word": "happy",
+    "correct": "mutlu",
+    "wrong": "üzgün",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_160",
+    "word": "sad",
+    "correct": "üzgün",
+    "wrong": "mutlu",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_161",
+    "word": "angry",
+    "correct": "kızgın",
+    "wrong": "sakin",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_162",
+    "word": "calm",
+    "correct": "sakin",
+    "wrong": "kızgın",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_163",
+    "word": "tired",
+    "correct": "yorgun",
+    "wrong": "dinç",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_164",
+    "word": "excited",
+    "correct": "heyecanlı",
+    "wrong": "sıkılan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_165",
+    "word": "scared",
+    "correct": "korkmuş",
+    "wrong": "cesur",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_166",
+    "word": "brave",
+    "correct": "cesur",
+    "wrong": "korkmuş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_167",
+    "word": "man",
+    "correct": "adam",
+    "wrong": "kadın",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_168",
+    "word": "woman",
+    "correct": "kadın",
+    "wrong": "adam",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_169",
+    "word": "boy",
+    "correct": "oğlan",
+    "wrong": "kız",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_170",
+    "word": "girl",
+    "correct": "kız",
+    "wrong": "oğlan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_171",
+    "word": "child",
+    "correct": "çocuk",
+    "wrong": "yetişkin",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_172",
+    "word": "baby",
+    "correct": "bebek",
+    "wrong": "çocuk",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_173",
+    "word": "mother",
+    "correct": "anne",
+    "wrong": "baba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_174",
+    "word": "father",
+    "correct": "baba",
+    "wrong": "anne",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_175",
+    "word": "sister",
+    "correct": "kız kardeş",
+    "wrong": "erkek kardeş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_176",
+    "word": "brother",
+    "correct": "erkek kardeş",
+    "wrong": "kız kardeş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_177",
+    "word": "grandmother",
+    "correct": "büyükanne",
+    "wrong": "büyükbaba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_178",
+    "word": "grandfather",
+    "correct": "büyükbaba",
+    "wrong": "büyükanne",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_179",
+    "word": "friend",
+    "correct": "arkadaş",
+    "wrong": "düşman",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_180",
+    "word": "teacher",
+    "correct": "öğretmen",
+    "wrong": "öğrenci",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_181",
+    "word": "doctor",
+    "correct": "doktor",
+    "wrong": "hasta",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_182",
+    "word": "police",
+    "correct": "polis",
+    "wrong": "suçlu",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_183",
+    "word": "soldier",
+    "correct": "asker",
+    "wrong": "sivil",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_184",
+    "word": "Monday",
+    "correct": "pazartesi",
+    "wrong": "salı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_185",
+    "word": "Tuesday",
+    "correct": "salı",
+    "wrong": "çarşamba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_186",
+    "word": "Wednesday",
+    "correct": "çarşamba",
+    "wrong": "perşembe",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_187",
+    "word": "Thursday",
+    "correct": "perşembe",
+    "wrong": "cuma",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_188",
+    "word": "Friday",
+    "correct": "cuma",
+    "wrong": "cumartesi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_189",
+    "word": "Saturday",
+    "correct": "cumartesi",
+    "wrong": "pazar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_190",
+    "word": "Sunday",
+    "correct": "pazar",
+    "wrong": "pazartesi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_191",
+    "word": "January",
+    "correct": "ocak",
+    "wrong": "şubat",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_192",
+    "word": "February",
+    "correct": "şubat",
+    "wrong": "mart",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_193",
+    "word": "March",
+    "correct": "mart",
+    "wrong": "nisan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_194",
+    "word": "April",
+    "correct": "nisan",
+    "wrong": "mayıs",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_195",
+    "word": "May",
+    "correct": "mayıs",
+    "wrong": "haziran",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_196",
+    "word": "June",
+    "correct": "haziran",
+    "wrong": "temmuz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_197",
+    "word": "July",
+    "correct": "temmuz",
+    "wrong": "ağustos",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_198",
+    "word": "August",
+    "correct": "ağustos",
+    "wrong": "eylül",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_199",
+    "word": "September",
+    "correct": "eylül",
+    "wrong": "ekim",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_200",
+    "word": "October",
+    "correct": "ekim",
+    "wrong": "kasım",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_201",
+    "word": "November",
+    "correct": "kasım",
+    "wrong": "aralık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_202",
+    "word": "December",
+    "correct": "aralık",
+    "wrong": "ocak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_203",
+    "word": "morning",
+    "correct": "sabah",
+    "wrong": "akşam",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_204",
+    "word": "afternoon",
+    "correct": "öğleden sonra",
+    "wrong": "sabah",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_205",
+    "word": "evening",
+    "correct": "akşam",
+    "wrong": "sabah",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_206",
+    "word": "night",
+    "correct": "gece",
+    "wrong": "gündüz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_207",
+    "word": "today",
+    "correct": "bugün",
+    "wrong": "yarın",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_208",
+    "word": "tomorrow",
+    "correct": "yarın",
+    "wrong": "dün",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_209",
+    "word": "yesterday",
+    "correct": "dün",
+    "wrong": "bugün",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_210",
+    "word": "one",
+    "correct": "bir",
+    "wrong": "iki",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_211",
+    "word": "two",
+    "correct": "iki",
+    "wrong": "üç",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_212",
+    "word": "three",
+    "correct": "üç",
+    "wrong": "dört",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_213",
+    "word": "four",
+    "correct": "dört",
+    "wrong": "beş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_214",
+    "word": "five",
+    "correct": "beş",
+    "wrong": "altı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_215",
+    "word": "six",
+    "correct": "altı",
+    "wrong": "yedi",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_216",
+    "word": "seven",
+    "correct": "yedi",
+    "wrong": "sekiz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_217",
+    "word": "eight",
+    "correct": "sekiz",
+    "wrong": "dokuz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_218",
+    "word": "nine",
+    "correct": "dokuz",
+    "wrong": "on",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_219",
+    "word": "ten",
+    "correct": "on",
+    "wrong": "onbir",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_220",
+    "word": "head",
+    "correct": "baş",
+    "wrong": "kol",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_221",
+    "word": "hand",
+    "correct": "el",
+    "wrong": "ayak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_222",
+    "word": "foot",
+    "correct": "ayak",
+    "wrong": "el",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_223",
+    "word": "eye",
+    "correct": "göz",
+    "wrong": "kulak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_224",
+    "word": "ear",
+    "correct": "kulak",
+    "wrong": "göz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_225",
+    "word": "nose",
+    "correct": "burun",
+    "wrong": "ağız",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_226",
+    "word": "mouth",
+    "correct": "ağız",
+    "wrong": "burun",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_227",
+    "word": "tooth",
+    "correct": "diş",
+    "wrong": "dil",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_228",
+    "word": "leg",
+    "correct": "bacak",
+    "wrong": "kol",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_229",
+    "word": "arm",
+    "correct": "kol",
+    "wrong": "bacak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_230",
+    "word": "heart",
+    "correct": "kalp",
+    "wrong": "akciğer",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_231",
+    "word": "rain",
+    "correct": "yağmur",
+    "wrong": "kar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_232",
+    "word": "snow",
+    "correct": "kar",
+    "wrong": "yağmur",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_233",
+    "word": "sun",
+    "correct": "güneş",
+    "wrong": "ay",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_234",
+    "word": "moon",
+    "correct": "ay",
+    "wrong": "güneş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_235",
+    "word": "star",
+    "correct": "yıldız",
+    "wrong": "ay",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_236",
+    "word": "cloud",
+    "correct": "bulut",
+    "wrong": "güneş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_237",
+    "word": "sky",
+    "correct": "gökyüzü",
+    "wrong": "bulut",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_238",
+    "word": "wind",
+    "correct": "rüzgar",
+    "wrong": "hava",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_239",
+    "word": "fire",
+    "correct": "ateş",
+    "wrong": "su",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_240",
+    "word": "ice",
+    "correct": "buz",
+    "wrong": "su",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_241",
+    "word": "tree",
+    "correct": "ağaç",
+    "wrong": "çiçek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_242",
+    "word": "flower",
+    "correct": "çiçek",
+    "wrong": "ağaç",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_243",
+    "word": "grass",
+    "correct": "çimen",
+    "wrong": "ağaç",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_244",
+    "word": "rock",
+    "correct": "taş",
+    "wrong": "bitki",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_245",
+    "word": "gold",
+    "correct": "altın",
+    "wrong": "gümüş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_246",
+    "word": "silver",
+    "correct": "gümüş",
+    "wrong": "altın",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_247",
+    "word": "money",
+    "correct": "para",
+    "wrong": "çek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_248",
+    "word": "clock",
+    "correct": "saat",
+    "wrong": "saç",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_249",
+    "word": "watch",
+    "correct": "saat",
+    "wrong": "ayakkabı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_250",
+    "word": "shoe",
+    "correct": "ayakkabı",
+    "wrong": "çorap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_251",
+    "word": "sock",
+    "correct": "çorap",
+    "wrong": "ayakkabı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_252",
+    "word": "shirt",
+    "correct": "gömlek",
+    "wrong": "pantolon",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_253",
+    "word": "pants",
+    "correct": "pantolon",
+    "wrong": "gömlek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_254",
+    "word": "dress",
+    "correct": "elbise",
+    "wrong": "takım",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_255",
+    "word": "coat",
+    "correct": "ceket",
+    "wrong": "elbise",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_256",
+    "word": "hat",
+    "correct": "şapka",
+    "wrong": "eşarp",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_257",
+    "word": "gloves",
+    "correct": "eldiven",
+    "wrong": "şapka",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_258",
+    "word": "scarf",
+    "correct": "eşarp",
+    "wrong": "eldiven",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_259",
+    "word": "orange",
+    "correct": "portakal",
+    "wrong": "limon",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_260",
+    "word": "grape",
+    "correct": "üzüm",
+    "wrong": "çilek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_261",
+    "word": "strawberry",
+    "correct": "çilek",
+    "wrong": "üzüm",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_262",
+    "word": "banana",
+    "correct": "muz",
+    "wrong": "elma",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_263",
+    "word": "watermelon",
+    "correct": "karpuz",
+    "wrong": "kavun",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_264",
+    "word": "melon",
+    "correct": "kavun",
+    "wrong": "karpuz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_265",
+    "word": "peach",
+    "correct": "şeftali",
+    "wrong": "kayısı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_266",
+    "word": "pear",
+    "correct": "armut",
+    "wrong": "ayva",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_267",
+    "word": "lemon",
+    "correct": "limon",
+    "wrong": "portakal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_268",
+    "word": "coconut",
+    "correct": "hindistan cevizi",
+    "wrong": "fındık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_269",
+    "word": "pineapple",
+    "correct": "ananas",
+    "wrong": "muz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_270",
+    "word": "mango",
+    "correct": "mango",
+    "wrong": "ananas",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_271",
+    "word": "blueberry",
+    "correct": "mavi çilek",
+    "wrong": "çilek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_272",
+    "word": "blackberry",
+    "correct": "dut",
+    "wrong": "ahududu",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_273",
+    "word": "cherry",
+    "correct": "kiraz",
+    "wrong": "çilek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_274",
+    "word": "plum",
+    "correct": "erik",
+    "wrong": "kayısı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_275",
+    "word": "apricot",
+    "correct": "kayısı",
+    "wrong": "şeftali",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_276",
+    "word": "date",
+    "correct": "hurma",
+    "wrong": "incir",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_277",
+    "word": "fig",
+    "correct": "incir",
+    "wrong": "hurma",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_278",
+    "word": "almond",
+    "correct": "badem",
+    "wrong": "fındık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_279",
+    "word": "walnut",
+    "correct": "ceviz",
+    "wrong": "badem",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_280",
+    "word": "peanut",
+    "correct": "yer fıstığı",
+    "wrong": "fındık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_281",
+    "word": "chestnut",
+    "correct": "kestane",
+    "wrong": "ceviz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_282",
+    "word": "tiger",
+    "correct": "kaplan",
+    "wrong": "leopar",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_283",
+    "word": "leopard",
+    "correct": "leopar",
+    "wrong": "aslan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_284",
+    "word": "giraffe",
+    "correct": "zürafa",
+    "wrong": "deve",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_285",
+    "word": "zebra",
+    "correct": "zebra",
+    "wrong": "at",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_286",
+    "word": "deer",
+    "correct": "geyik",
+    "wrong": "antilop",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_287",
+    "word": "ape",
+    "correct": "maymun türü",
+    "wrong": "maymun",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_288",
+    "word": "gorilla",
+    "correct": "goril",
+    "wrong": "şimpanze",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_289",
+    "word": "wolf",
+    "correct": "kurt",
+    "wrong": "aslan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_290",
+    "word": "fox",
+    "correct": "tilki",
+    "wrong": "kurt",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_291",
+    "word": "snake",
+    "correct": "yılan",
+    "wrong": "kertenkele",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_292",
+    "word": "lizard",
+    "correct": "kertenkele",
+    "wrong": "yılan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_293",
+    "word": "crocodile",
+    "correct": "timsah",
+    "wrong": "yılan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_294",
+    "word": "turtle",
+    "correct": "kaplumbağa",
+    "wrong": "yılan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_295",
+    "word": "frog",
+    "correct": "kurbağa",
+    "wrong": "kertenkele",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_296",
+    "word": "eagle",
+    "correct": "kartal",
+    "wrong": "şahin",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_297",
+    "word": "hawk",
+    "correct": "şahin",
+    "wrong": "kartal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_298",
+    "word": "owl",
+    "correct": "baykuş",
+    "wrong": "kartal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_299",
+    "word": "penguin",
+    "correct": "penguen",
+    "wrong": "kartal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_300",
+    "word": "parrot",
+    "correct": "papağan",
+    "wrong": "kuş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_301",
+    "word": "swan",
+    "correct": "kuğu",
+    "wrong": "ördek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_302",
+    "word": "goose",
+    "correct": "kaz",
+    "wrong": "ördek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_303",
+    "word": "sparrow",
+    "correct": "serçe",
+    "wrong": "güvercin",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_304",
+    "word": "pigeon",
+    "correct": "güvercin",
+    "wrong": "serçe",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_305",
+    "word": "crow",
+    "correct": "karga",
+    "wrong": "güvercin",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_306",
+    "word": "butterfly",
+    "correct": "kelebek",
+    "wrong": "arı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_307",
+    "word": "bee",
+    "correct": "arı",
+    "wrong": "eşek arısı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_308",
+    "word": "wasp",
+    "correct": "eşek arısı",
+    "wrong": "arı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_309",
+    "word": "mosquito",
+    "correct": "sivrisinek",
+    "wrong": "sinek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_310",
+    "word": "fly",
+    "correct": "sinek",
+    "wrong": "sivrisinek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_311",
+    "word": "ant",
+    "correct": "karınca",
+    "wrong": "sinek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_312",
+    "word": "spider",
+    "correct": "örümcek",
+    "wrong": "karınca",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_313",
+    "word": "worm",
+    "correct": "solucan",
+    "wrong": "böcek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_314",
+    "word": "snail",
+    "correct": "salyangoz",
+    "wrong": "solucan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_315",
+    "word": "octopus",
+    "correct": "ahtapot",
+    "wrong": "mürekkep balığı",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_316",
+    "word": "squid",
+    "correct": "mürekkep balığı",
+    "wrong": "ahtapot",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_317",
+    "word": "starfish",
+    "correct": "deniz yıldızı",
+    "wrong": "ahtapot",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_318",
+    "word": "seashell",
+    "correct": "deniz kabuğu",
+    "wrong": "taş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_319",
+    "word": "pearl",
+    "correct": "inci",
+    "wrong": "taş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_320",
+    "word": "coral",
+    "correct": "mercan",
+    "wrong": "taş",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_321",
+    "word": "garden",
+    "correct": "bahçe",
+    "wrong": "park",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_322",
+    "word": "yard",
+    "correct": "avlu",
+    "wrong": "bahçe",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_323",
+    "word": "porch",
+    "correct": "veranda",
+    "wrong": "balkon",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_324",
+    "word": "balcony",
+    "correct": "balkon",
+    "wrong": "veranda",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_325",
+    "word": "basement",
+    "correct": "bodrum",
+    "wrong": "tavan arası",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_326",
+    "word": "attic",
+    "correct": "çatı arası",
+    "wrong": "bodrum",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_327",
+    "word": "garage",
+    "correct": "garaj",
+    "wrong": "araba yolu",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_328",
+    "word": "basement",
+    "correct": "bodrum",
+    "wrong": "tavan arası",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_329",
+    "word": "fork",
+    "correct": "çatal",
+    "wrong": "kaşık",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_330",
+    "word": "spoon",
+    "correct": "kaşık",
+    "wrong": "çatal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_331",
+    "word": "knife",
+    "correct": "bıçak",
+    "wrong": "çatal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_332",
+    "word": "cup",
+    "correct": "fincan",
+    "wrong": "bardak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_333",
+    "word": "mug",
+    "correct": "kupa",
+    "wrong": "fincan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_334",
+    "word": "glass",
+    "correct": "bardak",
+    "wrong": "fincan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_335",
+    "word": "bottle",
+    "correct": "şişe",
+    "wrong": "bardak",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_336",
+    "word": "jar",
+    "correct": "kavanoz",
+    "wrong": "şişe",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_337",
+    "word": "can",
+    "correct": "konserve",
+    "wrong": "kavanoz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_338",
+    "word": "pot",
+    "correct": "tencere",
+    "wrong": "tava",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_339",
+    "word": "pan",
+    "correct": "tava",
+    "wrong": "tencere",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_340",
+    "word": "kettle",
+    "correct": "çaydanlık",
+    "wrong": "tencere",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_341",
+    "word": "butter",
+    "correct": "tereyağı",
+    "wrong": "peynir",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_342",
+    "word": "honey",
+    "correct": "bal",
+    "wrong": "reçel",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_343",
+    "word": "jam",
+    "correct": "reçel",
+    "wrong": "bal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_344",
+    "word": "chocolate",
+    "correct": "çikolata",
+    "wrong": "şeker",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_345",
+    "word": "candy",
+    "correct": "şeker",
+    "wrong": "çikolata",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_346",
+    "word": "cake",
+    "correct": "kek",
+    "wrong": "ekmek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_347",
+    "word": "cookie",
+    "correct": "bisküvi",
+    "wrong": "kek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_348",
+    "word": "pie",
+    "correct": "pasta",
+    "wrong": "kek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_349",
+    "word": "pizza",
+    "correct": "pizza",
+    "wrong": "burger",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_350",
+    "word": "burger",
+    "correct": "burger",
+    "wrong": "sandwich",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_351",
+    "word": "sandwich",
+    "correct": "sandviç",
+    "wrong": "burger",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_352",
+    "word": "soup",
+    "correct": "çorba",
+    "wrong": "salata",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_353",
+    "word": "salad",
+    "correct": "salata",
+    "wrong": "çorba",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_354",
+    "word": "oil",
+    "correct": "yağ",
+    "wrong": "tuz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_355",
+    "word": "vinegar",
+    "correct": "sirke",
+    "wrong": "yağ",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_356",
+    "word": "sauce",
+    "correct": "sos",
+    "wrong": "sirke",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_357",
+    "word": "mustard",
+    "correct": "hardal",
+    "wrong": "ketçap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_358",
+    "word": "ketchup",
+    "correct": "ketçap",
+    "wrong": "hardal",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_359",
+    "word": "mayonnaise",
+    "correct": "mayonez",
+    "wrong": "ketçap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_360",
+    "word": "garlic",
+    "correct": "sarımsak",
+    "wrong": "soğan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_361",
+    "word": "pepper",
+    "correct": "biber",
+    "wrong": "soğan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_362",
+    "word": "spinach",
+    "correct": "ispanak",
+    "wrong": "marul",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_363",
+    "word": "goat",
+    "correct": "keçi",
+    "wrong": "koyun",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_364",
+    "word": "duck",
+    "correct": "ördek",
+    "wrong": "tavuk",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_365",
+    "word": "turkey",
+    "correct": "hindi",
+    "wrong": "tavuk",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_366",
+    "word": "squirrel",
+    "correct": "sincap",
+    "wrong": "tavşan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_367",
+    "word": "cheetah",
+    "correct": "çita",
+    "wrong": "aslan",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_368",
+    "word": "raccoon",
+    "correct": "rakun",
+    "wrong": "tilki",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_369",
+    "word": "porcupine",
+    "correct": "kirpi",
+    "wrong": "tilki",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_370",
+    "word": "hedgehog",
+    "correct": "kirpi",
+    "wrong": "sincap",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_371",
+    "word": "toad",
+    "correct": "batağan",
+    "wrong": "kurbağa",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_372",
+    "word": "raven",
+    "correct": "kuzgun",
+    "wrong": "karga",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_373",
+    "word": "grasshopper",
+    "correct": "çekirge",
+    "wrong": "böcek",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_374",
+    "word": "cricket",
+    "correct": "cırcır böceği",
+    "wrong": "çekirge",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_375",
+    "word": "slug",
+    "correct": "çıplak salyangoz",
+    "wrong": "salyangoz",
+    "category": "A1 Seviye Kelimeler"
+  },
+  {
+    "id": "a1_376",
+    "word": "jellyfish",
+    "correct": "denizanası",
+    "wrong": "ahtapot",
+    "category": "A1 Seviye Kelimeler"
+  }
+]
