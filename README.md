@@ -1,16 +1,33 @@
-# swipe_english
+# Wordena - English Vocabulary Quiz Application
 
-A new Flutter project.
+Wordena, kullanıcıların İngilizce kelime bilgisini oyunlaştırma prensipleriyle geliştirmeyi hedefleyen, yüksek performanslı bir mobil uygulamadır.
 
-## Getting Started
+## Mevcut Özellikler
+* **Google Play Store:** Yayında
+* **App Store:** Hazırlık aşamasında (Çok yakında yayına alınacaktır)
 
-This project is a starting point for a Flutter application.
+## Teknik Mimari ve Yetkinlikler
+Proje, ölçeklenebilir ve sürdürülebilir bir yapı oluşturmak amacıyla modern yazılım mimarileri üzerine inşa edilmiştir.
 
-A few resources to get you started if this is your first Flutter project:
+* **Framework:** Flutter & Dart
+* **Architecture:** MVVM (Model-View-ViewModel)
+* **Local Data Management:** Hive
+* **External Integrations:** REST API & JSON Data Parsing
+* **State Management:** Provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Entegrasyonlar ve Gelir Modelleri
+Uygulama, sadece bir yazılım projesi olarak değil, bir dijital ürün olarak tasarlanmıştır:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Monetization (AdMob):** Ödüllü ve geçiş reklamları (Rewarded/Interstitial Ads) entegre edilerek gelir modeli kurgulanmıştır.
+* **Payment Systems (Google Pay):** Google Play Billing Library kullanılarak Uygulama İçi Satın Alma (In-App Purchase) altyapısı kurulmuştur.
+* **Store Management:** Google Play Console üzerinden sürüm yönetimi, ASO (App Store Optimization) ve yayın süreçleri bizzat yürütülmüştür.
+
+## Yol Haritası
+- [x] Google Play Store yayını ve optimizasyonları.
+- [x] AdMob reklam yerleşimlerinin tamamlanması.
+- [x] Google Pay ödeme entegrasyonu.
+- [ ] iOS (App Store) versiyonunun yayınlanması.
+- [ ] Yapay zeka destekli kişiselleştirilmiş kelime çalışma algoritması.
+
+## Uygulama Bağlantıları
+[Google Play Store üzerinden incelemek için tıklayınız] : (https://play.google.com/store/apps/details?id=com.furkan.wordena&pcampaignid=web_share)
